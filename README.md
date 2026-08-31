@@ -3,8 +3,8 @@
 Bộ đề trắc nghiệm **song ngữ Anh–Việt, 300 câu** kèm web app tĩnh để ôn trên điện thoại.
 Chuẩn bị cho bài test năng lực vị trí *Accounting Associate | Global Career Path* — **Acclime Global Services**.
 
-> 🔗 **Link ôn tập:** `https://<github-username>.github.io/<tên-repo>/`
-> *(thay bằng link thật sau khi bật GitHub Pages — xem mục “Deploy” bên dưới)*
+> 🔗 **Link ôn tập:** <https://ngoquan0904.github.io/on-thi-ke-toan/>
+> Mở được trên điện thoại, thêm vào màn hình chính để dùng như một app. Tiến độ lưu ngay trên máy.
 
 ---
 
@@ -87,15 +87,25 @@ Trạng thái hiện tại: **300 câu · 0 lỗi · 0 cảnh báo.**
 
 ## Deploy lên GitHub Pages
 
+Repo đã được tạo và bật Pages sẵn. Từ nay mỗi lần cập nhật nội dung chỉ cần:
+
 ```bash
-git init && git add -A && git commit -m "feat: bộ ôn tập 300 câu song ngữ"
-git branch -M main
-git remote add origin https://github.com/<github-username>/<tên-repo>.git
-git push -u origin main
+node tools/validate.mjs          # phải sạch trước khi push
+git add -A && git commit -m "content: ..."
+git push
 ```
 
-Sau đó trên GitHub: **Settings → Pages → Source: Deploy from a branch → Branch: `main` / `(root)` → Save.**
-Sau 1–2 phút link `https://<github-username>.github.io/<tên-repo>/` sẽ hoạt động.
+GitHub Pages tự build lại sau 1–2 phút. Repo: <https://github.com/ngoquan0904/on-thi-ke-toan>
+
+<details>
+<summary>Nếu cần dựng lại từ đầu ở một repo khác</summary>
+
+```bash
+gh repo create <tên-repo> --public --source=. --remote=origin --push
+gh api -X POST repos/<username>/<tên-repo>/pages -f 'source[branch]=main' -f 'source[path]=/'
+```
+Hoặc làm bằng giao diện: **Settings → Pages → Source: Deploy from a branch → Branch `main` / `(root)` → Save.**
+</details>
 
 Lưu ý:
 - File `.nojekyll` ở thư mục gốc là **bắt buộc** — không có nó GitHub Pages bỏ qua các file/thư mục bắt đầu bằng `_`.
