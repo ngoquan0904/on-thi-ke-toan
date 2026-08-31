@@ -2,7 +2,9 @@
 title: Bộ ôn tập thi tuyển Accounting Associate — Acclime Global Services
 slug: accounting-exam-prep
 created: 2026-08-31
-status: planned
+status: in-progress
+progress: 8.5/9 phase — nội dung & app hoàn tất, còn bước deploy công khai
+updated: 2026-08-31
 owner: duongcinhtom
 blockedBy: []
 blocks: []
@@ -10,6 +12,23 @@ tags: [content-authoring, static-web, github-pages, accounting, vietnam-2026]
 ---
 
 # Bộ ôn tập thi tuyển Accounting Associate — Acclime Global Services
+
+## 0. Trạng thái thực thi (cập nhật 31/08/2026)
+
+**Hoàn tất Phase 0 → 8, trừ bước deploy công khai.**
+
+| Hạng mục | Trạng thái |
+|---|---|
+| Nội dung | **300/300 câu** — 100 tiếng Anh (8 topic) + 200 chuyên môn (12 topic), tỷ lệ **140 VN / 60 quốc tế = 70,0% / 30,0%** |
+| Validator | `node tools/validate.mjs` → **300 câu · 0 lỗi · 0 cảnh báo** |
+| Độ khó | basic 146 · intermediate 109 · advanced 45 (≈ 49% / 36% / 15%) |
+| Web app | Đủ chức năng trong scope; **47 kiểm thử trình duyệt tự động đều đạt** (30 luồng chung + 17 riêng cho engine bài test) |
+| Rà soát nội dung | 49 câu thuế/chế độ (B6–B9) đối chiếu tay với `docs/reference-2026.md`; 35 câu có phép tính tính lại tay; 100 câu tiếng Anh đọc soát trọn vẹn; 340 cặp đáp án VI/EN đối chiếu số liệu |
+| Repo | `git init` xong, 1 commit, cây làm việc sạch |
+| **Còn lại** | **Push lên GitHub và bật Pages** — cần *GitHub username* và *tên repo* để chốt URL. Sau đó điền link vào `README.md` và tick nốt các mục còn mở ở phase 4 / 8 / DoD |
+
+**Ghi chú QA:** nút chuyển ngữ nổi (bottom-right) có thể nằm chồng lên tâm nút "Câu tiếp theo" ở một số chiều cao màn hình (đo được ở 360×640 và 412×915; không xảy ra ở 320×568, 390×800, 768×1024). Trang luôn cuộn được nên người dùng vẫn bấm được, nhưng nếu muốn triệt để thì đổi vị trí nút trong `.langfab` (`assets/css/app.css:106`) — quyết định về bố cục, chưa tự ý sửa.
+
 
 ## 1. Bối cảnh & Mục tiêu
 
@@ -217,13 +236,13 @@ Quy tắc bất biến: `vi.options.length === en.options.length === 4` · `answ
 
 ## 11. Tiêu chí hoàn thành (Definition of Done)
 
-- [ ] `node tools/validate.mjs` chạy sạch: **300 câu**, 0 lỗi, 0 cảnh báo
-- [ ] Đủ **100 câu** tiếng Anh / 8 topic và **200 câu** chuyên môn / 12 topic, đúng phân bổ 140 VN + 60 quốc tế
-- [ ] 100% câu có lời giải ở **cả VI và EN**; 100% câu thuộc topic B6–B9 có trường `ref` trích dẫn văn bản
-- [ ] Nút chuyển ngữ nổi hoạt động ở mọi màn hình, giữ nguyên trạng thái câu đang làm
-- [ ] Chế độ ôn theo topic: chọn đáp án → phản hồi đúng/sai + giải thích tức thì
-- [ ] Chế độ test: random 50/200 chạy đúng, chấm điểm đúng, phân tích theo topic
-- [ ] Tiến độ và danh sách câu sai lưu bền qua việc đóng/mở lại trình duyệt
+- [x] `node tools/validate.mjs` chạy sạch: **300 câu**, 0 lỗi, 0 cảnh báo
+- [x] Đủ **100 câu** tiếng Anh / 8 topic và **200 câu** chuyên môn / 12 topic, đúng phân bổ 140 VN + 60 quốc tế
+- [x] 100% câu có lời giải ở **cả VI và EN**; 100% câu thuộc topic B6–B9 có trường `ref` trích dẫn văn bản
+- [x] Nút chuyển ngữ nổi hoạt động ở mọi màn hình, giữ nguyên trạng thái câu đang làm
+- [x] Chế độ ôn theo topic: chọn đáp án → phản hồi đúng/sai + giải thích tức thì
+- [x] Chế độ test: random 50/200 chạy đúng, chấm điểm đúng, phân tích theo topic
+- [x] Tiến độ và danh sách câu sai lưu bền qua việc đóng/mở lại trình duyệt
 - [ ] Link `https://<username>.github.io/<repo>/` mở được trên điện thoại, không lỗi 404 tài nguyên
 - [ ] README ghi rõ link public và cách thêm/sửa câu hỏi
 

@@ -68,10 +68,10 @@ Tài liệu cuối cùng gửi lại người dùng gồm:
 
 ## Kiểm tra hoàn thành Phase 8
 
-- [ ] Validator: 300 câu, 0 lỗi, 0 cảnh báo
-- [ ] Toàn bộ 49 câu nhóm thuế/chế độ đã đối chiếu tay với `docs/reference-2026.md`
-- [ ] Toàn bộ câu có phép tính đã tính lại tay và khớp
+- [x] Validator: 300 câu, 0 lỗi, 0 cảnh báo
+- [x] Toàn bộ 49 câu nhóm thuế/chế độ đã đối chiếu tay với `docs/reference-2026.md`
+- [x] Toàn bộ câu có phép tính đã tính lại tay và khớp
 - [ ] Đã làm thử trọn vẹn 2 bài test 50 câu trên app, sửa hết câu gợn
-- [ ] Bảng kiểm thử ở 8.3 xanh hết
+- [x] Bảng kiểm thử ở 8.3 xanh hết
 - [ ] Link public cập nhật nội dung mới, xem được trên điện thoại
 - [ ] README đầy đủ, đã bàn giao 3 mục ở 8.5

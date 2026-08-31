@@ -8,12 +8,12 @@
 
 ## 4.1 Chuẩn bị trước khi push
 
-- [ ] **Kiểm tra không có đường dẫn tuyệt đối.** Tìm trong toàn bộ mã nguồn: `src="/`, `href="/`, `fetch('/`, `url(/`. Tất cả phải là `./` hoặc đường dẫn tương đối trần.
-- [ ] `.nojekyll` tồn tại ở thư mục gốc (ngăn GitHub Pages bỏ qua file/thư mục bắt đầu bằng `_`).
-- [ ] `index.html` có `<meta name="viewport" content="width=device-width, initial-scale=1">`.
-- [ ] Thêm `<meta name="theme-color">` và một favicon dạng emoji SVG inline (tab dễ nhận ra khi ghim trên điện thoại).
-- [ ] Thêm `<link rel="manifest">` tối giản + `apple-mobile-web-app-capable` để **thêm được vào màn hình chính điện thoại** như một app.
-- [ ] `README.md` với: mục đích, link public, cấu trúc thư mục, hướng dẫn thêm câu hỏi, cách chạy validator.
+- [x] **Kiểm tra không có đường dẫn tuyệt đối.** Tìm trong toàn bộ mã nguồn: `src="/`, `href="/`, `fetch('/`, `url(/`. Tất cả phải là `./` hoặc đường dẫn tương đối trần.
+- [x] `.nojekyll` tồn tại ở thư mục gốc (ngăn GitHub Pages bỏ qua file/thư mục bắt đầu bằng `_`).
+- [x] `index.html` có `<meta name="viewport" content="width=device-width, initial-scale=1">`.
+- [x] Thêm `<meta name="theme-color">` và một favicon dạng emoji SVG inline (tab dễ nhận ra khi ghim trên điện thoại).
+- [x] Thêm `<link rel="manifest">` tối giản + `apple-mobile-web-app-capable` để **thêm được vào màn hình chính điện thoại** như một app.
+- [x] `README.md` với: mục đích, link public, cấu trúc thư mục, hướng dẫn thêm câu hỏi, cách chạy validator.
 
 ## 4.2 Tạo repo và push
 

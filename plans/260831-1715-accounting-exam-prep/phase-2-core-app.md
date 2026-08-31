@@ -95,8 +95,8 @@ Luồng một câu:
 
 ## Kiểm tra hoàn thành Phase 2
 
-- [ ] Mở `index.html` qua server tĩnh local (`npx serve` hoặc `python -m http.server`) chạy được toàn bộ luồng ôn
-- [ ] Nút chuyển ngữ hiện ở mọi màn hình, luôn thấy khi scroll, đổi ngôn ngữ **không mất** đáp án đã chọn và lời giải đang mở
-- [ ] Chọn đáp án → phản hồi đúng/sai + lời giải + lý do đáp án sai + `ref` hiện đầy đủ
-- [ ] Đóng tab, mở lại → tiến độ và ngôn ngữ vẫn còn
-- [ ] Kiểm tra trên chiều rộng 360px không bị tràn ngang
+- [x] Mở `index.html` qua server tĩnh local (`npx serve` hoặc `python -m http.server`) chạy được toàn bộ luồng ôn
+- [x] Nút chuyển ngữ hiện ở mọi màn hình, luôn thấy khi scroll, đổi ngôn ngữ **không mất** đáp án đã chọn và lời giải đang mở
+- [x] Chọn đáp án → phản hồi đúng/sai + lời giải + lý do đáp án sai + `ref` hiện đầy đủ
+- [x] Đóng tab, mở lại → tiến độ và ngôn ngữ vẫn còn
+- [x] Kiểm tra trên chiều rộng 360px không bị tràn ngang

@@ -59,10 +59,10 @@ Màn hình kết quả gồm:
 
 ## Kiểm tra hoàn thành Phase 3
 
-- [ ] Test chuyên môn tạo đúng **50 câu**, phân bổ theo tỷ lệ topic, không trùng câu
-- [ ] Trong lúc làm không lộ đáp án; quay lại sửa được; lưới điều hướng đúng trạng thái
-- [ ] Đồng hồ đếm ngược đúng, hết giờ tự nộp
-- [ ] Chấm điểm chính xác (đối chiếu thủ công 5 câu)
-- [ ] Đổi ngôn ngữ giữa bài không mất đáp án đã chọn, không reset đồng hồ
-- [ ] Tải lại trang giữa chừng → khôi phục được bài đang làm
-- [ ] Câu sai chảy đúng vào danh sách "ôn lại câu sai" và tự gỡ khi làm đúng
+- [x] Test chuyên môn tạo đúng **50 câu**, phân bổ theo tỷ lệ topic, không trùng câu
+- [x] Trong lúc làm không lộ đáp án; quay lại sửa được; lưới điều hướng đúng trạng thái
+- [x] Đồng hồ đếm ngược đúng, hết giờ tự nộp
+- [x] Chấm điểm chính xác (đối chiếu thủ công 5 câu)
+- [x] Đổi ngôn ngữ giữa bài không mất đáp án đã chọn, không reset đồng hồ
+- [x] Tải lại trang giữa chừng → khôi phục được bài đang làm
+- [x] Câu sai chảy đúng vào danh sách "ôn lại câu sai" và tự gỡ khi làm đúng

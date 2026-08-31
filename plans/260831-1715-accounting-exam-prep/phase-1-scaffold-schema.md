@@ -117,7 +117,7 @@ Viết **10 câu mẫu song ngữ hoàn chỉnh** (5 cho mỗi bank) ngay ở ph
 
 ## Kiểm tra hoàn thành Phase 1
 
-- [ ] `git init` xong, `.nojekyll` và `.gitignore` tồn tại
-- [ ] `data/manifest.json` khai đủ 2 bank / 20 topic với `count` mục tiêu
-- [ ] `node tools/validate.mjs` chạy được và báo đúng trạng thái (thiếu file = báo lỗi rõ ràng, không crash)
-- [ ] 10 câu seed song ngữ đã qua validator không lỗi
+- [x] `git init` xong, `.nojekyll` và `.gitignore` tồn tại
+- [x] `data/manifest.json` khai đủ 2 bank / 20 topic với `count` mục tiêu
+- [x] `node tools/validate.mjs` chạy được và báo đúng trạng thái (thiếu file = báo lỗi rõ ràng, không crash)
+- [x] 10 câu seed song ngữ đã qua validator không lỗi

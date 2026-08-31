@@ -1,0 +1,12 @@
+# hệ điều hành
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# trình soạn thảo
+.vscode/
+.idea/
+*.swp
+
+# không dùng npm cho dự án này, nhưng phòng khi chạy công cụ tạm
+node_modules/

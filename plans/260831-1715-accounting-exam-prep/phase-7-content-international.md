@@ -33,7 +33,7 @@ Ngoài ra ACCA/CPA là điểm cộng trong JD → khả năng đề có câu IF
 
 ## Kiểm tra hoàn thành Phase 7
 
-- [ ] Đủ 3 file, tổng đúng 60 câu, validator 0 lỗi
-- [ ] Tỷ lệ tổng thể bank chuyên môn đạt đúng 140 VN / 60 quốc tế (validator báo 70,0% / 30,0%)
-- [ ] Câu IFRS có nêu điểm khác biệt với VAS ở lời giải khi liên quan
-- [ ] Câu fund administration ở mức Associate, có ít nhất 3 câu tính NAV/phí có số liệu
+- [x] Đủ 3 file, tổng đúng 60 câu, validator 0 lỗi
+- [x] Tỷ lệ tổng thể bank chuyên môn đạt đúng 140 VN / 60 quốc tế (validator báo 70,0% / 30,0%)
+- [x] Câu IFRS có nêu điểm khác biệt với VAS ở lời giải khi liên quan
+- [x] Câu fund administration ở mức Associate, có ít nhất 3 câu tính NAV/phí có số liệu

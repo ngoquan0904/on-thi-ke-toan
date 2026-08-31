@@ -49,8 +49,8 @@ Quy tắc viết, áp dụng cho toàn bộ 300 câu:
 
 ## Kiểm tra hoàn thành Phase 0
 
-- [ ] `docs/reference-2026.md` tồn tại, đủ 9 nhóm ở bảng trên, mỗi mục có nguồn
-- [ ] Không còn mục nào gắn `⚠️ CHƯA XÁC MINH` trong nhóm Thuế GTGT / TNDN / TNCN / Hóa đơn
-- [ ] Đã chốt dứt điểm ngưỡng chứng từ thanh toán không dùng tiền mặt
-- [ ] Đã chốt TT 133/2016 còn hay hết hiệu lực
-- [ ] `docs/content-guidelines.md` tồn tại với đủ 10 quy tắc
+- [x] `docs/reference-2026.md` tồn tại, đủ 9 nhóm ở bảng trên, mỗi mục có nguồn
+- [x] Không còn mục nào gắn `⚠️ CHƯA XÁC MINH` trong nhóm Thuế GTGT / TNDN / TNCN / Hóa đơn
+- [x] Đã chốt dứt điểm ngưỡng chứng từ thanh toán không dùng tiền mặt
+- [x] Đã chốt TT 133/2016 còn hay hết hiệu lực
+- [x] `docs/content-guidelines.md` tồn tại với đủ 10 quy tắc

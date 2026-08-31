@@ -51,8 +51,8 @@ Lý do: định khoản và nguyên lý gần như chắc chắn chiếm phần 
 
 ## Kiểm tra hoàn thành Phase 6
 
-- [ ] Đủ 9 file, tổng đúng 140 câu, validator 0 lỗi
-- [ ] 100% câu ở B6, B7, B8, B9 có `ref` dẫn văn bản cụ thể
-- [ ] Mọi số liệu thuế trong lời giải khớp `docs/reference-2026.md`
-- [ ] Các câu có thay đổi 2025–2026 đều nêu rõ quy định cũ để đối chiếu
-- [ ] Câu tính toán đã tự tính lại tay một lượt và khớp đáp án
+- [x] Đủ 9 file, tổng đúng 140 câu, validator 0 lỗi
+- [x] 100% câu ở B6, B7, B8, B9 có `ref` dẫn văn bản cụ thể
+- [x] Mọi số liệu thuế trong lời giải khớp `docs/reference-2026.md`
+- [x] Các câu có thay đổi 2025–2026 đều nêu rõ quy định cũ để đối chiếu
+- [x] Câu tính toán đã tự tính lại tay một lượt và khớp đáp án

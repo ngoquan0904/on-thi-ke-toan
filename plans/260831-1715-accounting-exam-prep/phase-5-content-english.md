@@ -42,7 +42,7 @@ Làm **từng topic một**, mỗi topic là một lần giao hàng độc lập
 
 ## Kiểm tra hoàn thành Phase 5
 
-- [ ] Đủ 8 file, tổng đúng 100 câu, validator 0 lỗi
-- [ ] Mỗi câu có bản `vi` và `en` đầy đủ, lời giải bản `vi` có từ tương đương tiếng Việt
-- [ ] Không cảnh báo W1 (lộ đáp án qua độ dài) chưa xử lý
-- [ ] Đã đọc soát tay toàn bộ 100 câu ít nhất một lượt
+- [x] Đủ 8 file, tổng đúng 100 câu, validator 0 lỗi
+- [x] Mỗi câu có bản `vi` và `en` đầy đủ, lời giải bản `vi` có từ tương đương tiếng Việt
+- [x] Không cảnh báo W1 (lộ đáp án qua độ dài) chưa xử lý
+- [x] Đã đọc soát tay toàn bộ 100 câu ít nhất một lượt
