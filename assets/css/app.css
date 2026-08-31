@@ -103,14 +103,19 @@ a { color: var(--accent); }
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* ── Nút chuyển ngữ nổi ─────────────────────────────────────────────── */
+/* Nút tròn 44px — vừa đúng chuẩn vùng chạm tối thiểu, chiếm ít diện tích nhất
+   để không đè lên nút "Câu tiếp theo" ở các màn hình thấp. */
 .langfab {
   position: fixed;
   right: 16px;
   bottom: calc(16px + env(safe-area-inset-bottom));
   z-index: 100;
   display: flex;
-  padding: 3px;
-  gap: 2px;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: color-mix(in srgb, var(--surface) 92%, transparent);
@@ -118,22 +123,19 @@ a { color: var(--accent); }
   box-shadow: var(--shadow);
   cursor: pointer;
   font: inherit;
-  min-height: 44px;
-  align-items: center;
+  transition: transform .12s;
 }
+.langfab:active { transform: scale(.92); }
 .langfab__opt {
-  padding: .35rem .7rem;
-  border-radius: 999px;
   font-size: .8rem;
   font-weight: 700;
   letter-spacing: .04em;
-  color: var(--faint);
-  transition: background .15s, color .15s;
+  color: var(--accent);
 }
+/* Chỉ hiện ngôn ngữ SẼ chuyển sang — bấm một lần là đổi, không cần đọc hai nhãn. */
 html[data-lang="vi"] .langfab__opt[data-lang-opt="vi"],
 html[data-lang="en"] .langfab__opt[data-lang-opt="en"] {
-  background: var(--accent);
-  color: #fff;
+  display: none;
 }
 
 /* ── Thành phần chung ───────────────────────────────────────────────── */

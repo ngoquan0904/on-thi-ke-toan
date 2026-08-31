@@ -27,7 +27,7 @@ tags: [content-authoring, static-web, github-pages, accounting, vietnam-2026]
 | Repo | `git init` xong, 1 commit, cây làm việc sạch |
 | **Còn lại** | **Push lên GitHub và bật Pages** — cần *GitHub username* và *tên repo* để chốt URL. Sau đó điền link vào `README.md` và tick nốt các mục còn mở ở phase 4 / 8 / DoD |
 
-**Ghi chú QA:** nút chuyển ngữ nổi (bottom-right) có thể nằm chồng lên tâm nút "Câu tiếp theo" ở một số chiều cao màn hình (đo được ở 360×640 và 412×915; không xảy ra ở 320×568, 390×800, 768×1024). Trang luôn cuộn được nên người dùng vẫn bấm được, nhưng nếu muốn triệt để thì đổi vị trí nút trong `.langfab` (`assets/css/app.css:106`) — quyết định về bố cục, chưa tự ý sửa.
+**Ghi chú QA — đã xử lý:** khi rà mobile phát hiện nút chuyển ngữ nổi (pill 87×44) nằm chồng lên tâm nút "Câu tiếp theo" ở 360×640 và lên ô lưới điều hướng ở 412×915. Đã đổi thành **nút tròn 44×44 chỉ hiện ngôn ngữ sẽ chuyển sang** (`.langfab` trong `assets/css/app.css`). Đo lại ở 320×568 · 360×640 · 360×740 · 390×800 · 412×915 · 768×1024: không còn nút thao tác chính nào bị che.
 
 
 ## 1. Bối cảnh & Mục tiêu
