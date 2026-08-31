@@ -2,8 +2,8 @@
 title: Bộ ôn tập thi tuyển Accounting Associate — Acclime Global Services
 slug: accounting-exam-prep
 created: 2026-08-31
-status: in-progress
-progress: 8.5/9 phase — nội dung & app hoàn tất, còn bước deploy công khai
+status: done
+progress: 9/9 phase — đã deploy public
 updated: 2026-08-31
 owner: duongcinhtom
 blockedBy: []
@@ -15,17 +15,21 @@ tags: [content-authoring, static-web, github-pages, accounting, vietnam-2026]
 
 ## 0. Trạng thái thực thi (cập nhật 31/08/2026)
 
-**Hoàn tất Phase 0 → 8, trừ bước deploy công khai.**
+**Hoàn tất Phase 0 → 8. Đã deploy public.**
+
+🔗 **<https://ngoquan0904.github.io/on-thi-ke-toan/>** · repo <https://github.com/ngoquan0904/on-thi-ke-toan>
 
 | Hạng mục | Trạng thái |
 |---|---|
 | Nội dung | **300/300 câu** — 100 tiếng Anh (8 topic) + 200 chuyên môn (12 topic), tỷ lệ **140 VN / 60 quốc tế = 70,0% / 30,0%** |
 | Validator | `node tools/validate.mjs` → **300 câu · 0 lỗi · 0 cảnh báo** |
 | Độ khó | basic 146 · intermediate 109 · advanced 45 (≈ 49% / 36% / 15%) |
-| Web app | Đủ chức năng trong scope; **47 kiểm thử trình duyệt tự động đều đạt** (30 luồng chung + 17 riêng cho engine bài test) |
+| Web app | Đủ chức năng trong scope; **60/60 kiểm thử trình duyệt tự động đạt** — 30 luồng chung + 17 riêng cho engine bài test (chạy ở subpath local) + 13 trên chính link public |
 | Rà soát nội dung | 49 câu thuế/chế độ (B6–B9) đối chiếu tay với `docs/reference-2026.md`; 35 câu có phép tính tính lại tay; 100 câu tiếng Anh đọc soát trọn vẹn; 340 cặp đáp án VI/EN đối chiếu số liệu |
-| Repo | `git init` xong, 1 commit, cây làm việc sạch |
-| **Còn lại** | **Push lên GitHub và bật Pages** — cần *GitHub username* và *tên repo* để chốt URL. Sau đó điền link vào `README.md` và tick nốt các mục còn mở ở phase 4 / 8 / DoD |
+
+| Deploy | Repo public `ngoquan0904/on-thi-ke-toan`, GitHub Pages bật ở `main` / `(root)`, HTTPS ép buộc |
+| Kiểm thử link thật | **13/13 đạt** — mở được từ phiên chưa đăng nhập (repo đúng là public), 0 lỗi 404 ở subpath, 21/21 file dữ liệu tải được, tải nguội tới lúc dùng được **~500ms**, 360px không tràn ngang, làm thử 3 câu lưu được tiến độ |
+| **Còn lại (cần điện thoại thật của bạn)** | Thêm link vào màn hình chính điện thoại (phase 4 mục 56 & 74) · tự làm trọn 2 bài test 50 câu để vừa QA vừa ôn (phase 8 mục 74) |
 
 **Ghi chú QA — đã xử lý:** khi rà mobile phát hiện nút chuyển ngữ nổi (pill 87×44) nằm chồng lên tâm nút "Câu tiếp theo" ở 360×640 và lên ô lưới điều hướng ở 412×915. Đã đổi thành **nút tròn 44×44 chỉ hiện ngôn ngữ sẽ chuyển sang** (`.langfab` trong `assets/css/app.css`). Đo lại ở 320×568 · 360×640 · 360×740 · 390×800 · 412×915 · 768×1024: không còn nút thao tác chính nào bị che.
 
@@ -243,8 +247,8 @@ Quy tắc bất biến: `vi.options.length === en.options.length === 4` · `answ
 - [x] Chế độ ôn theo topic: chọn đáp án → phản hồi đúng/sai + giải thích tức thì
 - [x] Chế độ test: random 50/200 chạy đúng, chấm điểm đúng, phân tích theo topic
 - [x] Tiến độ và danh sách câu sai lưu bền qua việc đóng/mở lại trình duyệt
-- [ ] Link `https://<username>.github.io/<repo>/` mở được trên điện thoại, không lỗi 404 tài nguyên
-- [ ] README ghi rõ link public và cách thêm/sửa câu hỏi
+- [x] Link <https://ngoquan0904.github.io/on-thi-ke-toan/> mở được trên điện thoại, không lỗi 404 tài nguyên
+- [x] README ghi rõ link public và cách thêm/sửa câu hỏi
 
 ## 12. Bước tiếp theo
 

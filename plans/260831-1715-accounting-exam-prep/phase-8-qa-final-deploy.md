@@ -73,5 +73,5 @@ Tài liệu cuối cùng gửi lại người dùng gồm:
 - [x] Toàn bộ câu có phép tính đã tính lại tay và khớp
 - [ ] Đã làm thử trọn vẹn 2 bài test 50 câu trên app, sửa hết câu gợn
 - [x] Bảng kiểm thử ở 8.3 xanh hết
-- [ ] Link public cập nhật nội dung mới, xem được trên điện thoại
-- [ ] README đầy đủ, đã bàn giao 3 mục ở 8.5
+- [x] Link public cập nhật nội dung mới, xem được trên điện thoại
+- [x] README đầy đủ, đã bàn giao 3 mục ở 8.5

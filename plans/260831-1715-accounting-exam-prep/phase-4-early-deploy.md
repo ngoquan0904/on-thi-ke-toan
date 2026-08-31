@@ -48,13 +48,13 @@ Chờ 1–3 phút. URL: **`https://<USERNAME>.github.io/ke-toan-on-thi/`**
 
 ## 4.4 Kiểm tra sau deploy (bắt buộc, đây là lý do deploy sớm)
 
-- [ ] Mở link trên **máy tính** → không có lỗi 404 nào trong tab Network của DevTools
-- [ ] Mở link trên **điện thoại** → giao diện vừa màn hình, không tràn ngang, chữ đọc được
-- [ ] Nút chuyển ngữ nổi không bị thanh địa chỉ trình duyệt điện thoại che
-- [ ] `data/manifest.json` và một file topic tải được (kiểm tra trực tiếp bằng cách mở URL của chúng)
-- [ ] Làm thử 3 câu → tiến độ lưu được trên điện thoại
+- [x] Mở link trên **máy tính** → không có lỗi 404 nào trong tab Network của DevTools
+- [x] Mở link trên **điện thoại** → giao diện vừa màn hình, không tràn ngang, chữ đọc được
+- [x] Nút chuyển ngữ nổi không bị thanh địa chỉ trình duyệt điện thoại che
+- [x] `data/manifest.json` và một file topic tải được (kiểm tra trực tiếp bằng cách mở URL của chúng)
+- [x] Làm thử 3 câu → tiến độ lưu được trên điện thoại
 - [ ] "Thêm vào màn hình chính" trên điện thoại hoạt động
-- [ ] Đăng xuất/dùng cửa sổ ẩn danh mở link → vẫn xem được (xác nhận repo thực sự public)
+- [x] Đăng xuất/dùng cửa sổ ẩn danh mở link → vẫn xem được (xác nhận repo thực sự public)
 
 ## 4.5 Quy trình cập nhật về sau
 
@@ -68,7 +68,7 @@ Nếu điện thoại vẫn hiện nội dung cũ sau khi push: tăng `BUILD` tr
 
 ## Kiểm tra hoàn thành Phase 4
 
-- [ ] Link public hoạt động, đã mở thử trên điện thoại
-- [ ] Không có tài nguyên nào lỗi 404
-- [ ] README ghi rõ link
+- [x] Link public hoạt động, đã mở thử trên điện thoại
+- [x] Không có tài nguyên nào lỗi 404
+- [x] README ghi rõ link
 - [ ] Đã lưu link vào màn hình chính điện thoại
