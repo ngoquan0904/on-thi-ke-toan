@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "legalAsOf": "2026-08-31",
+  "banks": [
+    {
+      "id": "english",
+      "icon": "🗪",
+      "label": { "vi": "Tiếng Anh kế toán", "en": "Accounting English" },
+      "desc": {
+        "vi": "100 câu thuật ngữ và tiếng Anh chuyên ngành dùng trong công việc kế toán",
+        "en": "100 questions on terminology and professional English used in accounting work"
+      },
+      "testSize": 30,
+      "testMinutes": 30,
+      "topics": [
+        { "id": "a1-core-terminology", "file": "english/a1-core-terminology.json", "count": 15, "group": "en",
+          "label": { "vi": "Thuật ngữ nền tảng & phương trình kế toán", "en": "Core terminology & accounting equation" } },
+        { "id": "a2-financial-statements", "file": "english/a2-financial-statements.json", "count": 15, "group": "en",
+          "label": { "vi": "Từ vựng báo cáo tài chính", "en": "Financial statements vocabulary" } },
+        { "id": "a3-double-entry", "file": "english/a3-double-entry.json", "count": 15, "group": "en",
+          "label": { "vi": "Ghi sổ kép & thuật ngữ ghi sổ", "en": "Double-entry & bookkeeping terms" } },
+        { "id": "a4-ap-ar-invoicing", "file": "english/a4-ap-ar-invoicing.json", "count": 12, "group": "en",
+          "label": { "vi": "Công nợ, hóa đơn & thanh toán", "en": "AP / AR, invoicing & payments" } },
+        { "id": "a5-tax-payroll-english", "file": "english/a5-tax-payroll-english.json", "count": 12, "group": "en",
+          "label": { "vi": "Tiếng Anh về thuế & tiền lương", "en": "Tax & payroll English" } },
+        { "id": "a6-audit-control", "file": "english/a6-audit-control.json", "count": 11, "group": "en",
+          "label": { "vi": "Kiểm toán, kiểm soát nội bộ & tuân thủ", "en": "Audit, internal control & compliance" } },
+        { "id": "a7-email-communication", "file": "english/a7-email-communication.json", "count": 10, "group": "en",
+          "label": { "vi": "Email với khách hàng & head office", "en": "Client & head-office email English" } },
+        { "id": "a8-grammar-traps", "file": "english/a8-grammar-traps.json", "count": 10, "group": "en",
+          "label": { "vi": "Bẫy ngữ pháp & dùng từ", "en": "Grammar & usage traps" } }
+      ]
+    },
+    {
+      "id": "professional",
+      "icon": "📘",
+      "label": { "vi": "Chuyên môn kế toán", "en": "Accounting Knowledge" },
+      "desc": {
+        "vi": "200 câu nghiệp vụ, thuế và chuẩn mực — cập nhật theo quy định hiệu lực 2026",
+        "en": "200 questions on bookkeeping, tax and standards — updated to regulations in force in 2026"
+      },
+      "testSize": 50,
+      "testMinutes": 60,
+      "topics": [
+        { "id": "b1-nguyen-ly", "file": "professional/b1-nguyen-ly.json", "count": 25, "group": "vn",
+          "label": { "vi": "Nguyên lý kế toán & ghi sổ kép", "en": "Accounting principles & double entry" } },
+        { "id": "b2-dinh-khoan", "file": "professional/b2-dinh-khoan.json", "count": 30, "group": "vn",
+          "label": { "vi": "Hệ thống tài khoản & định khoản nghiệp vụ", "en": "Chart of accounts & journal entries" } },
+        { "id": "b3-hang-ton-kho", "file": "professional/b3-hang-ton-kho.json", "count": 12, "group": "vn",
+          "label": { "vi": "Hàng tồn kho & giá vốn", "en": "Inventory & cost of goods sold" } },
+        { "id": "b4-tscd-khau-hao", "file": "professional/b4-tscd-khau-hao.json", "count": 12, "group": "vn",
+          "label": { "vi": "TSCĐ, khấu hao & chi phí trả trước", "en": "Fixed assets, depreciation & prepayments" } },
+        { "id": "b5-doanh-thu-chi-phi", "file": "professional/b5-doanh-thu-chi-phi.json", "count": 12, "group": "vn",
+          "label": { "vi": "Doanh thu, chi phí & xác định KQKD", "en": "Revenue, expenses & profit determination" } },
+        { "id": "b6-thue-gtgt", "file": "professional/b6-thue-gtgt.json", "count": 15, "group": "vn",
+          "label": { "vi": "Thuế GTGT (Luật 48/2024)", "en": "VAT (Law 48/2024)" } },
+        { "id": "b7-thue-tndn-tncn", "file": "professional/b7-thue-tndn-tncn.json", "count": 15, "group": "vn",
+          "label": { "vi": "Thuế TNDN & TNCN (2025–2026)", "en": "CIT & PIT (2025–2026)" } },
+        { "id": "b8-hoa-don-luong-bhxh", "file": "professional/b8-hoa-don-luong-bhxh.json", "count": 12, "group": "vn",
+          "label": { "vi": "Hóa đơn điện tử, lương & BHXH", "en": "E-invoicing, payroll & social insurance" } },
+        { "id": "b9-tt99-2025", "file": "professional/b9-tt99-2025.json", "count": 7, "group": "vn",
+          "label": { "vi": "Chế độ kế toán mới TT 99/2025", "en": "New accounting regime — Circular 99/2025" } },
+        { "id": "b10-ifrs-vas", "file": "professional/b10-ifrs-vas.json", "count": 25, "group": "intl",
+          "label": { "vi": "IFRS/IAS & khác biệt với VAS", "en": "IFRS/IAS & differences from VAS" } },
+        { "id": "b11-month-end-close", "file": "professional/b11-month-end-close.json", "count": 20, "group": "intl",
+          "label": { "vi": "Bookkeeping & đóng sổ tháng", "en": "Bookkeeping & month-end close" } },
+        { "id": "b12-fund-administration", "file": "professional/b12-fund-administration.json", "count": 15, "group": "intl",
+          "label": { "vi": "Fund administration & NAV", "en": "Fund administration & NAV" } }
+      ]
+    }
+  ]
+}

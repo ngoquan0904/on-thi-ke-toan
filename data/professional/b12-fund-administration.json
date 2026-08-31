@@ -1,0 +1,605 @@
+{
+  "topic": "b12-fund-administration",
+  "questions": [
+    {
+      "id": "PRO-B12-001",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Fund administration practice — NAV definition",
+      "tags": ["nav", "definition"],
+      "vi": {
+        "question": "NAV (Net Asset Value) của một quỹ đầu tư được xác định theo công thức nào?",
+        "options": [
+          "Tổng tài sản của quỹ trừ đi tổng nợ phải trả của quỹ tại ngày định giá",
+          "Tổng tài sản của quỹ trừ đi số vốn góp ban đầu mà các nhà đầu tư đã nộp vào",
+          "Tổng giá trị các khoản đầu tư cộng thêm phí quản lý phải trả cho nhà quản lý quỹ",
+          "Tổng số dư tiền mặt của quỹ cộng với giá gốc của danh mục đầu tư đang nắm giữ"
+        ],
+        "explanation": "NAV = tổng tài sản − tổng nợ phải trả. Tài sản gồm các khoản đầu tư theo giá trị hợp lý (fair value), tiền, dividend/interest receivable và subscription receivable. Nợ phải trả gồm accrued management fee, accrued expenses (audit, admin, custody) và redemption payable. Điểm hay bị bỏ sót nhất chính là các khoản trích trước — quên trích thì NAV bị thổi phồng và nhà đầu tư mua vào hôm đó chịu thiệt.",
+        "distractors": [
+          null,
+          "Sai — vốn góp ban đầu là một phần của vốn chủ (net assets), không phải khoản được trừ ra khỏi tài sản.",
+          "Sai — phí quản lý phải trả là NỢ PHẢI TRẢ, phải TRỪ đi chứ không cộng thêm vào NAV.",
+          "Sai — danh mục đầu tư của quỹ được định giá theo fair value tại ngày định giá, không theo giá gốc."
+        ]
+      },
+      "en": {
+        "question": "How is a fund’s Net Asset Value (NAV) determined?",
+        "options": [
+          "Total assets of the fund less total liabilities of the fund at the valuation date",
+          "Total assets of the fund less the original capital contributed by the investors",
+          "The total value of the investments plus the management fee payable to the manager",
+          "The fund’s total cash balance plus the historical cost of the portfolio held"
+        ],
+        "explanation": "NAV = total assets − total liabilities. Assets include investments at fair value, cash, dividend and interest receivable, and subscriptions receivable. Liabilities include the accrued management fee, accrued expenses (audit, admin, custody) and redemptions payable. Accruals are the item most often missed: omit them and NAV is overstated, so investors subscribing that day overpay.",
+        "distractors": [
+          null,
+          "Wrong — contributed capital is part of net assets, not a deduction from total assets.",
+          "Wrong — a management fee payable is a LIABILITY, so it is deducted from NAV, never added.",
+          "Wrong — the portfolio is valued at fair value on the valuation date, not at historical cost."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-002",
+      "topic": "b12-fund-administration",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Fund administration practice — NAV per unit",
+      "tags": ["nav", "calculation", "nav-per-unit"],
+      "vi": {
+        "question": "Một quỹ có tổng tài sản 520 tỷ đồng và tổng nợ phải trả 20 tỷ đồng, với 25 triệu đơn vị quỹ đang lưu hành. NAV/unit bằng bao nhiêu?",
+        "options": [
+          "20.800 đồng",
+          "19.200 đồng",
+          "20.000 đồng",
+          "25.000 đồng"
+        ],
+        "explanation": "Bước 1: NAV = 520 tỷ − 20 tỷ = 500 tỷ đồng. Bước 2: NAV/unit = NAV ÷ số đơn vị lưu hành = 500.000.000.000 ÷ 25.000.000 = 20.000 đồng/đơn vị. Đây là con số công bố ra thị trường và cũng là giá mà nhà đầu tư mua (subscription) hoặc bán lại (redemption) đơn vị quỹ trong ngày giao dịch tương ứng.",
+        "distractors": [
+          "Sai — 520 ÷ 25 là lấy TỔNG TÀI SẢN chia cho số đơn vị, quên trừ 20 tỷ nợ phải trả.",
+          "Sai — 480 ÷ 25, tức đã trừ nợ phải trả hai lần hoặc trừ nhầm 40 tỷ ra khỏi tài sản.",
+          null,
+          "Sai — 500 ÷ 20 là chia cho số tiền nợ phải trả thay vì chia cho số đơn vị lưu hành."
+        ]
+      },
+      "en": {
+        "question": "A fund has total assets of VND 520 billion and total liabilities of VND 20 billion, with 25 million units in issue. What is the NAV per unit?",
+        "options": [
+          "VND 20,800",
+          "VND 19,200",
+          "VND 20,000",
+          "VND 25,000"
+        ],
+        "explanation": "Step 1: NAV = 520bn − 20bn = VND 500 billion. Step 2: NAV per unit = NAV ÷ units in issue = 500,000,000,000 ÷ 25,000,000 = VND 20,000 per unit. This is the published price and also the price at which investors subscribe or redeem units on the corresponding dealing day.",
+        "distractors": [
+          "Wrong — 520 ÷ 25 divides TOTAL ASSETS by units, ignoring the 20bn of liabilities.",
+          "Wrong — 480 ÷ 25 deducts the liabilities twice, or deducts 40bn instead of 20bn.",
+          null,
+          "Wrong — 500 ÷ 20 divides by the liability amount instead of the units in issue."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-003",
+      "topic": "b12-fund-administration",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "Fund administration practice — subscriptions",
+      "tags": ["subscription", "nav"],
+      "vi": {
+        "question": "Nhà đầu tư mua thêm đơn vị quỹ (subscription) đúng bằng mức NAV/unit hiện hành. Điều gì xảy ra ngay sau giao dịch?",
+        "options": [
+          "NAV tổng tăng và NAV/unit cũng tăng tương ứng với số tiền vừa được góp thêm",
+          "NAV tổng tăng, số đơn vị lưu hành tăng, NAV/unit giữ nguyên không đổi",
+          "NAV tổng không đổi vì tiền chỉ chuyển từ nhà đầu tư này sang nhà đầu tư khác",
+          "NAV tổng tăng nhưng số đơn vị quỹ đang lưu hành vẫn giữ nguyên như trước đó"
+        ],
+        "explanation": "Subscription thực hiện tại NAV/unit hiện hành nên tử số (NAV) và mẫu số (số đơn vị) tăng cùng tỷ lệ, NAV/unit không đổi. Ví dụ: NAV 500 tỷ / 25 triệu đơn vị = 20.000đ; góp thêm 20 tỷ → phát hành 1 triệu đơn vị → 520 tỷ / 26 triệu = 20.000đ. Nguyên tắc cốt lõi: giao dịch của một nhà đầu tư không được làm thay đổi giá trị phần vốn của các nhà đầu tư còn lại.",
+        "distractors": [
+          "Sai — nếu NAV/unit tăng thì nhà đầu tư mới đã mua rẻ hơn giá trị thật, gây thiệt cho người cũ.",
+          null,
+          "Sai — tiền của subscription chảy vào quỹ từ bên ngoài, làm tăng tài sản chứ không chỉ chuyển nội bộ.",
+          "Sai — quỹ phải phát hành thêm đơn vị tương ứng với số tiền nhận, nếu không NAV/unit sẽ bị thổi lên."
+        ]
+      },
+      "en": {
+        "question": "An investor subscribes for units at exactly the prevailing NAV per unit. What happens immediately after the deal?",
+        "options": [
+          "Total NAV rises and the NAV per unit rises in line with the amount just contributed",
+          "Total NAV rises, units in issue rise, and the NAV per unit is unchanged",
+          "Total NAV is unchanged because money merely moves between the fund’s investors",
+          "Total NAV rises but the number of units in issue stays exactly as it was before"
+        ],
+        "explanation": "A subscription is priced at the prevailing NAV per unit, so the numerator (NAV) and the denominator (units) rise proportionally and NAV per unit is unchanged. Example: NAV 500bn / 25m units = 20,000; a 20bn subscription issues 1m units, giving 520bn / 26m = 20,000. The core principle: one investor’s dealing must not change the value held by the others.",
+        "distractors": [
+          "Wrong — a rising NAV per unit would mean the new investor bought below value, diluting existing holders.",
+          null,
+          "Wrong — subscription cash comes into the fund from outside, so fund assets genuinely increase.",
+          "Wrong — units must be issued for the cash received, otherwise NAV per unit would be inflated."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-004",
+      "topic": "b12-fund-administration",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Fund administration practice — redemptions",
+      "tags": ["redemption", "calculation", "nav-per-unit"],
+      "vi": {
+        "question": "Quỹ có NAV 500 tỷ đồng và 25 triệu đơn vị lưu hành. Một nhà đầu tư redeem 1 triệu đơn vị tại NAV/unit hiện hành. NAV/unit ngay sau giao dịch là bao nhiêu?",
+        "options": [
+          "19.200 đồng",
+          "20.833 đồng",
+          "18.000 đồng",
+          "20.000 đồng"
+        ],
+        "explanation": "NAV/unit trước giao dịch = 500 tỷ ÷ 25 triệu = 20.000đ. Quỹ trả cho nhà đầu tư 1 triệu × 20.000 = 20 tỷ đồng, đồng thời hủy 1 triệu đơn vị. Sau giao dịch: NAV = 480 tỷ, số đơn vị = 24 triệu → 480 ÷ 24 = 20.000đ, KHÔNG ĐỔI. Redemption tại đúng NAV cũng trung lập với các nhà đầu tư ở lại, giống như subscription.",
+        "distractors": [
+          "Sai — 480 ÷ 25 là đã trừ tiền trả ra nhưng quên hủy số đơn vị quỹ tương ứng.",
+          "Sai — 500 ÷ 24 là đã hủy đơn vị nhưng quên ghi giảm tài sản do trả tiền redemption.",
+          "Sai — con số này không xuất phát từ phép tính nào đúng của NAV sau khi redeem.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A fund has a NAV of VND 500 billion and 25 million units in issue. An investor redeems 1 million units at the prevailing NAV per unit. What is the NAV per unit right after the deal?",
+        "options": [
+          "VND 19,200",
+          "VND 20,833",
+          "VND 18,000",
+          "VND 20,000"
+        ],
+        "explanation": "NAV per unit before the deal = 500bn ÷ 25m = VND 20,000. The fund pays out 1m × 20,000 = VND 20 billion and cancels 1 million units. After the deal: NAV = 480bn over 24m units → 480 ÷ 24 = VND 20,000, UNCHANGED. Like a subscription, a redemption struck at NAV is neutral for the remaining investors.",
+        "distractors": [
+          "Wrong — 480 ÷ 25 deducts the cash paid out but forgets to cancel the redeemed units.",
+          "Wrong — 500 ÷ 24 cancels the units but forgets to deduct the cash paid to the investor.",
+          "Wrong — this figure does not follow from any correct post-redemption calculation.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-005",
+      "topic": "b12-fund-administration",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "Fund administration practice — management fee accrual",
+      "tags": ["management-fee", "calculation", "accrual"],
+      "vi": {
+        "question": "Quỹ có NAV 600 tỷ đồng, management fee 2%/năm tính trên NAV và được trích trước theo tháng. Phí quản lý trích cho một tháng là bao nhiêu?",
+        "options": [
+          "12 tỷ đồng",
+          "1 tỷ đồng",
+          "2 tỷ đồng",
+          "500 triệu đồng"
+        ],
+        "explanation": "Phí cả năm = 600 tỷ × 2% = 12 tỷ đồng. Trích theo tháng = 12 ÷ 12 = 1 tỷ đồng. Bút toán: Dr management fee expense / Cr accrued management fee payable — khoản trích này là NỢ PHẢI TRẢ nên làm GIẢM NAV ngay trong tháng, dù tiền chưa được chuyển cho nhà quản lý quỹ.",
+        "distractors": [
+          "Sai — 12 tỷ là phí của CẢ NĂM, chưa chia cho 12 tháng.",
+          null,
+          "Sai — 2 tỷ là lấy nhầm tỷ lệ 2% làm số tiền tuyệt đối theo đơn vị tỷ đồng.",
+          "Sai — 500 triệu tương ứng mức phí 1%/năm, không phải mức 2%/năm của đề bài."
+        ]
+      },
+      "en": {
+        "question": "A fund has a NAV of VND 600 billion and a management fee of 2% per annum on NAV, accrued monthly. What is the accrual for one month?",
+        "options": [
+          "VND 12 billion",
+          "VND 1 billion",
+          "VND 2 billion",
+          "VND 500 million"
+        ],
+        "explanation": "Annual fee = 600bn × 2% = VND 12 billion. Monthly accrual = 12 ÷ 12 = VND 1 billion. The entry is Dr management fee expense / Cr accrued management fee payable. Because the accrual is a liability, it reduces NAV in the month it relates to, even though no cash has yet been paid to the manager.",
+        "distractors": [
+          "Wrong — VND 12 billion is the FULL YEAR fee, not yet divided by twelve months.",
+          null,
+          "Wrong — this simply reads the 2% rate as an absolute amount in billions of dong.",
+          "Wrong — VND 500 million corresponds to a 1% annual fee, not the 2% given here."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-006",
+      "topic": "b12-fund-administration",
+      "difficulty": "advanced",
+      "answer": 2,
+      "ref": "Fund administration practice — performance fee, high-water mark",
+      "tags": ["performance-fee", "high-water-mark", "calculation"],
+      "vi": {
+        "question": "Quỹ tính performance fee 20% trên phần tăng của NAV/unit vượt high-water mark (HWM). HWM đang là 12.000đ; năm trước NAV/unit giảm còn 10.000đ; cuối năm nay đạt 13.000đ. Phí thành tích tính trên phần nào?",
+        "options": [
+          "Trên toàn bộ mức tăng của năm nay từ 10.000đ lên 13.000đ, tức 3.000đ mỗi đơn vị",
+          "Không tính phí thành tích năm nay vì NAV/unit đã từng rơi xuống dưới mức 12.000đ",
+          "Chỉ trên phần vượt HWM, tức 1.000đ mỗi đơn vị (13.000 − 12.000)",
+          "Trên toàn bộ NAV/unit cuối kỳ là 13.000đ nhân với tỷ lệ phí 20% đã thỏa thuận"
+        ],
+        "explanation": "High-water mark là mức NAV/unit cao nhất mà quỹ từng đạt và đã tính phí. Nhà quản lý chỉ được hưởng phí trên phần VƯỢT mức đó, tức phải bù lại toàn bộ khoản lỗ trước đã. Ở đây: 13.000 − 12.000 = 1.000đ/đơn vị; phí = 20% × 1.000 = 200đ/đơn vị. Sau khi tính phí, HWM mới được nâng lên 13.000đ. Cơ chế này ngăn nhà quản lý được trả phí hai lần cho cùng một mức tăng giá.",
+        "distractors": [
+          "Sai — tính trên 3.000đ tức là được trả phí lần thứ hai cho phần phục hồi từ 10.000 lên 12.000.",
+          "Sai — HWM chỉ hoãn phí cho tới khi vượt đỉnh cũ, không hủy phí vĩnh viễn khi đã vượt.",
+          null,
+          "Sai — performance fee tính trên phần TĂNG THÊM vượt HWM, không tính trên toàn bộ NAV/unit."
+        ]
+      },
+      "en": {
+        "question": "A fund charges a 20% performance fee on the increase in NAV per unit above the high-water mark (HWM). The HWM is VND 12,000; last year NAV per unit fell to VND 10,000; this year it reaches VND 13,000. What is the fee charged on?",
+        "options": [
+          "The full rise this year from VND 10,000 to VND 13,000, that is VND 3,000 per unit",
+          "No performance fee this year, because NAV per unit once fell below the VND 12,000 mark",
+          "Only the excess over the HWM, that is VND 1,000 per unit (13,000 − 12,000)",
+          "The whole closing NAV per unit of VND 13,000 multiplied by the agreed 20% fee rate"
+        ],
+        "explanation": "The high-water mark is the highest NAV per unit the fund has previously reached and charged on. The manager earns a fee only on the EXCESS above it, so past losses must be recovered first. Here: 13,000 − 12,000 = VND 1,000 per unit, and the fee is 20% × 1,000 = VND 200 per unit. The HWM then resets to 13,000. The mechanism stops the manager being paid twice for the same gain.",
+        "distractors": [
+          "Wrong — charging on 3,000 pays the manager a second time for recovering from 10,000 to 12,000.",
+          "Wrong — a HWM defers the fee until the old peak is beaten; it does not cancel it permanently.",
+          null,
+          "Wrong — a performance fee applies to the GAIN above the HWM, never to the whole NAV per unit."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-007",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Fund administration practice — fee structures",
+      "tags": ["hurdle-rate", "performance-fee"],
+      "vi": {
+        "question": "Trong cấu trúc phí của một quỹ đầu tư, “hurdle rate” là gì?",
+        "options": [
+          "Mức lợi suất tối thiểu quỹ phải đạt trước khi nhà quản lý được hưởng performance fee",
+          "Mức lỗ tối đa mà quỹ được phép chịu trước khi buộc phải dừng toàn bộ hoạt động đầu tư",
+          "Tỷ lệ phần trăm tài sản mà quỹ bắt buộc phải giữ bằng tiền mặt để đáp ứng redemption",
+          "Mức phí quản lý cố định tính trên NAV mà nhà đầu tư phải trả hằng năm cho nhà quản lý"
+        ],
+        "explanation": "Hurdle rate là ngưỡng lợi suất tối thiểu (ví dụ 8%/năm, hoặc lãi suất trái phiếu chính phủ) mà quỹ phải vượt qua thì nhà quản lý mới bắt đầu được hưởng phí thành tích. Hurdle rate đi cùng high-water mark tạo thành hai lớp bảo vệ nhà đầu tư: một lớp đòi hỏi vượt đỉnh cũ, một lớp đòi hỏi vượt mức sinh lời tối thiểu.",
+        "distractors": [
+          null,
+          "Sai — đó là khái niệm gần với stop-loss hoặc điều kiện giải thể quỹ, không liên quan tới cấu trúc phí.",
+          "Sai — đó là yêu cầu về thanh khoản (liquidity buffer), không phải ngưỡng để tính phí thành tích.",
+          "Sai — đó là management fee, khoản phí cố định thu bất kể quỹ lãi hay lỗ trong kỳ."
+        ]
+      },
+      "en": {
+        "question": "In a fund’s fee structure, what is a “hurdle rate”?",
+        "options": [
+          "The minimum return the fund must achieve before the manager earns any performance fee",
+          "The maximum loss the fund may sustain before it is obliged to halt all investment activity",
+          "The percentage of assets the fund must hold in cash in order to meet investor redemptions",
+          "The fixed management fee charged on NAV that investors pay to the manager every year"
+        ],
+        "explanation": "A hurdle rate is a minimum return threshold (say 8% a year, or a government bond yield) that the fund must beat before the manager starts earning a performance fee. Together with the high-water mark it forms two layers of investor protection: one requires beating the previous peak, the other requires beating a minimum return.",
+        "distractors": [
+          null,
+          "Wrong — that is closer to a stop-loss or wind-up trigger and has nothing to do with the fee structure.",
+          "Wrong — that is a liquidity buffer requirement, not the threshold used to calculate a performance fee.",
+          "Wrong — that describes the management fee, which is charged whether the fund gains or loses."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-008",
+      "difficulty": "advanced",
+      "topic": "b12-fund-administration",
+      "answer": 3,
+      "ref": "Fund administration practice — expense accrual and investor equalisation",
+      "tags": ["expense-accrual", "nav", "equalisation"],
+      "vi": {
+        "question": "Vì sao chi phí của quỹ (audit fee, administration fee, custody fee) phải được trích trước đều đặn thay vì chỉ ghi nhận vào ngày thực trả tiền?",
+        "options": [
+          "Vì chuẩn mực kế toán cấm quỹ ghi nhận bất kỳ chi phí nào tại thời điểm thanh toán bằng tiền",
+          "Vì cơ quan thuế yêu cầu quỹ phân bổ mọi khoản chi phí phát sinh đều cho các tháng trong năm",
+          "Vì phần mềm quản lý quỹ không cho phép hạch toán một khoản chi phí lớn trong duy nhất một ngày",
+          "Để NAV mỗi ngày phản ánh đủ chi phí, tránh thiệt hại cho nhà đầu tư giao dịch quanh ngày trả phí"
+        ],
+        "explanation": "NAV là giá giao dịch thật: nhà đầu tư mua và bán lại đơn vị quỹ theo đúng con số đó. Nếu phí kiểm toán cả năm chỉ được ghi một lần vào ngày trả tiền, NAV sẽ tụt đột ngột trong đúng ngày đó — người redeem hôm trước hưởng lợi, người còn ở lại chịu toàn bộ chi phí của cả năm. Trích trước đều đặn (Dr expense / Cr accrued expenses) làm mỗi ngày gánh đúng phần chi phí của mình, bảo đảm công bằng giữa các nhà đầu tư vào và ra ở các thời điểm khác nhau.",
+        "distractors": [
+          "Sai — kế toán dồn tích không cấm ghi nhận khi trả tiền, mà yêu cầu ghi nhận ĐÚNG KỲ chi phí phát sinh.",
+          "Sai — lý do là bảo vệ tính công bằng của NAV giữa các nhà đầu tư, không xuất phát từ yêu cầu thuế.",
+          "Sai — đây là hạn chế kỹ thuật giả định, không phải nguyên nhân kế toán của việc trích trước chi phí.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Why must fund expenses (audit, administration and custody fees) be accrued evenly rather than recorded only on the day they are paid?",
+        "options": [
+          "Because accounting standards forbid a fund from ever recognising an expense on the payment date",
+          "Because the tax authority requires a fund to spread every expense incurred evenly across the year",
+          "Because fund accounting systems cannot post a single large expense amount on one single day",
+          "So each day’s NAV carries its share of cost and investors dealing around the payment date are not harmed"
+        ],
+        "explanation": "NAV is a real dealing price: investors buy and sell units at exactly that figure. If a full year’s audit fee hit the books only on the payment date, NAV would drop sharply on that one day — whoever redeemed the day before escapes the cost and whoever stays bears a full year of it. Accruing evenly (Dr expense / Cr accrued expenses) makes each day carry its own share and keeps investors entering and leaving at different times on equal terms.",
+        "distractors": [
+          "Wrong — accrual accounting does not forbid recording on payment; it requires the cost in the RIGHT period.",
+          "Wrong — the reason is fairness of the dealing NAV between investors, not any tax filing requirement.",
+          "Wrong — that is an invented system limitation, not the accounting reason for accruing fund expenses.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-009",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Fund administration practice — service provider roles",
+      "tags": ["fund-administrator", "custodian", "roles"],
+      "vi": {
+        "question": "Vai trò của fund administrator khác với custodian ở điểm cốt lõi nào?",
+        "options": [
+          "Fund administrator nắm giữ tài sản của quỹ, còn custodian ra quyết định mua bán chứng khoán",
+          "Fund administrator tính NAV và giữ sổ sách của quỹ, còn custodian lưu ký tài sản của quỹ",
+          "Fund administrator quyết định chiến lược đầu tư, còn custodian lập báo cáo cho nhà đầu tư quỹ",
+          "Hai bên có vai trò như nhau, chỉ khác tên gọi theo quy định riêng của từng thị trường vốn"
+        ],
+        "explanation": "Ba vai trò tách biệt để kiểm soát lẫn nhau: investment manager ra quyết định đầu tư; custodian lưu ký tài sản và tiền của quỹ; fund administrator giữ sổ sách, tính NAV, xử lý subscription/redemption và lập báo cáo. Chính vì administrator KHÔNG nắm tài sản và KHÔNG ra quyết định đầu tư nên số NAV do bên này tính mới có giá trị độc lập — đây là ứng dụng nguyên tắc segregation of duties ở cấp tổ chức.",
+        "distractors": [
+          "Sai — đảo ngược hoàn toàn: custodian mới là bên lưu ký tài sản, administrator không giữ tài sản.",
+          null,
+          "Sai — quyết định đầu tư thuộc về investment manager, không thuộc về fund administrator.",
+          "Sai — đây là hai chức năng hoàn toàn khác nhau và thường do hai tổ chức độc lập đảm nhiệm."
+        ]
+      },
+      "en": {
+        "question": "What is the core difference between the role of a fund administrator and that of a custodian?",
+        "options": [
+          "The administrator holds the fund’s assets, while the custodian decides which securities to trade",
+          "The administrator keeps the books and strikes the NAV, while the custodian safekeeps the assets",
+          "The administrator sets the investment strategy, while the custodian reports to the fund’s investors",
+          "They perform the same role and differ only in name according to each capital market’s conventions"
+        ],
+        "explanation": "Three roles are kept apart so they check one another: the investment manager makes investment decisions; the custodian safekeeps the fund’s assets and cash; the administrator keeps the books, strikes the NAV, processes subscriptions and redemptions, and produces reporting. Precisely because the administrator neither holds the assets nor trades them, its NAV carries independent weight — segregation of duties applied at the level of institutions.",
+        "distractors": [
+          "Wrong — this reverses the roles: the custodian safekeeps assets and the administrator holds none.",
+          null,
+          "Wrong — investment decisions belong to the investment manager, not to the fund administrator.",
+          "Wrong — these are genuinely different functions, usually performed by two independent firms."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-010",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "IFRS 13 — fair value measurement; fund pricing practice",
+      "tags": ["valuation", "pricing", "controls"],
+      "vi": {
+        "question": "“Independent price verification” trong quy trình định giá tài sản của quỹ nghĩa là gì?",
+        "options": [
+          "Nhà quản lý quỹ tự xác nhận lại giá của danh mục đầu tư vào cuối mỗi kỳ lập báo cáo",
+          "Tài sản của quỹ được lấy theo giá gốc mua vào để bảo đảm tính khách quan khi tính NAV",
+          "Administrator lấy giá từ nguồn độc lập rồi đối chiếu với giá của investment manager",
+          "Kiểm toán độc lập kiểm tra lại toàn bộ giá tài sản của quỹ vào cuối năm tài chính hằng năm"
+        ],
+        "explanation": "Administrator không nhận giá do investment manager đưa sang mà lấy giá từ nguồn độc lập (sở giao dịch, nhà cung cấp dữ liệu như Bloomberg/Refinitiv, hoặc báo giá của bên thứ ba với tài sản không niêm yết), rồi đối chiếu và làm rõ mọi chênh lệch vượt ngưỡng. Đây là chốt kiểm soát quan trọng nhất của chu trình NAV, vì manager có xung đột lợi ích trực tiếp: giá cao hơn thì phí quản lý và phí thành tích cũng cao hơn.",
+        "distractors": [
+          "Sai — manager tự xác nhận giá của chính mình thì không còn tính độc lập, đúng chỗ xung đột lợi ích.",
+          "Sai — NAV của quỹ được tính theo fair value, giá gốc không phản ánh giá trị giao dịch hiện tại.",
+          null,
+          "Sai — kiểm toán năm là kiểm tra sau, còn independent price verification chạy theo từng chu kỳ tính NAV."
+        ]
+      },
+      "en": {
+        "question": "What does “independent price verification” mean in a fund’s valuation process?",
+        "options": [
+          "The investment manager re-confirms its own portfolio prices at the end of each reporting period",
+          "Fund assets are carried at original purchase cost so that the NAV calculation stays objective",
+          "The administrator sources prices independently and reconciles them to the manager’s prices",
+          "The external auditor re-checks the price of every asset held by the fund at each financial year end"
+        ],
+        "explanation": "The administrator does not simply take the manager’s prices. It sources them independently — exchanges, data vendors such as Bloomberg or Refinitiv, or third-party quotes for unlisted assets — then reconciles and investigates every difference above tolerance. This is the single most important control in the NAV cycle, because the manager has a direct conflict of interest: higher prices mean higher management and performance fees.",
+        "distractors": [
+          "Wrong — a manager confirming its own prices is not independent at all; that is the conflict itself.",
+          "Wrong — fund NAV is struck at fair value, and historical cost does not reflect current dealing value.",
+          null,
+          "Wrong — the annual audit is a look-back; price verification runs with every NAV cycle."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-011",
+      "topic": "b12-fund-administration",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Fund administration practice — corporate actions, ex-dividend accrual",
+      "tags": ["corporate-action", "dividend", "nav"],
+      "vi": {
+        "question": "Một cổ phiếu trong danh mục quỹ giao dịch không hưởng quyền (ex-dividend) hôm nay, cổ tức 500 đồng/cổ phiếu, quỹ đang nắm 1 triệu cổ phiếu. Xử lý đúng trên NAV hôm nay là gì?",
+        "options": [
+          "Ghi nhận dividend receivable 500 triệu đồng ngay trong ngày ex-date nên NAV không bị hụt",
+          "Chỉ ghi nhận khi thực nhận được tiền cổ tức, chấp nhận NAV giảm trong những ngày chờ",
+          "Ghi giảm giá trị khoản đầu tư 500 triệu đồng và không ghi nhận bất kỳ khoản phải thu nào",
+          "Ghi nhận doanh thu tài chính 500 triệu đồng ngay tại ngày nhà phát hành công bố cổ tức"
+        ],
+        "explanation": "Vào ngày ex-date, giá cổ phiếu trên thị trường tự động giảm khoảng bằng mức cổ tức, nên giá trị khoản đầu tư trong quỹ giảm 500 triệu. Nếu không ghi nhận gì thêm, NAV sẽ hụt đúng 500 triệu và người redeem hôm đó bị thiệt. Vì vậy administrator ghi nhận dividend receivable 1 triệu × 500 = 500 triệu đồng ngay tại ex-date; hai tác động bù trừ nhau và NAV giữ nguyên. Khi tiền cổ tức về, khoản phải thu được tất toán, không ảnh hưởng NAV thêm lần nữa.",
+        "distractors": [
+          null,
+          "Sai — chờ tới ngày nhận tiền làm NAV bị hụt trong suốt thời gian chờ, gây thiệt cho nhà đầu tư redeem.",
+          "Sai — mới ghi một nửa bút toán: giá cổ phiếu đã giảm mà không có khoản phải thu bù lại.",
+          "Sai — ngày công bố (declaration date) chưa phải mốc ghi nhận; mốc chuẩn là ngày ex-date."
+        ]
+      },
+      "en": {
+        "question": "A holding in the fund’s portfolio goes ex-dividend today at VND 500 per share and the fund holds 1 million shares. What is the correct treatment in today’s NAV?",
+        "options": [
+          "Book a dividend receivable of VND 500 million on the ex-date, so the NAV does not drop",
+          "Recognise it only when the cash dividend arrives, accepting a lower NAV while waiting",
+          "Write the investment down by VND 500 million and recognise no receivable at all for it",
+          "Recognise VND 500 million of investment income on the day the issuer declares the dividend"
+        ],
+        "explanation": "On the ex-date the market price falls by roughly the dividend, so the investment’s value drops by VND 500 million. With no offsetting entry the NAV would fall by that amount and anyone redeeming that day would lose out. The administrator therefore books a dividend receivable of 1m × 500 = VND 500 million on the ex-date; the two effects offset and NAV holds. When the cash arrives the receivable is cleared, with no further NAV impact.",
+        "distractors": [
+          null,
+          "Wrong — waiting for cash leaves NAV understated throughout, penalising investors who redeem meanwhile.",
+          "Wrong — that is only half the entry: the price has fallen with no receivable to offset it.",
+          "Wrong — declaration date is not the trigger; the ex-date is the standard recognition point."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-012",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Fund administration practice — GL to investor registry reconciliation",
+      "tags": ["reconciliation", "investor-registry", "controls"],
+      "vi": {
+        "question": "Đối chiếu giữa sổ cái của quỹ (GL) và investor registry nhằm bảo đảm điều gì?",
+        "options": [
+          "Giá thị trường của danh mục đầu tư khớp với giá do custodian cung cấp trong cùng ngày",
+          "Chi phí quản lý đã được trích trước đủ theo đúng tỷ lệ ghi trong hợp đồng đã ký kết",
+          "Số dư tiền gửi của quỹ tại ngân hàng khớp với sổ phụ tài khoản do ngân hàng gửi sang",
+          "Tổng số đơn vị quỹ và vốn của nhà đầu tư trên registry khớp với số liệu trên sổ cái"
+        ],
+        "explanation": "Investor registry (sổ đăng ký nhà đầu tư) ghi từng nhà đầu tư nắm bao nhiêu đơn vị quỹ; sổ cái ghi tổng số đơn vị lưu hành và tổng vốn của nhà đầu tư. Hai bên phải khớp tuyệt đối, vì NAV/unit lấy tổng NAV chia cho SỐ ĐƠN VỊ LƯU HÀNH — lệch số đơn vị là lệch trực tiếp giá công bố ra thị trường. Nguyên nhân lệch thường gặp: subscription/redemption đã vào registry nhưng chưa hạch toán vào sổ, hoặc ghi sai kỳ.",
+        "distractors": [
+          "Sai — đó là đối chiếu danh mục đầu tư với custodian, một chốt kiểm soát khác của chu trình NAV.",
+          "Sai — đó là kiểm tra tính phí quản lý, không liên quan tới số đơn vị quỹ của nhà đầu tư.",
+          "Sai — đó là bank reconciliation, đối chiếu tiền chứ không đối chiếu vốn của nhà đầu tư.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does the reconciliation between the fund’s general ledger and the investor registry ensure?",
+        "options": [
+          "That the market value of the portfolio agrees with the prices supplied by the custodian that day",
+          "That the management fee has been accrued in full at the rate set out in the signed agreement",
+          "That the fund’s bank balance agrees with the account statement issued by the bank itself",
+          "That total units and investor capital per the registry agree with the general ledger"
+        ],
+        "explanation": "The investor registry records how many units each investor holds; the general ledger records total units in issue and total investor capital. The two must agree exactly, because NAV per unit is total NAV divided by UNITS IN ISSUE — a units break feeds straight into the published dealing price. Typical causes of a break: a subscription or redemption entered in the registry but not yet posted to the ledger, or posted in the wrong period.",
+        "distractors": [
+          "Wrong — that is the portfolio reconciliation to the custodian, a different control in the NAV cycle.",
+          "Wrong — that is a fee calculation check and has nothing to do with investor unit holdings.",
+          "Wrong — that is the bank reconciliation, which reconciles cash rather than investor capital.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-013",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Fund administration practice — custodian reconciliation",
+      "tags": ["reconciliation", "custodian", "nav-cycle"],
+      "vi": {
+        "question": "Trong chu trình tính NAV, việc đối chiếu với custodian kiểm tra nội dung gì?",
+        "options": [
+          "Số đơn vị quỹ mà từng nhà đầu tư đang nắm giữ so với sổ đăng ký nhà đầu tư của quỹ",
+          "Tỷ lệ phí quản lý và phí thành tích đã trích so với điều lệ quỹ đã công bố ra thị trường",
+          "Số lượng chứng khoán nắm giữ và số dư tiền theo sổ sách của quỹ so với số liệu custodian",
+          "Kết quả đầu tư của quỹ so với chỉ số tham chiếu (benchmark) trong cùng kỳ báo cáo đó"
+        ],
+        "explanation": "Đối chiếu custodian trả lời câu hỏi “tài sản quỹ đang ghi trên sổ có thật sự tồn tại và đúng số lượng không”: từng mã chứng khoán, số lượng nắm giữ, và số dư tiền của quỹ. Đây là bước bắt buộc TRƯỚC khi chốt NAV. Chênh lệch thường do giao dịch chưa thanh toán xong (unsettled trades), corporate action chưa hạch toán, hoặc lệch ngày ghi nhận giữa trade date và settlement date.",
+        "distractors": [
+          "Sai — đó là đối chiếu GL với investor registry, thuộc bên nguồn vốn chứ không phải bên tài sản.",
+          "Sai — đó là kiểm tra việc tính phí, không phải đối chiếu sự tồn tại thực tế của tài sản.",
+          null,
+          "Sai — so sánh với benchmark là đánh giá hiệu quả đầu tư, không phải chốt kiểm soát kế toán."
+        ]
+      },
+      "en": {
+        "question": "In the NAV cycle, what does the reconciliation to the custodian check?",
+        "options": [
+          "The number of units each investor holds, compared with the fund’s own investor registry",
+          "The management and performance fee rates accrued, compared with the published fund rules",
+          "Securities positions and cash balances per the fund’s books, compared with the custodian",
+          "The fund’s investment return compared with its benchmark index over the same reporting period"
+        ],
+        "explanation": "The custodian reconciliation answers the question “do the assets on our books really exist, in the quantities recorded?” — line by line for each security position and for the fund’s cash balances. It is a mandatory step BEFORE the NAV is struck. Breaks usually come from unsettled trades, corporate actions not yet posted, or trade date versus settlement date differences.",
+        "distractors": [
+          "Wrong — that is the ledger-to-registry reconciliation, which covers the capital side, not the assets.",
+          "Wrong — that is a fee calculation check, not a check on the existence of the fund’s assets.",
+          null,
+          "Wrong — benchmark comparison measures investment performance; it is not an accounting control."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-014",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Fund administration practice — NAV frequency",
+      "tags": ["nav-cycle", "open-ended-fund"],
+      "vi": {
+        "question": "Vì sao quỹ mở (open-ended fund) thường phải tính NAV hằng ngày, trong khi quỹ đầu tư tư nhân chỉ tính theo tháng hoặc theo quý?",
+        "options": [
+          "Vì nhà đầu tư được mua và bán lại đơn vị quỹ theo NAV vào mỗi ngày giao dịch",
+          "Vì cơ quan quản lý bắt buộc mọi loại hình quỹ mở phải công bố NAV hằng ngày lên website",
+          "Vì tài sản trong danh mục của quỹ mở luôn biến động mạnh hơn tài sản của quỹ tư nhân",
+          "Vì phí quản lý của quỹ mở chỉ được phép trích theo NAV của từng ngày làm việc trong tháng"
+        ],
+        "explanation": "Tần suất tính NAV được quyết định bởi tần suất GIAO DỊCH của quỹ (dealing frequency). Quỹ mở nhận subscription và redemption mỗi ngày giao dịch nên phải có một mức giá cho ngày đó — không có NAV thì không có giá để giao dịch. Quỹ tư nhân khóa vốn nhiều năm, nhà đầu tư không ra vào tự do, nên NAV theo quý là đủ cho mục đích báo cáo.",
+        "distractors": [
+          null,
+          "Sai — quy định công bố là HỆ QUẢ của việc quỹ giao dịch hằng ngày, không phải nguyên nhân gốc.",
+          "Sai — mức biến động của tài sản không quyết định tần suất tính NAV; tần suất giao dịch mới quyết định.",
+          "Sai — phí quản lý có thể trích theo ngày hoặc theo tháng, đây không phải lý do phải tính NAV hằng ngày."
+        ]
+      },
+      "en": {
+        "question": "Why does an open-ended fund normally strike a NAV daily, while a private fund does so monthly or quarterly?",
+        "options": [
+          "Because investors may buy and sell units at NAV on every dealing day",
+          "Because the regulator obliges every open-ended fund to publish a daily NAV on its website",
+          "Because the assets held by an open-ended fund are always more volatile than a private fund’s",
+          "Because an open-ended fund may only accrue its management fee on each working day’s NAV"
+        ],
+        "explanation": "NAV frequency follows DEALING frequency. An open-ended fund accepts subscriptions and redemptions every dealing day, so it needs a price for that day — no NAV means no price to deal at. A private fund locks capital up for years and investors cannot come and go freely, so a quarterly NAV is enough for reporting purposes.",
+        "distractors": [
+          null,
+          "Wrong — the publication rule is a CONSEQUENCE of daily dealing, not the underlying reason for it.",
+          "Wrong — asset volatility does not drive NAV frequency; the fund’s dealing frequency does.",
+          "Wrong — management fees may accrue daily or monthly; that is not why a daily NAV is required."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B12-015",
+      "topic": "b12-fund-administration",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Fund administration practice — partnership capital accounts",
+      "tags": ["capital-account", "allocation", "partnership"],
+      "vi": {
+        "question": "Trong quỹ theo mô hình partnership, “capital account” của từng nhà đầu tư phản ánh nội dung gì?",
+        "options": [
+          "Số tiền mặt mà nhà đầu tư được quyền rút ra khỏi quỹ tại bất kỳ thời điểm nào trong kỳ",
+          "Vốn đã góp, phần lãi lỗ được phân bổ và các khoản đã rút vốn của riêng nhà đầu tư đó",
+          "Tổng giá trị tài sản của quỹ chia đều cho số nhà đầu tư đang tham gia góp vốn vào quỹ",
+          "Giá trị thị trường của phần danh mục đầu tư mà nhà quản lý phân bổ riêng cho nhà đầu tư"
+        ],
+        "explanation": "Quỹ partnership không phát hành đơn vị quỹ mà theo dõi từng nhà đầu tư bằng một capital account riêng: vốn góp (contributions) + phần lãi lỗ và thu nhập được phân bổ theo tỷ lệ − chi phí và phí được phân bổ − các khoản rút vốn (distributions). Tổng tất cả capital account phải luôn bằng NAV của quỹ — đây chính là phép kiểm tra chốt sổ của mô hình này, tương đương với đối chiếu GL ↔ registry ở quỹ có đơn vị quỹ.",
+        "distractors": [
+          "Sai — số dư capital account là phần vốn thuộc về nhà đầu tư, không phải số tiền được rút ra tự do.",
+          null,
+          "Sai — phân bổ theo tỷ lệ vốn góp và theo thỏa thuận, không chia đều theo đầu người.",
+          "Sai — nhà đầu tư sở hữu phần vốn trong quỹ, không sở hữu riêng một phần danh mục cụ thể nào."
+        ]
+      },
+      "en": {
+        "question": "In a partnership-style fund, what does each investor’s “capital account” represent?",
+        "options": [
+          "The cash the investor is entitled to withdraw from the fund at any point during the period",
+          "That investor’s contributions, allocated share of profit or loss, and withdrawals",
+          "The fund’s total asset value divided equally among all the investors currently participating",
+          "The market value of the slice of the portfolio the manager has allocated to that investor"
+        ],
+        "explanation": "A partnership fund issues no units; instead each investor is tracked through a capital account: contributions + allocated income and gains − allocated expenses and fees − distributions. The sum of all capital accounts must always equal the fund’s NAV — that is the closing check for this structure, the counterpart of the ledger-to-registry reconciliation in a unitised fund.",
+        "distractors": [
+          "Wrong — the balance is the investor’s share of capital, not cash freely available for withdrawal.",
+          null,
+          "Wrong — allocations follow contributed capital and the agreement, not an equal split per head.",
+          "Wrong — an investor owns an interest in the fund, not any specific slice of the portfolio."
+        ]
+      }
+    }
+  ]
+}

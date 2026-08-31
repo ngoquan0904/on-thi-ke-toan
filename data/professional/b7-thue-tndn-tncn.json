@@ -1,0 +1,605 @@
+{
+  "topic": "b7-thue-tndn-tncn",
+  "questions": [
+    {
+      "id": "PRO-B7-001",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Luật Thuế TNDN 67/2025/QH15 (hiệu lực 01/10/2025, áp dụng từ kỳ tính thuế 2025)",
+      "tags": ["tndn", "thue-suat", "2026-update"],
+      "vi": {
+        "question": "Theo Luật Thuế TNDN 67/2025, doanh nghiệp có tổng doanh thu năm không quá 3 tỷ đồng áp dụng thuế suất nào?",
+        "options": [
+          "10%, mức ưu đãi dành riêng cho doanh nghiệp siêu nhỏ mới thành lập",
+          "15%",
+          "17%",
+          "20%, mức phổ thông áp dụng chung cho mọi loại hình doanh nghiệp"
+        ],
+        "explanation": "Luật TNDN 67/2025 bổ sung hai bậc thuế suất mới cho doanh nghiệp nhỏ: 15% cho doanh thu năm không quá 3 tỷ đồng và 17% cho doanh thu trên 3 tỷ đến 50 tỷ đồng. Mức phổ thông 20% vẫn giữ nguyên cho phần còn lại. Doanh thu làm căn cứ là doanh thu của năm trước liền kề.",
+        "distractors": [
+          "Sai — không có bậc thuế suất 10% trong biểu thuế TNDN phổ thông hiện hành.",
+          null,
+          "Sai — 17% áp dụng cho doanh thu trên 3 tỷ đến 50 tỷ đồng, không phải mức dưới 3 tỷ.",
+          "Sai — 20% là mức phổ thông, áp dụng cho doanh nghiệp có doanh thu trên 50 tỷ đồng."
+        ]
+      },
+      "en": {
+        "question": "Under CIT Law 67/2025, what rate applies to a company with annual revenue not exceeding VND 3 billion?",
+        "options": [
+          "10%, a preferential rate for newly established micro enterprises",
+          "15%",
+          "17%",
+          "20%, the standard rate applying to all types of enterprise"
+        ],
+        "explanation": "CIT Law 67/2025 adds two rates for smaller companies: 15% for annual revenue up to VND 3 billion and 17% for revenue between VND 3 and 50 billion. The standard 20% remains for the rest. The test uses the immediately preceding year’s revenue.",
+        "distractors": [
+          "Wrong — there is no 10% band in the standard CIT scale.",
+          null,
+          "Wrong — 17% applies from VND 3 billion to 50 billion.",
+          "Wrong — 20% is the standard rate for revenue above VND 50 billion."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-002",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Nghị quyết 110/2025/UBTVQH15 (áp dụng từ kỳ tính thuế 2026)",
+      "tags": ["tncn", "giam-tru", "2026-update"],
+      "vi": {
+        "question": "Mức giảm trừ gia cảnh áp dụng cho kỳ tính thuế 2026 là bao nhiêu?",
+        "options": [
+          "11 triệu đồng/tháng cho bản thân và 4,4 triệu đồng/tháng cho mỗi người phụ thuộc",
+          "13,5 triệu đồng/tháng cho bản thân và 5,4 triệu đồng/tháng cho mỗi người phụ thuộc",
+          "20 triệu đồng/tháng cho bản thân và 8 triệu đồng/tháng cho mỗi người phụ thuộc",
+          "15,5 triệu đồng/tháng cho bản thân và 6,2 triệu đồng/tháng cho người phụ thuộc"
+        ],
+        "explanation": "Nghị quyết 110/2025/UBTVQH15 nâng mức giảm trừ lên 15,5 triệu đồng/tháng cho bản thân người nộp thuế và 6,2 triệu đồng/tháng cho mỗi người phụ thuộc, áp dụng từ kỳ tính thuế 2026. Mức cũ 11 triệu và 4,4 triệu theo Nghị quyết 954/2020 chỉ áp dụng đến hết kỳ tính thuế 2025.",
+        "distractors": [
+          "Sai — đây là mức CŨ theo Nghị quyết 954/2020, chỉ áp dụng đến hết kỳ tính thuế 2025.",
+          "Sai — không tồn tại mức giảm trừ 13,5 triệu và 5,4 triệu trong quy định hiện hành.",
+          "Sai — mức 20 triệu và 8 triệu chỉ là con số từng được đề xuất, không phải mức được ban hành.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What family circumstance deductions apply for tax year 2026?",
+        "options": [
+          "VND 11 million per month for the taxpayer and 4.4 million per dependant",
+          "VND 13.5 million per month for the taxpayer and 5.4 million per dependant",
+          "VND 20 million per month for the taxpayer and 8 million per dependant",
+          "VND 15.5 million per month for the taxpayer and 6.2 million per dependant"
+        ],
+        "explanation": "Resolution 110/2025/UBTVQH15 raises the deductions to VND 15.5 million per month for the taxpayer and VND 6.2 million per dependant, effective from tax year 2026. The old 11 million / 4.4 million under Resolution 954/2020 applies only through tax year 2025.",
+        "distractors": [
+          "Wrong — those are the OLD amounts, applying only through tax year 2025.",
+          "Wrong — no such amounts exist in the current rules.",
+          "Wrong — 20 million and 8 million were proposed figures, never enacted.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-003",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Luật Thuế TNCN (sửa đổi) 2025 — biểu thuế lũy tiến 5 bậc, áp dụng từ kỳ tính thuế 2026",
+      "tags": ["tncn", "bieu-thue", "2026-update"],
+      "vi": {
+        "question": "Biểu thuế lũy tiến từng phần đối với thu nhập từ tiền lương áp dụng từ kỳ tính thuế 2026 có bao nhiêu bậc?",
+        "options": [
+          "7 bậc, với các mức thuế suất từ 5% đến 35% giữ nguyên như trước đây",
+          "4 bậc, gồm các mức thuế suất lần lượt là 5%, 15%, 25% và 35%",
+          "5 bậc, gồm các mức thuế suất 5%, 10%, 20%, 30% và 35%",
+          "3 bậc, gồm các mức thuế suất lần lượt là 10%, 20% và 30%"
+        ],
+        "explanation": "Luật Thuế TNCN sửa đổi năm 2025 rút biểu thuế từ 7 bậc xuống còn 5 bậc, áp dụng từ kỳ tính thuế 2026, với các mức 5%, 10%, 20%, 30% và 35%. Hai bậc trung gian 15% và 25% đã bị bỏ, đồng thời ngưỡng bậc cao nhất nâng từ trên 80 triệu lên trên 100 triệu đồng/tháng.",
+        "distractors": [
+          "Sai — biểu 7 bậc là quy định cũ, chỉ áp dụng đến hết kỳ tính thuế 2025.",
+          "Sai — số bậc và các mức thuế suất đều không đúng với biểu thuế mới.",
+          null,
+          "Sai — biểu thuế mới có 5 bậc chứ không phải 3 bậc."
+        ]
+      },
+      "en": {
+        "question": "How many bands does the progressive PIT scale for employment income have from tax year 2026?",
+        "options": [
+          "7 bands, with rates from 5% to 35% unchanged from before",
+          "4 bands, with rates of 5%, 15%, 25% and 35%",
+          "5 bands, with rates of 5%, 10%, 20%, 30% and 35%",
+          "3 bands, with rates of 10%, 20% and 30%"
+        ],
+        "explanation": "The 2025 amended PIT Law cuts the scale from 7 bands to 5, effective from tax year 2026, at 5%, 10%, 20%, 30% and 35%. The 15% and 25% intermediate bands are removed, and the top band threshold rises from over VND 80 million to over VND 100 million per month.",
+        "distractors": [
+          "Wrong — the 7-band scale applies only through tax year 2025.",
+          "Wrong — neither the count nor the rates match the new scale.",
+          null,
+          "Wrong — the new scale has 5 bands, not 3."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-004",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "advanced",
+      "answer": 0,
+      "ref": "Nghị quyết 110/2025/UBTVQH15; Luật Thuế TNCN (sửa đổi) 2025 — biểu thuế 5 bậc",
+      "tags": ["tncn", "tinh-toan", "2026-update"],
+      "vi": {
+        "question": "Năm 2026, một cá nhân cư trú có lương 40 triệu đồng/tháng, đóng bảo hiểm bắt buộc 10,5% trên lương, có 1 người phụ thuộc. Thuế TNCN phải nộp mỗi tháng là:",
+        "options": [
+          "910.000 đồng",
+          "705.000 đồng",
+          "1.410.000 đồng",
+          "2.115.000 đồng"
+        ],
+        "explanation": "Bảo hiểm bắt buộc = 40 × 10,5% = 4,2 triệu. Giảm trừ gia cảnh = 15,5 + 6,2 = 21,7 triệu. Thu nhập tính thuế = 40 − 4,2 − 21,7 = 14,1 triệu. Áp biểu 5 bậc: bậc 1 (đến 10 triệu) 10 × 5% = 0,5 triệu; bậc 2 (trên 10 đến 30 triệu) 4,1 × 10% = 0,41 triệu. Tổng = 0,91 triệu đồng.",
+        "distractors": [
+          null,
+          "Sai — tính thiếu; có thể do bỏ sót phần thu nhập rơi vào bậc 2 của biểu thuế.",
+          "Sai — có thể do áp nhầm thuế suất 10% cho toàn bộ thu nhập tính thuế thay vì lũy tiến từng phần.",
+          "Sai — có thể do dùng mức giảm trừ cũ 11 triệu và 4,4 triệu của kỳ tính thuế 2025."
+        ]
+      },
+      "en": {
+        "question": "In 2026 a resident earns VND 40 million per month, pays compulsory insurance at 10.5% of salary and has one dependant. Monthly PIT payable is:",
+        "options": [
+          "VND 910,000",
+          "VND 705,000",
+          "VND 1,410,000",
+          "VND 2,115,000"
+        ],
+        "explanation": "Insurance = 40 × 10.5% = 4.2 million. Family deductions = 15.5 + 6.2 = 21.7 million. Taxable income = 40 − 4.2 − 21.7 = 14.1 million. Applying the 5-band scale: band 1 (to 10 million) 10 × 5% = 0.5 million; band 2 (10–30 million) 4.1 × 10% = 0.41 million. Total 0.91 million.",
+        "distractors": [
+          null,
+          "Wrong — understated, most likely by omitting the portion falling into band 2.",
+          "Wrong — likely from applying 10% to the whole taxable income instead of progressive bands.",
+          "Wrong — likely from using the old 11 million / 4.4 million deductions of tax year 2025."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-005",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Luật Thuế TNDN 67/2025/QH15",
+      "tags": ["tndn", "chi-phi-khong-duoc-tru"],
+      "vi": {
+        "question": "Khoản chi nào sau đây KHÔNG được trừ khi xác định thu nhập chịu thuế TNDN?",
+        "options": [
+          "Chi phí tiền lương trả cho người lao động có hợp đồng lao động đầy đủ",
+          "Chi phí khấu hao tài sản cố định phục vụ trực tiếp hoạt động sản xuất kinh doanh",
+          "Tiền phạt vi phạm hành chính về thuế và vi phạm giao thông của doanh nghiệp",
+          "Chi phí điện nước văn phòng có hóa đơn hợp lệ và thanh toán chuyển khoản"
+        ],
+        "explanation": "Tiền phạt vi phạm hành chính (phạt thuế, phạt giao thông, phạt vi phạm pháp luật khác) là khoản chi KHÔNG được trừ khi tính thuế TNDN, dù vẫn được ghi nhận đầy đủ trong sổ kế toán. Lưu ý phân biệt: tiền phạt VI PHẠM HỢP ĐỒNG kinh tế giữa hai doanh nghiệp thì vẫn được trừ.",
+        "distractors": [
+          "Sai — lương có hợp đồng lao động và chứng từ đầy đủ là chi phí được trừ hợp lệ.",
+          "Sai — khấu hao tài sản phục vụ sản xuất kinh doanh là chi phí được trừ theo quy định.",
+          null,
+          "Sai — chi phí điện nước có hóa đơn hợp lệ và thanh toán đúng quy định được trừ bình thường."
+        ]
+      },
+      "en": {
+        "question": "Which of the following is NOT deductible for corporate income tax?",
+        "options": [
+          "Salaries paid to employees with proper employment contracts",
+          "Depreciation of fixed assets used directly in business operations",
+          "Administrative fines for tax and traffic violations by the company",
+          "Office utilities with valid invoices settled by bank transfer"
+        ],
+        "explanation": "Administrative fines — tax penalties, traffic fines and other regulatory penalties — are NOT deductible for CIT, even though they are fully recorded in the books. Note the distinction: contractual penalties between businesses remain deductible.",
+        "distractors": [
+          "Wrong — contracted salaries with proper documentation are deductible.",
+          "Wrong — depreciation of business assets is deductible.",
+          null,
+          "Wrong — utilities with valid invoices and compliant payment are deductible."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-006",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "Luật Thuế TNDN 67/2025/QH15; Nghị định 181/2025/NĐ-CP",
+      "tags": ["tndn", "chi-phi-duoc-tru", "2026-update"],
+      "vi": {
+        "question": "Doanh nghiệp chi 8 triệu đồng mua vật tư, có hóa đơn hợp lệ nhưng thanh toán bằng tiền mặt. Khoản chi này có được trừ khi tính thuế TNDN không?",
+        "options": [
+          "Được trừ bình thường vì đã có hóa đơn hợp lệ của nhà cung cấp",
+          "Không được trừ vì từ 5 triệu đồng phải có chứng từ thanh toán không dùng tiền mặt",
+          "Được trừ 50% giá trị theo tỷ lệ tương ứng với phần vượt ngưỡng quy định",
+          "Được trừ nếu doanh nghiệp lập thêm phiếu chi có chữ ký của giám đốc"
+        ],
+        "explanation": "Điều kiện chi phí được trừ gồm ba yếu tố: phục vụ hoạt động sản xuất kinh doanh, có đủ hóa đơn chứng từ hợp pháp, và có chứng từ thanh toán không dùng tiền mặt với khoản chi từ 5 triệu đồng trở lên. Thiếu điều kiện thứ ba thì khoản chi bị loại, và thuế GTGT đầu vào cũng không được khấu trừ.",
+        "distractors": [
+          "Sai — chỉ có hóa đơn là chưa đủ; còn phải đáp ứng điều kiện chứng từ thanh toán.",
+          null,
+          "Sai — không có cơ chế trừ một phần theo tỷ lệ; khoản chi bị loại toàn bộ.",
+          "Sai — phiếu chi nội bộ không thay thế được chứng từ thanh toán không dùng tiền mặt."
+        ]
+      },
+      "en": {
+        "question": "A company spends VND 8 million on materials with a valid invoice but pays in cash. Is the cost deductible for CIT?",
+        "options": [
+          "Fully deductible, since a valid supplier invoice exists",
+          "Not deductible, because spending from VND 5 million requires non-cash payment evidence",
+          "50% deductible, in proportion to the amount above the threshold",
+          "Deductible if the company also prepares a payment voucher signed by the director"
+        ],
+        "explanation": "Deductibility requires three things: the cost serves the business, valid invoices and documents exist, and non-cash payment evidence is held for spending of VND 5 million or more. Failing the third condition disallows the cost entirely, and input VAT is also lost.",
+        "distractors": [
+          "Wrong — an invoice alone is not enough; the payment condition must also be met.",
+          null,
+          "Wrong — there is no partial deduction; the whole cost is disallowed.",
+          "Wrong — an internal voucher cannot substitute for non-cash payment evidence."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-007",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Luật Thuế TNDN 67/2025/QH15",
+      "tags": ["tndn", "cong-thuc"],
+      "vi": {
+        "question": "Công thức xác định thu nhập tính thuế TNDN là:",
+        "options": [
+          "Doanh thu trừ đi toàn bộ chi phí phát sinh ghi nhận trong sổ kế toán của kỳ",
+          "Lợi nhuận kế toán trước thuế nhân với thuế suất thuế TNDN hiện hành",
+          "Doanh thu nhân với tỷ lệ lợi nhuận định mức do cơ quan thuế công bố hằng năm",
+          "Thu nhập chịu thuế trừ thu nhập được miễn thuế trừ các khoản lỗ được kết chuyển"
+        ],
+        "explanation": "Thu nhập tính thuế = Thu nhập chịu thuế − Thu nhập được miễn thuế − Các khoản lỗ được kết chuyển từ các năm trước. Sau đó nhân với thuế suất mới ra số thuế phải nộp. Lưu ý thu nhập chịu thuế khác lợi nhuận kế toán do phải loại trừ các khoản chi không được trừ.",
+        "distractors": [
+          "Sai — không phải mọi chi phí ghi trong sổ kế toán đều được trừ khi tính thuế TNDN.",
+          "Sai — đây là bước tính số thuế phải nộp, và lợi nhuận kế toán chưa phải thu nhập tính thuế.",
+          "Sai — tính theo tỷ lệ định mức chỉ áp dụng trong trường hợp ấn định thuế đặc biệt.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How is CIT taxable income determined?",
+        "options": [
+          "Revenue less all costs recorded in the accounting books for the period",
+          "Accounting profit before tax multiplied by the current CIT rate",
+          "Revenue multiplied by a standard profit ratio published annually by the tax authority",
+          "Assessable income less exempt income less losses carried forward"
+        ],
+        "explanation": "Taxable income = assessable income − exempt income − losses carried forward from prior years. Multiplying by the rate then gives the tax payable. Note assessable income differs from accounting profit because non-deductible costs must be added back.",
+        "distractors": [
+          "Wrong — not every cost recorded in the books is deductible for CIT.",
+          "Wrong — that is the tax computation step, and accounting profit is not taxable income.",
+          "Wrong — standard ratios apply only under special deemed assessment.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-008",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Luật Thuế TNDN 67/2025/QH15",
+      "tags": ["tndn", "chuyen-lo"],
+      "vi": {
+        "question": "Doanh nghiệp lỗ trong năm 2026 thì được chuyển lỗ sang các năm sau trong thời hạn tối đa bao lâu?",
+        "options": [
+          "Tối đa 5 năm liên tục kể từ năm tiếp sau năm phát sinh lỗ",
+          "Tối đa 3 năm liên tục kể từ năm tiếp sau năm phát sinh khoản lỗ đó",
+          "Tối đa 10 năm liên tục kể từ năm tiếp sau năm phát sinh khoản lỗ đó",
+          "Không giới hạn thời gian, chuyển đến khi nào bù đắp hết khoản lỗ thì thôi"
+        ],
+        "explanation": "Doanh nghiệp được chuyển lỗ liên tục tối đa 5 năm, tính từ năm tiếp sau năm phát sinh lỗ. Phải chuyển toàn bộ và liên tục, không được chọn năm nào chuyển năm nào không. Hết 5 năm mà chưa bù đắp hết thì phần lỗ còn lại không được chuyển tiếp nữa.",
+        "distractors": [
+          null,
+          "Sai — thời hạn chuyển lỗ theo luật là 5 năm, không phải 3 năm.",
+          "Sai — không có thời hạn 10 năm trong quy định về chuyển lỗ thuế TNDN.",
+          "Sai — pháp luật quy định giới hạn rõ ràng là 5 năm, không phải vô thời hạn."
+        ]
+      },
+      "en": {
+        "question": "A company incurs a loss in 2026. For how long may it be carried forward?",
+        "options": [
+          "Up to 5 consecutive years from the year following the loss",
+          "Up to 3 consecutive years from the year following the loss",
+          "Up to 10 consecutive years from the year following the loss",
+          "Indefinitely, until the loss is fully utilised"
+        ],
+        "explanation": "Losses may be carried forward for up to 5 consecutive years, starting the year after the loss arose. The carry-forward must be continuous and complete — you cannot pick which years to use. Any unrelieved balance after 5 years is lost.",
+        "distractors": [
+          null,
+          "Wrong — the statutory period is 5 years, not 3.",
+          "Wrong — there is no 10-year carry-forward in the CIT rules.",
+          "Wrong — the law sets a clear 5-year limit."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-009",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Luật Thuế TNCN — quy định về cá nhân cư trú",
+      "tags": ["tncn", "cu-tru"],
+      "vi": {
+        "question": "Cá nhân được xác định là cư trú tại Việt Nam khi thỏa mãn điều kiện nào?",
+        "options": [
+          "Có quốc tịch Việt Nam, không phụ thuộc vào số ngày thực tế có mặt tại Việt Nam",
+          "Có hợp đồng lao động ký với doanh nghiệp Việt Nam thời hạn từ 12 tháng trở lên",
+          "Có mặt tại Việt Nam từ 183 ngày trở lên trong năm dương lịch hoặc 12 tháng liên tục, hoặc có nơi ở thường xuyên",
+          "Đã đăng ký mã số thuế cá nhân với cơ quan thuế Việt Nam và có thu nhập phát sinh"
+        ],
+        "explanation": "Cá nhân cư trú là người có mặt tại Việt Nam từ 183 ngày trở lên trong một năm dương lịch hoặc trong 12 tháng liên tục kể từ ngày đầu tiên có mặt, HOẶC có nơi ở thường xuyên tại Việt Nam. Ý nghĩa thực tiễn: cá nhân cư trú tính thuế lũy tiến và được giảm trừ gia cảnh; cá nhân không cư trú chịu thuế suất 20% và không được giảm trừ.",
+        "distractors": [
+          "Sai — quốc tịch không phải tiêu chí xác định tình trạng cư trú thuế.",
+          "Sai — thời hạn hợp đồng lao động không quyết định tình trạng cư trú thuế.",
+          null,
+          "Sai — đăng ký mã số thuế là thủ tục hành chính, không quyết định tình trạng cư trú."
+        ]
+      },
+      "en": {
+        "question": "When is an individual treated as tax resident in Vietnam?",
+        "options": [
+          "Holding Vietnamese nationality, regardless of days actually present",
+          "Holding an employment contract with a Vietnamese company of 12 months or more",
+          "Present in Vietnam for 183 days or more in a calendar year or 12 consecutive months, or having a permanent residence",
+          "Having registered a personal tax code and earning income in Vietnam"
+        ],
+        "explanation": "A resident is present in Vietnam for 183 days or more in a calendar year or in 12 consecutive months from first arrival, OR has a permanent residence here. Practical consequence: residents are taxed progressively with family deductions; non-residents pay a flat 20% with no deductions.",
+        "distractors": [
+          "Wrong — nationality does not determine tax residence.",
+          "Wrong — contract length does not determine tax residence.",
+          null,
+          "Wrong — registering a tax code is administrative and does not confer residence."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-010",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Luật Thuế TNCN — khấu trừ thuế thu nhập vãng lai",
+      "tags": ["tncn", "khau-tru-tai-nguon"],
+      "vi": {
+        "question": "Doanh nghiệp trả 5 triệu đồng cho một cá nhân không ký hợp đồng lao động (thu nhập vãng lai). Phải khấu trừ thuế TNCN bao nhiêu?",
+        "options": [
+          "Không phải khấu trừ vì cá nhân sẽ tự đi kê khai và nộp thuế với cơ quan thuế",
+          "Khấu trừ 10% trên tổng số tiền chi trả, tức 500.000 đồng",
+          "Khấu trừ theo biểu thuế lũy tiến từng phần như đối với người lao động chính thức",
+          "Khấu trừ 20% trên tổng số tiền chi trả, tức 1.000.000 đồng"
+        ],
+        "explanation": "Với thu nhập vãng lai từ 2 triệu đồng/lần trở lên trả cho cá nhân không ký hợp đồng lao động hoặc hợp đồng dưới 3 tháng, doanh nghiệp phải khấu trừ 10% tại nguồn trước khi chi trả. Cá nhân có thể làm cam kết để tạm không khấu trừ nếu ước tính tổng thu nhập năm chưa đến mức phải nộp thuế.",
+        "distractors": [
+          "Sai — pháp luật quy định bên chi trả có nghĩa vụ khấu trừ tại nguồn trước khi trả tiền.",
+          null,
+          "Sai — biểu lũy tiến áp dụng cho lao động có hợp đồng từ 3 tháng trở lên.",
+          "Sai — mức 20% áp dụng cho cá nhân KHÔNG CƯ TRÚ, không phải thu nhập vãng lai của cá nhân cư trú."
+        ]
+      },
+      "en": {
+        "question": "A company pays VND 5 million to an individual with no employment contract (casual income). How much PIT must be withheld?",
+        "options": [
+          "None; the individual will declare and pay the tax themselves",
+          "10% of the gross payment, i.e. VND 500,000",
+          "Progressive rates, as for permanent employees",
+          "20% of the gross payment, i.e. VND 1,000,000"
+        ],
+        "explanation": "For casual income of VND 2 million or more per payment to individuals without a contract or with a contract under 3 months, the payer must withhold 10% at source. The individual may sign a commitment to suspend withholding if their estimated annual income falls below the taxable threshold.",
+        "distractors": [
+          "Wrong — the law places the withholding obligation on the payer.",
+          null,
+          "Wrong — progressive rates apply to contracts of 3 months or more.",
+          "Wrong — 20% applies to NON-RESIDENTS, not to residents’ casual income."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-011",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "advanced",
+      "answer": 3,
+      "ref": "Luật Thuế TNDN 67/2025/QH15 — thuế suất theo bậc doanh thu",
+      "tags": ["tndn", "tinh-toan", "2026-update"],
+      "vi": {
+        "question": "Doanh nghiệp có doanh thu năm trước liền kề là 40 tỷ đồng, thu nhập tính thuế năm nay 2 tỷ đồng. Thuế TNDN phải nộp là:",
+        "options": [
+          "300 triệu đồng, do áp dụng mức thuế suất ưu đãi 15% cho doanh nghiệp nhỏ",
+          "400 triệu đồng, do áp dụng mức thuế suất phổ thông 20% theo quy định chung",
+          "200 triệu đồng, do áp dụng mức thuế suất 10% cho doanh nghiệp vừa và nhỏ",
+          "340 triệu đồng"
+        ],
+        "explanation": "Doanh thu năm trước 40 tỷ đồng nằm trong khoảng trên 3 tỷ đến 50 tỷ đồng nên áp dụng thuế suất 17% theo Luật TNDN 67/2025. Thuế phải nộp = 2 tỷ × 17% = 340 triệu đồng. Điểm mấu chốt cần nhớ: thuế suất được xác định theo DOANH THU của năm trước, còn số thuế thì tính trên THU NHẬP TÍNH THUẾ của năm nay.",
+        "distractors": [
+          "Sai — mức 15% chỉ áp dụng cho doanh nghiệp có doanh thu năm không quá 3 tỷ đồng.",
+          "Sai — mức 20% áp dụng khi doanh thu năm trước vượt 50 tỷ đồng.",
+          "Sai — không tồn tại mức thuế suất 10% trong biểu thuế TNDN phổ thông.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A company had prior-year revenue of VND 40 billion and taxable income this year of VND 2 billion. CIT payable is:",
+        "options": [
+          "VND 300 million, applying the 15% small-company rate",
+          "VND 400 million, applying the standard 20% rate",
+          "VND 200 million, applying a 10% SME rate",
+          "VND 340 million"
+        ],
+        "explanation": "Prior-year revenue of VND 40 billion falls in the 3–50 billion band, so the 17% rate applies under CIT Law 67/2025. Tax = 2 billion × 17% = VND 340 million. Key point: the RATE is set by prior-year revenue, while the tax is computed on this year’s TAXABLE INCOME.",
+        "distractors": [
+          "Wrong — 15% applies only where annual revenue does not exceed VND 3 billion.",
+          "Wrong — 20% applies where prior-year revenue exceeds VND 50 billion.",
+          "Wrong — no 10% band exists in the standard CIT scale.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-012",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Luật Quản lý thuế 38/2019/QH14 — tạm nộp thuế TNDN",
+      "tags": ["tndn", "tam-nop"],
+      "vi": {
+        "question": "Quy định về tạm nộp thuế TNDN theo quý hiện nay là gì?",
+        "options": [
+          "Tạm nộp theo quý, tổng số tạm nộp 4 quý không được thấp hơn 80% số phải nộp theo quyết toán năm",
+          "Tạm nộp theo quý kèm theo tờ khai thuế quý gửi cơ quan thuế trong vòng 30 ngày",
+          "Không phải tạm nộp trong năm, chỉ nộp một lần khi quyết toán thuế cuối năm tài chính",
+          "Tạm nộp hằng tháng theo mức cố định do cơ quan thuế thông báo từ đầu năm"
+        ],
+        "explanation": "Doanh nghiệp tự xác định và tạm nộp thuế TNDN theo quý, KHÔNG phải nộp tờ khai quý. Tổng số thuế tạm nộp của 4 quý không được thấp hơn 80% số thuế phải nộp theo quyết toán năm; thiếu hụt sẽ bị tính tiền chậm nộp trên phần chênh lệch kể từ ngày hết hạn nộp thuế quý 4.",
+        "distractors": [
+          null,
+          "Sai — không phải nộp tờ khai thuế TNDN theo quý, chỉ tạm nộp tiền thuế.",
+          "Sai — vẫn phải tạm nộp theo quý trong năm, không đợi tới khi quyết toán.",
+          "Sai — doanh nghiệp tự xác định số tạm nộp, không phải theo mức cơ quan thuế ấn định."
+        ]
+      },
+      "en": {
+        "question": "What is the current rule on quarterly provisional CIT payments?",
+        "options": [
+          "Pay provisionally each quarter; the four quarters together must be at least 80% of the annual liability",
+          "Pay provisionally each quarter with a quarterly return filed within 30 days",
+          "No provisional payments during the year; pay once at annual finalisation",
+          "Pay monthly at a fixed amount notified by the tax authority at the start of the year"
+        ],
+        "explanation": "Companies self-assess and pay provisional CIT quarterly, with NO quarterly return required. The four quarters together must be at least 80% of the final annual liability; any shortfall attracts late payment interest from the Q4 due date.",
+        "distractors": [
+          null,
+          "Wrong — no quarterly CIT return is filed; only the payment is made.",
+          "Wrong — provisional quarterly payments are still required during the year.",
+          "Wrong — companies self-assess rather than following an authority-set amount."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-013",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Luật Thuế TNCN — cá nhân không cư trú",
+      "tags": ["tncn", "khong-cu-tru"],
+      "vi": {
+        "question": "Cá nhân KHÔNG cư trú có thu nhập từ tiền lương phát sinh tại Việt Nam chịu thuế TNCN thế nào?",
+        "options": [
+          "Theo biểu thuế lũy tiến từng phần 5 bậc và được hưởng đầy đủ giảm trừ gia cảnh",
+          "Theo mức thuế suất cố định 10% và được giảm trừ cho bản thân người nộp thuế",
+          "Theo mức thuế suất cố định 20% trên thu nhập chịu thuế, không được giảm trừ gia cảnh",
+          "Được miễn thuế hoàn toàn theo các hiệp định tránh đánh thuế hai lần đã ký kết"
+        ],
+        "explanation": "Cá nhân không cư trú chịu thuế suất 20% trên thu nhập chịu thuế phát sinh tại Việt Nam và KHÔNG được áp dụng giảm trừ gia cảnh. Đây là điểm quan trọng khi tính lương cho chuyên gia nước ngoài mới sang làm việc dưới 183 ngày — một tình huống rất thường gặp tại doanh nghiệp FDI.",
+        "distractors": [
+          "Sai — biểu lũy tiến và giảm trừ gia cảnh chỉ áp dụng cho cá nhân cư trú.",
+          "Sai — mức 10% là tỷ lệ khấu trừ thu nhập vãng lai của cá nhân cư trú, không phải người không cư trú.",
+          null,
+          "Sai — hiệp định tránh đánh thuế hai lần có thể giảm nghĩa vụ nhưng không mặc nhiên miễn thuế."
+        ]
+      },
+      "en": {
+        "question": "How is employment income arising in Vietnam taxed for a NON-resident individual?",
+        "options": [
+          "Under the 5-band progressive scale with full family deductions",
+          "At a flat 10% with a personal deduction for the taxpayer",
+          "At a flat 20% of assessable income, with no family deductions",
+          "Fully exempt under signed double taxation agreements"
+        ],
+        "explanation": "Non-residents pay a flat 20% on Vietnam-sourced assessable income with NO family deductions. This matters when computing pay for foreign experts in their first months, before they reach 183 days — a very common situation in FDI companies.",
+        "distractors": [
+          "Wrong — progressive rates and family deductions apply only to residents.",
+          "Wrong — 10% is the withholding rate on residents’ casual income.",
+          null,
+          "Wrong — a treaty may reduce liability but does not automatically exempt income."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-014",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "advanced",
+      "answer": 1,
+      "ref": "Luật Thuế TNDN 67/2025/QH15 — chi phí phúc lợi được trừ",
+      "tags": ["tndn", "chi-phuc-loi"],
+      "vi": {
+        "question": "Doanh nghiệp chi phúc lợi cho người lao động (nghỉ mát, hiếu hỉ, hỗ trợ khám chữa bệnh). Mức khống chế được trừ khi tính thuế TNDN là:",
+        "options": [
+          "Không quá 10% tổng quỹ lương thực hiện trong năm tài chính của doanh nghiệp",
+          "Không quá 01 tháng lương bình quân thực tế thực hiện trong năm tính thuế",
+          "Không quá 03 tháng lương bình quân thực tế thực hiện trong năm tính thuế đó",
+          "Không bị khống chế, được trừ toàn bộ nếu có đầy đủ hóa đơn chứng từ hợp lệ"
+        ],
+        "explanation": "Tổng số chi phúc lợi trực tiếp cho người lao động được trừ không quá 01 THÁNG LƯƠNG BÌNH QUÂN THỰC TẾ thực hiện trong năm tính thuế. Phần vượt mức khống chế phải loại ra khi quyết toán thuế TNDN. Đây là khoản kế toán dịch vụ luôn phải rà soát kỹ vào cuối năm cho khách hàng.",
+        "distractors": [
+          "Sai — mức khống chế tính theo tháng lương bình quân, không theo tỷ lệ phần trăm quỹ lương.",
+          null,
+          "Sai — mức khống chế là 01 tháng lương bình quân, không phải 03 tháng.",
+          "Sai — chi phúc lợi có mức khống chế rõ ràng, không được trừ không giới hạn."
+        ]
+      },
+      "en": {
+        "question": "A company pays employee welfare benefits (holidays, weddings and funerals, medical support). The CIT deduction cap is:",
+        "options": [
+          "No more than 10% of the total payroll actually paid in the financial year",
+          "No more than one month of the average actual salary in the tax year",
+          "No more than three months of the average actual salary in the tax year",
+          "Uncapped, fully deductible provided valid invoices and documents exist"
+        ],
+        "explanation": "Total direct welfare spending on employees is deductible up to ONE MONTH of the average actual salary in the tax year. Any excess is added back at finalisation. Outsourced accountants review this closely for clients at year end.",
+        "distractors": [
+          "Wrong — the cap is expressed in months of average salary, not a payroll percentage.",
+          null,
+          "Wrong — the cap is one month, not three.",
+          "Wrong — welfare spending has an explicit cap."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B7-015",
+      "topic": "b7-thue-tndn-tncn",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Nghị quyết 110/2025/UBTVQH15; Nghị quyết 954/2020/UBTVQH14",
+      "tags": ["tncn", "quyet-toan", "2026-update"],
+      "vi": {
+        "question": "Trong năm 2026, kế toán thực hiện quyết toán thuế TNCN cho kỳ tính thuế 2025. Mức giảm trừ gia cảnh nào được áp dụng?",
+        "options": [
+          "Mức 15,5 triệu và 6,2 triệu đồng, vì việc quyết toán được thực hiện trong năm 2026",
+          "Áp dụng mức trung bình của hai giai đoạn để đảm bảo công bằng cho người nộp thuế",
+          "Người nộp thuế được quyền tự chọn mức có lợi hơn cho mình trong hai mức nêu trên",
+          "Mức 11 triệu và 4,4 triệu đồng, vì đây là mức áp dụng cho kỳ tính thuế 2025"
+        ],
+        "explanation": "Mức giảm trừ áp dụng theo KỲ TÍNH THUẾ, không theo thời điểm thực hiện quyết toán. Quyết toán cho kỳ tính thuế 2025 vẫn dùng mức cũ 11 triệu và 4,4 triệu theo Nghị quyết 954/2020. Mức mới 15,5 triệu và 6,2 triệu chỉ áp dụng từ kỳ tính thuế 2026 trở đi.",
+        "distractors": [
+          "Sai — bẫy điển hình; mức giảm trừ gắn với kỳ tính thuế chứ không phải năm thực hiện quyết toán.",
+          "Sai — pháp luật không có cơ chế lấy mức trung bình giữa hai giai đoạn.",
+          "Sai — người nộp thuế không được tự chọn mức giảm trừ áp dụng.",
+          null
+        ]
+      },
+      "en": {
+        "question": "During 2026, an accountant finalises PIT for tax year 2025. Which family deduction amounts apply?",
+        "options": [
+          "VND 15.5 million and 6.2 million, because the finalisation is done in 2026",
+          "An average of the two sets of amounts, for fairness to the taxpayer",
+          "The taxpayer may choose whichever set is more favourable",
+          "VND 11 million and 4.4 million, being the amounts for tax year 2025"
+        ],
+        "explanation": "The deduction follows the TAX YEAR, not the date of filing. Finalising tax year 2025 still uses the old VND 11 million / 4.4 million under Resolution 954/2020. The new amounts apply only from tax year 2026 onwards.",
+        "distractors": [
+          "Wrong — the classic trap; the deduction attaches to the tax year, not the filing year.",
+          "Wrong — no averaging mechanism exists in law.",
+          "Wrong — taxpayers cannot choose which amounts apply.",
+          null
+        ]
+      }
+    }
+  ]
+}

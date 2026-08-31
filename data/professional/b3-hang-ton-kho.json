@@ -1,0 +1,480 @@
+{
+  "topic": "b3-hang-ton-kho",
+  "questions": [
+    {
+      "id": "PRO-B3-001",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "VAS 02 – Hàng tồn kho",
+      "tags": ["gia-goc"],
+      "vi": {
+        "question": "Giá gốc hàng tồn kho mua ngoài bao gồm những khoản nào?",
+        "options": [
+          "Chỉ gồm giá mua ghi trên hóa đơn của nhà cung cấp, không cộng thêm khoản nào khác",
+          "Giá mua cộng với chi phí bán hàng dự kiến phát sinh khi tiêu thụ lô hàng đó",
+          "Giá mua cộng toàn bộ chi phí quản lý doanh nghiệp phân bổ cho kỳ nhập hàng",
+          "Giá mua, thuế không được hoàn lại, chi phí vận chuyển bốc xếp, trừ chiết khấu thương mại"
+        ],
+        "explanation": "Theo VAS 02, giá gốc hàng tồn kho gồm chi phí mua (giá mua, thuế không được hoàn lại, chi phí vận chuyển bốc xếp, bảo quản, trừ chiết khấu thương mại và giảm giá hàng mua), chi phí chế biến và các chi phí liên quan trực tiếp khác. Lưu ý thuế GTGT ĐƯỢC khấu trừ không tính vào giá gốc.",
+        "distractors": [
+          "Sai — thiếu các chi phí liên quan trực tiếp như vận chuyển, bốc xếp để đưa hàng về kho.",
+          "Sai — chi phí bán hàng phát sinh sau này, không được tính vào giá gốc hàng tồn kho.",
+          "Sai — chi phí quản lý doanh nghiệp là chi phí thời kỳ, không được vốn hóa vào hàng tồn kho.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does the cost of purchased inventory include?",
+        "options": [
+          "Only the purchase price on the supplier’s invoice, with nothing added",
+          "The purchase price plus expected selling costs when the goods are sold",
+          "The purchase price plus administrative overheads allocated to the purchase period",
+          "Purchase price, non-refundable taxes, freight and handling, less trade discounts"
+        ],
+        "explanation": "Under VAS 02, inventory cost comprises purchase costs (price, non-refundable taxes, freight, handling and storage, less trade discounts and purchase allowances), conversion costs and other directly attributable costs. Deductible input VAT is excluded.",
+        "distractors": [
+          "Wrong — directly attributable costs such as freight and handling are missing.",
+          "Wrong — selling costs arise later and are never part of inventory cost.",
+          "Wrong — administrative overheads are period costs and cannot be capitalised.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-002",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "VAS 02 – Hàng tồn kho",
+      "tags": ["fifo", "tinh-toan"],
+      "vi": {
+        "question": "Tồn đầu kỳ 100 sản phẩm đơn giá 20.000 đồng. Nhập ngày 15/01: 200 sản phẩm giá 22.000 đồng. Nhập ngày 20/01: 100 sản phẩm giá 25.000 đồng. Xuất ngày 25/01: 250 sản phẩm. Giá trị xuất kho theo phương pháp FIFO là:",
+        "options": [
+          "5.000.000 đồng",
+          "5.300.000 đồng",
+          "5.562.500 đồng",
+          "5.750.000 đồng"
+        ],
+        "explanation": "FIFO xuất theo thứ tự nhập trước xuất trước. Xuất 250 sản phẩm gồm: 100 sản phẩm tồn đầu kỳ × 20.000 = 2.000.000 đồng, cộng 150 sản phẩm từ lô nhập 15/01 × 22.000 = 3.300.000 đồng. Tổng giá trị xuất kho = 5.300.000 đồng. Tồn cuối kỳ còn 150 sản phẩm.",
+        "distractors": [
+          "Sai — lấy toàn bộ 250 sản phẩm nhân đơn giá tồn đầu kỳ 20.000 đồng là không đúng phương pháp.",
+          null,
+          "Sai — 5.562.500 đồng là kết quả theo phương pháp bình quân gia quyền cuối kỳ, không phải FIFO.",
+          "Sai — có thể do tính theo thứ tự nhập sau xuất trước, tức phương pháp LIFO đã bị cấm áp dụng."
+        ]
+      },
+      "en": {
+        "question": "Opening stock 100 units at VND 20,000. Purchases: 15 Jan 200 units at 22,000; 20 Jan 100 units at 25,000. Issue on 25 Jan: 250 units. The FIFO cost of the issue is:",
+        "options": [
+          "VND 5,000,000",
+          "VND 5,300,000",
+          "VND 5,562,500",
+          "VND 5,750,000"
+        ],
+        "explanation": "FIFO issues the oldest units first. The 250 units comprise 100 opening units × 20,000 = 2,000,000 plus 150 units from the 15 Jan batch × 22,000 = 3,300,000, giving 5,300,000. Closing stock is 150 units.",
+        "distractors": [
+          "Wrong — applying the opening price to all 250 units is not the FIFO method.",
+          null,
+          "Wrong — 5,562,500 is the weighted average result, not FIFO.",
+          "Wrong — likely computed last-in-first-out, a method that is prohibited."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-003",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "VAS 02 – Hàng tồn kho",
+      "tags": ["binh-quan-gia-quyen", "tinh-toan"],
+      "vi": {
+        "question": "Với cùng số liệu ở câu trên, giá trị xuất kho theo phương pháp bình quân gia quyền CUỐI KỲ là:",
+        "options": [
+          "5.000.000 đồng",
+          "5.300.000 đồng",
+          "5.562.500 đồng",
+          "6.000.000 đồng"
+        ],
+        "explanation": "Tổng giá trị nhập và tồn = 2.000.000 + 4.400.000 + 2.500.000 = 8.900.000 đồng. Tổng số lượng = 100 + 200 + 100 = 400 sản phẩm. Đơn giá bình quân = 8.900.000 ÷ 400 = 22.250 đồng. Giá trị xuất kho = 250 × 22.250 = 5.562.500 đồng.",
+        "distractors": [
+          "Sai — chỉ dùng đơn giá tồn đầu kỳ 20.000 đồng, chưa tính bình quân toàn bộ lô hàng.",
+          "Sai — 5.300.000 đồng là kết quả theo phương pháp FIFO, không phải bình quân gia quyền.",
+          null,
+          "Sai — có thể do dùng đơn giá 24.000 đồng, không phải đơn giá bình quân đúng của kỳ."
+        ]
+      },
+      "en": {
+        "question": "Using the same figures, the cost of the issue under the PERIOD-END weighted average method is:",
+        "options": [
+          "VND 5,000,000",
+          "VND 5,300,000",
+          "VND 5,562,500",
+          "VND 6,000,000"
+        ],
+        "explanation": "Total value = 2,000,000 + 4,400,000 + 2,500,000 = 8,900,000. Total units = 100 + 200 + 100 = 400. Average unit cost = 8,900,000 ÷ 400 = 22,250. Issue value = 250 × 22,250 = 5,562,500.",
+        "distractors": [
+          "Wrong — uses only the opening unit price without averaging.",
+          "Wrong — 5,300,000 is the FIFO result.",
+          null,
+          "Wrong — appears to use 24,000 rather than the correct average unit cost."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-004",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "VAS 02 – Hàng tồn kho; IAS 2 – Inventories",
+      "tags": ["lifo"],
+      "vi": {
+        "question": "Phương pháp tính giá hàng tồn kho nào KHÔNG được phép áp dụng theo cả VAS và IFRS?",
+        "options": [
+          "Nhập sau xuất trước (LIFO)",
+          "Nhập trước xuất trước (FIFO)",
+          "Bình quân gia quyền, cả liên hoàn và cuối kỳ",
+          "Thực tế đích danh cho từng lô hàng riêng biệt"
+        ],
+        "explanation": "LIFO (nhập sau xuất trước) đã bị loại bỏ khỏi cả chuẩn mực Việt Nam và IAS 2. Lý do: LIFO không phản ánh đúng dòng vận động thực tế của hàng hóa và cho phép doanh nghiệp điều chỉnh lợi nhuận bằng cách chọn thời điểm mua hàng. Ba phương pháp còn lại đều được chấp nhận.",
+        "distractors": [
+          null,
+          "Sai — FIFO là phương pháp phổ biến nhất và được cả VAS lẫn IFRS chấp nhận.",
+          "Sai — bình quân gia quyền được chấp nhận theo cả hai hệ thống chuẩn mực.",
+          "Sai — phương pháp thực tế đích danh được dùng cho hàng hóa có giá trị lớn, dễ nhận diện riêng."
+        ]
+      },
+      "en": {
+        "question": "Which inventory costing method is prohibited under both VAS and IFRS?",
+        "options": [
+          "Last-in, first-out (LIFO)",
+          "First-in, first-out (FIFO)",
+          "Weighted average, both perpetual and period-end",
+          "Specific identification for individually distinguishable items"
+        ],
+        "explanation": "LIFO has been removed from both the Vietnamese standards and IAS 2. It does not reflect the actual physical flow of goods and lets management shift profit by timing purchases. The other three methods are all acceptable.",
+        "distractors": [
+          null,
+          "Wrong — FIFO is the most common method and is accepted by both frameworks.",
+          "Wrong — weighted average is accepted under both.",
+          "Wrong — specific identification is used for high-value, individually identifiable items."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-005",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Chế độ kế toán doanh nghiệp — phương pháp hạch toán hàng tồn kho",
+      "tags": ["ke-khai-thuong-xuyen"],
+      "vi": {
+        "question": "Phương pháp kê khai thường xuyên khác phương pháp kiểm kê định kỳ ở điểm nào?",
+        "options": [
+          "Kê khai thường xuyên chỉ áp dụng cho doanh nghiệp sản xuất, kiểm kê định kỳ cho doanh nghiệp thương mại",
+          "Kê khai thường xuyên theo dõi liên tục giá trị nhập xuất tồn, kiểm kê định kỳ chỉ xác định giá trị vào cuối kỳ",
+          "Kê khai thường xuyên phải kiểm kê hàng hóa hằng ngày, kiểm kê định kỳ thì kiểm mỗi tháng một lần",
+          "Kê khai thường xuyên không cần lập báo cáo tồn kho, kiểm kê định kỳ phải lập báo cáo chi tiết"
+        ],
+        "explanation": "Kê khai thường xuyên theo dõi liên tục và ghi sổ ngay mỗi lần nhập xuất, nên biết được giá trị tồn kho tại bất kỳ thời điểm nào. Kiểm kê định kỳ không ghi từng lần xuất, cuối kỳ mới kiểm kê thực tế rồi suy ra giá vốn theo công thức: Giá vốn = Tồn đầu kỳ + Nhập trong kỳ − Tồn cuối kỳ.",
+        "distractors": [
+          "Sai — cả hai phương pháp đều có thể áp dụng cho doanh nghiệp sản xuất lẫn thương mại.",
+          null,
+          "Sai — kê khai thường xuyên là ghi sổ liên tục theo chứng từ, không phải kiểm kê hiện vật hằng ngày.",
+          "Sai — cả hai phương pháp đều phải lập báo cáo và theo dõi hàng tồn kho đầy đủ."
+        ]
+      },
+      "en": {
+        "question": "How does the perpetual inventory method differ from the periodic method?",
+        "options": [
+          "Perpetual applies only to manufacturers and periodic only to traders",
+          "Perpetual tracks receipts, issues and balances continuously; periodic determines value only at period end",
+          "Perpetual requires a daily physical count; periodic requires a monthly count",
+          "Perpetual needs no inventory report, while periodic requires a detailed one"
+        ],
+        "explanation": "The perpetual method records every receipt and issue as it happens, so the inventory value is known at any moment. The periodic method does not record individual issues; a physical count at period end derives COGS as opening + purchases − closing.",
+        "distractors": [
+          "Wrong — both methods can be used by manufacturers and traders alike.",
+          null,
+          "Wrong — perpetual means continuous ledger recording, not a daily physical count.",
+          "Wrong — both methods require proper inventory records and reporting."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-006",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "VAS 02 – Hàng tồn kho",
+      "tags": ["du-phong"],
+      "vi": {
+        "question": "Khi nào doanh nghiệp phải lập dự phòng giảm giá hàng tồn kho?",
+        "options": [
+          "Khi hàng tồn kho đã lưu tại kho quá 12 tháng mà chưa tiêu thụ được cho khách hàng",
+          "Khi giá mua của lô hàng trên thị trường hiện tại thấp hơn giá mua tại thời điểm nhập kho",
+          "Khi giá trị thuần có thể thực hiện được thấp hơn giá gốc của hàng tồn kho đó",
+          "Khi doanh nghiệp dự kiến sẽ không đạt kế hoạch lợi nhuận đã đề ra cho năm tài chính"
+        ],
+        "explanation": "Hàng tồn kho được ghi theo giá thấp hơn giữa GIÁ GỐC và GIÁ TRỊ THUẦN CÓ THỂ THỰC HIỆN ĐƯỢC (NRV = giá bán ước tính − chi phí hoàn thành và chi phí bán ước tính). Khi NRV thấp hơn giá gốc thì lập dự phòng cho phần chênh lệch: Nợ TK 632 / Có TK 2294. Đây là biểu hiện của nguyên tắc thận trọng.",
+        "distractors": [
+          "Sai — thời gian lưu kho chỉ là dấu hiệu tham khảo, không phải căn cứ trực tiếp để lập dự phòng.",
+          "Sai — căn cứ là giá trị thuần có thể thực hiện được khi BÁN RA, không phải giá mua trên thị trường.",
+          null,
+          "Sai — kế hoạch lợi nhuận của doanh nghiệp không liên quan tới việc lập dự phòng hàng tồn kho."
+        ]
+      },
+      "en": {
+        "question": "When must a company write inventory down?",
+        "options": [
+          "When the goods have sat in the warehouse for more than 12 months unsold",
+          "When the current market purchase price is below the price paid on acquisition",
+          "When net realisable value falls below the cost of that inventory",
+          "When the company expects to miss its profit target for the financial year"
+        ],
+        "explanation": "Inventory is carried at the lower of COST and NET REALISABLE VALUE (NRV = estimated selling price less estimated costs to complete and sell). Where NRV is below cost, the difference is provided for: Dr 632 / Cr 2294. This applies the prudence principle.",
+        "distractors": [
+          "Wrong — ageing is an indicator, not the direct test.",
+          "Wrong — the test is realisable value on SALE, not current purchase price.",
+          null,
+          "Wrong — profit targets have nothing to do with inventory write-downs."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-007",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["chi-phi-mua-hang"],
+      "vi": {
+        "question": "Chi phí vận chuyển hàng MUA VỀ nhập kho được xử lý thế nào?",
+        "options": [
+          "Ghi vào chi phí bán hàng của kỳ phát sinh khoản chi phí vận chuyển đó",
+          "Ghi vào chi phí quản lý doanh nghiệp vì đây là chi phí chung của toàn công ty",
+          "Ghi thẳng vào giá vốn hàng bán ngay tại thời điểm hàng về nhập kho",
+          "Tính vào giá gốc hàng tồn kho, ghi tăng giá trị của lô hàng nhập kho"
+        ],
+        "explanation": "Chi phí vận chuyển hàng mua về là chi phí liên quan trực tiếp để đưa hàng về trạng thái sẵn sàng sử dụng, nên được tính vào giá gốc hàng tồn kho. Cần phân biệt rõ với chi phí vận chuyển hàng ĐI GIAO cho khách hàng — khoản đó là chi phí bán hàng, ghi vào TK 641.",
+        "distractors": [
+          "Sai — chi phí bán hàng chỉ áp dụng cho vận chuyển hàng đi giao cho khách, không phải hàng mua về.",
+          "Sai — đây là chi phí gắn trực tiếp với lô hàng cụ thể, không phải chi phí chung của công ty.",
+          "Sai — giá vốn chỉ phát sinh khi hàng được BÁN ra, không phải khi hàng về nhập kho.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How is inbound freight on goods PURCHASED into stock treated?",
+        "options": [
+          "Charged to selling expenses in the period the freight is incurred",
+          "Charged to administrative expenses as a general company cost",
+          "Charged straight to cost of goods sold when the goods arrive",
+          "Capitalised into inventory cost, increasing the value of the batch received"
+        ],
+        "explanation": "Inbound freight is a directly attributable cost of bringing goods to their present condition and location, so it forms part of inventory cost. Distinguish it clearly from outbound freight to customers, which is a selling expense in account 641.",
+        "distractors": [
+          "Wrong — selling expense covers outbound delivery, not inbound freight.",
+          "Wrong — this cost attaches to a specific batch, not to general administration.",
+          "Wrong — COGS arises only when the goods are SOLD.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-008",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["hang-gui-ban"],
+      "vi": {
+        "question": "Doanh nghiệp gửi hàng cho đại lý bán hộ nhưng chưa xác định là đã tiêu thụ. Hàng này được theo dõi ở tài khoản nào?",
+        "options": [
+          "TK 157 – Hàng gửi đi bán",
+          "TK 632 – Giá vốn hàng bán",
+          "TK 131 – Phải thu của khách hàng",
+          "TK 511 – Doanh thu bán hàng và cung cấp dịch vụ"
+        ],
+        "explanation": "Hàng gửi đại lý chưa được xác định là tiêu thụ thì vẫn thuộc quyền sở hữu của doanh nghiệp, theo dõi ở TK 157 – Hàng gửi đi bán. Bút toán gửi hàng: Nợ TK 157 / Có TK 156. Khi đại lý báo đã bán được mới ghi doanh thu và kết chuyển giá vốn: Nợ TK 632 / Có TK 157.",
+        "distractors": [
+          null,
+          "Sai — chỉ ghi giá vốn khi hàng đã thực sự được tiêu thụ và ghi nhận doanh thu tương ứng.",
+          "Sai — chưa phát sinh khoản phải thu vì hàng chưa được xác định là đã bán cho ai.",
+          "Sai — chưa đủ điều kiện ghi nhận doanh thu vì rủi ro và lợi ích chưa được chuyển giao."
+        ]
+      },
+      "en": {
+        "question": "Goods are sent to an agent for sale but are not yet treated as sold. Which account tracks them?",
+        "options": [
+          "Account 157 – Goods on consignment",
+          "Account 632 – Cost of goods sold",
+          "Account 131 – Trade receivables",
+          "Account 511 – Revenue from sales and services"
+        ],
+        "explanation": "Consigned goods not yet sold remain the company’s property and sit in account 157. On dispatch: Dr 157 / Cr 156. When the agent reports a sale, revenue is recognised and cost transferred: Dr 632 / Cr 157.",
+        "distractors": [
+          null,
+          "Wrong — COGS is recorded only when the goods are actually sold.",
+          "Wrong — no receivable arises until a sale is identified.",
+          "Wrong — revenue criteria are unmet as risks and rewards have not passed."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-009",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["hao-hut"],
+      "vi": {
+        "question": "Kiểm kê phát hiện hàng tồn kho thiếu hụt. Phần hao hụt TRONG định mức và phần VƯỢT định mức được xử lý khác nhau thế nào?",
+        "options": [
+          "Cả hai phần đều được tính vào giá vốn hàng bán trong kỳ kiểm kê phát hiện thiếu",
+          "Trong định mức tính vào giá vốn, vượt định mức phải quy trách nhiệm bồi thường hoặc ghi chi phí khác",
+          "Cả hai phần đều phải quy trách nhiệm cá nhân và yêu cầu bồi thường toàn bộ giá trị",
+          "Trong định mức ghi vào chi phí quản lý, vượt định mức ghi tăng giá gốc hàng tồn kho còn lại"
+        ],
+        "explanation": "Hao hụt trong định mức tự nhiên (bay hơi, rơi vãi) được tính vào giá vốn hàng bán vì là hao hụt tất yếu của quá trình kinh doanh. Hao hụt vượt định mức phải xác định nguyên nhân: nếu do cá nhân thì quy trách nhiệm bồi thường (ghi TK 1388), nếu không xác định được thì ghi chi phí khác (TK 811).",
+        "distractors": [
+          "Sai — hao hụt vượt định mức không được tự động tính vào giá vốn mà phải xác định nguyên nhân.",
+          null,
+          "Sai — hao hụt trong định mức là tất yếu, không thể quy trách nhiệm bồi thường cho cá nhân.",
+          "Sai — hao hụt là mất mát, không thể làm tăng giá gốc của phần hàng tồn kho còn lại."
+        ]
+      },
+      "en": {
+        "question": "A stock count reveals a shortfall. How do losses WITHIN and BEYOND the normal allowance differ in treatment?",
+        "options": [
+          "Both are charged to cost of goods sold in the period of the count",
+          "Within allowance goes to COGS; beyond allowance must be recovered from those responsible or charged to other expenses",
+          "Both must be attributed to individuals and recovered in full",
+          "Within allowance goes to administration; beyond allowance increases the cost of remaining stock"
+        ],
+        "explanation": "Normal losses (evaporation, spillage) are charged to COGS as an inevitable part of trading. Abnormal losses require investigation: if attributable to an individual, they are recovered (account 1388); if the cause is unknown, they are charged to other expenses (account 811).",
+        "distractors": [
+          "Wrong — abnormal losses cannot go automatically to COGS without investigation.",
+          null,
+          "Wrong — normal losses are inevitable and cannot be charged to individuals.",
+          "Wrong — a loss cannot increase the cost of remaining stock."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-010",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "VAS 02 – Hàng tồn kho; IAS 2 – Inventories",
+      "tags": ["nrv", "tinh-toan"],
+      "vi": {
+        "question": "Một lô hàng có giá gốc 500 triệu đồng, giá bán ước tính 520 triệu đồng, chi phí bán ước tính 40 triệu đồng. Giá trị ghi sổ của lô hàng này là:",
+        "options": [
+          "520 triệu đồng, theo giá bán ước tính của lô hàng trên thị trường hiện tại",
+          "500 triệu đồng, giữ nguyên theo giá gốc vì hàng vẫn còn bán được trên thị trường",
+          "480 triệu đồng, đồng thời lập dự phòng giảm giá 20 triệu đồng",
+          "460 triệu đồng, sau khi trừ cả giá vốn và chi phí bán hàng ước tính phát sinh"
+        ],
+        "explanation": "Giá trị thuần có thể thực hiện được NRV = 520 − 40 = 480 triệu đồng, thấp hơn giá gốc 500 triệu. Theo nguyên tắc ghi theo giá thấp hơn, lô hàng được ghi ở mức 480 triệu và lập dự phòng 20 triệu: Nợ TK 632 / Có TK 2294. Nếu NRV cao hơn giá gốc thì giữ nguyên giá gốc, không được ghi tăng.",
+        "distractors": [
+          "Sai — hàng tồn kho không bao giờ được ghi cao hơn giá gốc, kể cả khi giá bán tăng.",
+          "Sai — NRV 480 triệu đã thấp hơn giá gốc nên bắt buộc phải lập dự phòng cho phần chênh lệch.",
+          null,
+          "Sai — trừ hai lần là sai; NRV chỉ lấy giá bán ước tính trừ chi phí bán ước tính."
+        ]
+      },
+      "en": {
+        "question": "A batch cost VND 500 million, has an estimated selling price of 520 million and estimated selling costs of 40 million. Its carrying amount is:",
+        "options": [
+          "VND 520 million, at the estimated current market selling price",
+          "VND 500 million, unchanged at cost because the goods remain saleable",
+          "VND 480 million, with a write-down of 20 million recognised",
+          "VND 460 million, after deducting both cost and estimated selling costs"
+        ],
+        "explanation": "NRV = 520 − 40 = 480 million, below the 500 million cost. Under the lower of cost and NRV rule the batch is carried at 480 million with a 20 million write-down: Dr 632 / Cr 2294. Had NRV exceeded cost, the carrying amount would stay at cost.",
+        "distractors": [
+          "Wrong — inventory is never carried above cost.",
+          "Wrong — NRV of 480 million is below cost, so a write-down is required.",
+          null,
+          "Wrong — double counting; NRV is selling price less selling costs only."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-011",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["xuat-kho"],
+      "vi": {
+        "question": "Xuất kho nguyên vật liệu dùng cho bộ phận quản lý doanh nghiệp trị giá 15.000.000 đồng. Bút toán là:",
+        "options": [
+          "Nợ TK 152 / Có TK 642",
+          "Nợ TK 632 / Có TK 152",
+          "Nợ TK 152 / Có TK 111",
+          "Nợ TK 642 / Có TK 152"
+        ],
+        "explanation": "Xuất nguyên vật liệu dùng cho bộ phận quản lý: chi phí quản lý tăng ghi Nợ TK 642, nguyên vật liệu tồn kho giảm ghi Có TK 152. Nếu xuất cho sản xuất trực tiếp thì ghi Nợ TK 621 hoặc TK 154; nếu xuất cho bộ phận bán hàng thì ghi Nợ TK 641.",
+        "distractors": [
+          "Sai — ghi ngược chiều; xuất kho làm giảm nguyên vật liệu chứ không làm tăng.",
+          "Sai — TK 632 là giá vốn hàng BÁN, chỉ dùng khi hàng hóa được bán ra cho khách hàng.",
+          "Sai — đây là bút toán mua nguyên vật liệu bằng tiền mặt, không phải xuất kho sử dụng.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Materials worth VND 15,000,000 are issued for administrative use. The entry is:",
+        "options": [
+          "Dr 152 / Cr 642",
+          "Dr 632 / Cr 152",
+          "Dr 152 / Cr 111",
+          "Dr 642 / Cr 152"
+        ],
+        "explanation": "Issuing materials to administration increases administrative expense (Dr 642) and reduces raw materials (Cr 152). Issues to direct production go to 621 or 154; issues to the sales function go to 641.",
+        "distractors": [
+          "Wrong — reversed; an issue reduces materials rather than increasing them.",
+          "Wrong — 632 is cost of goods SOLD, used only when goods are sold to customers.",
+          "Wrong — that records a cash purchase of materials, not an issue from store.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B3-012",
+      "topic": "b3-hang-ton-kho",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": ["sai-sot-hang-ton-kho"],
+      "vi": {
+        "question": "Hàng tồn kho cuối kỳ bị ghi nhận CAO HƠN thực tế 100 triệu đồng. Ảnh hưởng tới báo cáo tài chính của kỳ đó là:",
+        "options": [
+          "Giá vốn hàng bán bị ghi thiếu 100 triệu, lợi nhuận và tài sản đều bị thổi phồng 100 triệu",
+          "Giá vốn hàng bán bị ghi thừa 100 triệu, lợi nhuận trong kỳ bị ghi thiếu đi 100 triệu",
+          "Chỉ ảnh hưởng tới bảng cân đối kế toán, hoàn toàn không ảnh hưởng tới lợi nhuận trong kỳ",
+          "Không ảnh hưởng tới báo cáo tài chính vì sai sót sẽ tự triệt tiêu ở kỳ kế toán tiếp theo"
+        ],
+        "explanation": "Công thức: Giá vốn = Tồn đầu kỳ + Nhập trong kỳ − Tồn cuối kỳ. Tồn cuối kỳ ghi cao hơn thực tế làm giá vốn bị ghi thiếu, dẫn tới lợi nhuận bị thổi phồng. Đồng thời tài sản trên bảng cân đối cũng bị thổi phồng. Sai sót hàng tồn kho luôn ảnh hưởng tới CẢ HAI báo cáo — điểm mấu chốt của câu hỏi này.",
+        "distractors": [
+          null,
+          "Sai — tồn cuối kỳ tăng làm giá vốn GIẢM chứ không tăng, theo đúng công thức tính giá vốn.",
+          "Sai — sai sót hàng tồn kho ảnh hưởng cả bảng cân đối lẫn báo cáo kết quả kinh doanh.",
+          "Sai — sai sót có tự đảo ngược ở kỳ sau, nhưng số liệu của cả hai kỳ đều đã sai lệch."
+        ]
+      },
+      "en": {
+        "question": "Closing inventory is OVERSTATED by VND 100 million. What is the effect on that period’s financial statements?",
+        "options": [
+          "COGS is understated by 100 million, so both profit and assets are overstated by 100 million",
+          "COGS is overstated by 100 million, so profit for the period is understated by 100 million",
+          "Only the balance sheet is affected; profit for the period is unaffected",
+          "No effect, because the error reverses itself in the following period"
+        ],
+        "explanation": "COGS = opening inventory + purchases − closing inventory. Overstating closing inventory understates COGS, inflating profit, while assets on the balance sheet are also inflated. Inventory errors always affect BOTH statements — the key point here.",
+        "distractors": [
+          null,
+          "Wrong — higher closing inventory REDUCES COGS, per the formula.",
+          "Wrong — inventory errors hit both the balance sheet and the income statement.",
+          "Wrong — the error does reverse next period, but both periods are misstated."
+        ]
+      }
+    }
+  ]
+}

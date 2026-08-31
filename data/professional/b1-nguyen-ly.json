@@ -1,0 +1,1032 @@
+{
+  "topic": "b1-nguyen-ly",
+  "questions": [
+    {
+      "id": "PRO-B1-001",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": [
+        "phuong-trinh-ke-toan"
+      ],
+      "vi": {
+        "question": "Phương trình kế toán cơ bản được viết là:",
+        "options": [
+          "Tài sản = Nợ phải trả + Vốn chủ sở hữu",
+          "Tài sản = Nợ phải trả − Vốn chủ sở hữu",
+          "Tài sản + Nợ phải trả = Vốn chủ sở hữu",
+          "Tài sản + Vốn chủ sở hữu = Nợ phải trả"
+        ],
+        "explanation": "Tài sản = Nợ phải trả + Vốn chủ sở hữu. Vế trái là hình thái tồn tại của tài sản, vế phải là nguồn hình thành nên chúng. Hai vế luôn bằng nhau ở mọi thời điểm — đây là cơ sở của Báo cáo tình hình tài chính (tên gọi mới của Bảng cân đối kế toán theo Thông tư 99/2025).",
+        "distractors": [
+          null,
+          "Sai — vốn chủ sở hữu là một nguồn hình thành tài sản nên phải cộng, không trừ.",
+          "Sai — biến đổi sai; công thức đúng khi chuyển vế là Vốn chủ sở hữu = Tài sản − Nợ phải trả.",
+          "Sai — biến đổi sai; nợ phải trả nằm ở vế nguồn vốn cùng với vốn chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "The basic accounting equation is written as:",
+        "options": [
+          "Assets = Liabilities + Owners’ equity",
+          "Assets = Liabilities − Owners’ equity",
+          "Assets + Liabilities = Owners’ equity",
+          "Assets + Owners’ equity = Liabilities"
+        ],
+        "explanation": "Assets = Liabilities + Owners’ equity. The left side shows the form the resources take; the right side shows where they came from. The two sides are equal at every moment — the basis of the statement of financial position (the new name for the balance sheet under Circular 99/2025).",
+        "distractors": [
+          null,
+          "Wrong — equity is a source of funding and must be added, not subtracted.",
+          "Wrong — rearranged incorrectly; the valid rearrangement is Equity = Assets − Liabilities.",
+          "Wrong — liabilities belong on the funding side alongside equity."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-002",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "tinh-chat-tai-khoan"
+      ],
+      "vi": {
+        "question": "Tài khoản loại tài sản có kết cấu số dư như thế nào?",
+        "options": [
+          "Số dư bên Có, tăng ghi bên Có, giảm ghi bên Nợ",
+          "Không có số dư, cuối kỳ luôn được kết chuyển hết",
+          "Số dư bên Nợ, tăng ghi bên Nợ, giảm ghi bên Có",
+          "Có thể có số dư cả hai bên tùy theo từng nghiệp vụ"
+        ],
+        "explanation": "Tài khoản tài sản có số dư bên Nợ; phát sinh tăng ghi bên Nợ, phát sinh giảm ghi bên Có. Nhóm cùng kết cấu: tài sản và chi phí. Nhóm ngược lại (số dư bên Có, tăng ghi Có): nợ phải trả, vốn chủ sở hữu và doanh thu.",
+        "distractors": [
+          "Sai — đó là kết cấu của tài khoản nguồn vốn và doanh thu, ngược với tài khoản tài sản.",
+          "Sai — tài khoản doanh thu và chi phí mới không có số dư cuối kỳ do được kết chuyển hết.",
+          null,
+          "Sai — tài khoản lưỡng tính là ngoại lệ hiếm (ví dụ 131, 331 khi chi tiết), không phải kết cấu chung."
+        ]
+      },
+      "en": {
+        "question": "What is the balance structure of an asset account?",
+        "options": [
+          "Credit balance; increases on the credit side, decreases on the debit side",
+          "No balance at all, since it is fully transferred out at period end",
+          "Debit balance; increases on the debit side, decreases on the credit side",
+          "It may carry a balance on either side depending on the transaction"
+        ],
+        "explanation": "Asset accounts carry a debit balance: increases are debited and decreases credited. Assets and expenses share this structure. The opposite group (credit balance, increases credited) is liabilities, equity and revenue.",
+        "distractors": [
+          "Wrong — that is the structure of funding-side and revenue accounts.",
+          "Wrong — revenue and expense accounts are the ones fully closed out at period end.",
+          null,
+          "Wrong — dual-nature accounts such as 131 and 331 are exceptions, not the general rule."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-003",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": [
+        "ghi-so-kep"
+      ],
+      "vi": {
+        "question": "Nguyên tắc ghi sổ kép yêu cầu điều gì?",
+        "options": [
+          "Mỗi nghiệp vụ phải được ghi vào hai quyển sổ khác nhau để có thể đối chiếu chéo về sau",
+          "Mỗi nghiệp vụ được ghi ít nhất vào hai tài khoản, với tổng bên Nợ bằng tổng bên Có",
+          "Mỗi nghiệp vụ phải được hai kế toán viên độc lập cùng ghi nhận",
+          "Mỗi nghiệp vụ phải được ghi hai lần vào cùng một tài khoản"
+        ],
+        "explanation": "Ghi sổ kép (double entry) yêu cầu mỗi nghiệp vụ tác động tới ít nhất hai tài khoản, tổng số tiền ghi Nợ luôn bằng tổng số tiền ghi Có. Nhờ đó phương trình kế toán luôn cân, và bảng cân đối số phát sinh cân được về tổng số.",
+        "distractors": [
+          "Sai — đây là hiểu nhầm theo nghĩa đen của chữ “kép” thành hai quyển sổ.",
+          null,
+          "Sai — hai người cùng ghi là một biện pháp kiểm soát nội bộ, không phải nội dung của ghi sổ kép.",
+          "Sai — ghi hai lần vào cùng một tài khoản chính là bút toán trùng, một lỗi ghi sổ."
+        ]
+      },
+      "en": {
+        "question": "What does the double-entry principle require?",
+        "options": [
+          "Every transaction must be recorded in two separate books for cross-checking",
+          "Every transaction affects at least two accounts, with total debits equal to total credits",
+          "Every transaction must be recorded independently by two different accountants",
+          "Every transaction must be recorded twice in the same account"
+        ],
+        "explanation": "Double entry requires each transaction to affect at least two accounts, with total debits always equal to total credits. This keeps the accounting equation balanced and lets the trial balance agree in total.",
+        "distractors": [
+          "Wrong — that reads “double” literally as two books.",
+          null,
+          "Wrong — dual recording by two people is an internal control, not double entry.",
+          "Wrong — recording twice in one account is a duplicate posting, an error."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-004",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "co-so-don-tich"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp cung cấp dịch vụ trong tháng 12/2026, xuất hóa đơn tháng 12 nhưng khách hàng thanh toán vào tháng 2/2027. Doanh thu được ghi nhận vào kỳ nào?",
+        "options": [
+          "Tháng 2/2027, khi thực tế nhận được tiền vào tài khoản",
+          "Chia đều cho các tháng từ tháng 12/2026 đến tháng 2/2027",
+          "Tùy doanh nghiệp lựa chọn miễn là áp dụng nhất quán qua các kỳ",
+          "Tháng 12/2026, khi dịch vụ đã hoàn thành"
+        ],
+        "explanation": "Theo cơ sở dồn tích (accrual basis), doanh thu ghi nhận khi dịch vụ đã hoàn thành, không phụ thuộc thời điểm thu tiền. Vậy doanh thu thuộc tháng 12/2026, đồng thời ghi nhận một khoản phải thu khách hàng (TK 131). Đây là nguyên tắc bị hiểu sai nhiều nhất khi mới vào nghề.",
+        "distractors": [
+          "Sai — ghi nhận theo thời điểm thu tiền là cơ sở tiền mặt, không được dùng để lập báo cáo tài chính.",
+          "Sai — không có cơ sở nào cho việc phân bổ đều một giao dịch đã hoàn thành trong tháng 12.",
+          "Sai — đây là quy định bắt buộc của chuẩn mực, không phải quyền lựa chọn chính sách.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A company delivers a service in December 2026 and invoices in December, but the customer pays in February 2027. In which period is revenue recognised?",
+        "options": [
+          "February 2027, when the cash actually arrives in the bank account",
+          "Spread evenly across December 2026 to February 2027",
+          "Whichever the company chooses, provided it is applied consistently",
+          "December 2026, when the service was completed"
+        ],
+        "explanation": "Under the accrual basis, revenue is recognised when the service is performed, regardless of when cash is collected. Revenue therefore belongs to December 2026, together with a trade receivable (Account 131). This is the most commonly misunderstood principle for newcomers.",
+        "distractors": [
+          "Wrong — recognising on cash receipt is the cash basis, which cannot be used for financial statements.",
+          "Wrong — there is no basis for spreading a transaction completed in December.",
+          "Wrong — this is a mandatory standard requirement, not a policy choice.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-005",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "dinh-khoan-phuc"
+      ],
+      "vi": {
+        "question": "“Định khoản phức” (bút toán phức tạp) là bút toán như thế nào?",
+        "options": [
+          "Bút toán có giá trị lớn, vượt hạn mức phê duyệt của kế toán trưởng",
+          "Bút toán liên quan đến từ ba tài khoản trở lên",
+          "Bút toán được ghi vào nhiều quyển sổ chi tiết khác nhau",
+          "Bút toán phải điều chỉnh nhiều lần trong cùng một kỳ kế toán"
+        ],
+        "explanation": "Định khoản giản đơn liên quan đúng hai tài khoản (một Nợ, một Có). Định khoản phức liên quan từ ba tài khoản trở lên — ví dụ mua hàng có thuế GTGT: Nợ TK 156, Nợ TK 133, Có TK 331. Dù phức tạp đến đâu, tổng bên Nợ vẫn phải bằng tổng bên Có.",
+        "distractors": [
+          "Sai — giá trị lớn hay nhỏ không quyết định bút toán là giản đơn hay phức.",
+          null,
+          "Sai — số lượng sổ chi tiết được ghi không phải tiêu chí phân loại bút toán.",
+          "Sai — bút toán phải sửa nhiều lần là bút toán điều chỉnh, khái niệm khác hẳn."
+        ]
+      },
+      "en": {
+        "question": "What is a “compound journal entry”?",
+        "options": [
+          "An entry whose value exceeds the chief accountant’s approval limit",
+          "An entry involving three or more accounts",
+          "An entry posted across several different subsidiary ledgers",
+          "An entry that must be corrected several times within one period"
+        ],
+        "explanation": "A simple entry involves exactly two accounts (one debit, one credit). A compound entry involves three or more — for example a purchase with VAT: Dr 156, Dr 133, Cr 331. However many lines, total debits must still equal total credits.",
+        "distractors": [
+          "Wrong — value does not determine whether an entry is simple or compound.",
+          null,
+          "Wrong — the number of subsidiary ledgers is not the classifying criterion.",
+          "Wrong — repeatedly corrected entries are adjusting entries, a different concept."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-006",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "chung-tu"
+      ],
+      "vi": {
+        "question": "Chứng từ kế toán có vai trò gì?",
+        "options": [
+          "Là báo cáo tổng hợp trình bày kết quả kinh doanh cho ban giám đốc",
+          "Là bảng kê tổng hợp toàn bộ số dư các tài khoản vào cuối kỳ",
+          "Là bằng chứng chứng minh nghiệp vụ kinh tế đã thực sự phát sinh, làm căn cứ ghi sổ",
+          "Là công cụ dùng để phân bổ chi phí chung cho các bộ phận"
+        ],
+        "explanation": "Chứng từ kế toán (accounting document) là giấy tờ phản ánh nghiệp vụ kinh tế đã phát sinh và hoàn thành, làm căn cứ hợp pháp để ghi sổ. Không có chứng từ hợp lệ thì không được ghi sổ — và về thuế, khoản chi đó cũng thường không được trừ khi tính thuế TNDN.",
+        "distractors": [
+          "Sai — báo cáo trình bày kết quả là báo cáo tài chính hoặc báo cáo quản trị.",
+          "Sai — bảng kê số dư cuối kỳ là bảng cân đối số phát sinh.",
+          null,
+          "Sai — phân bổ chi phí chung là kỹ thuật kế toán quản trị, không phải vai trò của chứng từ."
+        ]
+      },
+      "en": {
+        "question": "What is the role of an accounting source document?",
+        "options": [
+          "A summary report presenting business results to the board of directors",
+          "A listing of all account balances at the end of the period",
+          "Evidence that an economic transaction actually occurred, forming the legal basis for recording",
+          "A tool for allocating overheads across departments"
+        ],
+        "explanation": "An accounting document evidences a completed economic transaction and is the legal basis for making an entry. Without valid documentation you may not post the entry — and for tax purposes such spending is usually non-deductible for CIT.",
+        "distractors": [
+          "Wrong — results are presented in financial or management reports.",
+          "Wrong — a listing of closing balances is the trial balance.",
+          null,
+          "Wrong — overhead allocation is a management accounting technique."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-007",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "bang-can-doi-so-phat-sinh"
+      ],
+      "vi": {
+        "question": "Bảng cân đối số phát sinh vẫn cân, điều đó chứng minh được gì?",
+        "options": [
+          "Chỉ chứng minh tổng số ghi Nợ bằng tổng số ghi Có, không chứng minh sổ sách đã đúng",
+          "Chứng minh mọi nghiệp vụ trong kỳ đều đã được ghi nhận đầy đủ và chính xác",
+          "Chứng minh doanh nghiệp có lãi trong kỳ kế toán đang xét",
+          "Chứng minh số liệu đã được cơ quan thuế chấp nhận và phê duyệt"
+        ],
+        "explanation": "Bảng cân đối số phát sinh chỉ kiểm tra được sự cân bằng về tổng số. Bốn loại sai sót vẫn để bảng này cân: ghi nhầm tài khoản nhưng đúng số tiền, ghi trùng cả hai vế, bỏ sót hoàn toàn một nghiệp vụ, và ghi đảo Nợ – Có. Vì vậy vẫn phải đối chiếu sổ chi tiết và soát xét.",
+        "distractors": [
+          null,
+          "Sai — bỏ sót hoàn toàn một nghiệp vụ vẫn để bảng cân đối cân bằng bình thường.",
+          "Sai — bảng cân đối số phát sinh không phản ánh kết quả lãi lỗ của doanh nghiệp.",
+          "Sai — đây là công cụ nội bộ, hoàn toàn không liên quan tới sự chấp nhận của cơ quan thuế."
+        ]
+      },
+      "en": {
+        "question": "If the trial balance agrees, what does that prove?",
+        "options": [
+          "Only that total debits equal total credits; it does not prove the books are correct",
+          "That every transaction in the period was recorded fully and accurately",
+          "That the company made a profit in the accounting period",
+          "That the figures have been accepted and approved by the tax authority"
+        ],
+        "explanation": "A trial balance only checks arithmetic balance in total. Four error types leave it balanced: posting to the wrong account for the right amount, duplicating both sides, omitting a transaction entirely, and reversing debit and credit. Subledger reconciliation and review are still required.",
+        "distractors": [
+          null,
+          "Wrong — a completely omitted transaction still leaves the trial balance in agreement.",
+          "Wrong — a trial balance says nothing about profit or loss.",
+          "Wrong — it is an internal tool, unrelated to tax authority approval."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-008",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "nguyen-tac-gia-goc"
+      ],
+      "vi": {
+        "question": "Nguyên tắc giá gốc yêu cầu tài sản được ghi nhận ban đầu theo giá trị nào?",
+        "options": [
+          "Theo giá thị trường tại ngày lập báo cáo tài chính",
+          "Theo giá do doanh nghiệp tự định giá cho phù hợp mục tiêu quản trị",
+          "Theo giá bán dự kiến trừ đi chi phí bán ước tính",
+          "Theo toàn bộ chi phí thực tế bỏ ra để có được tài sản tại thời điểm ghi nhận"
+        ],
+        "explanation": "Nguyên tắc giá gốc (historical cost) yêu cầu ghi nhận tài sản theo chi phí thực tế đã bỏ ra để có được tài sản đó, gồm giá mua và các chi phí liên quan trực tiếp. Giá gốc không được điều chỉnh theo biến động giá thị trường — đây là khác biệt lớn giữa VAS và IFRS, vốn cho phép dùng giá trị hợp lý ở nhiều trường hợp.",
+        "distractors": [
+          "Sai — ghi nhận theo giá thị trường là mô hình giá trị hợp lý của IFRS, VAS không áp dụng rộng rãi.",
+          "Sai — doanh nghiệp không được tự định giá tài sản theo ý muốn quản trị.",
+          "Sai — đó là giá trị thuần có thể thực hiện được, chỉ dùng khi đánh giá lại hàng tồn kho.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Under the historical cost principle, at what value is an asset initially recognised?",
+        "options": [
+          "At market value as at the reporting date",
+          "At a value the company sets itself to suit management objectives",
+          "At expected selling price less estimated costs to sell",
+          "At the actual cost incurred to acquire the asset at the recognition date"
+        ],
+        "explanation": "Historical cost records an asset at what was actually paid to acquire it, including purchase price and directly attributable costs. It is not restated for market movements — a major VAS/IFRS difference, since IFRS permits fair value in many cases.",
+        "distractors": [
+          "Wrong — market value is the IFRS fair value model, not general VAS practice.",
+          "Wrong — companies cannot value assets at will.",
+          "Wrong — that is net realisable value, used when writing inventory down.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-009",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "nguyen-tac-phu-hop"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp bán lô hàng trong tháng 6 nhưng ghi giá vốn của lô hàng đó vào tháng 8. Việc này vi phạm nguyên tắc nào?",
+        "options": [
+          "Nguyên tắc trọng yếu, vì số tiền giá vốn thường là khoản lớn trong kỳ",
+          "Nguyên tắc phù hợp, vì chi phí phải được ghi cùng kỳ với doanh thu tương ứng",
+          "Nguyên tắc thận trọng, vì đã ghi nhận chi phí muộn hơn thời điểm thực tế phát sinh nghiệp vụ",
+          "Nguyên tắc nhất quán, vì cách ghi khác với kỳ kế toán liền trước"
+        ],
+        "explanation": "Nguyên tắc phù hợp (matching) yêu cầu ghi nhận chi phí trong cùng kỳ với doanh thu mà chi phí đó tạo ra. Ghi doanh thu tháng 6 mà giá vốn tháng 8 làm lợi nhuận tháng 6 bị thổi phồng và lợi nhuận tháng 8 bị bóp méo — cả hai kỳ đều sai.",
+        "distractors": [
+          "Sai — trọng yếu nói về ngưỡng ảnh hưởng tới quyết định người đọc, không phải thời điểm ghi nhận.",
+          null,
+          "Sai — thận trọng nói về việc không ghi tăng tài sản, thu nhập một cách lạc quan.",
+          "Sai — nhất quán nói về việc áp dụng cùng một chính sách kế toán qua các kỳ."
+        ]
+      },
+      "en": {
+        "question": "A company sells goods in June but records the related cost of goods sold in August. Which principle does this breach?",
+        "options": [
+          "Materiality, because COGS is usually a large amount in the period",
+          "Matching, because expenses must be recognised in the same period as the related revenue",
+          "Prudence, because the expense was recognised later than it arose",
+          "Consistency, because the treatment differs from the previous period"
+        ],
+        "explanation": "The matching principle requires expenses to be recognised in the same period as the revenue they generate. Recording June revenue with August COGS overstates June profit and distorts August — both periods are wrong.",
+        "distractors": [
+          "Wrong — materiality concerns the threshold of influence on readers, not timing.",
+          null,
+          "Wrong — prudence is about not overstating assets and income.",
+          "Wrong — consistency is about applying the same policy across periods."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-010",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "so-sach"
+      ],
+      "vi": {
+        "question": "Sổ Nhật ký chung có chức năng gì?",
+        "options": [
+          "Tổng hợp số dư của toàn bộ tài khoản để lập báo cáo tài chính cuối kỳ",
+          "Theo dõi riêng công nợ chi tiết của từng khách hàng và nhà cung cấp",
+          "Ghi chép toàn bộ nghiệp vụ kinh tế phát sinh theo trình tự thời gian",
+          "Lưu trữ bản gốc của các hóa đơn và chứng từ thanh toán trong kỳ"
+        ],
+        "explanation": "Sổ Nhật ký chung (general journal) ghi mọi nghiệp vụ theo trình tự thời gian phát sinh. Sau đó số liệu được chuyển (posting) sang Sổ Cái theo từng tài khoản. Quy trình đầy đủ: chứng từ gốc → nhật ký chung → sổ cái → bảng cân đối số phát sinh → báo cáo tài chính.",
+        "distractors": [
+          "Sai — tổng hợp số dư toàn bộ tài khoản là chức năng của bảng cân đối số phát sinh.",
+          "Sai — theo dõi chi tiết từng đối tượng là chức năng của sổ chi tiết công nợ.",
+          null,
+          "Sai — lưu trữ chứng từ gốc là công tác lưu trữ hồ sơ, không phải chức năng của sổ nhật ký."
+        ]
+      },
+      "en": {
+        "question": "What is the function of the general journal?",
+        "options": [
+          "To summarise all account balances for preparing the year-end financial statements",
+          "To track detailed balances for each individual customer and supplier",
+          "To record all economic transactions in chronological order of occurrence",
+          "To store the originals of invoices and payment documents for the period"
+        ],
+        "explanation": "The general journal records every transaction in date order. Entries are then posted to the general ledger by account. The full chain: source document → general journal → general ledger → trial balance → financial statements.",
+        "distractors": [
+          "Wrong — summarising all balances is the trial balance’s job.",
+          "Wrong — tracking individual counterparties is the subsidiary ledger’s job.",
+          null,
+          "Wrong — storing originals is document archiving, not a journal function."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-011",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": [
+        "phan-tich-nghiep-vu"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp dùng tiền gửi ngân hàng trả nợ cho nhà cung cấp 300 triệu đồng. Tổng tài sản và tổng nguồn vốn thay đổi thế nào?",
+        "options": [
+          "Tổng tài sản không đổi, tổng nguồn vốn không đổi",
+          "Tổng tài sản tăng 300 triệu, tổng nguồn vốn tăng 300 triệu",
+          "Tổng tài sản giảm 300 triệu, vốn chủ sở hữu giảm 300 triệu",
+          "Tổng tài sản giảm 300 triệu, tổng nợ phải trả giảm 300 triệu"
+        ],
+        "explanation": "Trả nợ nhà cung cấp: Nợ TK 331 / Có TK 112. Tiền gửi giảm 300 triệu nên tổng tài sản giảm 300 triệu; phải trả người bán giảm 300 triệu nên tổng nguồn vốn cũng giảm 300 triệu. Hai vế cùng giảm nên phương trình vẫn cân. Vốn chủ sở hữu không đổi vì không phát sinh doanh thu hay chi phí.",
+        "distractors": [
+          "Sai — cả hai vế đều giảm 300 triệu, không phải giữ nguyên.",
+          "Sai — trả nợ làm giảm tài sản và giảm nợ, không làm tăng.",
+          "Sai — vốn chủ sở hữu không bị ảnh hưởng vì đây không phải khoản chi phí.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A company pays a supplier VND 300 million from its bank account. How do total assets and total funding change?",
+        "options": [
+          "Total assets unchanged, total funding unchanged",
+          "Total assets up 300 million, total funding up 300 million",
+          "Total assets down 300 million, equity down 300 million",
+          "Total assets down 300 million, total liabilities down 300 million"
+        ],
+        "explanation": "Paying a supplier: Dr 331 / Cr 112. The bank balance falls by 300 million so total assets fall by 300 million; trade payables fall by 300 million so total funding falls equally. Both sides fall, keeping the equation balanced. Equity is unaffected as no revenue or expense arises.",
+        "distractors": [
+          "Wrong — both sides fall by 300 million rather than staying level.",
+          "Wrong — settling a debt reduces assets and liabilities; it does not increase them.",
+          "Wrong — equity is untouched because this is not an expense.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-012",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": [
+        "nguyen-tac-than-trong"
+      ],
+      "vi": {
+        "question": "Nguyên tắc thận trọng trong kế toán được thể hiện qua việc nào sau đây?",
+        "options": [
+          "Lập dự phòng giảm giá hàng tồn kho khi giá trị thuần có thể thực hiện được thấp hơn giá gốc",
+          "Ghi nhận trước khoản lãi dự kiến từ hợp đồng đang đàm phán với khách hàng lớn",
+          "Đánh giá tăng giá trị tài sản cố định theo giá thị trường vào cuối mỗi năm tài chính",
+          "Ghi nhận doanh thu ngay khi nhận được đơn đặt hàng có xác nhận của khách hàng"
+        ],
+        "explanation": "Thận trọng (prudence) nghĩa là không ghi tăng tài sản và thu nhập, không ghi giảm nợ phải trả và chi phí một cách lạc quan. Lập dự phòng khi giá trị hàng tồn kho suy giảm chính là biểu hiện điển hình: ghi nhận ngay tổn thất có khả năng xảy ra, nhưng không ghi nhận lãi khi chưa chắc chắn.",
+        "distractors": [
+          null,
+          "Sai — ghi nhận lãi chưa chắc chắn là vi phạm trực tiếp nguyên tắc thận trọng.",
+          "Sai — VAS không cho phép đánh giá tăng TSCĐ theo giá thị trường, và làm vậy cũng trái thận trọng.",
+          "Sai — đơn đặt hàng chưa phải căn cứ ghi nhận doanh thu vì chưa chuyển giao hàng hóa, dịch vụ."
+        ]
+      },
+      "en": {
+        "question": "Which of the following demonstrates the prudence principle?",
+        "options": [
+          "Recording an inventory write-down when net realisable value falls below cost",
+          "Recognising expected profit from a contract still under negotiation with a major client",
+          "Revaluing fixed assets upwards to market value at the end of each financial year",
+          "Recognising revenue as soon as a confirmed customer purchase order is received"
+        ],
+        "explanation": "Prudence means not overstating assets and income, and not understating liabilities and expenses. Writing inventory down when its value falls is the classic case: a probable loss is recognised at once, while an uncertain gain is not.",
+        "distractors": [
+          null,
+          "Wrong — recognising an uncertain gain directly contradicts prudence.",
+          "Wrong — VAS does not permit upward revaluation, and doing so would breach prudence.",
+          "Wrong — an order is not a recognition trigger; nothing has been transferred yet."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-013",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": [
+        "ky-ke-toan"
+      ],
+      "vi": {
+        "question": "Theo Luật Kế toán, kỳ kế toán năm của doanh nghiệp Việt Nam được quy định thế nào?",
+        "options": [
+          "Bắt buộc phải trùng với năm dương lịch, không có ngoại lệ nào được chấp nhận",
+          "Do doanh nghiệp tự chọn bất kỳ 12 tháng nào mà không cần thông báo cơ quan nào",
+          "Thường là năm dương lịch, nhưng được chọn kỳ 12 tháng tròn khác nếu thông báo cơ quan thuế",
+          "Bắt buộc kết thúc vào ngày 31/3 hằng năm để phù hợp với kỳ quyết toán thuế"
+        ],
+        "explanation": "Kỳ kế toán năm thường là 12 tháng theo năm dương lịch (01/01 – 31/12). Doanh nghiệp được chọn kỳ kế toán năm là 12 tháng tròn khác — thường gặp ở doanh nghiệp FDI theo năm tài chính của công ty mẹ, ví dụ 01/4 – 31/3 — nhưng phải thông báo cho cơ quan thuế.",
+        "distractors": [
+          "Sai — pháp luật cho phép kỳ kế toán khác năm dương lịch nếu đáp ứng điều kiện.",
+          "Sai — không thể tự chọn tùy ý; phải là 12 tháng tròn và phải thông báo cơ quan thuế.",
+          null,
+          "Sai — không có quy định bắt buộc kết thúc ngày 31/3 cho mọi doanh nghiệp."
+        ]
+      },
+      "en": {
+        "question": "Under the Law on Accounting, how is a Vietnamese company’s annual accounting period determined?",
+        "options": [
+          "It must coincide with the calendar year, with no exceptions permitted",
+          "The company may pick any 12 months without notifying any authority",
+          "Normally the calendar year, but another full 12-month period may be chosen if the tax authority is notified",
+          "It must end on 31 March each year to align with the tax finalisation cycle"
+        ],
+        "explanation": "The annual accounting period is normally the calendar year (1 Jan – 31 Dec). A company may adopt a different full 12-month period — common in FDI entities following the parent’s year end, such as 1 Apr – 31 Mar — provided the tax authority is notified.",
+        "distractors": [
+          "Wrong — the law permits a non-calendar year where conditions are met.",
+          "Wrong — it cannot be arbitrary; it must be a full 12 months and notified.",
+          null,
+          "Wrong — no rule mandates a 31 March year end for all companies."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-014",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": [
+        "tinh-chat-tai-khoan"
+      ],
+      "vi": {
+        "question": "Tài khoản nào sau đây có số dư bên Có?",
+        "options": [
+          "TK 156 – Hàng hóa",
+          "TK 331 – Phải trả người bán",
+          "TK 131 – Phải thu của khách hàng",
+          "TK 211 – Tài sản cố định hữu hình"
+        ],
+        "explanation": "TK 331 – Phải trả người bán thuộc nhóm nợ phải trả nên có số dư bên Có. Ba tài khoản còn lại đều là tài sản, có số dư bên Nợ. Lưu ý TK 131 và TK 331 là tài khoản lưỡng tính: khi chi tiết theo từng đối tượng, TK 331 có thể có số dư bên Nợ nếu doanh nghiệp đã ứng trước tiền cho người bán.",
+        "distractors": [
+          "Sai — hàng hóa là tài sản ngắn hạn, có số dư bên Nợ.",
+          null,
+          "Sai — phải thu khách hàng là tài sản, có số dư bên Nợ.",
+          "Sai — tài sản cố định hữu hình là tài sản dài hạn, có số dư bên Nợ."
+        ]
+      },
+      "en": {
+        "question": "Which of the following accounts carries a credit balance?",
+        "options": [
+          "Account 156 – Merchandise inventory",
+          "Account 331 – Trade payables",
+          "Account 131 – Trade receivables",
+          "Account 211 – Tangible fixed assets"
+        ],
+        "explanation": "Account 331 – Trade payables is a liability and carries a credit balance. The other three are assets with debit balances. Note that 131 and 331 are dual-nature accounts: analysed by counterparty, 331 can show a debit balance where advances have been paid to a supplier.",
+        "distractors": [
+          "Wrong — merchandise inventory is a current asset with a debit balance.",
+          null,
+          "Wrong — trade receivables are an asset with a debit balance.",
+          "Wrong — tangible fixed assets are non-current assets with debit balances."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-015",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": [
+        "sua-sai"
+      ],
+      "vi": {
+        "question": "Phát hiện một bút toán ghi nhầm 5.000.000 đồng thành 50.000.000 đồng, sổ kế toán đã khóa tháng nhưng chưa khóa năm. Cách sửa sai đúng theo Luật Kế toán là gì?",
+        "options": [
+          "Ghi bút toán điều chỉnh bổ sung hoặc ghi số âm để đưa số liệu về đúng, có giải trình kèm theo",
+          "Dùng bút xóa hoặc tẩy sửa trực tiếp con số sai trên sổ rồi ghi lại số đúng",
+          "Bỏ qua vì kỳ đã khóa sổ, đợi sang năm sau ghi gộp một lần cho tiện theo dõi",
+          "Xóa hẳn bút toán cũ khỏi phần mềm và nhập lại bút toán mới với số tiền đúng"
+        ],
+        "explanation": "Luật Kế toán quy định ba phương pháp sửa sổ: cải chính (gạch một đường và ghi số đúng lên trên, chỉ dùng khi chưa cộng sổ), ghi số âm, và ghi bổ sung. Tuyệt đối cấm tẩy xóa làm mất dấu vết số cũ, vì điều đó phá hủy dấu vết kiểm toán (audit trail).",
+        "distractors": [
+          null,
+          "Sai — tẩy xóa làm mất dấu vết số liệu cũ, bị pháp luật kế toán nghiêm cấm.",
+          "Sai — sai sót phải được sửa ngay khi phát hiện, không được để dồn sang kỳ sau.",
+          "Sai — xóa hẳn dữ liệu cũ phá hủy dấu vết kiểm toán; phải để lại bút toán điều chỉnh."
+        ]
+      },
+      "en": {
+        "question": "An entry was posted as VND 50,000,000 instead of VND 5,000,000. The month is closed but the year is not. What is the correct fix under the Law on Accounting?",
+        "options": [
+          "Post an additional or negative adjusting entry to bring the figure back to the correct amount, with an explanation attached",
+          "Erase or overwrite the incorrect figure in the book and write the correct one",
+          "Leave it, since the period is closed, and record it together with next year’s entries",
+          "Delete the original entry from the software and re-enter it with the correct amount"
+        ],
+        "explanation": "The Law on Accounting allows three correction methods: striking through and writing the correct figure above (only before the book is totalled), negative entry, and supplementary entry. Erasing the original figure is prohibited because it destroys the audit trail.",
+        "distractors": [
+          null,
+          "Wrong — erasing removes the original figure and is prohibited.",
+          "Wrong — errors must be corrected when found, not deferred.",
+          "Wrong — deleting the record destroys the audit trail; an adjusting entry must remain visible."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-016",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "so-cai"
+      ],
+      "vi": {
+        "question": "Sổ Cái khác Sổ chi tiết ở điểm nào?",
+        "options": [
+          "Sổ Cái do kế toán trưởng lập, sổ chi tiết do kế toán viên lập theo phân công",
+          "Sổ Cái ghi theo trình tự thời gian, sổ chi tiết ghi theo giá trị từ lớn đến nhỏ",
+          "Sổ Cái chỉ lập vào cuối năm, sổ chi tiết được lập và cập nhật hằng ngày",
+          "Sổ Cái theo dõi tổng hợp theo từng tài khoản, sổ chi tiết theo dõi theo từng đối tượng cụ thể"
+        ],
+        "explanation": "Sổ Cái theo dõi tổng hợp số phát sinh và số dư của từng tài khoản. Sổ chi tiết theo dõi chi tiết theo đối tượng: từng khách hàng, từng nhà cung cấp, từng loại vật tư. Nguyên tắc bắt buộc: tổng số dư các sổ chi tiết phải khớp với số dư tài khoản tổng hợp tương ứng trên Sổ Cái.",
+        "distractors": [
+          "Sai — người lập không phải tiêu chí phân biệt hai loại sổ này.",
+          "Sai — ghi theo trình tự thời gian là đặc điểm của sổ nhật ký, không phải sổ cái.",
+          "Sai — cả hai loại sổ đều được ghi chép thường xuyên trong kỳ.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How does the general ledger differ from a subsidiary ledger?",
+        "options": [
+          "The general ledger is kept by the chief accountant; subsidiary ledgers by assigned staff",
+          "The general ledger is in date order; subsidiary ledgers are in descending value order",
+          "The general ledger is prepared only at year end; subsidiary ledgers are updated daily",
+          "The general ledger summarises by account; subsidiary ledgers track by individual counterparty or item"
+        ],
+        "explanation": "The general ledger summarises movements and balances by account. Subsidiary ledgers track detail by object: each customer, supplier or material. The rule: subsidiary ledger totals must agree with the corresponding control account in the general ledger.",
+        "distractors": [
+          "Wrong — who maintains a book is not the distinguishing feature.",
+          "Wrong — date order is a feature of journals, not ledgers.",
+          "Wrong — both are maintained continuously through the period.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-017",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "phan-tich-nghiep-vu"
+      ],
+      "vi": {
+        "question": "Chủ sở hữu góp thêm vốn bằng một chiếc ô tô trị giá 800 triệu đồng. Ảnh hưởng tới phương trình kế toán là:",
+        "options": [
+          "Tài sản tăng 800 triệu, đồng thời nợ phải trả cũng tăng thêm 800 triệu tương ứng",
+          "Tài sản tăng 800 triệu, vốn chủ sở hữu tăng 800 triệu tương ứng",
+          "Tài sản không đổi, chỉ có sự dịch chuyển trong cơ cấu tài sản",
+          "Tài sản tăng 800 triệu, doanh thu trong kỳ tăng 800 triệu"
+        ],
+        "explanation": "Góp vốn bằng tài sản: Nợ TK 211 (TSCĐ hữu hình) / Có TK 411 (Vốn đầu tư của chủ sở hữu). Tài sản tăng 800 triệu và vốn chủ sở hữu tăng 800 triệu. Đây KHÔNG phải doanh thu — góp vốn là giao dịch với chủ sở hữu, không phải hoạt động kinh doanh tạo ra thu nhập.",
+        "distractors": [
+          "Sai — góp vốn không tạo ra nghĩa vụ nợ với bên thứ ba nào.",
+          null,
+          "Sai — có tài sản mới được đưa vào doanh nghiệp nên tổng tài sản tăng thật sự.",
+          "Sai — bẫy phổ biến: góp vốn tuyệt đối không phải doanh thu của doanh nghiệp."
+        ]
+      },
+      "en": {
+        "question": "An owner contributes additional capital in the form of a car worth VND 800 million. The effect on the accounting equation is:",
+        "options": [
+          "Assets up 800 million, liabilities up 800 million",
+          "Assets up 800 million, owners’ equity up 800 million",
+          "Assets unchanged, with only a shift within the asset mix",
+          "Assets up 800 million, revenue for the period up 800 million"
+        ],
+        "explanation": "Capital contributed in kind: Dr 211 (tangible fixed assets) / Cr 411 (owners’ contributed capital). Assets rise by 800 million and equity by the same. This is NOT revenue — a capital contribution is a transaction with owners, not income-generating trading.",
+        "distractors": [
+          "Wrong — a capital contribution creates no obligation to any third party.",
+          null,
+          "Wrong — a new asset enters the business, so total assets genuinely rise.",
+          "Wrong — a common trap: capital contributions are never revenue."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-018",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "nguyen-tac-nhat-quan"
+      ],
+      "vi": {
+        "question": "Nguyên tắc nhất quán yêu cầu điều gì?",
+        "options": [
+          "Số liệu kế toán phải nhất quán giữa các phòng ban trong cùng một doanh nghiệp",
+          "Mọi doanh nghiệp trong cùng ngành phải áp dụng chính sách kế toán giống hệt nhau",
+          "Chính sách và phương pháp kế toán đã chọn phải áp dụng thống nhất qua các kỳ kế toán",
+          "Kế toán phải ghi sổ đều đặn hằng ngày, không được dồn đến cuối tháng mới ghi"
+        ],
+        "explanation": "Nhất quán (consistency) yêu cầu áp dụng cùng một chính sách và phương pháp kế toán qua các kỳ, để số liệu giữa các kỳ so sánh được với nhau. Nếu buộc phải thay đổi thì phải thuyết minh rõ lý do và ảnh hưởng của việc thay đổi lên báo cáo tài chính.",
+        "distractors": [
+          "Sai — đây là vấn đề phối hợp nội bộ, không phải nội dung của nguyên tắc nhất quán.",
+          "Sai — mỗi doanh nghiệp được chọn chính sách phù hợp trong khuôn khổ chuẩn mực cho phép.",
+          null,
+          "Sai — tần suất ghi sổ là vấn đề tổ chức công tác kế toán, không phải nguyên tắc nhất quán."
+        ]
+      },
+      "en": {
+        "question": "What does the consistency principle require?",
+        "options": [
+          "Accounting figures must be consistent between departments within one company",
+          "All companies in the same industry must apply identical accounting policies",
+          "Chosen accounting policies and methods must be applied uniformly across periods",
+          "Entries must be made daily rather than accumulated to month end"
+        ],
+        "explanation": "Consistency requires the same policies and methods to be applied period after period, so figures remain comparable. Where a change is unavoidable, the reason and its effect on the financial statements must be disclosed.",
+        "distractors": [
+          "Wrong — that is internal coordination, not this principle.",
+          "Wrong — each entity chooses suitable policies within what the standards permit.",
+          null,
+          "Wrong — posting frequency is a matter of work organisation."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-019",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": [
+        "hoat-dong-lien-tuc"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp đã có quyết định giải thể và sẽ ngừng hoạt động trong 6 tháng tới. Báo cáo tài chính phải được lập thế nào?",
+        "options": [
+          "Lập trên cơ sở không hoạt động liên tục, theo mẫu biểu riêng mà Thông tư 99/2025 quy định",
+          "Vẫn lập bình thường theo cơ sở hoạt động liên tục cho tới ngày chính thức hoàn tất giải thể",
+          "Không phải lập báo cáo tài chính nữa vì doanh nghiệp sắp chấm dứt hoạt động",
+          "Chỉ cần lập báo cáo tình hình tài chính, được miễn các báo cáo còn lại trong bộ"
+        ],
+        "explanation": "Khi giả định hoạt động liên tục không còn phù hợp, báo cáo tài chính phải lập trên cơ sở khác: tài sản đánh giá theo giá trị có thể thu hồi, nợ phải trả phân loại lại theo thời hạn thực tế. Thông tư 99/2025 (hiệu lực 01/01/2026) bổ sung hẳn mẫu biểu riêng cho doanh nghiệp không hoạt động liên tục — đây là điểm mới so với Thông tư 200.",
+        "distractors": [
+          null,
+          "Sai — khi đã có quyết định giải thể thì giả định hoạt động liên tục không còn phù hợp.",
+          "Sai — nghĩa vụ lập báo cáo tài chính vẫn tồn tại cho tới khi hoàn tất thủ tục giải thể.",
+          "Sai — vẫn phải lập bộ báo cáo đầy đủ, chỉ khác về cơ sở lập và mẫu biểu áp dụng."
+        ]
+      },
+      "en": {
+        "question": "A company has resolved to dissolve and will cease operating within six months. How must its financial statements be prepared?",
+        "options": [
+          "On a non-going-concern basis, using the separate format prescribed by Circular 99/2025",
+          "As normal on the going concern basis until dissolution is formally completed",
+          "No financial statements are required, since the company is about to cease trading",
+          "Only a statement of financial position is required; the other statements are waived"
+        ],
+        "explanation": "Where going concern no longer applies, statements must be prepared on another basis: assets measured at recoverable amount and liabilities reclassified by actual maturity. Circular 99/2025 (effective 1 Jan 2026) adds a dedicated format for non-going-concern entities — a change from Circular 200.",
+        "distractors": [
+          null,
+          "Wrong — once dissolution is resolved, going concern no longer holds.",
+          "Wrong — the reporting obligation continues until dissolution is complete.",
+          "Wrong — the full set is still required; only the basis and format differ."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-020",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "tinh-chat-tai-khoan"
+      ],
+      "vi": {
+        "question": "Tài khoản chi phí (loại 6, loại 8) có đặc điểm gì vào cuối kỳ kế toán?",
+        "options": [
+          "Có số dư bên Có và được chuyển sang bảng cân đối kế toán kỳ sau",
+          "Có số dư bên Nợ được giữ nguyên và mang sang kỳ kế toán tiếp theo",
+          "Được chuyển thẳng thành một khoản phải trả trên báo cáo tình hình tài chính",
+          "Không có số dư cuối kỳ vì đã được kết chuyển toàn bộ sang TK 911"
+        ],
+        "explanation": "Tài khoản doanh thu và chi phí là tài khoản tạm thời (temporary accounts): cuối kỳ kết chuyển toàn bộ sang TK 911 – Xác định kết quả kinh doanh, nên không còn số dư. Chỉ tài khoản tài sản, nợ phải trả và vốn chủ sở hữu mới có số dư mang sang kỳ sau.",
+        "distractors": [
+          "Sai — tài khoản chi phí phát sinh bên Nợ, và cuối kỳ không còn số dư để mang sang.",
+          "Sai — chi phí không được giữ số dư sang kỳ sau, phải kết chuyển hết trong kỳ.",
+          "Sai — chi phí được kết chuyển để xác định kết quả, không biến thành khoản phải trả.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What happens to expense accounts (classes 6 and 8) at the end of the accounting period?",
+        "options": [
+          "They carry a credit balance transferred to next period’s balance sheet",
+          "They keep their debit balance and carry it into the following period",
+          "They are converted directly into a liability in the statement of financial position",
+          "They have no closing balance, having been transferred in full to Account 911"
+        ],
+        "explanation": "Revenue and expense accounts are temporary: at period end they are closed entirely to Account 911 – Determination of business results, leaving no balance. Only asset, liability and equity accounts carry balances forward.",
+        "distractors": [
+          "Wrong — expenses arise on the debit side, and no balance remains to carry forward.",
+          "Wrong — expenses cannot be carried forward; they must be closed within the period.",
+          "Wrong — expenses are closed to determine results, not converted into a liability.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-021",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "Thông tư 99/2025/TT-BTC (hiệu lực 01/01/2026)",
+      "tags": [
+        "don-vi-tien-te"
+      ],
+      "vi": {
+        "question": "Theo Thông tư 99/2025/TT-BTC, doanh nghiệp được chọn ngoại tệ làm đơn vị tiền tệ kế toán trong trường hợp nào?",
+        "options": [
+          "Bất cứ khi nào doanh nghiệp có giao dịch phát sinh bằng ngoại tệ trong kỳ kế toán",
+          "Khi ngoại tệ đó phản ánh đúng bản chất hoạt động: doanh thu, chi phí, tài trợ chủ yếu bằng đồng tiền đó",
+          "Khi doanh nghiệp có vốn đầu tư nước ngoài, không phụ thuộc vào bản chất hoạt động",
+          "Khi được cơ quan thuế địa phương cấp văn bản chấp thuận riêng cho từng năm"
+        ],
+        "explanation": "Thông tư 99/2025 cho phép chọn ngoại tệ làm đơn vị tiền tệ kế toán khi đồng tiền đó phản ánh đúng bản chất hoạt động — tức doanh thu, chi phí và nguồn tài trợ chủ yếu bằng đồng tiền đó. Điểm quan trọng phải nhớ: dù chọn ngoại tệ, báo cáo tài chính nộp cho cơ quan nhà nước vẫn phải bằng VND.",
+        "distractors": [
+          "Sai — chỉ có giao dịch ngoại tệ phát sinh là chưa đủ điều kiện để đổi đơn vị tiền tệ kế toán.",
+          null,
+          "Sai — có vốn nước ngoài không đương nhiên được chọn ngoại tệ; phải xét bản chất hoạt động.",
+          "Sai — đây không phải cơ chế xin phép từng năm; điều kiện dựa trên bản chất hoạt động."
+        ]
+      },
+      "en": {
+        "question": "Under Circular 99/2025/TT-BTC, when may a company adopt a foreign currency as its accounting currency?",
+        "options": [
+          "Whenever the company has any foreign currency transactions during the period",
+          "When that currency reflects the substance of its operations: revenue, costs and financing are mainly in it",
+          "Whenever the company has foreign investment capital, regardless of operating substance",
+          "When the local tax office issues a specific written approval for each year"
+        ],
+        "explanation": "Circular 99/2025 permits a foreign accounting currency where that currency reflects the substance of operations — revenue, costs and financing are predominantly denominated in it. Key point: even then, statements filed with the authorities must still be presented in VND.",
+        "distractors": [
+          "Wrong — merely having foreign currency transactions is not enough to change accounting currency.",
+          null,
+          "Wrong — foreign capital alone does not qualify; operating substance is the test.",
+          "Wrong — this is not an annual approval mechanism; the test is operating substance."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-022",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "trong-yeu"
+      ],
+      "vi": {
+        "question": "Nguyên tắc trọng yếu cho phép doanh nghiệp làm gì?",
+        "options": [
+          "Bỏ qua hoàn toàn những nghiệp vụ có giá trị nhỏ, không cần ghi vào sổ kế toán",
+          "Tự quyết định không nộp báo cáo tài chính nếu quy mô doanh nghiệp còn nhỏ",
+          "Đơn giản hóa cách xử lý với khoản mục nhỏ, không ảnh hưởng quyết định người đọc báo cáo",
+          "Làm tròn toàn bộ số liệu trên báo cáo tài chính đến hàng tỷ đồng cho người đọc dễ theo dõi"
+        ],
+        "explanation": "Trọng yếu (materiality) cho phép đơn giản hóa cách xử lý những khoản mục nhỏ, không ảnh hưởng tới quyết định kinh tế của người sử dụng báo cáo — ví dụ ghi thẳng công cụ dụng cụ giá trị nhỏ vào chi phí thay vì phân bổ nhiều kỳ. Nhưng nghiệp vụ vẫn phải được ghi sổ đầy đủ, không được bỏ qua.",
+        "distractors": [
+          "Sai — mọi nghiệp vụ phát sinh đều phải ghi sổ; trọng yếu chỉ cho phép đơn giản hóa cách xử lý.",
+          "Sai — nghĩa vụ lập và nộp báo cáo tài chính không phụ thuộc vào nguyên tắc trọng yếu.",
+          null,
+          "Sai — đơn vị tính trên báo cáo do quy định về trình bày, không phải nguyên tắc trọng yếu."
+        ]
+      },
+      "en": {
+        "question": "What does the materiality principle permit a company to do?",
+        "options": [
+          "Ignore small-value transactions entirely, without recording them in the books",
+          "Decide not to file financial statements while the company remains small",
+          "Simplify the treatment of small items that would not affect readers’ decisions",
+          "Round figures in the financial statements to the nearest billion dong for convenience"
+        ],
+        "explanation": "Materiality allows simplified treatment of small items that would not influence users’ economic decisions — expensing low-value tools rather than amortising them over periods, for instance. The transaction must still be recorded; it cannot be ignored.",
+        "distractors": [
+          "Wrong — every transaction must be recorded; materiality only simplifies treatment.",
+          "Wrong — the filing obligation does not depend on materiality.",
+          null,
+          "Wrong — presentation units are a disclosure matter, not materiality."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-023",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "phan-tich-nghiep-vu"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp vay ngân hàng 2 tỷ đồng, tiền đã về tài khoản. Nghiệp vụ này ảnh hưởng thế nào tới vốn chủ sở hữu?",
+        "options": [
+          "Không ảnh hưởng, vì vay nợ chỉ làm tăng đồng thời tài sản và nợ phải trả",
+          "Làm tăng vốn chủ sở hữu thêm 2 tỷ đồng vì doanh nghiệp có thêm nguồn lực",
+          "Làm giảm vốn chủ sở hữu 2 tỷ đồng vì phát sinh nghĩa vụ phải trả trong tương lai",
+          "Làm tăng vốn chủ sở hữu bằng số lãi vay dự kiến phải trả trong suốt thời gian vay"
+        ],
+        "explanation": "Vay ngân hàng: Nợ TK 112 / Có TK 341 (Vay và nợ thuê tài chính). Tài sản tăng 2 tỷ, nợ phải trả tăng 2 tỷ, vốn chủ sở hữu hoàn toàn không đổi. Vốn chủ chỉ thay đổi qua bốn con đường: chủ sở hữu góp thêm vốn, rút vốn, lãi lỗ trong kỳ, và các khoản ghi thẳng vào vốn chủ.",
+        "distractors": [
+          null,
+          "Sai — tiền vay là nguồn từ chủ nợ, không phải từ chủ sở hữu.",
+          "Sai — nghĩa vụ trả nợ được phản ánh ở phần nợ phải trả, không làm giảm vốn chủ.",
+          "Sai — lãi vay khi phát sinh là chi phí làm giảm lợi nhuận, không làm tăng vốn chủ."
+        ]
+      },
+      "en": {
+        "question": "A company borrows VND 2 billion from a bank and the cash is received. How does this affect owners’ equity?",
+        "options": [
+          "No effect, since borrowing simply increases assets and liabilities together",
+          "Equity increases by 2 billion because the company now has more resources",
+          "Equity decreases by 2 billion because a future repayment obligation arises",
+          "Equity increases by the total interest expected to be paid over the loan term"
+        ],
+        "explanation": "Bank borrowing: Dr 112 / Cr 341 (borrowings and finance lease liabilities). Assets rise 2 billion, liabilities rise 2 billion, equity is unchanged. Equity only moves through four routes: contributions, withdrawals, profit or loss, and items taken directly to equity.",
+        "distractors": [
+          null,
+          "Wrong — borrowed funds come from a creditor, not from owners.",
+          "Wrong — the repayment obligation sits in liabilities; it does not reduce equity.",
+          "Wrong — interest reduces profit when incurred; it never increases equity."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-024",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "advanced",
+      "answer": 3,
+      "ref": "Thông tư 99/2025/TT-BTC (hiệu lực 01/01/2026)",
+      "tags": [
+        "ban-chat-hon-hinh-thuc"
+      ],
+      "vi": {
+        "question": "Thông tư 99/2025 chuyển sang cách tiếp cận “bản chất hơn hình thức”. Điều này có ý nghĩa thực tiễn gì?",
+        "options": [
+          "Doanh nghiệp không cần lưu giữ chứng từ gốc nữa vì đã ưu tiên bản chất giao dịch",
+          "Kế toán được tự do ghi nhận theo cách mình cho là hợp lý mà không cần căn cứ",
+          "Chỉ áp dụng cho doanh nghiệp có vốn đầu tư nước ngoài, doanh nghiệp trong nước giữ nguyên",
+          "Giao dịch được ghi nhận theo bản chất kinh tế thực, kể cả khi khác với hình thức pháp lý của hợp đồng"
+        ],
+        "explanation": "Bản chất hơn hình thức (substance over form) nghĩa là phản ánh đúng nội dung kinh tế thực của giao dịch. Ví dụ: hợp đồng ghi là “cho thuê” nhưng thực chất chuyển giao gần hết rủi ro và lợi ích thì phải hạch toán như mua bán tài sản. Đây là bước tiệm cận IFRS, khác Thông tư 200 vốn thiên về căn cứ chứng từ pháp lý.",
+        "distractors": [
+          "Sai — chứng từ gốc vẫn bắt buộc; bản chất hơn hình thức không xóa bỏ nghĩa vụ lưu chứng từ.",
+          "Sai — kế toán vẫn phải có căn cứ và xét đoán trong khuôn khổ chuẩn mực, không tùy tiện.",
+          "Sai — Thông tư 99/2025 áp dụng cho doanh nghiệp thuộc mọi thành phần kinh tế.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Circular 99/2025 shifts to a “substance over form” approach. What does that mean in practice?",
+        "options": [
+          "Companies no longer need to keep source documents, since substance now prevails",
+          "Accountants may record transactions however they consider reasonable, without support",
+          "It applies only to foreign-invested enterprises; domestic companies continue as before",
+          "Transactions are recorded per their true economic substance, even where this differs from the contract’s legal form"
+        ],
+        "explanation": "Substance over form means reflecting the real economic content of a transaction. A contract labelled a “lease” that in fact transfers substantially all risks and rewards must be accounted for as a purchase. This moves closer to IFRS, unlike Circular 200’s document-driven approach.",
+        "distractors": [
+          "Wrong — source documents remain mandatory; substance over form removes no record-keeping duty.",
+          "Wrong — accountants still need support and must judge within the standards.",
+          "Wrong — Circular 99/2025 applies to enterprises of every ownership type.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B1-025",
+      "topic": "b1-nguyen-ly",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": [
+        "bao-cao-tai-chinh"
+      ],
+      "vi": {
+        "question": "Bộ báo cáo tài chính năm đầy đủ của doanh nghiệp gồm những báo cáo nào?",
+        "options": [
+          "Báo cáo tình hình tài chính và Báo cáo kết quả hoạt động kinh doanh là đủ theo quy định",
+          "Báo cáo tình hình tài chính, Báo cáo kết quả kinh doanh và Bảng cân đối số phát sinh",
+          "Báo cáo tình hình tài chính, Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ và Thuyết minh",
+          "Báo cáo kết quả kinh doanh, Báo cáo lưu chuyển tiền tệ, Tờ khai quyết toán thuế TNDN"
+        ],
+        "explanation": "Bộ báo cáo tài chính đầy đủ gồm bốn phần: Báo cáo tình hình tài chính (tên mới của Bảng cân đối kế toán theo Thông tư 99/2025), Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiền tệ và Bản thuyết minh báo cáo tài chính. Thuyết minh là phần bắt buộc, không phải tài liệu tùy chọn.",
+        "distractors": [
+          "Sai — thiếu báo cáo lưu chuyển tiền tệ và bản thuyết minh, đều là phần bắt buộc.",
+          "Sai — bảng cân đối số phát sinh là công cụ nội bộ, không thuộc bộ báo cáo tài chính.",
+          null,
+          "Sai — tờ khai quyết toán thuế là hồ sơ thuế, không phải một phần của báo cáo tài chính."
+        ]
+      },
+      "en": {
+        "question": "What does a complete set of annual financial statements comprise?",
+        "options": [
+          "The statement of financial position and the income statement are sufficient",
+          "Statement of financial position, income statement and trial balance",
+          "Statement of financial position, income statement, cash flow statement and notes",
+          "Income statement, cash flow statement and the CIT finalisation return"
+        ],
+        "explanation": "A complete set has four parts: the statement of financial position (the new name for the balance sheet under Circular 99/2025), the income statement, the cash flow statement and the notes. The notes are mandatory, not optional.",
+        "distractors": [
+          "Wrong — the cash flow statement and notes are missing, and both are mandatory.",
+          "Wrong — a trial balance is an internal tool, not part of the statements.",
+          null,
+          "Wrong — a tax return is a tax filing, not part of the financial statements."
+        ]
+      }
+    }
+  ]
+}

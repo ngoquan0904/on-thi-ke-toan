@@ -1,0 +1,485 @@
+{
+  "topic": "b8-hoa-don-luong-bhxh",
+  "questions": [
+    {
+      "id": "PRO-B8-001",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Nghị định 123/2020/NĐ-CP sửa đổi bởi Nghị định 70/2025/NĐ-CP (hiệu lực 01/06/2025)",
+      "tags": ["hoa-don", "thoi-diem-lap"],
+      "vi": {
+        "question": "Thời điểm lập hóa đơn khi BÁN HÀNG HÓA được xác định là:",
+        "options": [
+          "Thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa, không phân biệt đã thu tiền hay chưa",
+          "Thời điểm người mua thực tế thanh toán đủ tiền hàng cho người bán theo hợp đồng",
+          "Thời điểm hai bên ký kết hợp đồng mua bán hàng hóa và thống nhất về giá cả",
+          "Ngày cuối cùng của tháng phát sinh giao dịch, gộp chung cho tiện việc kê khai thuế"
+        ],
+        "explanation": "Với bán hàng hóa, hóa đơn phải lập tại thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, KHÔNG phân biệt đã thu được tiền hay chưa. Nguyên tắc này đồng bộ với cơ sở dồn tích trong kế toán. Lập hóa đơn sai thời điểm là lỗi bị xử phạt hành chính rất phổ biến.",
+        "distractors": [
+          null,
+          "Sai — thu tiền không phải căn cứ xác định thời điểm lập hóa đơn khi bán hàng hóa.",
+          "Sai — ký hợp đồng mới chỉ là cam kết, chưa có việc chuyển giao hàng hóa thực tế.",
+          "Sai — không được gộp hóa đơn cả tháng cho các giao dịch bán hàng hóa thông thường."
+        ]
+      },
+      "en": {
+        "question": "When must an invoice be issued for a SALE OF GOODS?",
+        "options": [
+          "At the transfer of ownership or right of use of the goods, whether or not payment has been received",
+          "When the buyer has fully paid the seller under the contract",
+          "When the parties sign the sale contract and agree the price",
+          "On the last day of the month of the transaction, combined for filing convenience"
+        ],
+        "explanation": "For goods, the invoice must be issued when ownership or the right of use passes to the buyer, regardless of payment. This mirrors the accrual basis in accounting. Issuing invoices at the wrong time is a very common source of administrative penalties.",
+        "distractors": [
+          null,
+          "Wrong — payment does not determine invoice timing for goods.",
+          "Wrong — signing a contract is only a commitment; no goods have passed.",
+          "Wrong — ordinary sales of goods cannot be aggregated into a monthly invoice."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-002",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Nghị định 70/2025/NĐ-CP (hiệu lực 01/06/2025)",
+      "tags": ["hoa-don", "dieu-chinh-thay-the"],
+      "vi": {
+        "question": "Hóa đơn đã lập bị sai về SỐ TIỀN và thuế suất. Theo Nghị định 70/2025, cách xử lý đúng là:",
+        "options": [
+          "Hủy hóa đơn cũ và không cần lập lại nếu hai bên đã thống nhất bằng biên bản",
+          "Lập hóa đơn thay thế cho toàn bộ nội dung của hóa đơn đã lập sai trước đó",
+          "Lập hóa đơn điều chỉnh cho hóa đơn đã lập, ghi rõ điều chỉnh cho hóa đơn số nào ngày nào",
+          "Chỉ cần thông báo cho người mua bằng văn bản, không phải lập thêm hóa đơn nào"
+        ],
+        "explanation": "Sai về số tiền, thuế suất, tiền thuế thì lập HÓA ĐƠN ĐIỀU CHỈNH, ghi rõ điều chỉnh tăng hay giảm cho hóa đơn số nào ngày nào; điều chỉnh giảm thì ghi số âm. Còn sai về tên, địa chỉ, mã số thuế, tên hàng thì mới lập hóa đơn THAY THẾ. Đây là cặp khái niệm bị nhầm nhiều nhất trong nghiệp vụ hóa đơn.",
+        "distractors": [
+          "Sai — không thể hủy mà bỏ trống; giao dịch thực tế vẫn phải có hóa đơn phản ánh đúng.",
+          "Sai — hóa đơn thay thế dùng cho sai sót về thông tin, không dùng cho sai số tiền và thuế suất.",
+          null,
+          "Sai — chỉ thông báo là đủ trong trường hợp sai tên, địa chỉ mà mã số thuế vẫn đúng."
+        ]
+      },
+      "en": {
+        "question": "An issued invoice is wrong on AMOUNT and tax rate. Under Decree 70/2025, the correct treatment is:",
+        "options": [
+          "Cancel the original and issue nothing further if both parties sign a minute",
+          "Issue a replacement invoice covering the entire content of the incorrect invoice",
+          "Issue an adjustment invoice, stating clearly which invoice number and date it adjusts",
+          "Simply notify the buyer in writing, with no further invoice required"
+        ],
+        "explanation": "Errors in amount, tax rate or tax value require an ADJUSTMENT invoice, stating the increase or decrease and identifying the original invoice; decreases are shown as negative figures. Errors in name, address, tax code or item description require a REPLACEMENT invoice instead. This pair is the most confused topic in invoicing.",
+        "distractors": [
+          "Wrong — the transaction still needs an invoice reflecting the correct figures.",
+          "Wrong — replacement invoices address information errors, not amount or rate errors.",
+          null,
+          "Wrong — notification alone suffices only where the name or address is wrong but the tax code is right."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-003",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Nghị định 123/2020/NĐ-CP sửa đổi bởi Nghị định 70/2025/NĐ-CP",
+      "tags": ["hoa-don", "sai-sot"],
+      "vi": {
+        "question": "Hóa đơn điện tử đã lập bị ghi sai TÊN và ĐỊA CHỈ người mua nhưng mã số thuế vẫn đúng. Cách xử lý là:",
+        "options": [
+          "Bắt buộc phải lập hóa đơn điều chỉnh và kê khai bổ sung với cơ quan thuế",
+          "Người bán thông báo cho người mua về sai sót, không phải lập lại hóa đơn",
+          "Phải hủy hóa đơn cũ rồi lập hóa đơn mới hoàn toàn thay thế cho hóa đơn đã hủy",
+          "Không cần xử lý gì cả vì sai sót này không ảnh hưởng đến số thuế phải nộp"
+        ],
+        "explanation": "Trường hợp chỉ sai tên hoặc địa chỉ người mua mà mã số thuế và các nội dung khác đều đúng, người bán chỉ cần THÔNG BÁO cho người mua về sai sót, không phải lập lại hóa đơn. Đây là quy định giúp giảm gánh nặng thủ tục cho những sai sót không ảnh hưởng bản chất giao dịch.",
+        "distractors": [
+          "Sai — hóa đơn điều chỉnh dùng cho sai sót về số tiền và thuế, không dùng cho trường hợp này.",
+          null,
+          "Sai — không cần hủy và lập lại khi mã số thuế và nội dung giao dịch vẫn chính xác.",
+          "Sai — vẫn phải thông báo cho người mua, không được bỏ qua hoàn toàn."
+        ]
+      },
+      "en": {
+        "question": "An e-invoice states the buyer’s NAME and ADDRESS incorrectly, but the tax code is right. The treatment is:",
+        "options": [
+          "An adjustment invoice must be issued and a supplementary declaration filed",
+          "The seller notifies the buyer of the error; no new invoice is required",
+          "The original must be cancelled and a wholly new invoice issued in its place",
+          "Nothing needs doing, since the error does not affect the tax payable"
+        ],
+        "explanation": "Where only the buyer’s name or address is wrong and the tax code and other content are correct, the seller need only NOTIFY the buyer — no reissue is required. The rule reduces procedural burden for errors that do not affect the substance of the transaction.",
+        "distractors": [
+          "Wrong — adjustment invoices are for amount and tax errors.",
+          null,
+          "Wrong — cancellation and reissue are unnecessary when the tax code and content are correct.",
+          "Wrong — the buyer must still be notified; it cannot simply be ignored."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-004",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Nghị định 70/2025/NĐ-CP (hiệu lực 01/06/2025)",
+      "tags": ["hoa-don", "dich-vu"],
+      "vi": {
+        "question": "Thời điểm lập hóa đơn khi CUNG CẤP DỊCH VỤ được xác định là:",
+        "options": [
+          "Ngày ký kết hợp đồng dịch vụ giữa bên cung cấp và bên sử dụng dịch vụ",
+          "Ngày cuối cùng của năm tài chính, gộp toàn bộ dịch vụ đã cung cấp trong năm",
+          "Ngày bên sử dụng dịch vụ gửi văn bản xác nhận đã nghiệm thu và hài lòng",
+          "Thời điểm hoàn thành việc cung cấp dịch vụ, hoặc thời điểm thu tiền nếu thu trước"
+        ],
+        "explanation": "Với dịch vụ, hóa đơn lập tại thời điểm hoàn thành việc cung cấp dịch vụ, không phân biệt đã thu tiền hay chưa. Nếu người cung cấp thu tiền trước hoặc trong khi cung cấp dịch vụ thì lập hóa đơn tại thời điểm thu tiền, trừ khoản đặt cọc hoặc tạm ứng cho một số loại dịch vụ theo quy định.",
+        "distractors": [
+          "Sai — ký hợp đồng chưa phát sinh nghĩa vụ lập hóa đơn vì dịch vụ chưa được cung cấp.",
+          "Sai — không được gộp toàn bộ dịch vụ cả năm vào một hóa đơn cuối năm.",
+          "Sai — văn bản nghiệm thu là chứng từ nội bộ, không quyết định thời điểm lập hóa đơn theo luật.",
+          null
+        ]
+      },
+      "en": {
+        "question": "When must an invoice be issued for the PROVISION OF SERVICES?",
+        "options": [
+          "On the date the service contract is signed by the provider and the user",
+          "On the last day of the financial year, covering all services provided that year",
+          "On the date the customer confirms in writing that they accept the work",
+          "On completion of the service, or on collection if payment is taken earlier"
+        ],
+        "explanation": "For services, the invoice is issued on completion, regardless of payment. If the provider collects payment before or during delivery, the invoice is issued at collection — except for deposits or advances on certain service types specified in the rules.",
+        "distractors": [
+          "Wrong — signing a contract triggers nothing; no service has been provided.",
+          "Wrong — a full year of services cannot be aggregated into one year-end invoice.",
+          "Wrong — an acceptance document is internal and does not set the statutory timing.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-005",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Luật Bảo hiểm xã hội; tỷ lệ trích các khoản theo lương áp dụng năm 2026",
+      "tags": ["bhxh", "ty-le-trich"],
+      "vi": {
+        "question": "Năm 2026, tổng tỷ lệ trích các khoản bảo hiểm bắt buộc mà DOANH NGHIỆP phải đóng trên quỹ lương là bao nhiêu?",
+        "options": [
+          "10,5% trên quỹ tiền lương làm căn cứ đóng bảo hiểm của doanh nghiệp",
+          "32% trên quỹ tiền lương làm căn cứ đóng bảo hiểm của doanh nghiệp",
+          "21,5%",
+          "17,5% trên quỹ tiền lương làm căn cứ đóng bảo hiểm của doanh nghiệp"
+        ],
+        "explanation": "Doanh nghiệp đóng 21,5%, gồm: BHXH hưu trí tử tuất 14%, ốm đau thai sản 3%, tai nạn lao động bệnh nghề nghiệp 0,5%, BHYT 3%, BHTN 1%. Người lao động đóng 10,5%. Tổng cộng cả hai bên là 32%. Ngoài ra doanh nghiệp còn đóng riêng kinh phí công đoàn 2%.",
+        "distractors": [
+          "Sai — 10,5% là phần NGƯỜI LAO ĐỘNG đóng và bị trừ vào lương, không phải phần doanh nghiệp.",
+          "Sai — 32% là tổng của cả hai bên cộng lại, không phải riêng phần doanh nghiệp đóng.",
+          null,
+          "Sai — không có mức 17,5% trong cơ cấu tỷ lệ đóng bảo hiểm bắt buộc hiện hành."
+        ]
+      },
+      "en": {
+        "question": "In 2026, what total percentage of the insurable payroll must the EMPLOYER contribute?",
+        "options": [
+          "10.5% of the insurable payroll",
+          "32% of the insurable payroll",
+          "21.5%",
+          "17.5% of the insurable payroll"
+        ],
+        "explanation": "Employers contribute 21.5%: retirement and survivorship 14%, sickness and maternity 3%, occupational accident and disease 0.5%, health insurance 3%, unemployment insurance 1%. Employees contribute 10.5%, giving 32% in total. Employers also pay a separate 2% trade union fee.",
+        "distractors": [
+          "Wrong — 10.5% is the EMPLOYEE share deducted from pay.",
+          "Wrong — 32% is the combined total of both sides.",
+          null,
+          "Wrong — 17.5% is not part of the current contribution structure."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-006",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Luật Bảo hiểm xã hội; tỷ lệ trích các khoản theo lương áp dụng năm 2026",
+      "tags": ["bhxh", "nguoi-lao-dong"],
+      "vi": {
+        "question": "Phần bảo hiểm bắt buộc mà NGƯỜI LAO ĐỘNG đóng (10,5%) được hạch toán thế nào?",
+        "options": [
+          "Ghi Nợ TK 642 / Có TK 338, tính vào chi phí quản lý doanh nghiệp trong kỳ",
+          "Ghi Nợ TK 641 / Có TK 338, tính vào chi phí bán hàng của doanh nghiệp",
+          "Ghi Nợ TK 338 / Có TK 334, làm tăng khoản phải trả cho người lao động",
+          "Ghi Nợ TK 334 / Có TK 338, trừ trực tiếp vào lương phải trả người lao động"
+        ],
+        "explanation": "Phần 10,5% do người lao động chịu nên TRỪ VÀO LƯƠNG: ghi Nợ TK 334 / Có TK 338. Đây không phải chi phí của doanh nghiệp. Ngược lại, phần 21,5% do doanh nghiệp chịu mới là chi phí: ghi Nợ TK 641, 642, 154 / Có TK 338 tùy theo bộ phận sử dụng lao động.",
+        "distractors": [
+          "Sai — đây là cách hạch toán phần 21,5% do doanh nghiệp đóng, không phải phần người lao động.",
+          "Sai — tương tự, đây là phần doanh nghiệp đóng cho nhân viên bộ phận bán hàng.",
+          "Sai — ghi ngược chiều; khấu trừ bảo hiểm làm giảm lương phải trả chứ không làm tăng.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How is the EMPLOYEE’s 10.5% compulsory insurance share recorded?",
+        "options": [
+          "Dr 642 / Cr 338, as an administrative expense of the period",
+          "Dr 641 / Cr 338, as a selling expense of the company",
+          "Dr 338 / Cr 334, increasing the amount payable to employees",
+          "Dr 334 / Cr 338, deducted directly from wages payable"
+        ],
+        "explanation": "The employee’s 10.5% is DEDUCTED FROM PAY: Dr 334 / Cr 338. It is not a company cost. By contrast the employer’s 21.5% is a cost: Dr 641, 642 or 154 / Cr 338, depending on the department.",
+        "distractors": [
+          "Wrong — that records the employer’s 21.5% share.",
+          "Wrong — likewise the employer’s share, for sales staff.",
+          "Wrong — reversed; the deduction reduces wages payable.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-007",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Nghị định 293/2025/NĐ-CP về lương tối thiểu vùng (hiệu lực 01/01/2026)",
+      "tags": ["luong-toi-thieu", "2026-update"],
+      "vi": {
+        "question": "Mức lương tối thiểu vùng áp dụng từ 01/01/2026 được quy định tại văn bản nào?",
+        "options": [
+          "Nghị định 293/2025/NĐ-CP, tăng bình quân khoảng 7,2% so với mức trước đó",
+          "Nghị định 74/2024/NĐ-CP, văn bản vẫn còn hiệu lực áp dụng cho năm 2026",
+          "Thông tư 99/2025/TT-BTC về chế độ kế toán doanh nghiệp áp dụng từ 2026",
+          "Nghị quyết 110/2025/UBTVQH15 về mức giảm trừ gia cảnh thuế thu nhập cá nhân"
+        ],
+        "explanation": "Lương tối thiểu vùng từ 01/01/2026 áp dụng theo Nghị định 293/2025/NĐ-CP, tăng bình quân khoảng 7,2% (tương đương 250.000 – 350.000 đồng/tháng) so với Nghị định 74/2024. Mức này là căn cứ để xác định tiền lương đóng bảo hiểm tối thiểu và mức lương thấp nhất được trả cho người lao động.",
+        "distractors": [
+          null,
+          "Sai — Nghị định 74/2024 là văn bản CŨ, đã được thay thế từ 01/01/2026.",
+          "Sai — Thông tư 99/2025 quy định về chế độ kế toán, không quy định lương tối thiểu vùng.",
+          "Sai — Nghị quyết 110/2025 quy định về giảm trừ gia cảnh thuế TNCN, không liên quan lương tối thiểu."
+        ]
+      },
+      "en": {
+        "question": "Which instrument sets the regional minimum wage applying from 1 January 2026?",
+        "options": [
+          "Decree 293/2025/ND-CP, an average increase of about 7.2% on the previous level",
+          "Decree 74/2024/ND-CP, which remains in force for 2026",
+          "Circular 99/2025/TT-BTC on the corporate accounting regime from 2026",
+          "Resolution 110/2025/UBTVQH15 on personal income tax family deductions"
+        ],
+        "explanation": "From 1 January 2026 the regional minimum wage follows Decree 293/2025/ND-CP, an average rise of about 7.2% (VND 250,000–350,000 per month) over Decree 74/2024. It underpins the minimum insurable salary and the lowest lawful pay.",
+        "distractors": [
+          null,
+          "Wrong — Decree 74/2024 is the OLD instrument, replaced from 1 January 2026.",
+          "Wrong — Circular 99/2025 governs accounting, not minimum wages.",
+          "Wrong — Resolution 110/2025 concerns PIT deductions."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-008",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Nghị định 123/2020/NĐ-CP sửa đổi bởi Nghị định 70/2025/NĐ-CP",
+      "tags": ["hoa-don", "noi-dung"],
+      "vi": {
+        "question": "Nội dung nào sau đây KHÔNG bắt buộc phải có trên hóa đơn điện tử?",
+        "options": [
+          "Tên, địa chỉ và mã số thuế của người bán hàng hóa dịch vụ",
+          "Số tài khoản ngân hàng cá nhân của kế toán trưởng doanh nghiệp",
+          "Tên hàng hóa dịch vụ, đơn vị tính, số lượng và đơn giá bán ra",
+          "Thuế suất thuế GTGT, tiền thuế GTGT và tổng tiền thanh toán"
+        ],
+        "explanation": "Số tài khoản cá nhân của kế toán trưởng hoàn toàn không phải nội dung của hóa đơn. Nội dung bắt buộc gồm: tên loại hóa đơn, ký hiệu, số hóa đơn; thông tin người bán và người mua; tên hàng hóa dịch vụ, đơn vị tính, số lượng, đơn giá, thành tiền; thuế suất và tiền thuế GTGT; tổng tiền thanh toán; chữ ký số của người bán.",
+        "distractors": [
+          "Sai — thông tin định danh người bán là nội dung bắt buộc trên mọi hóa đơn.",
+          null,
+          "Sai — thông tin về hàng hóa dịch vụ là nội dung cốt lõi bắt buộc của hóa đơn.",
+          "Sai — thuế suất, tiền thuế và tổng thanh toán đều là nội dung bắt buộc."
+        ]
+      },
+      "en": {
+        "question": "Which of the following is NOT a mandatory content item on an e-invoice?",
+        "options": [
+          "The seller’s name, address and tax code",
+          "The chief accountant’s personal bank account number",
+          "Item description, unit of measure, quantity and unit price",
+          "VAT rate, VAT amount and total payable"
+        ],
+        "explanation": "A chief accountant’s personal account number is not invoice content at all. Mandatory items include: invoice type, series and number; seller and buyer details; item description, unit, quantity, unit price and value; VAT rate and amount; total payable; and the seller’s digital signature.",
+        "distractors": [
+          "Wrong — seller identification is mandatory on every invoice.",
+          null,
+          "Wrong — item details are core mandatory content.",
+          "Wrong — rate, tax amount and total are all mandatory."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-009",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "advanced",
+      "answer": 2,
+      "ref": "Nghị định 70/2025/NĐ-CP (hiệu lực 01/06/2025)",
+      "tags": ["hoa-don", "cung-cap-lien-tuc"],
+      "vi": {
+        "question": "Doanh nghiệp cung cấp dịch vụ viễn thông với số lượng lớn, phát sinh thường xuyên và cần có thời gian đối soát số liệu. Thời điểm lập hóa đơn là:",
+        "options": [
+          "Ngay tại thời điểm phát sinh từng lần sử dụng dịch vụ của mỗi khách hàng",
+          "Trong vòng 7 ngày làm việc kể từ ngày kết thúc kỳ đối soát giữa hai bên",
+          "Chậm nhất là ngày cuối cùng của kỳ đối soát hoặc kỳ quy ước giữa hai bên",
+          "Vào ngày khách hàng thanh toán tiền dịch vụ đã sử dụng trong kỳ đối soát"
+        ],
+        "explanation": "Với dịch vụ cung cấp với số lượng lớn, phát sinh thường xuyên và cần thời gian đối soát (viễn thông, điện, nước, công nghệ thông tin, truyền hình), thời điểm lập hóa đơn là CHẬM NHẤT NGÀY CUỐI CÙNG của kỳ đối soát hoặc kỳ quy ước. Đây là ngoại lệ so với quy tắc chung của dịch vụ.",
+        "distractors": [
+          "Sai — lập hóa đơn cho từng lần sử dụng là bất khả thi với dịch vụ phát sinh liên tục.",
+          "Sai — không có quy định cho phép lùi 7 ngày làm việc sau kỳ đối soát.",
+          null,
+          "Sai — thời điểm thanh toán không quyết định thời điểm lập hóa đơn trong trường hợp này."
+        ]
+      },
+      "en": {
+        "question": "A telecoms provider supplies high-volume, continuous services that require a reconciliation period. When must invoices be issued?",
+        "options": [
+          "At each individual instance of service use by each customer",
+          "Within 7 working days after the reconciliation period ends",
+          "No later than the last day of the reconciliation or agreed period",
+          "On the date the customer pays for the services used in the period"
+        ],
+        "explanation": "For high-volume continuous services requiring reconciliation — telecoms, electricity, water, IT, television — the invoice must be issued NO LATER THAN THE LAST DAY of the reconciliation or agreed period. This is an exception to the general services rule.",
+        "distractors": [
+          "Wrong — per-use invoicing is impractical for continuous services.",
+          "Wrong — no 7-working-day grace period exists.",
+          null,
+          "Wrong — payment timing does not drive invoice timing here."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-010",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Bộ luật Lao động 45/2019/QH14",
+      "tags": ["hop-dong-lao-dong"],
+      "vi": {
+        "question": "Thời gian thử việc tối đa đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn từ cao đẳng trở lên là:",
+        "options": [
+          "Không quá 6 ngày làm việc kể từ ngày người lao động bắt đầu nhận việc",
+          "Không quá 30 ngày kể từ ngày người lao động chính thức bắt đầu làm việc",
+          "Không quá 180 ngày, áp dụng chung cho mọi vị trí công việc trong doanh nghiệp",
+          "Không quá 60 ngày"
+        ],
+        "explanation": "Bộ luật Lao động 2019 quy định bốn mức thử việc: không quá 180 ngày với người quản lý doanh nghiệp; không quá 60 ngày với công việc cần trình độ từ cao đẳng trở lên; không quá 30 ngày với trình độ trung cấp và công nhân kỹ thuật; không quá 6 ngày làm việc với công việc khác. Lương thử việc tối thiểu bằng 85% lương chính thức.",
+        "distractors": [
+          "Sai — mức 6 ngày làm việc áp dụng cho các công việc đơn giản khác.",
+          "Sai — mức 30 ngày áp dụng cho công việc cần trình độ trung cấp và công nhân kỹ thuật.",
+          "Sai — mức 180 ngày chỉ áp dụng riêng cho người quản lý doanh nghiệp.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What is the maximum probation period for roles requiring a college diploma or above?",
+        "options": [
+          "No more than 6 working days from the date the employee starts",
+          "No more than 30 days from the employee’s official start date",
+          "No more than 180 days, applying to all positions in the company",
+          "No more than 60 days"
+        ],
+        "explanation": "The 2019 Labour Code sets four limits: 180 days for enterprise managers; 60 days for roles requiring a college diploma or above; 30 days for intermediate-level and technical roles; and 6 working days for other work. Probation pay must be at least 85% of the full rate.",
+        "distractors": [
+          "Wrong — 6 working days applies to other simple work.",
+          "Wrong — 30 days applies to intermediate-level and technical roles.",
+          "Wrong — 180 days applies only to enterprise managers.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-011",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Luật Bảo hiểm xã hội; quy định về kinh phí công đoàn",
+      "tags": ["kinh-phi-cong-doan"],
+      "vi": {
+        "question": "Kinh phí công đoàn 2% do bên nào đóng và tính trên căn cứ nào?",
+        "options": [
+          "Do doanh nghiệp đóng, tính trên quỹ tiền lương làm căn cứ đóng bảo hiểm xã hội",
+          "Do người lao động đóng và bị trừ trực tiếp vào tiền lương hằng tháng của họ",
+          "Do hai bên cùng đóng, mỗi bên chịu một nửa tức 1% trên quỹ tiền lương",
+          "Chỉ đóng khi doanh nghiệp đã thành lập tổ chức công đoàn cơ sở tại đơn vị"
+        ],
+        "explanation": "Kinh phí công đoàn 2% do DOANH NGHIỆP đóng toàn bộ, tính trên quỹ tiền lương làm căn cứ đóng bảo hiểm xã hội cho người lao động. Khoản này độc lập với 32% bảo hiểm bắt buộc. Doanh nghiệp phải đóng kể cả khi chưa thành lập công đoàn cơ sở — đây là điểm rất hay bị hiểu nhầm.",
+        "distractors": [
+          null,
+          "Sai — người lao động là đoàn viên chỉ đóng đoàn phí, khác với kinh phí công đoàn 2%.",
+          "Sai — toàn bộ 2% do doanh nghiệp chịu, không chia đôi với người lao động.",
+          "Sai — nghĩa vụ đóng không phụ thuộc việc doanh nghiệp đã có công đoàn cơ sở hay chưa."
+        ]
+      },
+      "en": {
+        "question": "Who pays the 2% trade union fee, and on what base?",
+        "options": [
+          "The employer pays it, calculated on the payroll used for social insurance contributions",
+          "Employees pay it, deducted directly from their monthly wages",
+          "Both sides pay, each bearing 1% of the payroll",
+          "It is payable only once a grassroots trade union has been established"
+        ],
+        "explanation": "The 2% trade union fee is paid entirely by the EMPLOYER, on the payroll used for social insurance. It is separate from the 32% of compulsory insurance. It is payable even where no grassroots union exists — a very commonly misunderstood point.",
+        "distractors": [
+          null,
+          "Wrong — union members pay membership dues, which differ from the 2% fee.",
+          "Wrong — the full 2% is borne by the employer.",
+          "Wrong — the obligation does not depend on a union having been formed."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B8-012",
+      "topic": "b8-hoa-don-luong-bhxh",
+      "difficulty": "advanced",
+      "answer": 1,
+      "ref": "Nghị định 70/2025/NĐ-CP (hiệu lực 01/06/2025)",
+      "tags": ["hoa-don", "xuat-khau"],
+      "vi": {
+        "question": "Theo Nghị định 70/2025, thời điểm lập hóa đơn đối với hàng hóa XUẤT KHẨU được quy định thế nào?",
+        "options": [
+          "Ngay tại thời điểm ký kết hợp đồng xuất khẩu với đối tác nước ngoài",
+          "Do người bán tự xác định nhưng chậm nhất là ngày làm việc tiếp theo kể từ ngày hàng hóa thông quan",
+          "Vào ngày nhận được toàn bộ tiền thanh toán từ đối tác nước ngoài chuyển về",
+          "Vào ngày cuối cùng của tháng phát sinh hoạt động xuất khẩu hàng hóa đó"
+        ],
+        "explanation": "Nghị định 70/2025 quy định thời điểm lập hóa đơn điện tử với hàng xuất khẩu do người bán tự xác định, nhưng CHẬM NHẤT LÀ NGÀY LÀM VIỆC TIẾP THEO kể từ ngày hàng hóa được thông quan theo quy định pháp luật hải quan. Đây là quy định mới, làm rõ điểm trước đây còn gây tranh cãi trong thực tiễn.",
+        "distractors": [
+          "Sai — ký hợp đồng chưa phát sinh nghĩa vụ lập hóa đơn vì hàng chưa được thông quan.",
+          null,
+          "Sai — thời điểm nhận tiền thanh toán không quyết định thời điểm lập hóa đơn xuất khẩu.",
+          "Sai — không được dồn hóa đơn xuất khẩu đến cuối tháng mới lập."
+        ]
+      },
+      "en": {
+        "question": "Under Decree 70/2025, when must an invoice be issued for EXPORTED goods?",
+        "options": [
+          "At the time the export contract is signed with the foreign partner",
+          "As determined by the seller, but no later than the next working day after customs clearance",
+          "On the date full payment is received from the foreign partner",
+          "On the last day of the month in which the export occurred"
+        ],
+        "explanation": "Decree 70/2025 lets the seller determine the timing for export e-invoices, but NO LATER THAN THE NEXT WORKING DAY after the goods clear customs. This new rule settles a point that was previously disputed in practice.",
+        "distractors": [
+          "Wrong — signing a contract triggers nothing; the goods have not cleared customs.",
+          null,
+          "Wrong — the payment date does not drive export invoice timing.",
+          "Wrong — export invoices cannot be deferred to month end."
+        ]
+      }
+    }
+  ]
+}

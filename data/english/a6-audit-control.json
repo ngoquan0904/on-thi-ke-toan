@@ -1,0 +1,434 @@
+{
+  "topic": "a6-audit-control",
+  "questions": [
+    {
+      "id": "ENG-A6-001",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["audit-trail"],
+      "vi": {
+        "question": "“Audit trail” nghĩa là gì?",
+        "options": [
+          "The physical route the audit team follows when visiting each of the client’s office locations during the fieldwork stage of an engagement",
+          "The list of auditors assigned to an engagement together with their reporting lines and review responsibilities",
+          "The documented chain of evidence that allows a transaction to be traced from source document to financial statements",
+          "The final opinion issued at the end of an audit"
+        ],
+        "explanation": "Audit trail (dấu vết kiểm toán) là chuỗi bằng chứng cho phép truy vết một giao dịch từ chứng từ gốc qua sổ sách đến báo cáo tài chính, và ngược lại. Đây là lý do mọi bút toán phải có chứng từ đính kèm và số hiệu tham chiếu rõ ràng.",
+        "distractors": [
+          "Sai — đây là cách hiểu theo nghĩa đen của từ “trail”, không phải nghĩa chuyên ngành.",
+          "Sai — danh sách nhân sự tham gia là audit team.",
+          null,
+          "Sai — ý kiến kiểm toán cuối cùng là audit opinion."
+        ]
+      },
+      "en": {
+        "question": "What does “audit trail” mean?",
+        "options": [
+          "The physical route the audit team follows when visiting each of the client’s office locations during the fieldwork stage of an engagement",
+          "The list of auditors assigned to an engagement together with their reporting lines and review responsibilities",
+          "The documented chain of evidence that allows a transaction to be traced from source document to financial statements",
+          "The final opinion issued at the end of an audit"
+        ],
+        "explanation": "An audit trail is the chain of evidence letting you trace a transaction from source document through the books to the financial statements and back again. It is why every entry needs attached support and a clear reference.",
+        "distractors": [
+          "Wrong — that reads “trail” literally, not as the technical term.",
+          "Wrong — the staff list is the audit team.",
+          null,
+          "Wrong — the final conclusion is the audit opinion."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-002",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["segregation-of-duties"],
+      "vi": {
+        "question": "“Segregation of duties” là biện pháp kiểm soát nhằm mục đích gì?",
+        "options": [
+          "Ensuring no single person controls a whole transaction from start to finish",
+          "Making sure every employee has a written job description",
+          "Splitting the company into separate legal entities",
+          "Separating the accounting team from the sales team physically"
+        ],
+        "explanation": "Segregation of duties (phân công phân nhiệm) tách các chức năng phê duyệt, thực hiện, ghi sổ và giữ tài sản cho những người khác nhau, để không ai vừa thực hiện vừa che giấu được sai phạm. Ví dụ: người duyệt thanh toán không được đồng thời là người ghi sổ ngân hàng.",
+        "distractors": [
+          null,
+          "Sai — bản mô tả công việc là job description, hữu ích nhưng không phải nội dung của nguyên tắc này.",
+          "Sai — tách pháp nhân là corporate restructuring, khái niệm hoàn toàn khác.",
+          "Sai — tách chỗ ngồi vật lý không phải mục tiêu của kiểm soát này."
+        ]
+      },
+      "en": {
+        "question": "What is the purpose of “segregation of duties” as a control?",
+        "options": [
+          "Ensuring no single person controls a whole transaction from start to finish",
+          "Making sure every employee has a written job description",
+          "Splitting the company into separate legal entities",
+          "Separating the accounting team from the sales team physically"
+        ],
+        "explanation": "Segregation of duties splits authorisation, execution, recording and custody between different people so that no one can both commit and conceal an error or fraud. For example, whoever approves a payment should not also post the bank entries.",
+        "distractors": [
+          null,
+          "Wrong — job descriptions are useful but are not this principle.",
+          "Wrong — that is corporate restructuring.",
+          "Wrong — physical seating is not the aim of this control."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-003",
+      "topic": "a6-audit-control",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["materiality"],
+      "vi": {
+        "question": "Trong kiểm toán, “materiality” được dùng để làm gì?",
+        "options": [
+          "To decide which categories of physical materials and consumables the client should keep in stock at each site",
+          "To set the threshold above which a misstatement could influence users’ decisions",
+          "To calculate the audit fee charged to the client",
+          "To determine how many auditors to send to the client"
+        ],
+        "explanation": "Materiality (mức trọng yếu) là ngưỡng mà nếu sai sót vượt qua thì có thể ảnh hưởng tới quyết định kinh tế của người sử dụng báo cáo tài chính. Kiểm toán viên dùng nó để quyết định phạm vi thử nghiệm và để đánh giá các sai sót phát hiện được có cần điều chỉnh hay không.",
+        "distractors": [
+          "Sai — đây là hiểu nhầm theo nghĩa đen của từ “material” là vật liệu.",
+          null,
+          "Sai — phí kiểm toán là audit fee, xác định theo khối lượng công việc.",
+          "Sai — bố trí nhân sự là staffing, phụ thuộc nhiều yếu tố khác."
+        ]
+      },
+      "en": {
+        "question": "In auditing, what is “materiality” used for?",
+        "options": [
+          "To decide which categories of physical materials and consumables the client should keep in stock at each site",
+          "To set the threshold above which a misstatement could influence users’ decisions",
+          "To calculate the audit fee charged to the client",
+          "To determine how many auditors to send to the client"
+        ],
+        "explanation": "Materiality is the threshold beyond which a misstatement could influence the economic decisions of users. Auditors use it to plan the extent of testing and to judge whether identified misstatements need correcting.",
+        "distractors": [
+          "Wrong — that reads “material” literally as physical goods.",
+          null,
+          "Wrong — that is the audit fee.",
+          "Wrong — that is staffing."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-004",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["supporting-documents"],
+      "vi": {
+        "question": "Trong email, kiểm toán viên viết: “Please provide the supporting documents for these entries.” Họ đang yêu cầu gì?",
+        "options": [
+          "A written explanation from the director",
+          "A copy of the accounting software licence",
+          "A revised version of the financial statements",
+          "The source documents such as invoices, contracts and bank slips that evidence the entries"
+        ],
+        "explanation": "Supporting documents (chứng từ chứng minh) là các chứng từ gốc: hóa đơn, hợp đồng, phiếu chi, ủy nhiệm chi, biên bản giao nhận… chứng minh cho bút toán đã ghi. Đây là câu bạn sẽ nhận và gửi đi rất nhiều lần khi làm dịch vụ kế toán.",
+        "distractors": [
+          "Sai — giải trình bằng văn bản của giám đốc là a management representation hoặc written explanation.",
+          "Sai — bản quyền phần mềm không chứng minh cho bút toán.",
+          "Sai — bản báo cáo tài chính sửa đổi là revised financial statements.",
+          null
+        ]
+      },
+      "en": {
+        "question": "An auditor writes: “Please provide the supporting documents for these entries.” What are they asking for?",
+        "options": [
+          "A written explanation from the director",
+          "A copy of the accounting software licence",
+          "A revised version of the financial statements",
+          "The source documents such as invoices, contracts and bank slips that evidence the entries"
+        ],
+        "explanation": "Supporting documents are the original records — invoices, contracts, payment slips, delivery notes — that evidence a posted entry. You will send and receive this sentence constantly in outsourced accounting.",
+        "distractors": [
+          "Wrong — that is a written explanation or management representation.",
+          "Wrong — a software licence evidences nothing about an entry.",
+          "Wrong — that would be revised financial statements.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-005",
+      "topic": "a6-audit-control",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["sampling"],
+      "vi": {
+        "question": "Vì sao kiểm toán viên sử dụng “sampling” thay vì kiểm tra toàn bộ giao dịch?",
+        "options": [
+          "Because standards forbid testing every transaction",
+          "Because clients refuse to provide all documents",
+          "Because testing every item would be impractical and disproportionately costly",
+          "Because a well-chosen sample always gives a more accurate and more reliable result than testing the full population"
+        ],
+        "explanation": "Sampling (chọn mẫu kiểm toán) là kiểm tra một phần đại diện của tổng thể rồi suy rộng kết luận, vì kiểm tra 100% giao dịch thường không khả thi và chi phí quá lớn so với lợi ích. Chọn mẫu luôn kèm rủi ro lấy mẫu (sampling risk) — đó là cái giá phải trả.",
+        "distractors": [
+          "Sai — chuẩn mực không cấm kiểm tra toàn bộ; trong một số trường hợp vẫn kiểm tra 100%.",
+          "Sai — khách hàng có nghĩa vụ cung cấp tài liệu theo hợp đồng kiểm toán.",
+          null,
+          "Sai — kiểm tra toàn bộ chính xác hơn chọn mẫu; chọn mẫu là đánh đổi giữa chi phí và độ chắc chắn."
+        ]
+      },
+      "en": {
+        "question": "Why do auditors use sampling instead of testing every transaction?",
+        "options": [
+          "Because standards forbid testing every transaction",
+          "Because clients refuse to provide all documents",
+          "Because testing every item would be impractical and disproportionately costly",
+          "Because a well-chosen sample always gives a more accurate and more reliable result than testing the full population"
+        ],
+        "explanation": "Sampling tests a representative subset and extrapolates, because testing 100% of items is usually impractical and costs far more than the benefit. The trade-off is sampling risk.",
+        "distractors": [
+          "Wrong — standards do not forbid full testing; in some areas 100% testing is done.",
+          "Wrong — clients are contractually obliged to provide records.",
+          null,
+          "Wrong — full testing is more accurate; sampling trades certainty for cost."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-006",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["working-papers"],
+      "vi": {
+        "question": "“Working papers” trong kiểm toán là gì?",
+        "options": [
+          "The auditor’s documentation of work performed, evidence obtained and conclusions reached",
+          "The client’s employment contracts and related personnel files",
+          "Draft versions of the client’s sales invoices awaiting approval by the finance manager",
+          "Blank working paper templates issued by the tax authority for statutory inspections"
+        ],
+        "explanation": "Working papers (giấy tờ làm việc, hồ sơ kiểm toán) ghi lại công việc đã thực hiện, bằng chứng thu thập được và kết luận rút ra. Nguyên tắc vàng: một người có chuyên môn nhưng chưa từng tham gia cuộc kiểm toán phải hiểu được công việc chỉ bằng cách đọc hồ sơ.",
+        "distractors": [
+          null,
+          "Sai — hợp đồng lao động là tài liệu của khách hàng, chỉ là một loại bằng chứng.",
+          "Sai — hóa đơn nháp không phải hồ sơ kiểm toán.",
+          "Sai — biểu mẫu của cơ quan thuế không phải working papers."
+        ]
+      },
+      "en": {
+        "question": "What are “working papers” in an audit?",
+        "options": [
+          "The auditor’s documentation of work performed, evidence obtained and conclusions reached",
+          "The client’s employment contracts and related personnel files",
+          "Draft versions of the client’s sales invoices awaiting approval by the finance manager",
+          "Blank working paper templates issued by the tax authority for statutory inspections"
+        ],
+        "explanation": "Working papers document the work done, the evidence obtained and the conclusions reached. The golden rule: an experienced professional with no prior involvement should be able to follow the work purely by reading the file.",
+        "distractors": [
+          null,
+          "Wrong — employment contracts are client records and only one form of evidence.",
+          "Wrong — draft invoices are not audit documentation.",
+          "Wrong — tax authority templates are not working papers."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-007",
+      "topic": "a6-audit-control",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["management-letter"],
+      "vi": {
+        "question": "“Management letter” do kiểm toán viên phát hành có nội dung gì?",
+        "options": [
+          "The formal audit opinion on the financial statements, including any qualification or emphasis of matter paragraph",
+          "Observations on internal control weaknesses and recommendations for improvement",
+          "A request for the audit fee to be paid",
+          "A confirmation of the client’s bank balances"
+        ],
+        "explanation": "Management letter (thư quản lý) nêu các điểm yếu về kiểm soát nội bộ phát hiện trong quá trình kiểm toán kèm khuyến nghị cải thiện, gửi cho ban giám đốc. Đây là văn bản riêng, tách biệt với báo cáo kiểm toán (audit report) chứa ý kiến kiểm toán chính thức.",
+        "distractors": [
+          "Sai — ý kiến kiểm toán chính thức nằm trong audit report, không phải management letter.",
+          null,
+          "Sai — yêu cầu thanh toán phí là invoice hoặc fee note.",
+          "Sai — xác nhận số dư ngân hàng là bank confirmation, do ngân hàng phát hành."
+        ]
+      },
+      "en": {
+        "question": "What does a “management letter” issued by the auditor contain?",
+        "options": [
+          "The formal audit opinion on the financial statements, including any qualification or emphasis of matter paragraph",
+          "Observations on internal control weaknesses and recommendations for improvement",
+          "A request for the audit fee to be paid",
+          "A confirmation of the client’s bank balances"
+        ],
+        "explanation": "A management letter reports internal control weaknesses noted during the audit, with recommendations, and is addressed to management. It is separate from the audit report, which carries the formal opinion.",
+        "distractors": [
+          "Wrong — the formal opinion sits in the audit report.",
+          null,
+          "Wrong — a payment request is an invoice or fee note.",
+          "Wrong — a bank confirmation comes from the bank."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-008",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["kyc-aml"],
+      "vi": {
+        "question": "“KYC” trong dịch vụ doanh nghiệp là viết tắt của cụm nào?",
+        "options": [
+          "Keep Your Contracts",
+          "Key Yearly Controls",
+          "Known Yield Calculation",
+          "Know Your Customer"
+        ],
+        "explanation": "KYC = Know Your Customer (nhận biết khách hàng) — quy trình xác minh danh tính khách hàng và chủ sở hữu hưởng lợi trước khi cung cấp dịch vụ. Đi kèm với AML = Anti-Money Laundering (phòng chống rửa tiền). Các công ty dịch vụ doanh nghiệp bắt buộc phải thực hiện KYC khi nhận khách hàng mới.",
+        "distractors": [
+          "Sai — không phải cụm viết tắt có thật trong ngành.",
+          "Sai — không phải thuật ngữ chuẩn.",
+          "Sai — không phải thuật ngữ chuẩn.",
+          null
+        ]
+      },
+      "en": {
+        "question": "In corporate services, what does “KYC” stand for?",
+        "options": [
+          "Keep Your Contracts",
+          "Key Yearly Controls",
+          "Known Yield Calculation",
+          "Know Your Customer"
+        ],
+        "explanation": "KYC is Know Your Customer — verifying a client’s identity and beneficial owners before providing services. It pairs with AML (Anti-Money Laundering). Corporate services firms must complete KYC when onboarding any new client.",
+        "distractors": [
+          "Wrong — not a real industry abbreviation.",
+          "Wrong — not a standard term.",
+          "Wrong — not a standard term.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-009",
+      "topic": "a6-audit-control",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["internal-control"],
+      "vi": {
+        "question": "“Internal control” được hiểu là gì?",
+        "options": [
+          "Control of the company by its largest shareholder",
+          "An annual inspection carried out by the tax authority to verify declared revenue and deductible expenses",
+          "The processes designed to safeguard assets, ensure reliable reporting and comply with regulations",
+          "The software used to lock the accounting system"
+        ],
+        "explanation": "Internal control (kiểm soát nội bộ) là hệ thống quy trình và biện pháp do chính doanh nghiệp thiết kế nhằm bảo vệ tài sản, đảm bảo số liệu đáng tin cậy và tuân thủ pháp luật. Thông tư 99/2025 nhấn mạnh trách nhiệm xây dựng quy chế quản trị nội bộ và kiểm soát nội bộ.",
+        "distractors": [
+          "Sai — quyền chi phối của cổ đông lớn là control trong nghĩa sở hữu, không phải internal control.",
+          "Sai — thanh tra của cơ quan thuế là tax inspection, thuộc kiểm soát bên ngoài.",
+          null,
+          "Sai — phần mềm chỉ là một công cụ hỗ trợ, không phải toàn bộ hệ thống kiểm soát."
+        ]
+      },
+      "en": {
+        "question": "What is meant by “internal control”?",
+        "options": [
+          "Control of the company by its largest shareholder",
+          "An annual inspection carried out by the tax authority to verify declared revenue and deductible expenses",
+          "The processes designed to safeguard assets, ensure reliable reporting and comply with regulations",
+          "The software used to lock the accounting system"
+        ],
+        "explanation": "Internal control is the system of processes an entity designs itself to safeguard assets, produce reliable reporting and comply with law. Circular 99/2025 places explicit emphasis on establishing internal governance and control procedures.",
+        "distractors": [
+          "Wrong — that is control in the ownership sense.",
+          "Wrong — a tax inspection is an external check.",
+          null,
+          "Wrong — software is one tool, not the whole control system."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-010",
+      "topic": "a6-audit-control",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["engagement-letter"],
+      "vi": {
+        "question": "“Engagement letter” giữa công ty dịch vụ và khách hàng có vai trò gì?",
+        "options": [
+          "It sets out the scope of services, responsibilities of both parties and the fee basis",
+          "It confirms that the accounts have been audited without qualification",
+          "It authorises the service provider to sign the client’s tax returns automatically",
+          "It guarantees that no tax will be payable by the client"
+        ],
+        "explanation": "Engagement letter (thư cam kết dịch vụ, hợp đồng dịch vụ) xác định rõ phạm vi công việc, trách nhiệm của mỗi bên, cơ sở tính phí và các giới hạn. Đây là tài liệu bảo vệ cả hai bên khi có tranh chấp về việc “cái này có nằm trong dịch vụ không”.",
+        "distractors": [
+          null,
+          "Sai — xác nhận ý kiến kiểm toán nằm trong audit report.",
+          "Sai — quyền ký thay cần giấy ủy quyền riêng, không mặc nhiên từ engagement letter.",
+          "Sai — không văn bản dịch vụ nào có thể cam kết khách hàng không phải nộp thuế."
+        ]
+      },
+      "en": {
+        "question": "What is the role of an engagement letter between a service firm and its client?",
+        "options": [
+          "It sets out the scope of services, responsibilities of both parties and the fee basis",
+          "It confirms that the accounts have been audited without qualification",
+          "It authorises the service provider to sign the client’s tax returns automatically",
+          "It guarantees that no tax will be payable by the client"
+        ],
+        "explanation": "An engagement letter defines the scope of work, each party’s responsibilities, the fee basis and any limitations. It protects both sides when a dispute arises over whether something was “in scope”.",
+        "distractors": [
+          null,
+          "Wrong — audit conclusions belong in the audit report.",
+          "Wrong — signing authority requires a separate power of attorney.",
+          "Wrong — no engagement letter can promise a nil tax liability."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A6-011",
+      "topic": "a6-audit-control",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["substantive-testing"],
+      "vi": {
+        "question": "Sự khác nhau giữa “tests of controls” và “substantive testing” là gì?",
+        "options": [
+          "Tests of controls examine the reported figures line by line, while substantive testing examines the competence and integrity of the client’s finance staff",
+          "Tests of controls check whether controls operate effectively; substantive testing checks the amounts and disclosures themselves",
+          "Both mean the same thing, used interchangeably",
+          "Tests of controls are performed by the client; substantive testing is performed by the tax authority"
+        ],
+        "explanation": "Tests of controls (thử nghiệm kiểm soát) kiểm tra xem các thủ tục kiểm soát có được thực hiện đúng và hiệu quả không, ví dụ hóa đơn có được phê duyệt trước khi thanh toán. Substantive testing (thử nghiệm cơ bản) kiểm tra trực tiếp bản thân số liệu và thuyết minh, ví dụ đối chiếu số dư phải thu với thư xác nhận của khách hàng.",
+        "distractors": [
+          "Sai — hai vế bị mô tả ngược và không chính xác.",
+          null,
+          "Sai — đây là hai loại thủ tục kiểm toán hoàn toàn khác nhau về mục tiêu.",
+          "Sai — cả hai đều do kiểm toán viên độc lập thực hiện."
+        ]
+      },
+      "en": {
+        "question": "What is the difference between “tests of controls” and “substantive testing”?",
+        "options": [
+          "Tests of controls examine the reported figures line by line, while substantive testing examines the competence and integrity of the client’s finance staff",
+          "Tests of controls check whether controls operate effectively; substantive testing checks the amounts and disclosures themselves",
+          "Both mean the same thing, used interchangeably",
+          "Tests of controls are performed by the client; substantive testing is performed by the tax authority"
+        ],
+        "explanation": "Tests of controls check whether control procedures actually operate — for example, that invoices are approved before payment. Substantive testing examines the amounts and disclosures directly, such as agreeing receivable balances to customer confirmations.",
+        "distractors": [
+          "Wrong — the descriptions are reversed and inaccurate.",
+          null,
+          "Wrong — these are distinct procedures with different objectives.",
+          "Wrong — both are performed by the independent auditor."
+        ]
+      }
+    }
+  ]
+}

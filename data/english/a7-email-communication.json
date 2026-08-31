@@ -1,0 +1,395 @@
+{
+  "topic": "a7-email-communication",
+  "questions": [
+    {
+      "id": "ENG-A7-001",
+      "topic": "a7-email-communication",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["requesting-documents"],
+      "vi": {
+        "question": "Bạn cần khách hàng gửi hóa đơn còn thiếu của tháng 7. Cách viết nào phù hợp nhất trong email công việc?",
+        "options": [
+          "Send me the July invoices now, I have already asked about this twice.",
+          "Could you please send us the outstanding July invoices at your earliest convenience?",
+          "Why haven’t you sent the July invoices yet, even though the deadline has passed?",
+          "I need the July invoices. Please arrange to send them today without any further delay."
+        ],
+        "explanation": "Cấu trúc “Could you please … ?” kết hợp với “at your earliest convenience” là mức lịch sự chuẩn mực trong email công việc với khách hàng. Ba lựa chọn còn lại đều mang giọng ra lệnh hoặc trách móc — không phù hợp khi làm dịch vụ, nơi khách hàng là người trả tiền.",
+        "distractors": [
+          "Sai — câu mệnh lệnh trống không, thiếu lịch sự với khách hàng.",
+          null,
+          "Sai — câu hỏi mang tính chất vấn, dễ gây căng thẳng quan hệ.",
+          "Sai — giọng ra lệnh và áp đặt thời hạn một cách thô."
+        ]
+      },
+      "en": {
+        "question": "You need a client to send the missing July invoices. Which wording is most appropriate in a business email?",
+        "options": [
+          "Send me the July invoices now, I have already asked about this twice.",
+          "Could you please send us the outstanding July invoices at your earliest convenience?",
+          "Why haven’t you sent the July invoices yet, even though the deadline has passed?",
+          "I need the July invoices. Please arrange to send them today without any further delay."
+        ],
+        "explanation": "“Could you please … at your earliest convenience?” is the standard level of politeness for client email. The other three are commands or accusations — inappropriate in a service relationship where the client is the payer.",
+        "distractors": [
+          "Wrong — a bare imperative, impolite to a client.",
+          null,
+          "Wrong — an accusatory question that damages the relationship.",
+          "Wrong — commanding tone with a crudely imposed deadline."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-002",
+      "topic": "a7-email-communication",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["reporting-delay"],
+      "vi": {
+        "question": "Bạn sẽ trễ hạn nộp báo cáo cho head office. Câu mở đầu nào chuyên nghiệp nhất?",
+        "options": [
+          "Sorry, this is not my fault at all, the client sent us the documents far too late.",
+          "The report will be late this time. There is really nothing more I can do about it.",
+          "I completely forgot about the deadline for this report, so I am very sorry about that and I will send it as soon as I can.",
+          "I want to flag that the report will be delayed by two days, and here is the reason and the revised timeline."
+        ],
+        "explanation": "Chuẩn mực khi báo trễ hạn gồm ba phần: báo sớm (flag early), nêu lý do ngắn gọn, và đưa mốc thời gian mới. Cụm “I want to flag that…” rất thông dụng trong môi trường quốc tế, nghĩa là “tôi muốn lưu ý trước về việc…”. Tránh đổ lỗi và tránh bỏ lửng không có giải pháp.",
+        "distractors": [
+          "Sai — đổ lỗi cho khách hàng ngay câu đầu là điều tối kỵ trong công ty dịch vụ.",
+          "Sai — thông báo trống không, không có lý do và không có hướng xử lý.",
+          "Sai — thừa nhận quên là trung thực nhưng thiếu chuyên nghiệp và không đưa giải pháp.",
+          null
+        ]
+      },
+      "en": {
+        "question": "You will miss a reporting deadline to head office. Which opening is the most professional?",
+        "options": [
+          "Sorry, this is not my fault at all, the client sent us the documents far too late.",
+          "The report will be late this time. There is really nothing more I can do about it.",
+          "I completely forgot about the deadline for this report, so I am very sorry about that and I will send it as soon as I can.",
+          "I want to flag that the report will be delayed by two days, and here is the reason and the revised timeline."
+        ],
+        "explanation": "Good practice when reporting a delay has three parts: flag it early, give a brief reason, and offer a revised timeline. “I want to flag that…” is standard in international teams. Avoid blaming others and avoid raising a problem with no path forward.",
+        "distractors": [
+          "Wrong — blaming the client in the first line is unacceptable in a service firm.",
+          "Wrong — bare statement with no reason and no way forward.",
+          "Wrong — honest, but unprofessional and offers no solution.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-003",
+      "topic": "a7-email-communication",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["balance-confirmation"],
+      "vi": {
+        "question": "Câu nào phù hợp để đề nghị khách hàng xác nhận số dư công nợ cuối năm?",
+        "options": [
+          "Please confirm whether the balance of VND 250,000,000 as at 31 December agrees with your records.",
+          "Please pay VND 250,000,000 before 31 December.",
+          "We have decided the balance is VND 250,000,000.",
+          "Please check if you still remember this balance."
+        ],
+        "explanation": "Xác nhận công nợ (balance confirmation) là đề nghị đối tác đối chiếu số dư trên sổ của họ với số của mình, dùng động từ “confirm” và cụm “agrees with your records”. Cụm “as at [date]” là cách chuẩn để chỉ số dư tại một thời điểm — khác với “as of” dùng phổ biến hơn ở Mỹ.",
+        "distractors": [
+          null,
+          "Sai — đây là yêu cầu thanh toán, mục đích hoàn toàn khác.",
+          "Sai — số dư phải được đối chiếu hai bên, không phải do một bên tự quyết.",
+          "Sai — giọng điệu không phù hợp và không nêu số liệu để đối chiếu."
+        ]
+      },
+      "en": {
+        "question": "Which sentence is appropriate for asking a client to confirm a year-end balance?",
+        "options": [
+          "Please confirm whether the balance of VND 250,000,000 as at 31 December agrees with your records.",
+          "Please pay VND 250,000,000 before 31 December.",
+          "We have decided the balance is VND 250,000,000.",
+          "Please check if you still remember this balance."
+        ],
+        "explanation": "A balance confirmation asks the counterparty to agree the balance to their own records — hence “confirm” and “agrees with your records”. “As at [date]” is the standard phrasing for a balance at a point in time (“as of” is the more common US variant).",
+        "distractors": [
+          null,
+          "Wrong — that is a payment demand, a different purpose.",
+          "Wrong — a balance is agreed between both parties, not decided unilaterally.",
+          "Wrong — inappropriate tone and no figure to agree against."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-004",
+      "topic": "a7-email-communication",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["hedging"],
+      "vi": {
+        "question": "Bạn chưa chắc chắn về cách xử lý thuế của một giao dịch. Cách trả lời khách hàng nào là an toàn và chuyên nghiệp nhất?",
+        "options": [
+          "This transaction is definitely non-taxable, you have absolutely nothing to worry about.",
+          "I do not know the answer to this question, please ask someone else in the team.",
+          "Based on our preliminary review, this appears to be non-taxable; we will confirm the position after checking the latest guidance.",
+          "It should be fine based on what I remember, so let us not spend more time on it."
+        ],
+        "explanation": "Trong dịch vụ chuyên nghiệp, ngôn ngữ dè dặt (hedging language) là kỹ năng bắt buộc: “based on our preliminary review”, “this appears to be”, “we will confirm”. Nó giúp bạn trả lời hữu ích mà không đưa ra cam kết chắc chắn khi chưa kiểm tra xong — bảo vệ cả bạn lẫn công ty.",
+        "distractors": [
+          "Sai — khẳng định chắc chắn khi chưa kiểm tra là rủi ro nghề nghiệp nghiêm trọng.",
+          "Sai — đẩy khách hàng đi nơi khác là bỏ rơi trách nhiệm dịch vụ.",
+          null,
+          "Sai — “don’t worry about it” vừa thiếu chuyên nghiệp vừa không có cơ sở."
+        ]
+      },
+      "en": {
+        "question": "You are unsure of the tax treatment of a transaction. Which reply to the client is safest and most professional?",
+        "options": [
+          "This transaction is definitely non-taxable, you have absolutely nothing to worry about.",
+          "I do not know the answer to this question, please ask someone else in the team.",
+          "Based on our preliminary review, this appears to be non-taxable; we will confirm the position after checking the latest guidance.",
+          "It should be fine based on what I remember, so let us not spend more time on it."
+        ],
+        "explanation": "Hedging language is an essential professional skill: “based on our preliminary review”, “this appears to be”, “we will confirm”. It lets you be helpful without committing to a position you have not yet verified — protecting both you and the firm.",
+        "distractors": [
+          "Wrong — asserting certainty before verification is a serious professional risk.",
+          "Wrong — sending the client elsewhere abandons your service responsibility.",
+          null,
+          "Wrong — “don’t worry about it” is unprofessional and unsupported."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-005",
+      "topic": "a7-email-communication",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["attachments"],
+      "vi": {
+        "question": "Câu nào dùng đúng khi đính kèm tài liệu trong email?",
+        "options": [
+          "Please find attach the monthly report.",
+          "Please find attached the monthly report.",
+          "Please find attaching the monthly report.",
+          "Please find to attach the monthly report."
+        ],
+        "explanation": "Cấu trúc chuẩn là “Please find attached…” (attached là quá khứ phân từ, đóng vai trò tính từ). Các cách viết tự nhiên hơn và hiện được dùng phổ biến hơn: “I have attached the monthly report” hoặc “Attached is the monthly report”. Cả ba đều đúng, chỉ khác mức trang trọng.",
+        "distractors": [
+          "Sai — thiếu đuôi -ed; “attach” là động từ nguyên thể, không dùng được ở vị trí này.",
+          null,
+          "Sai — “attaching” là hiện tại phân từ, không phù hợp với cấu trúc này.",
+          "Sai — “to attach” là động từ nguyên thể có to, sai ngữ pháp trong cụm này."
+        ]
+      },
+      "en": {
+        "question": "Which sentence correctly introduces an email attachment?",
+        "options": [
+          "Please find attach the monthly report.",
+          "Please find attached the monthly report.",
+          "Please find attaching the monthly report.",
+          "Please find to attach the monthly report."
+        ],
+        "explanation": "The correct form is “Please find attached…”, where “attached” is a past participle used adjectivally. More natural modern alternatives: “I have attached the monthly report” or “Attached is the monthly report”. All are correct; they differ only in formality.",
+        "distractors": [
+          "Wrong — the bare infinitive “attach” cannot sit here.",
+          null,
+          "Wrong — the present participle does not fit this structure.",
+          "Wrong — the to-infinitive is ungrammatical here."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-006",
+      "topic": "a7-email-communication",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["escalation"],
+      "vi": {
+        "question": "Trong email công việc, “to escalate an issue” nghĩa là gì?",
+        "options": [
+          "To make the problem worse deliberately",
+          "To close the issue without resolving it",
+          "To translate the issue into another language",
+          "To raise the issue to a more senior person for a decision"
+        ],
+        "explanation": "Escalate (đẩy vấn đề lên cấp cao hơn) nghĩa là chuyển vấn đề vượt thẩm quyền của mình lên quản lý hoặc bộ phận có quyền quyết định. Câu thường dùng: “I would like to escalate this to the engagement manager for a decision.” Escalate không mang nghĩa tiêu cực, đó là hành động đúng khi vượt thẩm quyền.",
+        "distractors": [
+          "Sai — đây là hiểu theo nghĩa gốc “làm leo thang”, không phải nghĩa trong môi trường công sở.",
+          "Sai — đóng vấn đề mà không giải quyết là closing without resolution.",
+          "Sai — dịch sang ngôn ngữ khác là translating.",
+          null
+        ]
+      },
+      "en": {
+        "question": "In business email, what does “to escalate an issue” mean?",
+        "options": [
+          "To make the problem worse deliberately",
+          "To close the issue without resolving it",
+          "To translate the issue into another language",
+          "To raise the issue to a more senior person for a decision"
+        ],
+        "explanation": "To escalate is to pass an issue beyond your authority up to a manager or team empowered to decide: “I would like to escalate this to the engagement manager for a decision.” It carries no negative connotation — escalating is the correct action when a matter exceeds your remit.",
+        "distractors": [
+          "Wrong — that is the literal “make worse” sense, not the workplace meaning.",
+          "Wrong — that is closing without resolution.",
+          "Wrong — that is translating.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-007",
+      "topic": "a7-email-communication",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["following-up"],
+      "vi": {
+        "question": "Bạn đã gửi email một tuần trước nhưng chưa có phản hồi. Câu nhắc lại nào phù hợp nhất?",
+        "options": [
+          "I am following up on my email below regarding the July invoices. Could you let me know the status?",
+          "You did not reply to my email. Please reply immediately.",
+          "This is my second email. I expect an answer this time.",
+          "Did you receive my email or not?"
+        ],
+        "explanation": "“I am following up on my email below…” là cách nhắc lại chuẩn mực, lịch sự và trung tính. Các mẫu câu hữu ích khác: “Just a gentle reminder about…”, “I wanted to check in on…”. Tránh mọi cách diễn đạt hàm ý trách móc người nhận.",
+        "distractors": [
+          null,
+          "Sai — chỉ trích trực tiếp và ra lệnh, không phù hợp với khách hàng.",
+          "Sai — giọng gay gắt, tạo áp lực không cần thiết.",
+          "Sai — câu hỏi cụt lủn mang tính chất vấn."
+        ]
+      },
+      "en": {
+        "question": "You emailed a week ago with no reply. Which follow-up is most appropriate?",
+        "options": [
+          "I am following up on my email below regarding the July invoices. Could you let me know the status?",
+          "You did not reply to my email. Please reply immediately.",
+          "This is my second email. I expect an answer this time.",
+          "Did you receive my email or not?"
+        ],
+        "explanation": "“I am following up on my email below…” is the standard neutral, polite chaser. Other useful patterns: “Just a gentle reminder about…” and “I wanted to check in on…”. Avoid any wording that implies blame.",
+        "distractors": [
+          null,
+          "Wrong — direct criticism plus a command; inappropriate to a client.",
+          "Wrong — a sharp tone creating needless pressure.",
+          "Wrong — blunt and interrogative."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-008",
+      "topic": "a7-email-communication",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["clarifying"],
+      "vi": {
+        "question": "Bạn phát hiện một khoản chi bất thường trong sổ của khách hàng và cần hỏi rõ. Cách viết nào tốt nhất?",
+        "options": [
+          "This expense looks completely wrong to us. Please explain what happened here.",
+          "Someone in your finance team has clearly made a mistake when recording this payment, and we need it corrected today.",
+          "We noticed a payment of VND 85,000,000 on 12 August with no supporting invoice. Could you help us understand it?",
+          "We cannot record this at all because your team did not do the job properly."
+        ],
+        "explanation": "Cách hỏi tốt gồm ba yếu tố: nêu dữ kiện cụ thể (số tiền, ngày), mô tả vấn đề một cách trung lập (“with no supporting invoice”), và đề nghị hợp tác (“Could you help us understand…”). Không quy kết ai sai khi chưa có đủ thông tin — rất có thể chứng từ chỉ đơn giản là chưa được gửi.",
+        "distractors": [
+          "Sai — kết luận “looks wrong” khi chưa có thông tin là quy chụp.",
+          "Sai — quy lỗi cho nhân sự của khách hàng là điều tối kỵ.",
+          null,
+          "Sai — công kích trực diện, phá hỏng quan hệ khách hàng."
+        ]
+      },
+      "en": {
+        "question": "You spot an unusual payment in a client’s books and need to query it. Which wording is best?",
+        "options": [
+          "This expense looks completely wrong to us. Please explain what happened here.",
+          "Someone in your finance team has clearly made a mistake when recording this payment, and we need it corrected today.",
+          "We noticed a payment of VND 85,000,000 on 12 August with no supporting invoice. Could you help us understand it?",
+          "We cannot record this at all because your team did not do the job properly."
+        ],
+        "explanation": "A good query has three parts: specific facts (amount, date), a neutral description of the issue (“with no supporting invoice”), and a collaborative ask (“Could you help us understand…”). Never assign blame before you have the facts — the document may simply not have been sent yet.",
+        "distractors": [
+          "Wrong — “looks wrong” is a conclusion drawn without information.",
+          "Wrong — blaming the client’s staff is unacceptable.",
+          null,
+          "Wrong — a direct attack that damages the client relationship."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-009",
+      "topic": "a7-email-communication",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["deadlines"],
+      "vi": {
+        "question": "Câu nào diễn đạt đúng rằng báo cáo phải được nộp muộn nhất vào ngày 15?",
+        "options": [
+          "The report is due since 15 September.",
+          "The report is due by 15 September.",
+          "The report is due until 15 September.",
+          "The report is due from 15 September."
+        ],
+        "explanation": "“Due by [date]” nghĩa là hạn chót là ngày đó. Phân biệt bộ giới từ hay nhầm: by = muộn nhất vào; until/till = kéo dài cho đến; from = bắt đầu từ; since = kể từ (dùng với thì hoàn thành). Đây là lỗi giới từ phổ biến nhất khi người Việt viết về deadline.",
+        "distractors": [
+          "Sai — “since” dùng cho khoảng thời gian đã kéo dài từ quá khứ tới hiện tại, không dùng cho hạn chót.",
+          null,
+          "Sai — “until” chỉ sự kéo dài liên tục tới thời điểm đó, không phải hạn nộp.",
+          "Sai — “from” chỉ thời điểm bắt đầu, ngược nghĩa với hạn chót."
+        ]
+      },
+      "en": {
+        "question": "Which sentence correctly says the report must be submitted no later than the 15th?",
+        "options": [
+          "The report is due since 15 September.",
+          "The report is due by 15 September.",
+          "The report is due until 15 September.",
+          "The report is due from 15 September."
+        ],
+        "explanation": "“Due by [date]” means that date is the deadline. Keep the prepositions apart: by = no later than; until/till = continuing up to; from = starting on; since = ever since (used with perfect tenses). This is the single most common preposition error in deadline emails.",
+        "distractors": [
+          "Wrong — “since” marks a period running from the past to now, not a deadline.",
+          null,
+          "Wrong — “until” expresses continuation, not a submission deadline.",
+          "Wrong — “from” marks a start point, the opposite of a deadline."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A7-010",
+      "topic": "a7-email-communication",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": ["tone"],
+      "vi": {
+        "question": "Head office yêu cầu bạn nộp báo cáo trong 2 ngày, nhưng khối lượng công việc thực tế cần 5 ngày. Cách phản hồi nào chuyên nghiệp nhất?",
+        "options": [
+          "That is completely impossible. Two days is nowhere near enough time for a report covering this many entities.",
+          "OK, I will try my best. (rồi nộp trễ)",
+          "I refuse to accept this deadline because it was set without consulting the team.",
+          "By Wednesday we could cover the three main entities only; full scope needs until Friday. Which do you prefer?"
+        ],
+        "explanation": "Cách phản hồi tốt nhất không phải là từ chối cũng không phải nhận bừa, mà là đưa ra lựa chọn có đánh đổi rõ ràng: giữ hạn nhưng thu hẹp phạm vi, hoặc giữ phạm vi nhưng lùi hạn — rồi để người quản lý quyết định. Đây là kỹ năng giao tiếp được đánh giá rất cao ở môi trường quốc tế.",
+        "distractors": [
+          "Sai — nói “impossible” ngay là đóng cửa đối thoại, không đưa được giải pháp.",
+          "Sai — nhận bừa rồi nộp trễ là cách phá hỏng uy tín nhanh nhất.",
+          "Sai — “I refuse” là cách nói đối đầu, không phù hợp môi trường công sở.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Head office asks for a report in 2 days, but the work genuinely needs 5. Which response is most professional?",
+        "options": [
+          "That is completely impossible. Two days is nowhere near enough time for a report covering this many entities.",
+          "OK, I will try my best. (then delivers late)",
+          "I refuse to accept this deadline because it was set without consulting the team.",
+          "By Wednesday we could cover the three main entities only; full scope needs until Friday. Which do you prefer?"
+        ],
+        "explanation": "The best response is neither refusal nor blind agreement, but a clear trade-off: keep the deadline with reduced scope, or keep the scope with a later date — and let the manager choose. This is a highly valued communication skill in international teams.",
+        "distractors": [
+          "Wrong — leading with “impossible” closes the conversation and offers nothing.",
+          "Wrong — agreeing then delivering late is the fastest way to lose credibility.",
+          "Wrong — “I refuse” is confrontational and inappropriate at work.",
+          null
+        ]
+      }
+    }
+  ]
+}

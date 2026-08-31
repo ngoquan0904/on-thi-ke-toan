@@ -1,0 +1,605 @@
+{
+  "topic": "b6-thue-gtgt",
+  "questions": [
+    {
+      "id": "PRO-B6-001",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Luật Thuế GTGT 48/2024/QH15 (hiệu lực 01/07/2025); Nghị định 181/2025/NĐ-CP",
+      "tags": ["chung-tu-thanh-toan", "2026-update"],
+      "vi": {
+        "question": "Từ 01/07/2025, hàng hóa dịch vụ mua vào có giá trị từ bao nhiêu trở lên thì bắt buộc phải có chứng từ thanh toán không dùng tiền mặt mới được khấu trừ thuế GTGT đầu vào?",
+        "options": [
+          "Từ 20 triệu đồng trở lên, giữ nguyên như quy định của luật cũ",
+          "Từ 10 triệu đồng trở lên, theo mức trung gian mới được ban hành",
+          "Từ 5 triệu đồng trở lên, đã bao gồm thuế GTGT",
+          "Mọi giao dịch không phân biệt giá trị lớn nhỏ đều bắt buộc phải chuyển khoản"
+        ],
+        "explanation": "Luật GTGT 48/2024 và Nghị định 181/2025 đã BỎ ngưỡng 20 triệu đồng của luật cũ và hạ xuống 5 triệu đồng (đã gồm thuế GTGT), áp dụng cho cả hàng nhập khẩu. Đây là thay đổi được hỏi nhiều nhất hiện nay vì phần lớn tài liệu ôn thi trên mạng vẫn ghi con số 20 triệu đã hết hiệu lực.",
+        "distractors": [
+          "Sai — ngưỡng 20 triệu là quy định CŨ theo Luật 13/2008, đã bị bãi bỏ từ 01/07/2025.",
+          "Sai — không có mức 10 triệu đồng nào trong quy định hiện hành.",
+          null,
+          "Sai — giao dịch dưới 5 triệu vẫn được thanh toán tiền mặt và vẫn được khấu trừ nếu đủ điều kiện khác."
+        ]
+      },
+      "en": {
+        "question": "From 1 July 2025, at what value must purchases have non-cash payment documents to allow input VAT deduction?",
+        "options": [
+          "From VND 20 million, unchanged from the previous law",
+          "From VND 10 million, under a newly introduced intermediate threshold",
+          "From VND 5 million, VAT inclusive",
+          "Every transaction regardless of value must be paid non-cash"
+        ],
+        "explanation": "VAT Law 48/2024 and Decree 181/2025 abolished the old VND 20 million threshold and lowered it to VND 5 million (VAT inclusive), including imports. This is the single most-asked change right now, because most online study material still quotes the obsolete 20 million figure.",
+        "distractors": [
+          "Wrong — VND 20 million was the OLD threshold under Law 13/2008, abolished on 1 July 2025.",
+          "Wrong — no VND 10 million threshold exists in the current rules.",
+          null,
+          "Wrong — purchases under 5 million may still be paid in cash and remain deductible if other conditions are met."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-002",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["thue-suat"],
+      "vi": {
+        "question": "Hàng hóa, dịch vụ xuất khẩu áp dụng thuế suất thuế GTGT nào?",
+        "options": [
+          "0%",
+          "5%",
+          "8%",
+          "Thuộc đối tượng không chịu thuế GTGT"
+        ],
+        "explanation": "Hàng hóa, dịch vụ xuất khẩu áp dụng thuế suất 0%. Điểm mấu chốt phải phân biệt: thuế suất 0% VẪN thuộc diện chịu thuế nên doanh nghiệp ĐƯỢC khấu trừ và hoàn thuế đầu vào; còn “không chịu thuế” thì KHÔNG được khấu trừ đầu vào. Đây là khác biệt bản chất, rất hay bị nhầm.",
+        "distractors": [
+          null,
+          "Sai — 5% áp dụng cho nhóm hàng hóa dịch vụ thiết yếu tiêu dùng trong nước.",
+          "Sai — 8% là mức giảm từ 10%, áp dụng cho tiêu dùng trong nước chứ không phải xuất khẩu.",
+          "Sai — xuất khẩu chịu thuế suất 0%, hoàn toàn khác với đối tượng không chịu thuế."
+        ]
+      },
+      "en": {
+        "question": "What VAT rate applies to exported goods and services?",
+        "options": [
+          "0%",
+          "5%",
+          "8%",
+          "They are not subject to VAT"
+        ],
+        "explanation": "Exports carry a 0% rate. The crucial distinction: 0%-rated supplies ARE within the VAT system, so input VAT remains deductible and refundable; “not subject to VAT” means input VAT is NOT deductible. A fundamental difference that is often confused.",
+        "distractors": [
+          null,
+          "Wrong — 5% applies to essential goods and services consumed domestically.",
+          "Wrong — 8% is the reduced domestic rate, not the export rate.",
+          "Wrong — exports are 0%-rated, which is quite different from being outside VAT."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-003",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Luật Thuế GTGT 48/2024/QH15 (hiệu lực 01/07/2025); Nghị định 181/2025/NĐ-CP",
+      "tags": ["khau-tru", "2026-update"],
+      "vi": {
+        "question": "Công ty mua văn phòng phẩm trị giá 6.600.000 đồng (đã gồm thuế GTGT 10%), thanh toán bằng tiền mặt vào tháng 8/2026. Thuế GTGT đầu vào 600.000 đồng được xử lý thế nào?",
+        "options": [
+          "Được khấu trừ toàn bộ vì giá trị dưới ngưỡng 20 triệu đồng",
+          "Được khấu trừ một nửa theo tỷ lệ tương ứng với phần vượt ngưỡng",
+          "Được khấu trừ nếu doanh nghiệp bổ sung hợp đồng mua bán bằng văn bản",
+          "Không được khấu trừ vì thiếu chứng từ thanh toán không dùng tiền mặt"
+        ],
+        "explanation": "Giá trị 6,6 triệu đồng đã vượt ngưỡng 5 triệu, mà lại thanh toán bằng tiền mặt nên không đáp ứng điều kiện khấu trừ. Toàn bộ 600.000 đồng thuế đầu vào không được khấu trừ và được tính vào chi phí hoặc giá trị hàng hóa. Lưu ý thêm: khoản chi này cũng có rủi ro không được trừ khi tính thuế TNDN.",
+        "distractors": [
+          "Sai — ngưỡng 20 triệu đã bị bãi bỏ; ngưỡng hiện hành là 5 triệu đồng đã gồm thuế.",
+          "Sai — pháp luật thuế GTGT không có cơ chế khấu trừ một phần theo tỷ lệ.",
+          "Sai — hợp đồng bằng văn bản không thay thế được chứng từ thanh toán không dùng tiền mặt.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A company buys stationery for VND 6,600,000 (VAT inclusive at 10%), paid in cash in August 2026. How is the VND 600,000 input VAT treated?",
+        "options": [
+          "Fully deductible, since the value is below the VND 20 million threshold",
+          "Half deductible, in proportion to the amount above the threshold",
+          "Deductible if the company adds a written purchase contract",
+          "Not deductible, because non-cash payment documentation is missing"
+        ],
+        "explanation": "At VND 6.6 million the purchase exceeds the VND 5 million threshold but was paid in cash, so the deduction condition fails. The whole 600,000 of input VAT is non-deductible and is added to cost. Note too that this spending risks being non-deductible for CIT as well.",
+        "distractors": [
+          "Wrong — the 20 million threshold was abolished; the current one is 5 million VAT-inclusive.",
+          "Wrong — VAT law has no proportional partial deduction mechanism.",
+          "Wrong — a written contract cannot substitute for non-cash payment evidence.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-004",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "Luật Thuế GTGT 48/2024/QH15; Nghị quyết giảm thuế GTGT áp dụng đến 31/12/2026",
+      "tags": ["thue-suat", "2026-update"],
+      "vi": {
+        "question": "Mức thuế suất GTGT 8% hiện đang được áp dụng cho nhóm nào và đến thời điểm nào?",
+        "options": [
+          "Cho toàn bộ hàng hóa dịch vụ, áp dụng vĩnh viễn từ 01/07/2025 trở đi",
+          "Cho nhóm đang chịu thuế suất 10%, áp dụng đến hết ngày 31/12/2026",
+          "Cho nhóm đang chịu thuế suất 5%, áp dụng đến hết ngày 31/12/2026",
+          "Cho hàng hóa xuất khẩu, thay thế cho mức thuế suất 0% trước đây"
+        ],
+        "explanation": "Chính sách giảm thuế GTGT hạ mức 10% xuống 8% cho phần lớn hàng hóa dịch vụ đang chịu thuế suất 10%, áp dụng từ 01/07/2025 đến hết 31/12/2026. Một số nhóm bị loại trừ khỏi chính sách giảm. Nhóm 5% và nhóm 0% giữ nguyên, không bị ảnh hưởng bởi chính sách này.",
+        "distractors": [
+          "Sai — đây là chính sách có thời hạn, không phải mức thuế suất phổ thông vĩnh viễn.",
+          null,
+          "Sai — nhóm 5% giữ nguyên mức 5%, không được giảm xuống 8%.",
+          "Sai — hàng xuất khẩu vẫn áp dụng thuế suất 0%, không đổi thành 8%."
+        ]
+      },
+      "en": {
+        "question": "Which group does the 8% VAT rate currently apply to, and until when?",
+        "options": [
+          "All goods and services, permanently from 1 July 2025 onwards",
+          "Goods and services otherwise taxed at 10%, until 31 December 2026",
+          "Goods and services taxed at 5%, until 31 December 2026",
+          "Exported goods, replacing the previous 0% rate"
+        ],
+        "explanation": "The VAT reduction policy cuts 10% to 8% for most goods and services otherwise taxed at 10%, running from 1 July 2025 to 31 December 2026. Certain groups are excluded. The 5% and 0% categories are unaffected.",
+        "distractors": [
+          "Wrong — this is a time-limited policy, not a permanent standard rate.",
+          null,
+          "Wrong — the 5% band stays at 5% and is not reduced to 8%.",
+          "Wrong — exports remain 0%-rated."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-005",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Luật Thuế GTGT 48/2024/QH15 (hiệu lực 01/07/2025)",
+      "tags": ["doi-tuong-chiu-thue", "2026-update"],
+      "vi": {
+        "question": "Theo Luật Thuế GTGT 48/2024, phân bón và máy móc thiết bị chuyên dùng cho nông nghiệp được xử lý thế nào?",
+        "options": [
+          "Vẫn thuộc đối tượng không chịu thuế GTGT như quy định trước đây",
+          "Chuyển sang áp dụng mức thuế suất phổ thông là 10%",
+          "Chuyển từ không chịu thuế sang chịu thuế suất 5%",
+          "Được miễn hoàn toàn thuế GTGT ở tất cả các khâu lưu thông"
+        ],
+        "explanation": "Luật 48/2024 chuyển phân bón, máy móc thiết bị chuyên dùng cho nông nghiệp và tàu khai thác thủy sản từ diện KHÔNG CHỊU THUẾ sang chịu thuế suất 5%. Thay đổi này có lợi cho nhà sản xuất vì họ được khấu trừ thuế đầu vào — điều mà trước đây họ không được hưởng khi thuộc diện không chịu thuế.",
+        "distractors": [
+          "Sai — đây chính là quy định cũ đã được thay đổi bởi Luật 48/2024.",
+          "Sai — nhóm này chuyển sang mức 5%, không phải mức phổ thông 10%.",
+          null,
+          "Sai — không có cơ chế miễn hoàn toàn ở mọi khâu cho nhóm hàng hóa này."
+        ]
+      },
+      "en": {
+        "question": "Under VAT Law 48/2024, how are fertilisers and specialised agricultural machinery treated?",
+        "options": [
+          "They remain outside the scope of VAT as before",
+          "They move to the standard 10% rate",
+          "They move from non-taxable to the 5% rate",
+          "They are fully exempt from VAT at every stage of distribution"
+        ],
+        "explanation": "Law 48/2024 moves fertilisers, specialised agricultural machinery and fishing vessels from NON-TAXABLE to the 5% rate. This benefits producers, because they can now deduct input VAT — something denied to them while the goods sat outside the VAT system.",
+        "distractors": [
+          "Wrong — that was the old rule, changed by Law 48/2024.",
+          "Wrong — the group moves to 5%, not the standard 10%.",
+          null,
+          "Wrong — no blanket exemption applies at every stage."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-006",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["phuong-phap-tinh-thue"],
+      "vi": {
+        "question": "Doanh nghiệp áp dụng phương pháp khấu trừ tính số thuế GTGT phải nộp theo công thức nào?",
+        "options": [
+          "Doanh thu bán hàng nhân với thuế suất thuế GTGT tương ứng",
+          "Doanh thu nhân với tỷ lệ phần trăm ấn định theo từng ngành nghề",
+          "Thuế GTGT đầu vào trừ đi thuế GTGT đầu ra của kỳ tính thuế",
+          "Thuế GTGT đầu ra trừ đi thuế GTGT đầu vào được khấu trừ"
+        ],
+        "explanation": "Phương pháp khấu trừ: Thuế phải nộp = Thuế GTGT đầu ra − Thuế GTGT đầu vào được khấu trừ. Nếu kết quả âm thì số dư được chuyển khấu trừ kỳ sau. Phương pháp trực tiếp mới tính theo tỷ lệ phần trăm trên doanh thu, áp dụng cho hộ kinh doanh và doanh nghiệp không đủ điều kiện khấu trừ.",
+        "distractors": [
+          "Sai — đây mới chỉ là cách tính thuế đầu ra, chưa trừ phần thuế đầu vào được khấu trừ.",
+          "Sai — tính theo tỷ lệ phần trăm trên doanh thu là đặc trưng của phương pháp trực tiếp.",
+          "Sai — công thức bị đảo ngược; phải lấy đầu ra trừ đầu vào chứ không phải ngược lại.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Under the credit method, how is VAT payable calculated?",
+        "options": [
+          "Sales revenue multiplied by the applicable VAT rate",
+          "Revenue multiplied by a fixed percentage set for each industry",
+          "Input VAT less output VAT for the tax period",
+          "Output VAT less deductible input VAT"
+        ],
+        "explanation": "Credit method: VAT payable = output VAT − deductible input VAT. A negative result is carried forward to the next period. The direct method uses a percentage of revenue and applies to household businesses and entities not qualifying for the credit method.",
+        "distractors": [
+          "Wrong — that computes output VAT only, before deducting input VAT.",
+          "Wrong — a percentage of revenue characterises the direct method.",
+          "Wrong — the formula is reversed; output less input, not the other way round.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-007",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["khong-chiu-thue"],
+      "vi": {
+        "question": "Doanh nghiệp chỉ kinh doanh hàng hóa thuộc đối tượng KHÔNG CHỊU thuế GTGT. Thuế GTGT đầu vào của doanh nghiệp này được xử lý thế nào?",
+        "options": [
+          "Không được khấu trừ, phải tính vào chi phí hoặc giá trị tài sản mua vào",
+          "Được khấu trừ toàn bộ như doanh nghiệp kinh doanh hàng chịu thuế thông thường",
+          "Được hoàn lại toàn bộ từ ngân sách nhà nước vào cuối mỗi năm tài chính",
+          "Được khấu trừ theo tỷ lệ 50% giá trị thuế đầu vào phát sinh trong kỳ"
+        ],
+        "explanation": "Hàng hóa dịch vụ không chịu thuế GTGT thì thuế đầu vào tương ứng KHÔNG được khấu trừ và cũng không được hoàn. Khoản thuế đó phải tính vào chi phí hoặc nguyên giá tài sản. Đây là điểm khác biệt then chốt so với thuế suất 0%, vốn vẫn được khấu trừ và hoàn thuế đầy đủ.",
+        "distractors": [
+          null,
+          "Sai — chỉ hàng hóa dịch vụ thuộc diện CHỊU thuế mới cho phép khấu trừ thuế đầu vào.",
+          "Sai — không có cơ chế hoàn thuế đầu vào cho hàng hóa thuộc diện không chịu thuế.",
+          "Sai — không tồn tại quy định khấu trừ theo tỷ lệ 50% trong pháp luật thuế GTGT."
+        ]
+      },
+      "en": {
+        "question": "A company trades only in goods that are NOT subject to VAT. How is its input VAT treated?",
+        "options": [
+          "Not deductible; it must be charged to expense or added to the cost of assets",
+          "Fully deductible, as for a company trading in taxable goods",
+          "Fully refundable from the State budget at each financial year end",
+          "Deductible at 50% of the input VAT arising in the period"
+        ],
+        "explanation": "Where supplies are outside the scope of VAT, the related input VAT is NOT deductible and not refundable; it must be capitalised or expensed. This is the key difference from 0%-rating, where input VAT stays fully deductible and refundable.",
+        "distractors": [
+          null,
+          "Wrong — only taxable supplies allow input VAT deduction.",
+          "Wrong — no refund mechanism exists for non-taxable supplies.",
+          "Wrong — no 50% partial deduction rule exists in VAT law."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-008",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "advanced",
+      "answer": 1,
+      "ref": "Luật Thuế GTGT 48/2024/QH15 — quy định về hoàn thuế",
+      "tags": ["hoan-thue"],
+      "vi": {
+        "question": "Cơ sở kinh doanh chỉ sản xuất hàng hóa, dịch vụ chịu thuế suất 5% được hoàn thuế GTGT khi nào?",
+        "options": [
+          "Khi số thuế đầu vào chưa khấu trừ hết đạt từ 100 triệu đồng sau 6 tháng liên tục",
+          "Khi số thuế đầu vào chưa khấu trừ hết từ 300 triệu đồng trở lên sau 12 tháng hoặc 4 quý",
+          "Khi số thuế đầu vào chưa khấu trừ hết đạt từ 500 triệu đồng sau 24 tháng liên tục",
+          "Không được hoàn thuế trong mọi trường hợp, chỉ được chuyển khấu trừ sang kỳ sau"
+        ],
+        "explanation": "Luật GTGT 48/2024 quy định cơ sở chỉ sản xuất hàng hóa, dịch vụ chịu thuế suất 5% có số thuế đầu vào chưa khấu trừ hết từ 300 triệu đồng trở lên sau 12 tháng hoặc 4 quý thì được hoàn thuế. Lý do tồn tại quy định này: đầu vào của họ thường chịu 10% trong khi đầu ra chỉ 5%, nên thuế đầu vào tích lũy liên tục.",
+        "distractors": [
+          "Sai — mức và thời gian đều không đúng; quy định là 300 triệu sau 12 tháng hoặc 4 quý.",
+          null,
+          "Sai — không có ngưỡng 500 triệu đồng hay thời hạn 24 tháng trong quy định hiện hành.",
+          "Sai — nhóm này thuộc trường hợp được hoàn thuế theo luật, không phải chỉ chuyển khấu trừ."
+        ]
+      },
+      "en": {
+        "question": "When may a business producing only 5%-rated goods and services claim a VAT refund?",
+        "options": [
+          "When unrelieved input VAT reaches VND 100 million after 6 consecutive months",
+          "When unrelieved input VAT is VND 300 million or more after 12 months or 4 quarters",
+          "When unrelieved input VAT reaches VND 500 million after 24 consecutive months",
+          "Never; such input VAT can only be carried forward"
+        ],
+        "explanation": "VAT Law 48/2024 allows a refund where a business producing only 5%-rated supplies has unrelieved input VAT of VND 300 million or more after 12 months or 4 quarters. The rule exists because their inputs typically bear 10% while outputs bear only 5%, so input VAT accumulates continuously.",
+        "distractors": [
+          "Wrong — neither the amount nor the period is correct.",
+          null,
+          "Wrong — there is no 500 million threshold or 24-month period.",
+          "Wrong — this group is specifically entitled to a refund under the law."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-009",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Nghị định 181/2025/NĐ-CP; Nghị định 52/2024/NĐ-CP về thanh toán không dùng tiền mặt",
+      "tags": ["chung-tu-thanh-toan"],
+      "vi": {
+        "question": "Trường hợp nào sau đây KHÔNG được coi là chứng từ thanh toán không dùng tiền mặt hợp lệ để khấu trừ thuế GTGT?",
+        "options": [
+          "Ủy nhiệm chi chuyển khoản từ tài khoản công ty sang tài khoản người bán",
+          "Chứng từ thanh toán bù trừ công nợ giữa hai bên có biên bản đối chiếu",
+          "Bên mua nộp tiền mặt trực tiếp vào tài khoản ngân hàng của bên bán",
+          "Thanh toán qua thẻ tín dụng doanh nghiệp đứng tên chính công ty đó"
+        ],
+        "explanation": "Nghị định 181/2025 loại trừ rõ trường hợp bên mua NỘP TIỀN MẶT vào tài khoản bên bán — vì bản chất vẫn là giao dịch tiền mặt, không phải chuyển khoản từ tài khoản sang tài khoản. Đây là bẫy rất hay gặp trong thực tế và trong đề thi.",
+        "distractors": [
+          "Sai — ủy nhiệm chi chuyển khoản là hình thức thanh toán không dùng tiền mặt điển hình nhất.",
+          "Sai — bù trừ công nợ có biên bản đối chiếu vẫn được chấp nhận theo quy định.",
+          null,
+          "Sai — thanh toán bằng thẻ tín dụng đứng tên doanh nghiệp là hình thức không dùng tiền mặt hợp lệ."
+        ]
+      },
+      "en": {
+        "question": "Which of the following does NOT count as valid non-cash payment evidence for VAT deduction?",
+        "options": [
+          "A bank transfer order from the company’s account to the seller’s account",
+          "Debt offsetting between the parties supported by a reconciliation minute",
+          "The buyer depositing cash directly into the seller’s bank account",
+          "Payment by a corporate credit card issued in the company’s own name"
+        ],
+        "explanation": "Decree 181/2025 explicitly excludes the buyer DEPOSITING CASH into the seller’s account — in substance it remains a cash transaction rather than an account-to-account transfer. A frequent trap both in practice and in tests.",
+        "distractors": [
+          "Wrong — a bank transfer order is the archetypal non-cash payment.",
+          "Wrong — debt offsetting with a reconciliation minute is accepted.",
+          null,
+          "Wrong — a corporate credit card in the company’s name is valid non-cash payment."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-010",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["tinh-thue"],
+      "vi": {
+        "question": "Trong kỳ, doanh nghiệp có thuế GTGT đầu ra 180 triệu, thuế đầu vào đủ điều kiện khấu trừ 200 triệu. Số thuế phải nộp trong kỳ và cách xử lý phần chênh lệch là:",
+        "options": [
+          "Phải nộp 20 triệu đồng vào ngân sách nhà nước trong kỳ tính thuế này",
+          "Phải nộp 380 triệu đồng, bằng tổng thuế đầu ra cộng với thuế đầu vào",
+          "Phải nộp 180 triệu đồng, không được trừ phần thuế đầu vào phát sinh",
+          "Không phải nộp, chuyển 20 triệu thuế đầu vào chưa khấu trừ hết sang kỳ sau"
+        ],
+        "explanation": "Thuế phải nộp = 180 − 200 = −20 triệu, tức thuế đầu vào lớn hơn đầu ra. Doanh nghiệp không phải nộp thuế trong kỳ, và 20 triệu chưa khấu trừ hết được chuyển sang kỳ sau tiếp tục khấu trừ. Chỉ khi thỏa mãn các điều kiện luật định mới được xét hoàn thuế thay vì chuyển khấu trừ.",
+        "distractors": [
+          "Sai — kết quả là số âm nên không phát sinh nghĩa vụ nộp thuế trong kỳ.",
+          "Sai — thuế đầu ra và đầu vào phải TRỪ cho nhau, không phải cộng lại.",
+          "Sai — thuế đầu vào đủ điều kiện thì bắt buộc phải được khấu trừ.",
+          null
+        ]
+      },
+      "en": {
+        "question": "In a period a company has output VAT of 180 million and deductible input VAT of 200 million. What is payable, and how is the difference handled?",
+        "options": [
+          "VND 20 million is payable to the State budget for this period",
+          "VND 380 million is payable, being output plus input VAT",
+          "VND 180 million is payable, with no deduction for input VAT",
+          "Nothing is payable; the 20 million of unrelieved input VAT carries forward"
+        ],
+        "explanation": "VAT payable = 180 − 200 = −20 million, so input exceeds output. No VAT is payable this period and the unrelieved 20 million carries forward. A refund may be considered only where the statutory conditions are met.",
+        "distractors": [
+          "Wrong — the result is negative, so no liability arises.",
+          "Wrong — output and input VAT are subtracted, not added.",
+          "Wrong — qualifying input VAT must be deducted.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-011",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "Luật Thuế GTGT 48/2024/QH15; Luật Quản lý thuế 38/2019/QH14",
+      "tags": ["ke-khai"],
+      "vi": {
+        "question": "Doanh nghiệp kê khai thuế GTGT theo quý thay vì theo tháng khi nào?",
+        "options": [
+          "Khi doanh thu năm trước liền kề không vượt quá 50 tỷ đồng",
+          "Khi doanh nghiệp mới thành lập và hoạt động dưới 12 tháng",
+          "Khi doanh nghiệp có số thuế phải nộp dưới 100 triệu đồng mỗi năm",
+          "Khi doanh nghiệp tự đăng ký và được cơ quan thuế chấp thuận từng năm"
+        ],
+        "explanation": "Doanh nghiệp có tổng doanh thu bán hàng hóa và cung cấp dịch vụ của năm trước liền kề từ 50 tỷ đồng trở xuống thì được kê khai thuế GTGT theo quý; vượt mức đó thì kê khai theo tháng. Hạn nộp tờ khai quý là ngày cuối cùng của tháng đầu quý sau.",
+        "distractors": [
+          null,
+          "Sai — doanh nghiệp mới thành lập được kê khai theo quý, nhưng tiêu chí chung vẫn là doanh thu.",
+          "Sai — tiêu chí phân loại dựa trên doanh thu, không dựa trên số thuế phải nộp.",
+          "Sai — đây không phải cơ chế xin phép và chấp thuận từng năm."
+        ]
+      },
+      "en": {
+        "question": "When may a company file VAT quarterly rather than monthly?",
+        "options": [
+          "When prior-year revenue did not exceed VND 50 billion",
+          "When the company is newly established and under 12 months old",
+          "When annual VAT payable is under VND 100 million",
+          "When the company applies and the tax office approves it each year"
+        ],
+        "explanation": "Companies with prior-year revenue from sales and services of VND 50 billion or less may file quarterly; above that, filing is monthly. The quarterly return is due on the last day of the first month of the following quarter.",
+        "distractors": [
+          null,
+          "Wrong — new companies may file quarterly, but the general test is revenue.",
+          "Wrong — the test is revenue, not the amount of tax payable.",
+          "Wrong — this is not an annual application-and-approval mechanism."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-012",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["gia-tinh-thue"],
+      "vi": {
+        "question": "Doanh nghiệp bán hàng có chiết khấu thương mại. Giá tính thuế GTGT được xác định thế nào?",
+        "options": [
+          "Theo giá niêm yết ban đầu, chưa trừ khoản chiết khấu thương mại đã cho",
+          "Theo giá bán đã trừ khoản chiết khấu thương mại dành cho người mua",
+          "Theo giá vốn hàng bán cộng thêm tỷ lệ lợi nhuận định mức của ngành",
+          "Theo giá do cơ quan thuế ấn định cho từng nhóm mặt hàng cụ thể"
+        ],
+        "explanation": "Giá tính thuế GTGT là giá bán thực tế đã trừ chiết khấu thương mại. Trường hợp chiết khấu theo doanh số dồn tích, cuối kỳ được lập hóa đơn điều chỉnh giảm cho phần chiết khấu đó. Nguyên tắc: thuế tính trên số tiền người mua thực trả.",
+        "distractors": [
+          "Sai — tính thuế trên giá chưa trừ chiết khấu sẽ khiến doanh nghiệp nộp thừa thuế GTGT.",
+          null,
+          "Sai — giá vốn cộng lợi nhuận định mức không phải cách xác định giá tính thuế GTGT.",
+          "Sai — cơ quan thuế chỉ ấn định giá trong trường hợp đặc biệt, không phải nguyên tắc chung."
+        ]
+      },
+      "en": {
+        "question": "A company sells goods with a trade discount. How is the VAT taxable price determined?",
+        "options": [
+          "At the original list price, before deducting the trade discount given",
+          "At the selling price after deducting the trade discount given to the buyer",
+          "At cost of goods sold plus the industry’s standard profit margin",
+          "At a price fixed by the tax authority for each product category"
+        ],
+        "explanation": "The VAT taxable price is the actual selling price after trade discounts. Where discounts depend on cumulative volume, an adjustment invoice reduces the amount at period end. The principle: VAT follows what the buyer actually pays.",
+        "distractors": [
+          "Wrong — taxing the pre-discount price would overstate VAT payable.",
+          null,
+          "Wrong — cost plus a standard margin is not how VAT price is determined.",
+          "Wrong — the authority fixes prices only in special cases, not as a general rule."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-013",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "advanced",
+      "answer": 2,
+      "ref": "Luật Thuế GTGT 48/2024/QH15 — phân bổ thuế đầu vào dùng chung",
+      "tags": ["phan-bo-thue-dau-vao"],
+      "vi": {
+        "question": "Doanh nghiệp vừa kinh doanh hàng chịu thuế GTGT vừa kinh doanh hàng không chịu thuế. Thuế đầu vào của chi phí dùng chung cho cả hai hoạt động được xử lý ra sao?",
+        "options": [
+          "Khấu trừ toàn bộ vì doanh nghiệp có hoạt động chịu thuế GTGT",
+          "Không được khấu trừ đồng nào vì có lẫn hoạt động không chịu thuế",
+          "Phân bổ theo tỷ lệ doanh thu chịu thuế trên tổng doanh thu, chỉ khấu trừ phần tương ứng",
+          "Doanh nghiệp tự chọn tỷ lệ khấu trừ sao cho hợp lý và giải trình khi thanh tra"
+        ],
+        "explanation": "Với chi phí dùng chung mà không tách riêng được, thuế đầu vào phải PHÂN BỔ theo tỷ lệ doanh thu chịu thuế GTGT trên tổng doanh thu. Chỉ phần tương ứng với hoạt động chịu thuế mới được khấu trừ. Doanh nghiệp phải hạch toán riêng khi có thể tách được, đây là yêu cầu bắt buộc.",
+        "distractors": [
+          "Sai — khấu trừ toàn bộ là sai vì một phần chi phí phục vụ hoạt động không chịu thuế.",
+          "Sai — cực đoan ngược lại; phần phục vụ hoạt động chịu thuế vẫn được khấu trừ.",
+          null,
+          "Sai — tỷ lệ phân bổ do quy định pháp luật xác định, không do doanh nghiệp tự chọn."
+        ]
+      },
+      "en": {
+        "question": "A company sells both VAT-taxable and non-taxable goods. How is input VAT on shared costs treated?",
+        "options": [
+          "Fully deductible, since the company has taxable activities",
+          "Not deductible at all, because non-taxable activity is involved",
+          "Apportioned by the ratio of taxable revenue to total revenue, with only that share deductible",
+          "The company chooses a reasonable ratio and explains it during an inspection"
+        ],
+        "explanation": "For shared costs that cannot be separately identified, input VAT must be APPORTIONED by the ratio of taxable revenue to total revenue, and only that share is deductible. Where costs can be separately identified, separate accounting is mandatory.",
+        "distractors": [
+          "Wrong — full deduction ignores that part of the cost serves non-taxable activity.",
+          "Wrong — the opposite extreme; the taxable share remains deductible.",
+          null,
+          "Wrong — the apportionment basis is set by law, not chosen by the company."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-014",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "Luật Thuế GTGT 48/2024/QH15",
+      "tags": ["thue-nhap-khau"],
+      "vi": {
+        "question": "Thuế GTGT của hàng nhập khẩu được nộp ở khâu nào và có được khấu trừ không?",
+        "options": [
+          "Nộp cùng tờ khai thuế GTGT hằng tháng và không được khấu trừ đầu vào",
+          "Không phải nộp ở khâu nhập khẩu, chỉ nộp khi bán hàng ra thị trường nội địa",
+          "Nộp cho cơ quan thuế địa phương nơi doanh nghiệp đặt trụ sở chính hoạt động",
+          "Nộp cho cơ quan hải quan khi nhập khẩu, và được khấu trừ nếu đủ điều kiện"
+        ],
+        "explanation": "Thuế GTGT hàng nhập khẩu nộp cho cơ quan HẢI QUAN tại khâu nhập khẩu, cùng với thuế nhập khẩu. Chứng từ nộp thuế ở khâu nhập khẩu là căn cứ để khấu trừ thuế đầu vào. Lưu ý từ 01/07/2025, hàng nhập khẩu từ 5 triệu đồng cũng phải có chứng từ thanh toán không dùng tiền mặt.",
+        "distractors": [
+          "Sai — thuế nộp ở khâu nhập khẩu vẫn được khấu trừ như thuế đầu vào bình thường.",
+          "Sai — thuế GTGT hàng nhập khẩu phát sinh và phải nộp ngay tại khâu nhập khẩu.",
+          "Sai — cơ quan thu là hải quan tại cửa khẩu, không phải cơ quan thuế địa phương.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Where is import VAT paid, and is it deductible?",
+        "options": [
+          "Paid with the monthly VAT return, and not deductible as input VAT",
+          "Not payable on import; payable only when the goods are sold domestically",
+          "Paid to the local tax office where the company’s head office is located",
+          "Paid to customs on import, and deductible if the conditions are met"
+        ],
+        "explanation": "Import VAT is paid to CUSTOMS at the point of import, alongside import duty. The import tax payment document evidences the deduction. Note that from 1 July 2025 imports of VND 5 million or more also require non-cash payment evidence.",
+        "distractors": [
+          "Wrong — import VAT remains deductible as ordinary input VAT.",
+          "Wrong — import VAT arises and is payable at the point of import.",
+          "Wrong — it is collected by customs at the border, not the local tax office.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B6-015",
+      "topic": "b6-thue-gtgt",
+      "difficulty": "advanced",
+      "answer": 0,
+      "ref": "Luật Thuế GTGT 48/2024/QH15; Nghị định 181/2025/NĐ-CP",
+      "tags": ["khau-tru", "tra-cham"],
+      "vi": {
+        "question": "Doanh nghiệp mua hàng 200 triệu đồng theo hợp đồng trả chậm, đến hạn thanh toán vẫn chưa trả tiền. Thuế GTGT đầu vào được xử lý ra sao?",
+        "options": [
+          "Vẫn được kê khai khấu trừ, nhưng phải điều chỉnh giảm nếu đến hạn mà không có chứng từ thanh toán không dùng tiền mặt",
+          "Không được kê khai khấu trừ cho đến khi thực tế thanh toán xong toàn bộ tiền hàng",
+          "Được khấu trừ vĩnh viễn ngay khi nhận hóa đơn, không phụ thuộc việc thanh toán sau này",
+          "Phải chờ đến khi quyết toán thuế cuối năm mới được kê khai khấu trừ một lần"
+        ],
+        "explanation": "Với hàng mua trả chậm, doanh nghiệp vẫn được kê khai khấu trừ thuế đầu vào tại thời điểm nhận hóa đơn. Nhưng đến thời hạn thanh toán ghi trong hợp đồng mà chưa có chứng từ thanh toán không dùng tiền mặt thì phải kê khai ĐIỀU CHỈNH GIẢM số thuế đã khấu trừ. Đây là điểm nâng cao rất hay bị bỏ sót.",
+        "distractors": [
+          null,
+          "Sai — không phải chờ thanh toán xong mới được khấu trừ; được khấu trừ ngay khi có hóa đơn.",
+          "Sai — quyền khấu trừ không phải vĩnh viễn; phải điều chỉnh giảm nếu quá hạn mà chưa thanh toán đúng cách.",
+          "Sai — khấu trừ thực hiện theo kỳ kê khai thường xuyên, không dồn tới kỳ quyết toán năm."
+        ]
+      },
+      "en": {
+        "question": "A company buys goods for VND 200 million on deferred payment terms and has not paid by the due date. How is input VAT treated?",
+        "options": [
+          "It may still be claimed, but must be adjusted downwards if no non-cash payment evidence exists by the due date",
+          "It cannot be claimed until the full purchase price has actually been paid",
+          "It is permanently deductible once the invoice is received, regardless of later payment",
+          "It can only be claimed once, at the annual tax finalisation"
+        ],
+        "explanation": "For deferred-payment purchases, input VAT may be claimed when the invoice is received. But if the contractual due date passes without non-cash payment evidence, the previously claimed VAT must be ADJUSTED DOWN. An advanced point that is frequently overlooked.",
+        "distractors": [
+          null,
+          "Wrong — the claim need not wait for payment; it arises on receipt of the invoice.",
+          "Wrong — the entitlement is not permanent; it reverses if the due date passes unpaid.",
+          "Wrong — deduction follows the regular filing periods, not the annual finalisation."
+        ]
+      }
+    }
+  ]
+}

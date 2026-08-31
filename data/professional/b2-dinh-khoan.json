@@ -1,0 +1,1236 @@
+{
+  "topic": "b2-dinh-khoan",
+  "questions": [
+    {
+      "id": "PRO-B2-001",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": [
+        "tien-mat"
+      ],
+      "vi": {
+        "question": "Rút tiền gửi ngân hàng về nhập quỹ tiền mặt 50.000.000 đồng. Bút toán đúng là:",
+        "options": [
+          "Nợ TK 111 / Có TK 112",
+          "Nợ TK 112 / Có TK 111",
+          "Nợ TK 111 / Có TK 131",
+          "Nợ TK 112 / Có TK 341"
+        ],
+        "explanation": "Tiền mặt tại quỹ (TK 111) tăng nên ghi Nợ; tiền gửi ngân hàng (TK 112) giảm nên ghi Có. Đây là nghiệp vụ chuyển dịch nội bộ trong nhóm tài sản: tổng tài sản không đổi, chỉ thay đổi cơ cấu.",
+        "distractors": [
+          null,
+          "Sai — đây là bút toán nộp tiền mặt vào ngân hàng, ngược chiều với đề bài.",
+          "Sai — TK 131 là phải thu khách hàng, đây là bút toán thu nợ khách hàng bằng tiền mặt.",
+          "Sai — TK 341 là vay nợ, đây là bút toán nhận tiền vay về tài khoản ngân hàng."
+        ]
+      },
+      "en": {
+        "question": "Withdrawing VND 50,000,000 from the bank into the cash fund. The correct entry is:",
+        "options": [
+          "Dr 111 / Cr 112",
+          "Dr 112 / Cr 111",
+          "Dr 111 / Cr 131",
+          "Dr 112 / Cr 341"
+        ],
+        "explanation": "Cash on hand (111) increases and is debited; the bank balance (112) decreases and is credited. This is a transfer within assets: total assets are unchanged, only the mix shifts.",
+        "distractors": [
+          null,
+          "Wrong — that records depositing cash into the bank, the opposite direction.",
+          "Wrong — 131 is trade receivables; that entry records collecting from a customer in cash.",
+          "Wrong — 341 is borrowings; that entry records loan proceeds arriving in the bank."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-002",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "mua-hang",
+        "gtgt"
+      ],
+      "vi": {
+        "question": "Mua hàng hóa nhập kho giá chưa thuế 100.000.000 đồng, thuế GTGT 10%, chưa thanh toán cho người bán. Bút toán đúng là:",
+        "options": [
+          "Nợ TK 156: 110.000.000 / Có TK 331: 110.000.000",
+          "Nợ TK 156: 100.000.000 / Có TK 111: 100.000.000",
+          "Nợ TK 156: 100.000.000, Nợ TK 133: 10.000.000 / Có TK 331: 110.000.000",
+          "Nợ TK 156: 100.000.000, Nợ TK 333: 10.000.000 / Có TK 331: 110.000.000"
+        ],
+        "explanation": "Giá trị hàng nhập kho ghi theo giá CHƯA thuế (100 triệu) vào TK 156. Thuế GTGT đầu vào được khấu trừ ghi Nợ TK 133 (10 triệu). Tổng nghĩa vụ phải trả người bán là 110 triệu ghi Có TK 331. Nhớ: thuế GTGT được khấu trừ KHÔNG được tính vào giá gốc hàng tồn kho.",
+        "distractors": [
+          "Sai — gộp cả thuế vào giá trị hàng là sai; thuế được khấu trừ phải tách riêng ra TK 133.",
+          "Sai — đề bài nói chưa thanh toán nên không thể ghi Có TK 111 tiền mặt.",
+          null,
+          "Sai — TK 333 là thuế PHẢI NỘP nhà nước; thuế đầu vào được khấu trừ phải ghi vào TK 133."
+        ]
+      },
+      "en": {
+        "question": "Goods purchased into inventory for VND 100,000,000 excluding VAT, VAT 10%, unpaid. The correct entry is:",
+        "options": [
+          "Dr 156: 110,000,000 / Cr 331: 110,000,000",
+          "Dr 156: 100,000,000 / Cr 111: 100,000,000",
+          "Dr 156: 100,000,000, Dr 133: 10,000,000 / Cr 331: 110,000,000",
+          "Dr 156: 100,000,000, Dr 333: 10,000,000 / Cr 331: 110,000,000"
+        ],
+        "explanation": "Inventory is recorded at the VAT-exclusive cost (100 million) in account 156. Deductible input VAT goes to account 133 (10 million). The total payable to the supplier of 110 million is credited to 331. Remember: deductible input VAT is never part of inventory cost.",
+        "distractors": [
+          "Wrong — including VAT in inventory cost is incorrect; deductible VAT must be separated to 133.",
+          "Wrong — the goods were unpaid, so cash (111) cannot be credited.",
+          null,
+          "Wrong — 333 is VAT payable to the State; deductible input VAT belongs in 133."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-003",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": [
+        "ban-hang"
+      ],
+      "vi": {
+        "question": "Bán hàng chưa thu tiền, giá bán chưa thuế 200.000.000 đồng, thuế GTGT 8%. Bút toán ghi nhận doanh thu là:",
+        "options": [
+          "Nợ TK 131: 200.000.000 / Có TK 511: 200.000.000",
+          "Nợ TK 131: 216.000.000 / Có TK 511: 200.000.000, Có TK 3331: 16.000.000",
+          "Nợ TK 111: 216.000.000 / Có TK 511: 216.000.000",
+          "Nợ TK 131: 216.000.000 / Có TK 511: 216.000.000"
+        ],
+        "explanation": "Doanh thu ghi nhận theo giá CHƯA thuế: 200 triệu vào TK 511. Thuế GTGT đầu ra 8% = 16 triệu là nghĩa vụ với nhà nước, ghi Có TK 3331. Khoản phải thu khách hàng là tổng số tiền khách phải trả = 216 triệu, ghi Nợ TK 131. Đây là bút toán bạn sẽ gặp hằng ngày.",
+        "distractors": [
+          "Sai — thiếu hẳn phần thuế GTGT đầu ra phải nộp nhà nước, bút toán không cân.",
+          null,
+          "Sai — đề bài nói chưa thu tiền nên không ghi Nợ TK 111 tiền mặt được.",
+          "Sai — doanh thu ghi nhận theo giá chưa thuế, không được gộp cả thuế GTGT vào TK 511."
+        ]
+      },
+      "en": {
+        "question": "Goods sold on credit for VND 200,000,000 excluding VAT, VAT 8%. The revenue entry is:",
+        "options": [
+          "Dr 131: 200,000,000 / Cr 511: 200,000,000",
+          "Dr 131: 216,000,000 / Cr 511: 200,000,000, Cr 3331: 16,000,000",
+          "Dr 111: 216,000,000 / Cr 511: 216,000,000",
+          "Dr 131: 216,000,000 / Cr 511: 216,000,000"
+        ],
+        "explanation": "Revenue is recognised VAT-exclusive: 200 million to account 511. Output VAT at 8% of 16 million is an obligation to the State, credited to 3331. The receivable is the total the customer owes, 216 million, debited to 131. This is a daily entry.",
+        "distractors": [
+          "Wrong — output VAT payable is missing entirely, so the entry does not balance.",
+          null,
+          "Wrong — the sale was on credit, so cash (111) cannot be debited.",
+          "Wrong — revenue is recorded VAT-exclusive; VAT must not be included in 511."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-004",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "gia-von"
+      ],
+      "vi": {
+        "question": "Kèm theo nghiệp vụ bán hàng, kế toán phải ghi bút toán nào để phản ánh giá vốn hàng bán?",
+        "options": [
+          "Nợ TK 156 / Có TK 632",
+          "Nợ TK 511 / Có TK 632",
+          "Nợ TK 632 / Có TK 511",
+          "Nợ TK 632 / Có TK 156"
+        ],
+        "explanation": "Bán hàng luôn có hai bút toán song song: một ghi nhận doanh thu, một ghi nhận giá vốn. Giá vốn: hàng hóa xuất kho nên TK 156 giảm (ghi Có), chi phí giá vốn tăng nên TK 632 ghi Nợ. Quên bút toán giá vốn là lỗi rất phổ biến khiến lợi nhuận bị thổi phồng.",
+        "distractors": [
+          "Sai — ghi ngược chiều; hàng xuất kho phải làm giảm TK 156, tức ghi bên Có.",
+          "Sai — TK 511 là doanh thu, không đối ứng trực tiếp với giá vốn trong bút toán này.",
+          "Sai — ghi ngược; TK 632 là chi phí nên tăng ở bên Nợ, TK 511 không xuất hiện ở đây.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Alongside the sale, which entry records cost of goods sold?",
+        "options": [
+          "Dr 156 / Cr 632",
+          "Dr 511 / Cr 632",
+          "Dr 632 / Cr 511",
+          "Dr 632 / Cr 156"
+        ],
+        "explanation": "Every sale generates two parallel entries: one for revenue, one for cost. For cost: inventory leaves so 156 is credited, and COGS expense rises so 632 is debited. Forgetting the COGS entry is a common error that inflates profit.",
+        "distractors": [
+          "Wrong — reversed; goods leaving stock must reduce 156, i.e. be credited.",
+          "Wrong — 511 is revenue and does not pair directly with COGS here.",
+          "Wrong — reversed; 632 is an expense increasing on the debit side, and 511 has no place here.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-005",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "luong"
+      ],
+      "vi": {
+        "question": "Tính lương phải trả cho nhân viên bộ phận quản lý doanh nghiệp 120.000.000 đồng. Bút toán đúng là:",
+        "options": [
+          "Nợ TK 642 / Có TK 334",
+          "Nợ TK 334 / Có TK 642",
+          "Nợ TK 641 / Có TK 334",
+          "Nợ TK 334 / Có TK 111"
+        ],
+        "explanation": "Lương của bộ phận quản lý doanh nghiệp là chi phí quản lý, ghi Nợ TK 642; nghĩa vụ phải trả người lao động ghi Có TK 334. Nhớ phân bổ đúng bộ phận: TK 641 cho nhân viên bán hàng, TK 642 cho quản lý, TK 154/622 cho công nhân sản xuất trực tiếp.",
+        "distractors": [
+          null,
+          "Sai — ghi ngược chiều; chi phí phải tăng bên Nợ và nghĩa vụ phải trả tăng bên Có.",
+          "Sai — TK 641 là chi phí bán hàng, dùng cho nhân viên bộ phận bán hàng.",
+          "Sai — đây là bút toán chi tiền trả lương, không phải bút toán tính lương phải trả."
+        ]
+      },
+      "en": {
+        "question": "Salaries payable to administrative staff of VND 120,000,000 are computed. The correct entry is:",
+        "options": [
+          "Dr 642 / Cr 334",
+          "Dr 334 / Cr 642",
+          "Dr 641 / Cr 334",
+          "Dr 334 / Cr 111"
+        ],
+        "explanation": "Administrative salaries are an administrative expense, debited to 642, with the obligation to employees credited to 334. Allocate to the right function: 641 for sales staff, 642 for administration, 154/622 for direct production workers.",
+        "distractors": [
+          null,
+          "Wrong — reversed; the expense rises on the debit side and the payable on the credit side.",
+          "Wrong — 641 is selling expense, used for sales department staff.",
+          "Wrong — that records paying the salary in cash, not computing the amount payable."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-006",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": [
+        "bao-hiem"
+      ],
+      "vi": {
+        "question": "Trích các khoản bảo hiểm phần DOANH NGHIỆP phải đóng (21,5%) tính vào chi phí quản lý. Bút toán đúng là:",
+        "options": [
+          "Nợ TK 334 / Có TK 338",
+          "Nợ TK 338 / Có TK 642",
+          "Nợ TK 642 / Có TK 338",
+          "Nợ TK 642 / Có TK 334"
+        ],
+        "explanation": "Phần bảo hiểm doanh nghiệp đóng (21,5% năm 2026) là CHI PHÍ của doanh nghiệp: ghi Nợ TK 642 (hoặc 641, 154 tùy bộ phận) / Có TK 338. Còn phần người lao động đóng (10,5%) thì TRỪ VÀO LƯƠNG: Nợ TK 334 / Có TK 338 — đó chính là đáp án A, một bút toán khác.",
+        "distractors": [
+          "Sai — đây là bút toán trừ phần bảo hiểm 10,5% vào lương người lao động, không phải phần doanh nghiệp.",
+          "Sai — ghi ngược chiều hoàn toàn; chi phí phải tăng bên Nợ.",
+          null,
+          "Sai — khoản phải nộp cơ quan bảo hiểm theo dõi ở TK 338, không phải TK 334."
+        ]
+      },
+      "en": {
+        "question": "Accruing the EMPLOYER’s share of social insurance (21.5%) charged to administrative expenses. The correct entry is:",
+        "options": [
+          "Dr 334 / Cr 338",
+          "Dr 338 / Cr 642",
+          "Dr 642 / Cr 338",
+          "Dr 642 / Cr 334"
+        ],
+        "explanation": "The employer’s share (21.5% in 2026) is the company’s own COST: Dr 642 (or 641, 154 by function) / Cr 338. The employee’s share (10.5%) is DEDUCTED FROM PAY instead: Dr 334 / Cr 338 — which is option A, a different entry.",
+        "distractors": [
+          "Wrong — that deducts the employee’s 10.5% from wages, not the employer’s share.",
+          "Wrong — fully reversed; an expense must increase on the debit side.",
+          null,
+          "Wrong — amounts owed to the insurance agency sit in 338, not 334."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-007",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": [
+        "tscd"
+      ],
+      "vi": {
+        "question": "Mua một máy tính xách tay dùng cho văn phòng, giá chưa thuế 40.000.000 đồng, thuế GTGT 10%, đã thanh toán bằng chuyển khoản. Máy đủ tiêu chuẩn ghi nhận TSCĐ. Bút toán là:",
+        "options": [
+          "Nợ TK 153: 40.000.000, Nợ TK 133: 4.000.000 / Có TK 112: 44.000.000",
+          "Nợ TK 211: 40.000.000, Nợ TK 133: 4.000.000 / Có TK 112: 44.000.000",
+          "Nợ TK 642: 44.000.000 / Có TK 112: 44.000.000",
+          "Nợ TK 211: 44.000.000 / Có TK 112: 44.000.000"
+        ],
+        "explanation": "Tài sản đủ tiêu chuẩn TSCĐ ghi vào TK 211 theo nguyên giá CHƯA thuế GTGT được khấu trừ (40 triệu). Thuế đầu vào 4 triệu ghi Nợ TK 133. Tổng chi bằng chuyển khoản 44 triệu ghi Có TK 112. Tiêu chuẩn TSCĐ hiện hành: nguyên giá từ 30 triệu đồng và thời gian sử dụng trên 1 năm.",
+        "distractors": [
+          "Sai — TK 153 là công cụ dụng cụ, dùng khi tài sản KHÔNG đủ tiêu chuẩn ghi nhận TSCĐ.",
+          null,
+          "Sai — tài sản đủ tiêu chuẩn TSCĐ phải vốn hóa, không được ghi thẳng vào chi phí.",
+          "Sai — nguyên giá phải là giá chưa thuế GTGT được khấu trừ, tức 40 triệu chứ không phải 44 triệu."
+        ]
+      },
+      "en": {
+        "question": "A laptop for office use is bought for VND 40,000,000 excluding VAT, VAT 10%, paid by bank transfer. It meets the fixed asset criteria. The entry is:",
+        "options": [
+          "Dr 153: 40,000,000, Dr 133: 4,000,000 / Cr 112: 44,000,000",
+          "Dr 211: 40,000,000, Dr 133: 4,000,000 / Cr 112: 44,000,000",
+          "Dr 642: 44,000,000 / Cr 112: 44,000,000",
+          "Dr 211: 44,000,000 / Cr 112: 44,000,000"
+        ],
+        "explanation": "An asset meeting the fixed asset criteria goes to 211 at cost excluding deductible VAT (40 million). Input VAT of 4 million is debited to 133, and the total 44 million paid is credited to 112. Current criteria: cost from VND 30 million and useful life over one year.",
+        "distractors": [
+          "Wrong — 153 is tools and supplies, used where the asset does NOT meet fixed asset criteria.",
+          null,
+          "Wrong — an asset meeting the criteria must be capitalised, not expensed.",
+          "Wrong — cost must exclude deductible VAT, so 40 million rather than 44 million."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-008",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "khau-hao"
+      ],
+      "vi": {
+        "question": "Trích khấu hao TSCĐ dùng cho bộ phận bán hàng trong tháng 5.000.000 đồng. Bút toán là:",
+        "options": [
+          "Nợ TK 214 / Có TK 641",
+          "Nợ TK 211 / Có TK 214",
+          "Nợ TK 642 / Có TK 214",
+          "Nợ TK 641 / Có TK 214"
+        ],
+        "explanation": "Khấu hao là chi phí của kỳ, phân bổ theo bộ phận sử dụng tài sản: bộ phận bán hàng ghi Nợ TK 641. Đối ứng là TK 214 – Hao mòn lũy kế, ghi Có. Lưu ý TK 214 là tài khoản điều chỉnh giảm tài sản (contra-asset), có số dư bên Có nhưng trình bày giảm trừ vào nguyên giá.",
+        "distractors": [
+          "Sai — ghi ngược chiều; chi phí khấu hao tăng bên Nợ, hao mòn lũy kế tăng bên Có.",
+          "Sai — nguyên giá TK 211 không thay đổi khi trích khấu hao, chỉ hao mòn lũy kế tăng lên.",
+          "Sai — TK 642 dùng cho tài sản của bộ phận quản lý, đề bài nói bộ phận bán hàng.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Monthly depreciation of VND 5,000,000 on assets used by the sales department. The entry is:",
+        "options": [
+          "Dr 214 / Cr 641",
+          "Dr 211 / Cr 214",
+          "Dr 642 / Cr 214",
+          "Dr 641 / Cr 214"
+        ],
+        "explanation": "Depreciation is a period cost allocated by the department using the asset: the sales function is debited to 641. The credit goes to 214 – Accumulated depreciation. Note 214 is a contra-asset: it carries a credit balance but is presented as a deduction from cost.",
+        "distractors": [
+          "Wrong — reversed; depreciation expense rises on the debit side.",
+          "Wrong — cost in 211 does not change on depreciation; only accumulated depreciation grows.",
+          "Wrong — 642 is for administrative assets, but the question specifies the sales department.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-009",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "tam-ung"
+      ],
+      "vi": {
+        "question": "Nhân viên tạm ứng 10.000.000 đồng đi công tác, sau đó quyết toán chi phí thực tế 8.000.000 đồng (tính vào chi phí quản lý) và nộp lại tiền thừa. Bút toán quyết toán là:",
+        "options": [
+          "Nợ TK 642: 8.000.000, Nợ TK 111: 2.000.000 / Có TK 141: 10.000.000",
+          "Nợ TK 141: 10.000.000 / Có TK 642: 8.000.000, Có TK 111: 2.000.000",
+          "Nợ TK 642: 10.000.000 / Có TK 141: 10.000.000",
+          "Nợ TK 642: 8.000.000 / Có TK 111: 8.000.000"
+        ],
+        "explanation": "Khi tạm ứng đã ghi: Nợ TK 141 / Có TK 111 là 10 triệu. Khi quyết toán, khoản tạm ứng phải được tất toán hết: ghi Có TK 141 đủ 10 triệu. Phần chi thực tế 8 triệu ghi Nợ TK 642, phần tiền thừa 2 triệu nộp lại quỹ ghi Nợ TK 111.",
+        "distractors": [
+          null,
+          "Sai — ghi ngược chiều; khi quyết toán thì TK 141 phải giảm, tức ghi bên Có.",
+          "Sai — chi phí thực tế chỉ 8 triệu, không được ghi 10 triệu vào chi phí.",
+          "Sai — bút toán này không tất toán khoản tạm ứng, để TK 141 treo số dư sai 10 triệu."
+        ]
+      },
+      "en": {
+        "question": "An employee takes a VND 10,000,000 travel advance, then settles actual costs of VND 8,000,000 (administrative expense) and returns the balance. The settlement entry is:",
+        "options": [
+          "Dr 642: 8,000,000, Dr 111: 2,000,000 / Cr 141: 10,000,000",
+          "Dr 141: 10,000,000 / Cr 642: 8,000,000, Cr 111: 2,000,000",
+          "Dr 642: 10,000,000 / Cr 141: 10,000,000",
+          "Dr 642: 8,000,000 / Cr 111: 8,000,000"
+        ],
+        "explanation": "The advance was recorded as Dr 141 / Cr 111 for 10 million. On settlement the advance must be cleared in full: credit 141 with the whole 10 million. Actual spend of 8 million is debited to 642, and the 2 million returned to the cash fund is debited to 111.",
+        "distractors": [
+          null,
+          "Wrong — reversed; on settlement 141 must decrease, i.e. be credited.",
+          "Wrong — actual spend was only 8 million; 10 million cannot be expensed.",
+          "Wrong — this leaves the advance uncleared, stranding a false 10 million balance in 141."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-010",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "thu-no"
+      ],
+      "vi": {
+        "question": "Khách hàng thanh toán khoản nợ 150.000.000 đồng bằng chuyển khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 131 / Có TK 112",
+          "Nợ TK 112 / Có TK 511",
+          "Nợ TK 112 / Có TK 131",
+          "Nợ TK 331 / Có TK 112"
+        ],
+        "explanation": "Thu nợ khách hàng: tiền gửi ngân hàng tăng ghi Nợ TK 112, phải thu khách hàng giảm ghi Có TK 131. Không phát sinh doanh thu mới vì doanh thu đã được ghi nhận từ khi bán hàng theo cơ sở dồn tích — đây là bẫy quen thuộc.",
+        "distractors": [
+          "Sai — ghi ngược chiều; thu tiền làm tăng tiền gửi và giảm khoản phải thu.",
+          "Sai — bẫy điển hình: thu tiền của khoản đã ghi doanh thu thì không ghi doanh thu lần nữa.",
+          null,
+          "Sai — TK 331 là phải trả người bán, đây là bút toán trả nợ nhà cung cấp."
+        ]
+      },
+      "en": {
+        "question": "A customer settles a VND 150,000,000 debt by bank transfer. The entry is:",
+        "options": [
+          "Dr 131 / Cr 112",
+          "Dr 112 / Cr 511",
+          "Dr 112 / Cr 131",
+          "Dr 331 / Cr 112"
+        ],
+        "explanation": "Collecting a receivable: the bank balance rises (Dr 112) and the receivable falls (Cr 131). No new revenue arises — it was already recognised at the point of sale under the accrual basis. This is a familiar trap.",
+        "distractors": [
+          "Wrong — reversed; a collection increases the bank balance and reduces receivables.",
+          "Wrong — the classic trap: revenue is not recognised a second time on collection.",
+          null,
+          "Wrong — 331 is trade payables; that entry records paying a supplier."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-011",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "ket-chuyen"
+      ],
+      "vi": {
+        "question": "Cuối kỳ, kết chuyển doanh thu bán hàng 500.000.000 đồng để xác định kết quả kinh doanh. Bút toán là:",
+        "options": [
+          "Nợ TK 911 / Có TK 511",
+          "Nợ TK 511 / Có TK 911",
+          "Nợ TK 511 / Có TK 421",
+          "Nợ TK 421 / Có TK 511"
+        ],
+        "explanation": "Kết chuyển doanh thu: TK 511 có số dư bên Có, muốn đưa về 0 thì ghi Nợ TK 511, đối ứng ghi Có TK 911. Ngược lại, kết chuyển chi phí thì ghi Nợ TK 911 / Có TK 632, 641, 642. Sau khi kết chuyển hết, chênh lệch trên TK 911 chính là lãi hoặc lỗ, rồi mới chuyển sang TK 421.",
+        "distractors": [
+          "Sai — đây là chiều kết chuyển chi phí, không phải doanh thu.",
+          null,
+          "Sai — doanh thu phải qua TK 911 trước; TK 421 chỉ nhận kết quả lãi lỗ cuối cùng.",
+          "Sai — ghi ngược chiều và bỏ qua bước xác định kết quả trên TK 911."
+        ]
+      },
+      "en": {
+        "question": "At period end, sales revenue of VND 500,000,000 is transferred to determine business results. The entry is:",
+        "options": [
+          "Dr 911 / Cr 511",
+          "Dr 511 / Cr 911",
+          "Dr 511 / Cr 421",
+          "Dr 421 / Cr 511"
+        ],
+        "explanation": "Revenue transfer: account 511 has a credit balance, so it is debited to bring it to zero, with the credit to 911. Expenses go the other way: Dr 911 / Cr 632, 641, 642. The residual on 911 is the profit or loss, which is then moved to 421.",
+        "distractors": [
+          "Wrong — that is the direction for transferring expenses.",
+          null,
+          "Wrong — revenue must pass through 911 first; 421 receives only the final result.",
+          "Wrong — reversed, and it skips the result determination step in 911."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-012",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "gop-von"
+      ],
+      "vi": {
+        "question": "Chủ sở hữu góp vốn bằng tiền mặt 1.000.000.000 đồng. Bút toán là:",
+        "options": [
+          "Nợ TK 411 / Có TK 111",
+          "Nợ TK 111 / Có TK 511",
+          "Nợ TK 111 / Có TK 341",
+          "Nợ TK 111 / Có TK 411"
+        ],
+        "explanation": "Góp vốn bằng tiền: tiền mặt tăng ghi Nợ TK 111, vốn đầu tư của chủ sở hữu tăng ghi Có TK 411. Ba điều cần nhớ: góp vốn KHÔNG phải doanh thu, KHÔNG phải khoản vay, và làm tăng vốn chủ sở hữu chứ không phải nợ phải trả.",
+        "distractors": [
+          "Sai — ghi ngược chiều; đây là bút toán hoàn trả vốn cho chủ sở hữu.",
+          "Sai — bẫy phổ biến: góp vốn tuyệt đối không phải doanh thu của doanh nghiệp.",
+          "Sai — TK 341 là vay và nợ thuê tài chính, tiền từ chủ nợ chứ không phải chủ sở hữu.",
+          null
+        ]
+      },
+      "en": {
+        "question": "An owner contributes VND 1,000,000,000 in cash. The entry is:",
+        "options": [
+          "Dr 411 / Cr 111",
+          "Dr 111 / Cr 511",
+          "Dr 111 / Cr 341",
+          "Dr 111 / Cr 411"
+        ],
+        "explanation": "Cash contribution: cash rises (Dr 111) and owners’ contributed capital rises (Cr 411). Three things to remember: a contribution is NOT revenue, NOT a loan, and increases equity rather than liabilities.",
+        "distractors": [
+          "Wrong — reversed; that records returning capital to the owner.",
+          "Wrong — a common trap: a capital contribution is never revenue.",
+          "Wrong — 341 is borrowings, i.e. money from a creditor rather than an owner.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-013",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "chi-phi-tra-truoc"
+      ],
+      "vi": {
+        "question": "Trả trước tiền thuê văn phòng 12 tháng là 240.000.000 đồng bằng chuyển khoản (chưa xét thuế GTGT). Bút toán ban đầu là:",
+        "options": [
+          "Nợ TK 242 / Có TK 112",
+          "Nợ TK 642 / Có TK 112",
+          "Nợ TK 112 / Có TK 242",
+          "Nợ TK 331 / Có TK 112"
+        ],
+        "explanation": "Khoản trả trước cho nhiều kỳ được ghi vào TK 242 – Chi phí trả trước, là TÀI SẢN. Sau đó phân bổ dần vào chi phí mỗi tháng 20 triệu: Nợ TK 642 / Có TK 242. Ghi thẳng toàn bộ 240 triệu vào chi phí tháng đầu là vi phạm nguyên tắc phù hợp.",
+        "distractors": [
+          null,
+          "Sai — ghi hết vào chi phí ngay làm sai lệch lợi nhuận của 12 tháng, vi phạm nguyên tắc phù hợp.",
+          "Sai — ghi ngược chiều; chi trả tiền làm giảm tiền gửi, tức ghi bên Có TK 112.",
+          "Sai — TK 331 dùng khi đã nhận dịch vụ mà chưa trả tiền, ngược hẳn với trả trước."
+        ]
+      },
+      "en": {
+        "question": "Office rent for 12 months of VND 240,000,000 is prepaid by bank transfer (ignore VAT). The initial entry is:",
+        "options": [
+          "Dr 242 / Cr 112",
+          "Dr 642 / Cr 112",
+          "Dr 112 / Cr 242",
+          "Dr 331 / Cr 112"
+        ],
+        "explanation": "Amounts prepaid for several periods go to account 242 – Prepaid expenses, an ASSET. They are then released to expense monthly at 20 million: Dr 642 / Cr 242. Expensing all 240 million in month one breaches the matching principle.",
+        "distractors": [
+          null,
+          "Wrong — expensing it all at once distorts twelve months of profit and breaches matching.",
+          "Wrong — reversed; paying reduces the bank balance, so 112 is credited.",
+          "Wrong — 331 applies when the service is received but unpaid, the opposite of prepayment."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-014",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "tra-no-nguoi-ban"
+      ],
+      "vi": {
+        "question": "Thanh toán khoản nợ 80.000.000 đồng cho nhà cung cấp bằng chuyển khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 112 / Có TK 331",
+          "Nợ TK 632 / Có TK 112",
+          "Nợ TK 331 / Có TK 112",
+          "Nợ TK 331 / Có TK 511"
+        ],
+        "explanation": "Trả nợ nhà cung cấp: nghĩa vụ phải trả giảm nên ghi Nợ TK 331, tiền gửi giảm nên ghi Có TK 112. Không phát sinh chi phí mới, vì chi phí hoặc giá trị hàng đã được ghi nhận từ lúc mua hàng theo cơ sở dồn tích.",
+        "distractors": [
+          "Sai — ghi ngược chiều; trả nợ làm giảm cả tiền gửi lẫn khoản phải trả.",
+          "Sai — thanh toán nợ không tạo ra chi phí mới; chi phí đã ghi nhận khi mua hàng.",
+          null,
+          "Sai — TK 511 là doanh thu bán hàng, hoàn toàn không liên quan tới việc trả nợ người bán."
+        ]
+      },
+      "en": {
+        "question": "Settling VND 80,000,000 owed to a supplier by bank transfer. The entry is:",
+        "options": [
+          "Dr 112 / Cr 331",
+          "Dr 632 / Cr 112",
+          "Dr 331 / Cr 112",
+          "Dr 331 / Cr 511"
+        ],
+        "explanation": "Paying a supplier: the payable falls (Dr 331) and the bank balance falls (Cr 112). No new expense arises — the cost or goods value was recognised at purchase under the accrual basis.",
+        "distractors": [
+          "Wrong — reversed; settlement reduces both the bank balance and the payable.",
+          "Wrong — settling a debt creates no new expense; it was recognised at purchase.",
+          null,
+          "Wrong — 511 is sales revenue, entirely unrelated to paying a supplier."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-015",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "thue-gtgt-phai-nop"
+      ],
+      "vi": {
+        "question": "Cuối kỳ, thuế GTGT đầu ra là 50 triệu, thuế GTGT đầu vào được khấu trừ là 30 triệu. Bút toán khấu trừ thuế là:",
+        "options": [
+          "Nợ TK 133: 30.000.000 / Có TK 3331: 30.000.000",
+          "Nợ TK 3331: 30.000.000 / Có TK 133: 30.000.000",
+          "Nợ TK 3331: 50.000.000 / Có TK 133: 50.000.000",
+          "Nợ TK 3331: 20.000.000 / Có TK 133: 20.000.000"
+        ],
+        "explanation": "Bút toán khấu trừ ghi theo số NHỎ HƠN giữa đầu ra và đầu vào — ở đây là 30 triệu: Nợ TK 3331 / Có TK 133. Sau bút toán này TK 133 về 0 và TK 3331 còn dư Có 20 triệu, chính là số thuế thực tế phải nộp ngân sách.",
+        "distractors": [
+          "Sai — ghi ngược chiều; khấu trừ phải làm giảm TK 3331 và giảm TK 133.",
+          null,
+          "Sai — không thể khấu trừ 50 triệu khi thuế đầu vào chỉ có 30 triệu.",
+          "Sai — 20 triệu là số thuế còn phải nộp sau khấu trừ, không phải số đem đi khấu trừ."
+        ]
+      },
+      "en": {
+        "question": "At period end output VAT is 50 million and deductible input VAT is 30 million. The offsetting entry is:",
+        "options": [
+          "Dr 133: 30,000,000 / Cr 3331: 30,000,000",
+          "Dr 3331: 30,000,000 / Cr 133: 30,000,000",
+          "Dr 3331: 50,000,000 / Cr 133: 50,000,000",
+          "Dr 3331: 20,000,000 / Cr 133: 20,000,000"
+        ],
+        "explanation": "The offset is recorded at the LOWER of output and input VAT — here 30 million: Dr 3331 / Cr 133. Afterwards 133 is nil and 3331 retains a credit balance of 20 million, the VAT actually payable to the State.",
+        "distractors": [
+          "Wrong — reversed; the offset must reduce both 3331 and 133.",
+          null,
+          "Wrong — you cannot offset 50 million when input VAT is only 30 million.",
+          "Wrong — 20 million is the residual payable after offset, not the amount offset."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-016",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "cong-cu-dung-cu"
+      ],
+      "vi": {
+        "question": "Mua công cụ dụng cụ trị giá 8.000.000 đồng (chưa thuế) nhập kho, thanh toán bằng tiền mặt. Tài khoản nào được ghi Nợ cho phần giá trị công cụ?",
+        "options": [
+          "TK 211 – Tài sản cố định hữu hình",
+          "TK 156 – Hàng hóa",
+          "TK 642 – Chi phí quản lý doanh nghiệp",
+          "TK 153 – Công cụ, dụng cụ"
+        ],
+        "explanation": "Công cụ dụng cụ (giá trị dưới ngưỡng ghi nhận TSCĐ là 30 triệu đồng, hoặc thời gian sử dụng dưới 1 năm) nhập kho ghi vào TK 153. Khi xuất dùng mới phân bổ vào chi phí, một lần hoặc nhiều lần qua TK 242 tùy giá trị và thời gian sử dụng.",
+        "distractors": [
+          "Sai — giá trị 8 triệu chưa đạt ngưỡng 30 triệu để ghi nhận là tài sản cố định.",
+          "Sai — TK 156 dùng cho hàng hóa mua về để BÁN, không phải để doanh nghiệp tự sử dụng.",
+          "Sai — chưa xuất dùng thì chưa ghi vào chi phí; hiện tại mới chỉ nhập kho.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Tools worth VND 8,000,000 (excluding VAT) are purchased into store and paid in cash. Which account is debited for the tools?",
+        "options": [
+          "Account 211 – Tangible fixed assets",
+          "Account 156 – Merchandise inventory",
+          "Account 642 – Administrative expenses",
+          "Account 153 – Tools and supplies"
+        ],
+        "explanation": "Tools below the VND 30 million fixed asset threshold, or with a life under one year, are recorded in 153 on receipt. They are charged to expense only when issued for use — at once or over several periods through 242, depending on value and life.",
+        "distractors": [
+          "Wrong — 8 million is below the 30 million fixed asset threshold.",
+          "Wrong — 156 is for goods bought for RESALE, not for the company’s own use.",
+          "Wrong — nothing is expensed until the tools are issued for use; they are only in store.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-017",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "chi-phi-ban-hang"
+      ],
+      "vi": {
+        "question": "Chi tiền mặt 6.000.000 đồng trả phí vận chuyển hàng ĐI GIAO cho khách hàng. Khoản này ghi vào tài khoản nào?",
+        "options": [
+          "TK 641 – Chi phí bán hàng",
+          "TK 642 – Chi phí quản lý doanh nghiệp",
+          "TK 156 – Hàng hóa, tính vào giá gốc hàng tồn kho",
+          "TK 632 – Giá vốn hàng bán"
+        ],
+        "explanation": "Chi phí vận chuyển hàng đi bán (chi phí đầu ra) là chi phí bán hàng, ghi TK 641. Phân biệt rõ: chi phí vận chuyển hàng MUA VỀ nhập kho được tính vào giá gốc hàng tồn kho (TK 156); còn chi phí vận chuyển hàng ĐI GIAO cho khách thì vào TK 641.",
+        "distractors": [
+          null,
+          "Sai — TK 642 dành cho chi phí quản lý chung, không phải chi phí phục vụ việc bán hàng.",
+          "Sai — chỉ chi phí vận chuyển hàng mua về mới được tính vào giá gốc hàng tồn kho.",
+          "Sai — giá vốn là giá gốc của hàng đã bán, không bao gồm chi phí giao hàng cho khách."
+        ]
+      },
+      "en": {
+        "question": "VND 6,000,000 in cash is paid for delivering goods OUT to a customer. Which account is charged?",
+        "options": [
+          "Account 641 – Selling expenses",
+          "Account 642 – Administrative expenses",
+          "Account 156 – Inventory, added to the cost of goods",
+          "Account 632 – Cost of goods sold"
+        ],
+        "explanation": "Outbound delivery costs are selling expenses, charged to 641. Keep the distinction sharp: inbound freight on goods PURCHASED is capitalised into inventory cost (156), while outbound freight to customers goes to 641.",
+        "distractors": [
+          null,
+          "Wrong — 642 is for general administration, not costs of making sales.",
+          "Wrong — only inbound freight on purchases is capitalised into inventory cost.",
+          "Wrong — COGS is the cost of the goods sold, excluding delivery to the customer."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-018",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": [
+        "chenh-lech-ty-gia"
+      ],
+      "vi": {
+        "question": "Khoản phải thu 10.000 USD ghi nhận khi tỷ giá 24.000 VND/USD. Cuối kỳ tỷ giá là 24.500 VND/USD. Xử lý chênh lệch tỷ giá là:",
+        "options": [
+          "Không xử lý, giữ nguyên theo tỷ giá tại thời điểm ghi nhận ban đầu",
+          "Ghi giảm khoản phải thu 5.000.000 đồng và ghi vào chi phí tài chính",
+          "Ghi tăng khoản phải thu 5.000.000 đồng và ghi vào doanh thu hoạt động tài chính",
+          "Ghi tăng khoản phải thu 5.000.000 đồng và ghi thẳng vào vốn chủ sở hữu"
+        ],
+        "explanation": "Cuối kỳ phải đánh giá lại các khoản mục tiền tệ gốc ngoại tệ theo tỷ giá cuối kỳ. Phải thu 10.000 USD tăng từ 240 triệu lên 245 triệu, chênh lệch LÃI 5 triệu: Nợ TK 131 / Có TK 413, cuối kỳ kết chuyển TK 413 sang TK 515 – Doanh thu hoạt động tài chính.",
+        "distractors": [
+          "Sai — khoản mục tiền tệ gốc ngoại tệ bắt buộc phải đánh giá lại tại thời điểm cuối kỳ.",
+          "Sai — tỷ giá tăng làm khoản phải thu bằng VND tăng lên, đây là lãi chứ không phải lỗ.",
+          null,
+          "Sai — chênh lệch tỷ giá của hoạt động kinh doanh vào kết quả kinh doanh, không vào vốn chủ."
+        ]
+      },
+      "en": {
+        "question": "A USD 10,000 receivable was recorded at 24,000 VND/USD. At period end the rate is 24,500 VND/USD. The treatment is:",
+        "options": [
+          "No action; keep it at the rate applying when it was first recorded",
+          "Reduce the receivable by VND 5,000,000 and charge it to finance costs",
+          "Increase the receivable by VND 5,000,000 and record it in finance income",
+          "Increase the receivable by VND 5,000,000 and take it directly to equity"
+        ],
+        "explanation": "Monetary items denominated in foreign currency must be retranslated at the closing rate. The USD 10,000 receivable rises from 240 million to 245 million, a GAIN of 5 million: Dr 131 / Cr 413, with 413 later closed to 515 – Finance income.",
+        "distractors": [
+          "Wrong — foreign currency monetary items must be retranslated at period end.",
+          "Wrong — a rising rate increases the VND receivable; this is a gain, not a loss.",
+          null,
+          "Wrong — operating exchange differences go to profit or loss, not directly to equity."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-019",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": [
+        "ung-truoc"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp ứng trước 100.000.000 đồng cho nhà cung cấp bằng chuyển khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 156 / Có TK 112",
+          "Nợ TK 331 / Có TK 112",
+          "Nợ TK 112 / Có TK 331",
+          "Nợ TK 642 / Có TK 112"
+        ],
+        "explanation": "Ứng trước cho người bán ghi Nợ TK 331 (chi tiết theo từng nhà cung cấp) / Có TK 112. Lúc này TK 331 chi tiết của nhà cung cấp đó có số dư bên NỢ — đây chính là tính lưỡng tính của TK 331, và trên báo cáo phải trình bày ở phần tài sản, không được bù trừ tùy tiện.",
+        "distractors": [
+          "Sai — chưa nhận được hàng nên chưa được ghi tăng hàng tồn kho.",
+          null,
+          "Sai — ghi ngược chiều; chi tiền ứng trước làm giảm tiền gửi ngân hàng.",
+          "Sai — ứng trước tiền chưa phải chi phí; chi phí chỉ phát sinh khi nhận được hàng hóa, dịch vụ."
+        ]
+      },
+      "en": {
+        "question": "The company advances VND 100,000,000 to a supplier by bank transfer. The entry is:",
+        "options": [
+          "Dr 156 / Cr 112",
+          "Dr 331 / Cr 112",
+          "Dr 112 / Cr 331",
+          "Dr 642 / Cr 112"
+        ],
+        "explanation": "An advance to a supplier is Dr 331 (analysed by supplier) / Cr 112. That supplier’s 331 detail now shows a DEBIT balance — the dual nature of 331 — and must be presented within assets, not arbitrarily offset.",
+        "distractors": [
+          "Wrong — no goods have been received, so inventory cannot be increased.",
+          null,
+          "Wrong — reversed; paying an advance reduces the bank balance.",
+          "Wrong — an advance is not an expense; cost arises when goods or services are received."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-020",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": [
+        "thu-nhap-khac"
+      ],
+      "vi": {
+        "question": "Doanh nghiệp nhận được 20.000.000 đồng tiền bồi thường bảo hiểm cho một tài sản bị hư hỏng. Khoản này ghi vào tài khoản nào?",
+        "options": [
+          "TK 511 – Doanh thu bán hàng và cung cấp dịch vụ",
+          "TK 515 – Doanh thu hoạt động tài chính",
+          "TK 411 – Vốn đầu tư của chủ sở hữu",
+          "TK 711 – Thu nhập khác"
+        ],
+        "explanation": "Tiền bồi thường bảo hiểm không phát sinh từ hoạt động bán hàng hay hoạt động tài chính nên ghi vào TK 711 – Thu nhập khác. Nhóm TK 711 còn gồm: thanh lý nhượng bán TSCĐ, nợ phải trả không xác định được chủ, tiền phạt thu được từ khách hàng vi phạm hợp đồng.",
+        "distractors": [
+          "Sai — TK 511 chỉ dành cho doanh thu từ hoạt động bán hàng và cung cấp dịch vụ thông thường.",
+          "Sai — TK 515 dành cho lãi tiền gửi, lãi cho vay, cổ tức và lãi chênh lệch tỷ giá.",
+          "Sai — bồi thường bảo hiểm không phải khoản góp vốn từ chủ sở hữu doanh nghiệp.",
+          null
+        ]
+      },
+      "en": {
+        "question": "The company receives VND 20,000,000 in insurance compensation for a damaged asset. Where is it recorded?",
+        "options": [
+          "Account 511 – Revenue from sales and services",
+          "Account 515 – Finance income",
+          "Account 411 – Owners’ contributed capital",
+          "Account 711 – Other income"
+        ],
+        "explanation": "Insurance compensation arises from neither trading nor financing activity, so it goes to 711 – Other income. That account also captures gains on asset disposals, unclaimed liabilities, and contractual penalties received from customers.",
+        "distractors": [
+          "Wrong — 511 is only for ordinary revenue from sales and services.",
+          "Wrong — 515 covers interest, dividends and foreign exchange gains.",
+          "Wrong — compensation is not a contribution from the owners.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-021",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": [
+        "tra-luong"
+      ],
+      "vi": {
+        "question": "Chi tiền mặt trả lương cho người lao động 100.000.000 đồng. Bút toán là:",
+        "options": [
+          "Nợ TK 334 / Có TK 111",
+          "Nợ TK 642 / Có TK 111",
+          "Nợ TK 111 / Có TK 334",
+          "Nợ TK 338 / Có TK 111"
+        ],
+        "explanation": "Chi trả lương làm giảm nghĩa vụ phải trả người lao động: ghi Nợ TK 334 / Có TK 111. Lưu ý chuỗi hai bước: bước 1 tính lương ghi Nợ TK 641, 642 / Có TK 334; bước 2 chi trả ghi Nợ TK 334 / Có TK 111 hoặc 112. Không ghi chi phí lần thứ hai ở bước chi trả.",
+        "distractors": [
+          null,
+          "Sai — chi phí lương đã được ghi nhận ở bước tính lương; ghi lại ở đây là ghi trùng chi phí.",
+          "Sai — ghi ngược chiều; chi tiền làm giảm quỹ tiền mặt của doanh nghiệp.",
+          "Sai — TK 338 là các khoản phải trả bảo hiểm và phải trả khác, không phải lương của người lao động."
+        ]
+      },
+      "en": {
+        "question": "VND 100,000,000 of wages is paid to employees in cash. The entry is:",
+        "options": [
+          "Dr 334 / Cr 111",
+          "Dr 642 / Cr 111",
+          "Dr 111 / Cr 334",
+          "Dr 338 / Cr 111"
+        ],
+        "explanation": "Paying wages reduces the obligation to employees: Dr 334 / Cr 111. Note the two-step chain: step one accrues the cost, Dr 641/642 / Cr 334; step two pays it, Dr 334 / Cr 111 or 112. No expense is recorded a second time at payment.",
+        "distractors": [
+          null,
+          "Wrong — the payroll cost was recognised at accrual; charging it again duplicates the expense.",
+          "Wrong — reversed; paying out reduces the cash fund.",
+          "Wrong — 338 covers insurance and other payables, not wages due to employees."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-022",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": [
+        "ket-chuyen-chi-phi"
+      ],
+      "vi": {
+        "question": "Cuối kỳ kết chuyển chi phí quản lý doanh nghiệp 80.000.000 đồng. Bút toán là:",
+        "options": [
+          "Nợ TK 642 / Có TK 911",
+          "Nợ TK 642 / Có TK 421",
+          "Nợ TK 911 / Có TK 642",
+          "Nợ TK 421 / Có TK 642"
+        ],
+        "explanation": "TK 642 có số dư bên Nợ, muốn đưa về 0 phải ghi Có TK 642, đối ứng ghi Nợ TK 911. Ghi nhớ cặp đối xứng: kết chuyển doanh thu là Nợ TK 511 / Có TK 911; kết chuyển chi phí là Nợ TK 911 / Có TK 632, 641, 642, 811.",
+        "distractors": [
+          "Sai — ghi ngược chiều; TK 642 dư Nợ nên khi kết chuyển phải ghi bên Có.",
+          "Sai — chi phí phải kết chuyển qua TK 911 trước, TK 421 chỉ nhận kết quả lãi lỗ cuối cùng.",
+          null,
+          "Sai — bỏ qua bước xác định kết quả kinh doanh trên TK 911, không đúng quy trình khóa sổ."
+        ]
+      },
+      "en": {
+        "question": "At period end, administrative expenses of VND 80,000,000 are transferred out. The entry is:",
+        "options": [
+          "Dr 642 / Cr 911",
+          "Dr 642 / Cr 421",
+          "Dr 911 / Cr 642",
+          "Dr 421 / Cr 642"
+        ],
+        "explanation": "Account 642 carries a debit balance, so it is credited to clear it, with the debit going to 911. Remember the symmetric pair: revenue transfers are Dr 511 / Cr 911; expense transfers are Dr 911 / Cr 632, 641, 642, 811.",
+        "distractors": [
+          "Wrong — reversed; a debit balance in 642 must be credited to clear.",
+          "Wrong — expenses pass through 911 first; 421 receives only the final result.",
+          null,
+          "Wrong — this skips the result determination step in 911."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-023",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": [
+        "thanh-ly-tscd"
+      ],
+      "vi": {
+        "question": "Thanh lý một TSCĐ có nguyên giá 500 triệu, hao mòn lũy kế 400 triệu, thu được 150 triệu bằng tiền mặt (chưa xét thuế). Kết quả thanh lý là:",
+        "options": [
+          "Lỗ 350.000.000 đồng, ghi vào TK 811 – Chi phí khác",
+          "Lãi 50.000.000 đồng, phần thu ghi TK 711 và giá trị còn lại ghi TK 811",
+          "Lãi 150.000.000 đồng, ghi toàn bộ số thu được vào TK 711",
+          "Không phát sinh lãi lỗ vì tài sản đã khấu hao gần hết giá trị"
+        ],
+        "explanation": "Giá trị còn lại = 500 − 400 = 100 triệu. Thu 150 triệu nên LÃI 50 triệu. Ba bút toán: (1) xóa sổ tài sản Nợ TK 214: 400, Nợ TK 811: 100 / Có TK 211: 500; (2) ghi nhận thu Nợ TK 111: 150 / Có TK 711: 150. Chênh lệch 711 − 811 = 50 triệu chính là lãi thanh lý.",
+        "distractors": [
+          "Sai — lấy nguyên giá trừ số tiền thu được là sai; phải so số thu với GIÁ TRỊ CÒN LẠI.",
+          null,
+          "Sai — không thể coi toàn bộ số tiền thu được là lãi; phải trừ giá trị còn lại 100 triệu.",
+          "Sai — tài sản vẫn còn giá trị còn lại 100 triệu nên chắc chắn phát sinh lãi hoặc lỗ."
+        ]
+      },
+      "en": {
+        "question": "A fixed asset with cost 500 million and accumulated depreciation 400 million is disposed of for 150 million in cash (ignore tax). The result is:",
+        "options": [
+          "A loss of VND 350,000,000 charged to account 811 – Other expenses",
+          "A gain of VND 50,000,000, with proceeds in 711 and net book value in 811",
+          "A gain of VND 150,000,000, recording all proceeds in account 711",
+          "No gain or loss, since the asset was almost fully depreciated"
+        ],
+        "explanation": "Net book value = 500 − 400 = 100 million. Proceeds of 150 million give a GAIN of 50 million. Three entries: (1) derecognise the asset, Dr 214: 400, Dr 811: 100 / Cr 211: 500; (2) record proceeds, Dr 111: 150 / Cr 711: 150. The 711 less 811 difference of 50 million is the gain.",
+        "distractors": [
+          "Wrong — comparing cost with proceeds is incorrect; compare proceeds with NET BOOK VALUE.",
+          null,
+          "Wrong — the whole proceeds cannot be the gain; deduct the 100 million net book value.",
+          "Wrong — the asset still has 100 million of carrying value, so a gain or loss must arise."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-024",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": [
+        "lai-tien-gui"
+      ],
+      "vi": {
+        "question": "Ngân hàng trả lãi tiền gửi không kỳ hạn 3.000.000 đồng vào tài khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 112 / Có TK 511",
+          "Nợ TK 112 / Có TK 711",
+          "Nợ TK 515 / Có TK 112",
+          "Nợ TK 112 / Có TK 515"
+        ],
+        "explanation": "Lãi tiền gửi ngân hàng là doanh thu hoạt động tài chính, ghi Có TK 515; tiền gửi tăng ghi Nợ TK 112. Phân biệt ba nhóm thu nhập: TK 511 doanh thu bán hàng, TK 515 doanh thu tài chính (lãi tiền gửi, cổ tức, lãi tỷ giá), TK 711 thu nhập khác (thanh lý tài sản, bồi thường).",
+        "distractors": [
+          "Sai — TK 511 chỉ dùng cho doanh thu từ bán hàng và cung cấp dịch vụ.",
+          "Sai — lãi tiền gửi thuộc hoạt động tài chính nên vào TK 515, không phải thu nhập khác.",
+          "Sai — ghi ngược chiều; doanh thu tài chính tăng phải ghi bên Có.",
+          null
+        ]
+      },
+      "en": {
+        "question": "The bank credits VND 3,000,000 of interest on a current account. The entry is:",
+        "options": [
+          "Dr 112 / Cr 511",
+          "Dr 112 / Cr 711",
+          "Dr 515 / Cr 112",
+          "Dr 112 / Cr 515"
+        ],
+        "explanation": "Bank interest is finance income, credited to 515, with the bank balance debited to 112. Keep the three income groups apart: 511 sales revenue, 515 finance income (interest, dividends, FX gains), 711 other income (disposals, compensation).",
+        "distractors": [
+          "Wrong — 511 is only for revenue from sales and services.",
+          "Wrong — bank interest is financing activity, so 515 rather than other income.",
+          "Wrong — reversed; finance income increases on the credit side.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-025",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": [
+        "hang-ban-bi-tra-lai"
+      ],
+      "vi": {
+        "question": "Khách hàng trả lại hàng đã mua, giá bán chưa thuế 30.000.000 đồng, thuế GTGT 8%. Bút toán ghi giảm doanh thu là:",
+        "options": [
+          "Nợ TK 5213: 30.000.000, Nợ TK 3331: 2.400.000 / Có TK 131: 32.400.000",
+          "Nợ TK 131: 32.400.000 / Có TK 5213: 30.000.000, Có TK 3331: 2.400.000",
+          "Nợ TK 632: 30.000.000 / Có TK 156: 30.000.000",
+          "Nợ TK 511: 32.400.000 / Có TK 131: 32.400.000"
+        ],
+        "explanation": "Hàng bán bị trả lại ghi vào TK 5213 – Hàng bán bị trả lại (tài khoản giảm trừ doanh thu), đồng thời ghi giảm thuế GTGT đầu ra đã kê khai (Nợ TK 3331) và giảm khoản phải thu khách hàng. Ngoài ra còn bút toán thứ hai nhập lại kho: Nợ TK 156 / Có TK 632.",
+        "distractors": [
+          null,
+          "Sai — ghi ngược chiều; hàng trả lại làm GIẢM khoản phải thu của khách hàng.",
+          "Sai — đây mới chỉ là bút toán nhập lại kho hàng, còn thiếu phần ghi giảm doanh thu.",
+          "Sai — nên dùng TK 5213 để theo dõi riêng khoản giảm trừ, và không được gộp cả thuế vào doanh thu."
+        ]
+      },
+      "en": {
+        "question": "A customer returns goods sold for VND 30,000,000 excluding VAT, VAT 8%. The revenue reduction entry is:",
+        "options": [
+          "Dr 5213: 30,000,000, Dr 3331: 2,400,000 / Cr 131: 32,400,000",
+          "Dr 131: 32,400,000 / Cr 5213: 30,000,000, Cr 3331: 2,400,000",
+          "Dr 632: 30,000,000 / Cr 156: 30,000,000",
+          "Dr 511: 32,400,000 / Cr 131: 32,400,000"
+        ],
+        "explanation": "Sales returns go to 5213 – Sales returns, a revenue deduction account, together with a reversal of the output VAT already declared (Dr 3331) and a reduction of the receivable. A second entry brings the goods back into stock: Dr 156 / Cr 632.",
+        "distractors": [
+          null,
+          "Wrong — reversed; a return REDUCES the customer receivable.",
+          "Wrong — that only restores the inventory; the revenue reduction is missing.",
+          "Wrong — 5213 should be used to track the deduction separately, and VAT must not be lumped into revenue."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-026",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "vay-ngan-hang"
+      ],
+      "vi": {
+        "question": "Nhận tiền vay ngắn hạn ngân hàng 500.000.000 đồng vào tài khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 112 / Có TK 411",
+          "Nợ TK 341 / Có TK 112",
+          "Nợ TK 112 / Có TK 341",
+          "Nợ TK 112 / Có TK 515"
+        ],
+        "explanation": "Nhận tiền vay: tiền gửi tăng ghi Nợ TK 112, nghĩa vụ nợ vay tăng ghi Có TK 341 – Vay và nợ thuê tài chính. Tiền vay không phải doanh thu và cũng không phải vốn góp — đây là ba khái niệm rất hay bị nhầm lẫn với nhau.",
+        "distractors": [
+          "Sai — TK 411 là vốn góp của chủ sở hữu; tiền vay đến từ chủ nợ nên bản chất khác hẳn.",
+          "Sai — ghi ngược chiều; đây là bút toán trả nợ gốc vay cho ngân hàng.",
+          null,
+          "Sai — tiền vay nhận về không phải doanh thu tài chính; chỉ lãi tiền gửi mới ghi vào TK 515."
+        ]
+      },
+      "en": {
+        "question": "A short-term bank loan of VND 500,000,000 is received into the account. The entry is:",
+        "options": [
+          "Dr 112 / Cr 411",
+          "Dr 341 / Cr 112",
+          "Dr 112 / Cr 341",
+          "Dr 112 / Cr 515"
+        ],
+        "explanation": "Loan proceeds: the bank balance rises (Dr 112) and the borrowing obligation rises (Cr 341 – Borrowings and finance lease liabilities). Loan proceeds are neither revenue nor capital — three concepts frequently confused.",
+        "distractors": [
+          "Wrong — 411 is owners’ capital; borrowed funds come from a creditor.",
+          "Wrong — reversed; that records repaying loan principal.",
+          null,
+          "Wrong — loan proceeds are not finance income; only interest earned goes to 515."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-027",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": [
+        "lai-vay"
+      ],
+      "vi": {
+        "question": "Trả lãi vay ngân hàng 8.000.000 đồng bằng chuyển khoản. Bút toán là:",
+        "options": [
+          "Nợ TK 341 / Có TK 112",
+          "Nợ TK 635 / Có TK 112",
+          "Nợ TK 642 / Có TK 112",
+          "Nợ TK 811 / Có TK 112"
+        ],
+        "explanation": "Lãi vay là chi phí tài chính, ghi Nợ TK 635 – Chi phí tài chính / Có TK 112. Phân biệt rõ: trả NỢ GỐC ghi Nợ TK 341, trả LÃI VAY ghi Nợ TK 635. Đây là chỗ rất dễ nhầm khi hạch toán khoản trả nợ định kỳ gồm cả gốc lẫn lãi.",
+        "distractors": [
+          "Sai — TK 341 dùng khi trả nợ gốc, còn lãi vay là chi phí của kỳ nên vào TK 635.",
+          null,
+          "Sai — TK 642 là chi phí quản lý doanh nghiệp, không dùng cho chi phí lãi vay.",
+          "Sai — TK 811 là chi phí khác như thanh lý tài sản, tiền phạt, không phải lãi vay."
+        ]
+      },
+      "en": {
+        "question": "Bank loan interest of VND 8,000,000 is paid by transfer. The entry is:",
+        "options": [
+          "Dr 341 / Cr 112",
+          "Dr 635 / Cr 112",
+          "Dr 642 / Cr 112",
+          "Dr 811 / Cr 112"
+        ],
+        "explanation": "Interest is a finance cost: Dr 635 – Finance costs / Cr 112. Keep it clear: repaying PRINCIPAL is Dr 341, while paying INTEREST is Dr 635. This is easily confused when a periodic instalment covers both.",
+        "distractors": [
+          "Wrong — 341 is for principal repayments; interest is a period cost in 635.",
+          null,
+          "Wrong — 642 is administrative expense, not interest.",
+          "Wrong — 811 covers other expenses such as disposals and fines, not interest."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-028",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": [
+        "du-phong-phai-thu"
+      ],
+      "vi": {
+        "question": "Lập dự phòng phải thu khó đòi 25.000.000 đồng cho một khoản nợ quá hạn. Bút toán là:",
+        "options": [
+          "Nợ TK 131 / Có TK 229",
+          "Nợ TK 229 / Có TK 131",
+          "Nợ TK 131 / Có TK 642",
+          "Nợ TK 642 / Có TK 229"
+        ],
+        "explanation": "Lập dự phòng làm phát sinh chi phí quản lý: Nợ TK 642 / Có TK 2293 – Dự phòng phải thu khó đòi. Lưu ý: lập dự phòng KHÔNG xóa khoản nợ khỏi TK 131 — nợ vẫn được theo dõi để tiếp tục đòi. Chỉ khi xóa sổ hẳn mới ghi giảm TK 131.",
+        "distractors": [
+          "Sai — lập dự phòng không làm tăng khoản phải thu; TK 131 giữ nguyên số dư ban đầu.",
+          "Sai — ghi ngược chiều; đây gần với bút toán xóa sổ nợ đã lập dự phòng đầy đủ.",
+          "Sai — ghi ngược hoàn toàn; lập dự phòng làm tăng chi phí chứ không làm giảm chi phí.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A VND 25,000,000 allowance is made for a doubtful overdue receivable. The entry is:",
+        "options": [
+          "Dr 131 / Cr 229",
+          "Dr 229 / Cr 131",
+          "Dr 131 / Cr 642",
+          "Dr 642 / Cr 229"
+        ],
+        "explanation": "Creating the allowance generates an administrative expense: Dr 642 / Cr 2293 – Allowance for doubtful receivables. Note that an allowance does NOT remove the debt from 131 — it remains tracked for collection. Only a write-off reduces 131.",
+        "distractors": [
+          "Wrong — an allowance does not increase the receivable; 131 keeps its original balance.",
+          "Wrong — reversed; that is closer to writing off a fully provided debt.",
+          "Wrong — fully reversed; an allowance increases expense rather than reducing it.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-029",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": [
+        "doanh-thu-chua-thuc-hien"
+      ],
+      "vi": {
+        "question": "Nhận trước tiền thuê văn phòng của khách 12 tháng là 360.000.000 đồng (chưa xét thuế). Bút toán ban đầu ghi vào tài khoản nào?",
+        "options": [
+          "Nợ TK 112 / Có TK 3387 – Doanh thu chưa thực hiện",
+          "Nợ TK 112 / Có TK 511 – Doanh thu bán hàng và cung cấp dịch vụ",
+          "Nợ TK 112 / Có TK 131 – Phải thu của khách hàng",
+          "Nợ TK 112 / Có TK 411 – Vốn đầu tư của chủ sở hữu"
+        ],
+        "explanation": "Tiền nhận trước cho dịch vụ chưa cung cấp là NGHĨA VỤ, ghi vào TK 3387 – Doanh thu chưa thực hiện. Mỗi tháng khi đã cung cấp dịch vụ mới kết chuyển 30 triệu sang doanh thu: Nợ TK 3387 / Có TK 511. Thu tiền không đồng nghĩa với có doanh thu.",
+        "distractors": [
+          null,
+          "Sai — ghi ngay toàn bộ vào doanh thu là vi phạm cơ sở dồn tích, dịch vụ chưa được cung cấp.",
+          "Sai — TK 131 dùng khi khách hàng CÒN NỢ mình, ở đây ngược lại là mình đang nợ khách dịch vụ.",
+          "Sai — tiền khách hàng trả trước hoàn toàn không phải khoản góp vốn của chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "A tenant prepays 12 months of office rent of VND 360,000,000 (ignore VAT). Where is the initial entry recorded?",
+        "options": [
+          "Dr 112 / Cr 3387 – Unearned revenue",
+          "Dr 112 / Cr 511 – Revenue from sales and services",
+          "Dr 112 / Cr 131 – Trade receivables",
+          "Dr 112 / Cr 411 – Owners’ contributed capital"
+        ],
+        "explanation": "Cash received for services not yet provided is an OBLIGATION, recorded in 3387 – Unearned revenue. Each month, once the service is delivered, 30 million is released: Dr 3387 / Cr 511. Receiving cash is not the same as earning revenue.",
+        "distractors": [
+          null,
+          "Wrong — recognising it all as revenue breaches the accrual basis; nothing has been delivered.",
+          "Wrong — 131 applies when the customer owes you; here you owe the customer a service.",
+          "Wrong — a customer prepayment is not an owner’s capital contribution."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B2-030",
+      "topic": "b2-dinh-khoan",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": [
+        "ket-qua-kinh-doanh"
+      ],
+      "vi": {
+        "question": "Sau khi kết chuyển hết doanh thu và chi phí, TK 911 có số dư bên Có 200.000.000 đồng. Điều này có nghĩa gì và bút toán tiếp theo là gì?",
+        "options": [
+          "Doanh nghiệp lỗ 200 triệu, ghi Nợ TK 421 / Có TK 911",
+          "Doanh nghiệp lỗ 200 triệu, ghi Nợ TK 911 / Có TK 421",
+          "Doanh nghiệp lãi 200 triệu, ghi Nợ TK 911 / Có TK 421",
+          "Doanh nghiệp lãi 200 triệu, ghi Nợ TK 421 / Có TK 911"
+        ],
+        "explanation": "TK 911 nhận doanh thu ở bên Có và chi phí ở bên Nợ. Số dư bên CÓ nghĩa là doanh thu lớn hơn chi phí, tức có LÃI 200 triệu. Kết chuyển lãi: Nợ TK 911 / Có TK 421 – Lợi nhuận sau thuế chưa phân phối. Nếu lỗ thì ghi ngược lại.",
+        "distractors": [
+          "Sai — số dư bên Có của TK 911 phản ánh lãi, không phải lỗ.",
+          "Sai — nhận định lỗ là sai, dù chiều bút toán kết chuyển lại đúng cho trường hợp lãi.",
+          null,
+          "Sai — nhận định lãi đúng nhưng chiều bút toán bị ngược; đó là bút toán kết chuyển lỗ."
+        ]
+      },
+      "en": {
+        "question": "After all revenue and expenses are transferred, account 911 shows a credit balance of VND 200,000,000. What does this mean and what is the next entry?",
+        "options": [
+          "A loss of 200 million; Dr 421 / Cr 911",
+          "A loss of 200 million; Dr 911 / Cr 421",
+          "A profit of 200 million; Dr 911 / Cr 421",
+          "A profit of 200 million; Dr 421 / Cr 911"
+        ],
+        "explanation": "Account 911 receives revenue on the credit side and expenses on the debit side. A CREDIT balance means revenue exceeded expenses — a profit of 200 million. Transfer the profit: Dr 911 / Cr 421 – Undistributed post-tax profit. A loss reverses the entry.",
+        "distractors": [
+          "Wrong — a credit balance on 911 indicates profit, not loss.",
+          "Wrong — the loss conclusion is wrong, although the entry direction suits a profit.",
+          null,
+          "Wrong — the profit conclusion is right but the entry is reversed; that transfers a loss."
+        ]
+      }
+    }
+  ]
+}

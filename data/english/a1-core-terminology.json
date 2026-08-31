@@ -1,0 +1,590 @@
+{
+  "topic": "a1-core-terminology",
+  "questions": [
+    {
+      "id": "ENG-A1-001",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["accounting-equation"],
+      "vi": {
+        "question": "Phương trình kế toán cơ bản (the accounting equation) được viết đúng là:",
+        "options": [
+          "Assets = Liabilities − Equity",
+          "Assets = Liabilities + Equity",
+          "Assets + Liabilities = Equity",
+          "Equity = Assets + Liabilities"
+        ],
+        "explanation": "Phương trình kế toán: Assets = Liabilities + Equity (Tài sản = Nợ phải trả + Vốn chủ sở hữu). Toàn bộ tài sản của doanh nghiệp được tài trợ từ hai nguồn: chủ nợ (liabilities) và chủ sở hữu (equity). Đây là nền tảng của ghi sổ kép.",
+        "distractors": [
+          "Sai — trừ vốn chủ sở hữu là đảo dấu sai; equity là một nguồn tài trợ, phải cộng.",
+          null,
+          "Sai — vế này đúng ra là công thức tính vốn chủ: Equity = Assets − Liabilities.",
+          "Sai — đây là biến đổi sai; đúng phải là Equity = Assets − Liabilities."
+        ]
+      },
+      "en": {
+        "question": "Which of the following states the basic accounting equation correctly?",
+        "options": [
+          "Assets = Liabilities − Equity",
+          "Assets = Liabilities + Equity",
+          "Assets + Liabilities = Equity",
+          "Equity = Assets + Liabilities"
+        ],
+        "explanation": "The accounting equation is Assets = Liabilities + Equity. Everything the business owns is funded from two sources: creditors (liabilities) and owners (equity). This identity underpins double-entry bookkeeping.",
+        "distractors": [
+          "Wrong — subtracting equity reverses the sign; equity is a source of funding and must be added.",
+          null,
+          "Wrong — rearranged incorrectly. The correct rearrangement is Equity = Assets − Liabilities.",
+          "Wrong — the correct rearrangement is Equity = Assets − Liabilities."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-002",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["assets"],
+      "vi": {
+        "question": "Trong tiếng Anh kế toán, “assets” được định nghĩa là:",
+        "options": [
+          "Amounts the business owes to other parties",
+          "The owner’s residual interest in the business",
+          "Resources controlled by the entity from which future economic benefits are expected",
+          "Income earned during the accounting period"
+        ],
+        "explanation": "Assets (tài sản) là nguồn lực do doanh nghiệp kiểm soát, phát sinh từ sự kiện quá khứ và dự kiến mang lại lợi ích kinh tế trong tương lai. Lưu ý từ khóa là “controlled” (kiểm soát) chứ không phải “owned” (sở hữu) — tài sản thuê tài chính vẫn là asset dù không thuộc quyền sở hữu.",
+        "distractors": [
+          "Sai — đây là định nghĩa của liabilities (nợ phải trả).",
+          "Sai — đây là định nghĩa của equity (vốn chủ sở hữu).",
+          null,
+          "Sai — đây là revenue/income (doanh thu, thu nhập)."
+        ]
+      },
+      "en": {
+        "question": "In accounting English, “assets” are defined as:",
+        "options": [
+          "Amounts the business owes to other parties",
+          "The owner’s residual interest in the business",
+          "Resources controlled by the entity from which future economic benefits are expected",
+          "Income earned during the accounting period"
+        ],
+        "explanation": "Assets are resources controlled by the entity as a result of past events and from which future economic benefits are expected to flow. Note the key word is “controlled”, not “owned” — a finance-leased asset is still an asset even though legal title sits elsewhere.",
+        "distractors": [
+          "Wrong — that defines liabilities.",
+          "Wrong — that defines equity.",
+          null,
+          "Wrong — that describes revenue or income."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-003",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["accrual-basis"],
+      "vi": {
+        "question": "Nguyên tắc nào yêu cầu ghi nhận doanh thu và chi phí khi chúng phát sinh, không phụ thuộc vào thời điểm thu hay chi tiền?",
+        "options": [
+          "The accrual basis of accounting",
+          "The cash basis of accounting",
+          "The prudence concept",
+          "The going concern assumption"
+        ],
+        "explanation": "Accrual basis (cơ sở dồn tích) ghi nhận giao dịch khi phát sinh, không phải khi tiền được thu hoặc chi. Ví dụ: dịch vụ đã cung cấp tháng 12 nhưng thu tiền tháng 1 vẫn là doanh thu của tháng 12. Đây là cơ sở bắt buộc của báo cáo tài chính.",
+        "distractors": [
+          null,
+          "Sai — cash basis mới là ghi nhận theo thời điểm thu chi tiền, ngược với câu hỏi.",
+          "Sai — prudence (thận trọng) nói về việc không ghi tăng tài sản/thu nhập một cách lạc quan.",
+          "Sai — going concern (hoạt động liên tục) là giả định doanh nghiệp tiếp tục hoạt động."
+        ]
+      },
+      "en": {
+        "question": "Which principle requires income and expenses to be recognised when they occur, regardless of when cash is received or paid?",
+        "options": [
+          "The accrual basis of accounting",
+          "The cash basis of accounting",
+          "The prudence concept",
+          "The going concern assumption"
+        ],
+        "explanation": "The accrual basis records transactions when they occur rather than when cash moves. A service delivered in December but paid for in January is December revenue. Financial statements must be prepared on this basis.",
+        "distractors": [
+          null,
+          "Wrong — the cash basis is the opposite: it records only when cash moves.",
+          "Wrong — prudence is about not overstating assets or income.",
+          "Wrong — going concern assumes the entity will continue in operation."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-004",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["going-concern"],
+      "vi": {
+        "question": "“Going concern” trong tiếng Anh kế toán có nghĩa là gì?",
+        "options": [
+          "A business that is growing rapidly",
+          "A business that has serious financial problems",
+          "A transaction that is still in progress",
+          "The assumption that the entity will continue to operate for the foreseeable future"
+        ],
+        "explanation": "Going concern (hoạt động liên tục) là giả định doanh nghiệp sẽ tiếp tục hoạt động trong tương lai gần và không có ý định hoặc buộc phải thu hẹp đáng kể quy mô. Nếu giả định này không còn, báo cáo tài chính phải lập trên cơ sở khác — Thông tư 99/2025 có mẫu riêng cho trường hợp này.",
+        "distractors": [
+          "Sai — tốc độ tăng trưởng không liên quan tới khái niệm này.",
+          "Sai — doanh nghiệp có vấn đề tài chính nghiêm trọng là dấu hiệu going concern bị đe dọa, không phải định nghĩa.",
+          "Sai — đây không phải khái niệm về giao dịch.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does “going concern” mean in accounting English?",
+        "options": [
+          "A business that is growing rapidly",
+          "A business that has serious financial problems",
+          "A transaction that is still in progress",
+          "The assumption that the entity will continue to operate for the foreseeable future"
+        ],
+        "explanation": "Going concern is the assumption that the entity will continue operating for the foreseeable future with no intention or need to liquidate or curtail operations materially. If that assumption fails, statements must be prepared on another basis — Circular 99/2025 provides a separate format for this.",
+        "distractors": [
+          "Wrong — growth rate is unrelated to the concept.",
+          "Wrong — severe financial trouble is a threat to going concern, not its definition.",
+          "Wrong — the term has nothing to do with transactions in progress.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-005",
+      "topic": "a1-core-terminology",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["matching"],
+      "vi": {
+        "question": "Ghi nhận chi phí giá vốn hàng bán trong cùng kỳ với doanh thu bán hàng tương ứng là áp dụng nguyên tắc nào?",
+        "options": [
+          "The consistency concept",
+          "The matching concept",
+          "The materiality concept",
+          "The business entity concept"
+        ],
+        "explanation": "Matching concept (nguyên tắc phù hợp) yêu cầu ghi nhận chi phí trong cùng kỳ với doanh thu mà chi phí đó tạo ra. Nhờ vậy lợi nhuận của kỳ mới phản ánh đúng. Đây là lý do phải trích trước chi phí (accruals) và phân bổ chi phí trả trước (prepayments).",
+        "distractors": [
+          "Sai — consistency là áp dụng nhất quán chính sách kế toán qua các kỳ.",
+          null,
+          "Sai — materiality là về mức trọng yếu, quyết định thông tin nào cần trình bày riêng.",
+          "Sai — business entity là tách bạch tài sản doanh nghiệp với tài sản chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "Recognising cost of goods sold in the same period as the related sales revenue applies which concept?",
+        "options": [
+          "The consistency concept",
+          "The matching concept",
+          "The materiality concept",
+          "The business entity concept"
+        ],
+        "explanation": "The matching concept requires expenses to be recognised in the same period as the revenue they helped generate, so that period profit is stated fairly. It is the reason we post accruals and amortise prepayments.",
+        "distractors": [
+          "Wrong — consistency is about applying the same policies period to period.",
+          null,
+          "Wrong — materiality concerns whether an item is significant enough to disclose separately.",
+          "Wrong — the business entity concept separates the owner’s affairs from the business."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-006",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["liabilities"],
+      "vi": {
+        "question": "Khoản nào sau đây là một “liability”?",
+        "options": [
+          "Trade payables",
+          "Trade receivables",
+          "Retained earnings",
+          "Inventory"
+        ],
+        "explanation": "Trade payables (phải trả người bán) là nghĩa vụ hiện tại phải thanh toán cho nhà cung cấp — đó là liability. Cẩn thận cặp dễ nhầm: payable = phải trả (nợ), receivable = phải thu (tài sản).",
+        "distractors": [
+          null,
+          "Sai — trade receivables (phải thu khách hàng) là tài sản, không phải nợ phải trả.",
+          "Sai — retained earnings (lợi nhuận chưa phân phối) thuộc vốn chủ sở hữu.",
+          "Sai — inventory (hàng tồn kho) là tài sản ngắn hạn."
+        ]
+      },
+      "en": {
+        "question": "Which of the following is a liability?",
+        "options": [
+          "Trade payables",
+          "Trade receivables",
+          "Retained earnings",
+          "Inventory"
+        ],
+        "explanation": "Trade payables are present obligations to pay suppliers, so they are liabilities. Watch the confusable pair: payable = owed by you, receivable = owed to you.",
+        "distractors": [
+          null,
+          "Wrong — trade receivables are an asset, not a liability.",
+          "Wrong — retained earnings form part of equity.",
+          "Wrong — inventory is a current asset."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-007",
+      "topic": "a1-core-terminology",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["prudence"],
+      "vi": {
+        "question": "Ghi nhận ngay khoản lỗ có khả năng xảy ra nhưng chỉ ghi nhận lãi khi đã chắc chắn thực hiện được là biểu hiện của:",
+        "options": [
+          "Consistency",
+          "Substance over form",
+          "Prudence",
+          "Comparability"
+        ],
+        "explanation": "Prudence (thận trọng) yêu cầu thận trọng khi đưa ra xét đoán trong điều kiện không chắc chắn: không ghi tăng tài sản và thu nhập, không ghi giảm nợ phải trả và chi phí một cách lạc quan. Đây là cơ sở của việc lập dự phòng (provisions).",
+        "distractors": [
+          "Sai — consistency là áp dụng nhất quán chính sách qua các kỳ.",
+          "Sai — substance over form là ưu tiên bản chất kinh tế hơn hình thức pháp lý.",
+          null,
+          "Sai — comparability là khả năng so sánh giữa các kỳ và giữa các doanh nghiệp."
+        ]
+      },
+      "en": {
+        "question": "Recognising a probable loss immediately but recognising a gain only when it is realised reflects:",
+        "options": [
+          "Consistency",
+          "Substance over form",
+          "Prudence",
+          "Comparability"
+        ],
+        "explanation": "Prudence requires caution when making judgements under uncertainty: assets and income are not overstated, and liabilities and expenses are not understated. It underpins the recognition of provisions.",
+        "distractors": [
+          "Wrong — consistency is about applying policies uniformly across periods.",
+          "Wrong — substance over form means economic reality outranks legal form.",
+          null,
+          "Wrong — comparability is about being able to compare across periods and entities."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-008",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["equity"],
+      "vi": {
+        "question": "“Equity” trong báo cáo tài chính tương đương với thuật ngữ tiếng Việt nào?",
+        "options": [
+          "Nợ phải trả",
+          "Doanh thu thuần",
+          "Tài sản ngắn hạn",
+          "Vốn chủ sở hữu"
+        ],
+        "explanation": "Equity = vốn chủ sở hữu, là phần lợi ích còn lại của chủ sở hữu trong tài sản sau khi trừ toàn bộ nợ phải trả (residual interest). Các thành phần thường gặp: share capital (vốn góp), retained earnings (lợi nhuận chưa phân phối), reserves (các quỹ).",
+        "distractors": [
+          "Sai — nợ phải trả là liabilities.",
+          "Sai — doanh thu thuần là net revenue hoặc net sales.",
+          "Sai — tài sản ngắn hạn là current assets.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which Vietnamese term corresponds to “equity” in the financial statements?",
+        "options": [
+          "Nợ phải trả",
+          "Doanh thu thuần",
+          "Tài sản ngắn hạn",
+          "Vốn chủ sở hữu"
+        ],
+        "explanation": "Equity is “vốn chủ sở hữu” — the owners’ residual interest in the assets after deducting all liabilities. Typical components: share capital, retained earnings and reserves.",
+        "distractors": [
+          "Wrong — “nợ phải trả” means liabilities.",
+          "Wrong — “doanh thu thuần” means net revenue.",
+          "Wrong — “tài sản ngắn hạn” means current assets.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-009",
+      "topic": "a1-core-terminology",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["materiality"],
+      "vi": {
+        "question": "Doanh nghiệp ghi thẳng một chiếc máy tính giá 3 triệu đồng vào chi phí thay vì vốn hóa thành TSCĐ. Cách xử lý này dựa trên:",
+        "options": [
+          "The materiality concept",
+          "The realisation concept",
+          "The dual aspect concept",
+          "The money measurement concept"
+        ],
+        "explanation": "Materiality (trọng yếu): thông tin là trọng yếu nếu việc bỏ sót hoặc sai sót có thể ảnh hưởng tới quyết định của người sử dụng báo cáo. Khoản chi nhỏ không trọng yếu thì ghi thẳng vào chi phí cho đơn giản, thay vì theo dõi khấu hao nhiều năm.",
+        "distractors": [
+          null,
+          "Sai — realisation nói về thời điểm ghi nhận doanh thu.",
+          "Sai — dual aspect là mỗi giao dịch tác động tới ít nhất hai tài khoản (ghi sổ kép).",
+          "Sai — money measurement là chỉ ghi nhận những gì đo lường được bằng tiền."
+        ]
+      },
+      "en": {
+        "question": "A company expenses a VND 3 million computer immediately rather than capitalising it as a fixed asset. This treatment is based on:",
+        "options": [
+          "The materiality concept",
+          "The realisation concept",
+          "The dual aspect concept",
+          "The money measurement concept"
+        ],
+        "explanation": "Materiality: information is material if omitting or misstating it could influence users’ decisions. Small, immaterial amounts are expensed for simplicity rather than tracked through years of depreciation.",
+        "distractors": [
+          null,
+          "Wrong — realisation concerns when revenue is recognised.",
+          "Wrong — dual aspect means every transaction affects at least two accounts.",
+          "Wrong — money measurement means only items measurable in money are recorded."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-010",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["expense"],
+      "vi": {
+        "question": "Khoản nào sau đây KHÔNG phải là “expense”?",
+        "options": [
+          "Rent expense",
+          "Dividends paid to shareholders",
+          "Salaries and wages",
+          "Depreciation"
+        ],
+        "explanation": "Cổ tức trả cho cổ đông (dividends) là phân phối lợi nhuận cho chủ sở hữu, ghi giảm vốn chủ sở hữu — không phải chi phí và không xuất hiện trên báo cáo kết quả kinh doanh. Đây là bẫy rất hay gặp.",
+        "distractors": [
+          "Sai — tiền thuê là chi phí hoạt động điển hình.",
+          null,
+          "Sai — tiền lương là chi phí nhân công.",
+          "Sai — khấu hao là chi phí phi tiền mặt nhưng vẫn là chi phí."
+        ]
+      },
+      "en": {
+        "question": "Which of the following is NOT an expense?",
+        "options": [
+          "Rent expense",
+          "Dividends paid to shareholders",
+          "Salaries and wages",
+          "Depreciation"
+        ],
+        "explanation": "Dividends are a distribution of profit to owners and reduce equity; they are not an expense and never appear in the income statement. This is a very common trap.",
+        "distractors": [
+          "Wrong — rent is a typical operating expense.",
+          null,
+          "Wrong — salaries are a staff cost expense.",
+          "Wrong — depreciation is a non-cash expense but an expense nonetheless."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-011",
+      "topic": "a1-core-terminology",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["accounting-equation", "transaction-analysis"],
+      "vi": {
+        "question": "Doanh nghiệp mua hàng tồn kho trị giá 50 triệu đồng và chưa thanh toán cho nhà cung cấp. Tác động lên phương trình kế toán là:",
+        "options": [
+          "Assets increase, equity increases",
+          "Assets decrease, liabilities decrease",
+          "Assets increase, liabilities increase",
+          "Assets unchanged, liabilities increase"
+        ],
+        "explanation": "Mua chịu làm tăng hàng tồn kho (asset +50) và tăng phải trả người bán (liability +50). Hai vế của phương trình cùng tăng 50 nên vẫn cân. Vốn chủ sở hữu không đổi vì chưa phát sinh doanh thu hay chi phí.",
+        "distractors": [
+          "Sai — chưa có doanh thu hay chi phí nào phát sinh nên vốn chủ không đổi.",
+          "Sai — đây là tác động của việc trả tiền cho nhà cung cấp, không phải mua chịu.",
+          null,
+          "Sai — tài sản có tăng, vì hàng tồn kho tăng thêm 50 triệu."
+        ]
+      },
+      "en": {
+        "question": "A company buys VND 50 million of inventory on credit. The effect on the accounting equation is:",
+        "options": [
+          "Assets increase, equity increases",
+          "Assets decrease, liabilities decrease",
+          "Assets increase, liabilities increase",
+          "Assets unchanged, liabilities increase"
+        ],
+        "explanation": "A credit purchase increases inventory (asset +50) and increases trade payables (liability +50). Both sides rise by the same amount, so the equation stays balanced. Equity is unaffected because no revenue or expense has arisen yet.",
+        "distractors": [
+          "Wrong — no revenue or expense has arisen, so equity is unchanged.",
+          "Wrong — that is the effect of paying the supplier, not of buying on credit.",
+          null,
+          "Wrong — assets do increase, because inventory rises by 50 million."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-012",
+      "topic": "a1-core-terminology",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": ["substance-over-form"],
+      "vi": {
+        "question": "“Substance over form” nghĩa là gì và vì sao nó quan trọng từ năm 2026 tại Việt Nam?",
+        "options": [
+          "Chỉ ghi nhận giao dịch khi có hóa đơn đỏ hợp lệ",
+          "Ưu tiên hình thức pháp lý hơn bản chất kinh tế",
+          "Trình bày báo cáo theo mẫu biểu bắt buộc của Bộ Tài chính",
+          "Ghi nhận theo bản chất kinh tế thực của giao dịch, kể cả khi khác với hình thức pháp lý"
+        ],
+        "explanation": "Substance over form (bản chất hơn hình thức) yêu cầu phản ánh bản chất kinh tế thực của giao dịch. Ví dụ: hợp đồng ghi là “thuê” nhưng thực chất chuyển giao gần hết rủi ro và lợi ích thì phải hạch toán như mua tài sản. Thông tư 99/2025 (hiệu lực 01/01/2026) chuyển hẳn sang cách tiếp cận này, khác với TT 200 vốn thiên về chứng từ pháp lý.",
+        "distractors": [
+          "Sai — đây là cách tiếp cận thiên hình thức, ngược với nguyên tắc này.",
+          "Sai — đúng là ngược lại: bản chất được ưu tiên hơn hình thức.",
+          "Sai — đây là vấn đề về mẫu biểu trình bày, không phải nguyên tắc ghi nhận.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does “substance over form” mean, and why does it matter in Vietnam from 2026?",
+        "options": [
+          "Only record a transaction when a valid VAT invoice exists",
+          "Give priority to legal form over economic reality",
+          "Present the statements using the Ministry of Finance’s mandatory templates",
+          "Account for the true economic reality of a transaction, even where it differs from its legal form"
+        ],
+        "explanation": "Substance over form requires reporting the economic reality of a transaction. For example, an agreement labelled a “lease” that in fact transfers substantially all risks and rewards must be accounted for as a purchase. Circular 99/2025 (effective 1 Jan 2026) moves decisively to this approach, unlike Circular 200 which leaned on legal documentation.",
+        "distractors": [
+          "Wrong — that is a form-driven approach, the opposite of this principle.",
+          "Wrong — it is the other way round: substance takes priority over form.",
+          "Wrong — that concerns presentation templates, not the recognition principle.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-013",
+      "topic": "a1-core-terminology",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["revenue"],
+      "vi": {
+        "question": "Thuật ngữ nào chỉ tổng số tiền doanh nghiệp kiếm được từ hoạt động kinh doanh chính trước khi trừ bất kỳ chi phí nào?",
+        "options": [
+          "Revenue (turnover)",
+          "Gross profit",
+          "Net profit",
+          "Retained earnings"
+        ],
+        "explanation": "Revenue (còn gọi là turnover hoặc sales) là tổng giá trị hàng hóa, dịch vụ đã bán trong kỳ, chưa trừ bất kỳ chi phí nào. Chuỗi thứ tự: Revenue → trừ COGS = Gross profit → trừ chi phí hoạt động = Operating profit → trừ lãi vay và thuế = Net profit.",
+        "distractors": [
+          null,
+          "Sai — gross profit là doanh thu đã trừ giá vốn hàng bán.",
+          "Sai — net profit là lợi nhuận sau khi trừ toàn bộ chi phí, lãi vay và thuế.",
+          "Sai — retained earnings là lợi nhuận lũy kế chưa phân phối, thuộc vốn chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "Which term means the total amount earned from a company’s main trading activities before deducting any costs?",
+        "options": [
+          "Revenue (turnover)",
+          "Gross profit",
+          "Net profit",
+          "Retained earnings"
+        ],
+        "explanation": "Revenue — also called turnover or sales — is the total value of goods and services sold in the period, before any costs. The chain runs: Revenue → less COGS = Gross profit → less operating expenses = Operating profit → less interest and tax = Net profit.",
+        "distractors": [
+          null,
+          "Wrong — gross profit is revenue after deducting cost of goods sold.",
+          "Wrong — net profit is after all costs, interest and tax.",
+          "Wrong — retained earnings is accumulated undistributed profit within equity."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-014",
+      "topic": "a1-core-terminology",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["entity-concept"],
+      "vi": {
+        "question": "Giám đốc dùng tiền cá nhân mua xe riêng cho gia đình. Giao dịch này không được ghi vào sổ sách công ty vì:",
+        "options": [
+          "The prudence concept",
+          "The business entity concept",
+          "The going concern assumption",
+          "The accrual basis"
+        ],
+        "explanation": "Business entity concept (nguyên tắc thực thể kinh doanh) coi doanh nghiệp là một đơn vị tách biệt với chủ sở hữu. Giao dịch cá nhân của chủ sở hữu không được ghi vào sổ sách doanh nghiệp. Nếu chủ dùng tiền công ty cho việc riêng, khoản đó phải ghi là khoản phải thu hoặc rút vốn, không phải chi phí.",
+        "distractors": [
+          "Sai — prudence liên quan tới xét đoán thận trọng, không phải ranh giới chủ sở hữu và doanh nghiệp.",
+          null,
+          "Sai — going concern là giả định tiếp tục hoạt động.",
+          "Sai — accrual basis là về thời điểm ghi nhận, không phải chủ thể ghi nhận."
+        ]
+      },
+      "en": {
+        "question": "A director buys a family car with personal money. This is not recorded in the company’s books because of:",
+        "options": [
+          "The prudence concept",
+          "The business entity concept",
+          "The going concern assumption",
+          "The accrual basis"
+        ],
+        "explanation": "The business entity concept treats the business as separate from its owners, so an owner’s private transactions stay out of the company’s books. If an owner uses company money privately, it is recorded as a receivable or drawings — never as an expense.",
+        "distractors": [
+          "Wrong — prudence concerns cautious judgement, not the owner/entity boundary.",
+          null,
+          "Wrong — going concern is the assumption of continued operation.",
+          "Wrong — the accrual basis is about timing, not about whose transaction it is."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A1-015",
+      "topic": "a1-core-terminology",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["accounting-equation", "transaction-analysis"],
+      "vi": {
+        "question": "Doanh nghiệp thu tiền từ khách hàng cho một khoản phải thu đã ghi nhận trước đó. Phương trình kế toán thay đổi thế nào?",
+        "options": [
+          "Total assets increase and equity increases",
+          "Total assets increase and liabilities increase",
+          "Total assets are unchanged; only the composition of assets changes",
+          "Total assets decrease and equity decreases"
+        ],
+        "explanation": "Thu nợ khách hàng làm tiền tăng và phải thu giảm cùng một số tiền, nên tổng tài sản không đổi — chỉ thay đổi cơ cấu bên trong tài sản. Doanh thu đã được ghi nhận từ trước theo cơ sở dồn tích nên không phát sinh doanh thu mới ở thời điểm thu tiền.",
+        "distractors": [
+          "Sai — không có doanh thu mới phát sinh, doanh thu đã ghi khi bán hàng.",
+          "Sai — không có nghĩa vụ nợ nào phát sinh khi thu tiền của khách.",
+          null,
+          "Sai — tổng tài sản giữ nguyên, không giảm."
+        ]
+      },
+      "en": {
+        "question": "A company collects cash from a customer for a receivable recognised earlier. How does the accounting equation change?",
+        "options": [
+          "Total assets increase and equity increases",
+          "Total assets increase and liabilities increase",
+          "Total assets are unchanged; only the composition of assets changes",
+          "Total assets decrease and equity decreases"
+        ],
+        "explanation": "Collecting a receivable increases cash and decreases receivables by the same amount, so total assets are unchanged — only the mix within assets shifts. Revenue was already recognised on the accrual basis when the sale was made.",
+        "distractors": [
+          "Wrong — no new revenue arises; it was recognised at the point of sale.",
+          "Wrong — collecting from a customer creates no obligation.",
+          null,
+          "Wrong — total assets stay the same rather than falling."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "topic": "b5-doanh-thu-chi-phi",
+  "questions": [
+    {
+      "id": "PRO-B5-001",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "VAS 14 – Doanh thu và thu nhập khác",
+      "tags": ["ghi-nhan-doanh-thu"],
+      "vi": {
+        "question": "Theo VAS 14, điều kiện quan trọng nhất để ghi nhận doanh thu bán hàng hóa là gì?",
+        "options": [
+          "Doanh nghiệp đã nhận đủ tiền thanh toán của khách hàng cho lô hàng đã bán",
+          "Phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu hàng hóa đã được chuyển giao cho người mua",
+          "Doanh nghiệp đã ký kết hợp đồng mua bán hợp lệ với khách hàng và có đặt cọc",
+          "Hàng hóa đã được xuất khỏi kho và đang trên đường vận chuyển tới địa điểm giao"
+        ],
+        "explanation": "Điều kiện cốt lõi là chuyển giao phần lớn rủi ro và lợi ích gắn liền với quyền sở hữu hàng hóa. Bốn điều kiện còn lại: doanh nghiệp không còn nắm quyền quản lý như người sở hữu; doanh thu xác định tương đối chắc chắn; đã hoặc sẽ thu được lợi ích kinh tế; xác định được chi phí liên quan tới giao dịch.",
+        "distractors": [
+          "Sai — thu tiền không phải điều kiện ghi nhận doanh thu theo cơ sở dồn tích.",
+          null,
+          "Sai — ký hợp đồng mới là cam kết, chưa có chuyển giao rủi ro và lợi ích thực tế.",
+          "Sai — hàng đang trên đường vận chuyển thì rủi ro có thể vẫn thuộc về người bán, tùy điều kiện giao hàng."
+        ]
+      },
+      "en": {
+        "question": "Under VAS 14, what is the key condition for recognising revenue from the sale of goods?",
+        "options": [
+          "The company has received full payment from the customer for the goods sold",
+          "Significant risks and rewards of ownership have been transferred to the buyer",
+          "A valid sale contract has been signed and a deposit received",
+          "The goods have left the warehouse and are in transit to the delivery point"
+        ],
+        "explanation": "The core condition is transfer of the significant risks and rewards of ownership. The remaining four: the seller retains no managerial involvement as owner; revenue can be measured reliably; economic benefits are probable; and the related costs can be measured.",
+        "distractors": [
+          "Wrong — payment is not a recognition condition under the accrual basis.",
+          null,
+          "Wrong — a contract is a commitment; risks and rewards have not yet passed.",
+          "Wrong — goods in transit may still carry seller risk depending on delivery terms."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-002",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["cac-khoan-giam-tru"],
+      "vi": {
+        "question": "Khoản nào sau đây KHÔNG phải là khoản giảm trừ doanh thu?",
+        "options": [
+          "Chiết khấu thương mại dành cho khách hàng mua với số lượng lớn theo thỏa thuận",
+          "Giảm giá hàng bán do hàng hóa kém phẩm chất, không đúng quy cách như đã cam kết",
+          "Hàng bán bị khách hàng trả lại do không đúng chủng loại hoặc sai quy cách kỹ thuật",
+          "Chi phí vận chuyển hàng hóa đi giao cho khách hàng theo thỏa thuận trong hợp đồng"
+        ],
+        "explanation": "Ba khoản giảm trừ doanh thu là: chiết khấu thương mại (TK 5211), giảm giá hàng bán (TK 5213 theo cách đánh số của một số chế độ, hoặc 5212), và hàng bán bị trả lại. Chi phí vận chuyển hàng đi giao là CHI PHÍ BÁN HÀNG (TK 641), không làm giảm doanh thu. Lưu ý chiết khấu THANH TOÁN cho khách trả sớm là chi phí tài chính (TK 635), cũng không giảm trừ doanh thu.",
+        "distractors": [
+          "Sai — chiết khấu thương mại là khoản giảm trừ doanh thu điển hình.",
+          "Sai — giảm giá hàng bán là một trong ba khoản giảm trừ doanh thu.",
+          "Sai — hàng bán bị trả lại là khoản giảm trừ doanh thu.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which of the following is NOT a deduction from revenue?",
+        "options": [
+          "Trade discounts granted to customers buying in bulk under agreement",
+          "Sales allowances for goods of poor quality or not matching the agreed specification",
+          "Goods returned by customers for being the wrong type or specification",
+          "Freight paid to deliver goods to customers under the contract terms"
+        ],
+        "explanation": "The three revenue deductions are trade discounts, sales allowances and sales returns. Outbound freight is a SELLING EXPENSE (account 641) and does not reduce revenue. Note that settlement discounts for early payment are a finance cost (account 635) and likewise do not reduce revenue.",
+        "distractors": [
+          "Wrong — trade discounts are a classic revenue deduction.",
+          "Wrong — sales allowances are one of the three deductions.",
+          "Wrong — sales returns are a revenue deduction.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-003",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["chiet-khau-thanh-toan"],
+      "vi": {
+        "question": "Doanh nghiệp cho khách hàng hưởng chiết khấu 2% nếu thanh toán trong 10 ngày. Khoản chiết khấu này được hạch toán vào đâu?",
+        "options": [
+          "TK 635 – Chi phí tài chính",
+          "TK 5211 – Chiết khấu thương mại, làm giảm trừ doanh thu bán hàng trong kỳ",
+          "TK 641 – Chi phí bán hàng, vì phát sinh gắn với hoạt động tiêu thụ hàng hóa",
+          "TK 642 – Chi phí quản lý doanh nghiệp, tính vào chi phí chung của toàn công ty"
+        ],
+        "explanation": "Chiết khấu THANH TOÁN (cash discount, settlement discount) là khoản thưởng cho khách trả tiền sớm, bản chất là chi phí sử dụng vốn nên ghi vào TK 635 – Chi phí tài chính. Cần phân biệt rõ với chiết khấu THƯƠNG MẠI (trade discount) — giảm giá do mua nhiều — mới là khoản giảm trừ doanh thu.",
+        "distractors": [
+          null,
+          "Sai — chiết khấu thương mại là giảm giá do mua số lượng lớn, khác với chiết khấu thanh toán sớm.",
+          "Sai — chiết khấu thanh toán mang bản chất tài chính, không phải chi phí bán hàng.",
+          "Sai — khoản này không liên quan tới chi phí quản lý chung của doanh nghiệp."
+        ]
+      },
+      "en": {
+        "question": "A company offers customers a 2% discount for paying within 10 days. Where is this recorded?",
+        "options": [
+          "Account 635 – Finance costs",
+          "Account 5211 – Trade discounts, reducing sales revenue for the period",
+          "Account 641 – Selling expenses, as it arises from selling activity",
+          "Account 642 – Administrative expenses, as a general company cost"
+        ],
+        "explanation": "A SETTLEMENT (cash) discount rewards early payment and is in substance a cost of funding, so it goes to account 635 – Finance costs. Keep it distinct from a TRADE discount for volume purchases, which is a revenue deduction.",
+        "distractors": [
+          null,
+          "Wrong — trade discounts relate to purchase volume, not early payment.",
+          "Wrong — a settlement discount is financial in nature, not a selling cost.",
+          "Wrong — it has nothing to do with general administration."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-004",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["doanh-thu-thuan"],
+      "vi": {
+        "question": "Doanh thu thuần được xác định bằng công thức nào?",
+        "options": [
+          "Doanh thu bán hàng trừ đi giá vốn hàng bán phát sinh trong kỳ kế toán",
+          "Doanh thu bán hàng trừ đi toàn bộ chi phí hoạt động của doanh nghiệp trong kỳ",
+          "Doanh thu bán hàng trừ đi các khoản giảm trừ doanh thu",
+          "Doanh thu bán hàng trừ đi thuế thu nhập doanh nghiệp phải nộp của kỳ đó"
+        ],
+        "explanation": "Doanh thu thuần = Doanh thu bán hàng và cung cấp dịch vụ − Các khoản giảm trừ doanh thu (chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại). Bước tiếp theo: Doanh thu thuần − Giá vốn hàng bán = Lợi nhuận gộp.",
+        "distractors": [
+          "Sai — trừ giá vốn hàng bán sẽ ra lợi nhuận gộp, không phải doanh thu thuần.",
+          "Sai — trừ toàn bộ chi phí hoạt động sẽ ra lợi nhuận thuần từ hoạt động kinh doanh.",
+          null,
+          "Sai — thuế TNDN được trừ ở bước cuối cùng để ra lợi nhuận sau thuế."
+        ]
+      },
+      "en": {
+        "question": "How is net revenue determined?",
+        "options": [
+          "Sales revenue less cost of goods sold for the period",
+          "Sales revenue less all operating expenses for the period",
+          "Sales revenue less deductions from revenue",
+          "Sales revenue less corporate income tax payable for the period"
+        ],
+        "explanation": "Net revenue = revenue from sales and services − revenue deductions (trade discounts, sales allowances, sales returns). The next step is net revenue − COGS = gross profit.",
+        "distractors": [
+          "Wrong — deducting COGS gives gross profit.",
+          "Wrong — deducting all operating expenses gives operating profit.",
+          null,
+          "Wrong — CIT is deducted at the final step to reach post-tax profit."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-005",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["doanh-thu-chua-thuc-hien"],
+      "vi": {
+        "question": "Doanh nghiệp bán thẻ hội viên phòng tập 12 tháng, thu ngay 24 triệu đồng vào tháng 1. Doanh thu ghi nhận trong tháng 1 là bao nhiêu?",
+        "options": [
+          "24 triệu đồng, vì đã thu đủ tiền của khách hàng ngay trong tháng 1",
+          "0 đồng, và chỉ ghi nhận toàn bộ doanh thu vào tháng 12 khi kết thúc hợp đồng",
+          "12 triệu đồng, tương ứng với một nửa giá trị của thẻ hội viên đã bán ra",
+          "2 triệu đồng, phần còn lại ghi vào doanh thu chưa thực hiện trên TK 3387"
+        ],
+        "explanation": "Dịch vụ cung cấp trong 12 tháng nên doanh thu được phân bổ đều: 24 ÷ 12 = 2 triệu đồng mỗi tháng. Tháng 1 ghi nhận 2 triệu vào TK 511, còn 22 triệu ghi vào TK 3387 – Doanh thu chưa thực hiện (nợ phải trả). Mỗi tháng tiếp theo kết chuyển 2 triệu: Nợ TK 3387 / Có TK 511.",
+        "distractors": [
+          "Sai — thu tiền không đồng nghĩa với có doanh thu; dịch vụ chưa được cung cấp hết.",
+          "Sai — dịch vụ được cung cấp dần qua từng tháng nên doanh thu phải ghi nhận dần.",
+          "Sai — không có căn cứ nào cho việc ghi nhận một nửa giá trị ngay trong tháng đầu tiên.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A gym sells a 12-month membership and collects VND 24 million in January. How much revenue is recognised in January?",
+        "options": [
+          "VND 24 million, since the full amount was collected in January",
+          "Nil, with all revenue recognised in December when the contract ends",
+          "VND 12 million, half the value of the membership sold",
+          "VND 2 million, with the remainder in unearned revenue (account 3387)"
+        ],
+        "explanation": "The service spans 12 months, so revenue is spread evenly: 24 ÷ 12 = 2 million per month. January recognises 2 million in account 511, with 22 million in account 3387 – Unearned revenue (a liability). Each subsequent month releases 2 million: Dr 3387 / Cr 511.",
+        "distractors": [
+          "Wrong — collecting cash is not earning revenue; the service is not yet delivered.",
+          "Wrong — the service is delivered progressively, so revenue accrues monthly.",
+          "Wrong — there is no basis for recognising half the value in month one.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-006",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["chi-phi-ban-hang-quan-ly"],
+      "vi": {
+        "question": "Khoản chi nào được ghi vào TK 641 – Chi phí bán hàng?",
+        "options": [
+          "Lương nhân viên bán hàng, chi phí quảng cáo, hoa hồng cho đại lý bán hàng",
+          "Lương ban giám đốc, chi phí thuê văn phòng trụ sở chính của toàn công ty",
+          "Giá vốn của lô hàng hóa đã được tiêu thụ cho khách hàng trong kỳ kế toán",
+          "Chi phí lãi vay ngân hàng phải trả trong kỳ theo hợp đồng tín dụng đã ký"
+        ],
+        "explanation": "TK 641 – Chi phí bán hàng gồm mọi chi phí phục vụ việc tiêu thụ sản phẩm: lương và các khoản trích theo lương của nhân viên bán hàng, chi phí quảng cáo tiếp thị, hoa hồng đại lý, chi phí vận chuyển hàng đi giao, chi phí bảo hành, khấu hao tài sản của bộ phận bán hàng.",
+        "distractors": [
+          null,
+          "Sai — lương ban giám đốc và thuê văn phòng trụ sở là chi phí quản lý doanh nghiệp (TK 642).",
+          "Sai — giá vốn hàng bán được theo dõi riêng ở TK 632, không thuộc chi phí bán hàng.",
+          "Sai — lãi vay là chi phí tài chính, ghi vào TK 635."
+        ]
+      },
+      "en": {
+        "question": "Which costs are charged to account 641 – Selling expenses?",
+        "options": [
+          "Sales staff salaries, advertising, and commissions paid to sales agents",
+          "Directors’ salaries and rent on the company’s head office",
+          "The cost of goods sold to customers during the period",
+          "Bank loan interest payable for the period under the credit agreement"
+        ],
+        "explanation": "Account 641 captures all costs of selling: sales staff pay and related contributions, advertising and marketing, agent commissions, outbound freight, warranty costs, and depreciation of sales department assets.",
+        "distractors": [
+          null,
+          "Wrong — directors’ pay and head office rent are administrative expenses (642).",
+          "Wrong — cost of goods sold sits separately in account 632.",
+          "Wrong — interest is a finance cost in account 635."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-007",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["ket-qua-kinh-doanh", "tinh-toan"],
+      "vi": {
+        "question": "Doanh thu thuần 2.000 triệu, giá vốn hàng bán 1.400 triệu, chi phí bán hàng 200 triệu, chi phí quản lý 150 triệu. Lợi nhuận thuần từ hoạt động kinh doanh (chưa xét hoạt động tài chính) là:",
+        "options": [
+          "600 triệu đồng, bằng doanh thu thuần trừ đi giá vốn hàng bán trong kỳ",
+          "250 triệu đồng",
+          "400 triệu đồng, bằng doanh thu thuần trừ giá vốn và chi phí bán hàng",
+          "450 triệu đồng, bằng doanh thu thuần trừ giá vốn và chi phí quản lý doanh nghiệp"
+        ],
+        "explanation": "Lợi nhuận gộp = 2.000 − 1.400 = 600 triệu. Lợi nhuận thuần từ hoạt động kinh doanh = 600 − 200 − 150 = 250 triệu đồng. Chuỗi tính đầy đủ: Doanh thu thuần → trừ giá vốn = Lợi nhuận gộp → trừ chi phí bán hàng và quản lý → cộng trừ hoạt động tài chính → Lợi nhuận thuần.",
+        "distractors": [
+          "Sai — 600 triệu mới chỉ là lợi nhuận GỘP, chưa trừ chi phí bán hàng và quản lý.",
+          null,
+          "Sai — còn thiếu bước trừ chi phí quản lý doanh nghiệp 150 triệu đồng.",
+          "Sai — còn thiếu bước trừ chi phí bán hàng 200 triệu đồng."
+        ]
+      },
+      "en": {
+        "question": "Net revenue 2,000 million, COGS 1,400 million, selling expenses 200 million, administrative expenses 150 million. Operating profit (ignoring financing) is:",
+        "options": [
+          "VND 600 million, being net revenue less cost of goods sold",
+          "VND 250 million",
+          "VND 400 million, being net revenue less COGS and selling expenses",
+          "VND 450 million, being net revenue less COGS and administrative expenses"
+        ],
+        "explanation": "Gross profit = 2,000 − 1,400 = 600 million. Operating profit = 600 − 200 − 150 = 250 million. The full chain: net revenue → less COGS = gross profit → less selling and administrative expenses → plus/minus financing → operating profit.",
+        "distractors": [
+          "Wrong — 600 million is GROSS profit, before selling and administrative costs.",
+          null,
+          "Wrong — the 150 million of administrative expenses is still to be deducted.",
+          "Wrong — the 200 million of selling expenses is still to be deducted."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-008",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["thu-nhap-khac"],
+      "vi": {
+        "question": "Khoản thu nào được ghi nhận vào TK 711 – Thu nhập khác?",
+        "options": [
+          "Doanh thu từ việc bán sản phẩm chính mà doanh nghiệp sản xuất trong kỳ kế toán",
+          "Lãi tiền gửi ngân hàng và cổ tức nhận được từ các khoản đầu tư tài chính",
+          "Tiền phạt thu được từ khách hàng do vi phạm điều khoản của hợp đồng kinh tế",
+          "Tiền khách hàng ứng trước cho đơn hàng sẽ được giao trong kỳ kế toán tiếp theo"
+        ],
+        "explanation": "TK 711 – Thu nhập khác gồm các khoản không thuộc hoạt động kinh doanh chính và không thuộc hoạt động tài chính: thu từ thanh lý nhượng bán TSCĐ, tiền phạt vi phạm hợp đồng thu được, bồi thường bảo hiểm, nợ phải trả không xác định được chủ, quà biếu tặng.",
+        "distractors": [
+          "Sai — doanh thu bán sản phẩm chính ghi vào TK 511, đây là hoạt động kinh doanh chính.",
+          "Sai — lãi tiền gửi và cổ tức là doanh thu hoạt động tài chính, ghi vào TK 515.",
+          null,
+          "Sai — tiền ứng trước của khách hàng là nợ phải trả, ghi vào TK 131 chi tiết hoặc TK 3387."
+        ]
+      },
+      "en": {
+        "question": "Which receipt is recorded in account 711 – Other income?",
+        "options": [
+          "Revenue from selling the company’s main manufactured products",
+          "Bank interest and dividends received from financial investments",
+          "Contractual penalties collected from customers for breach of contract",
+          "Customer advances for orders to be delivered next period"
+        ],
+        "explanation": "Account 711 covers items outside core trading and outside financing: proceeds from asset disposals, contractual penalties received, insurance compensation, unclaimed liabilities and gifts received.",
+        "distractors": [
+          "Wrong — core product sales go to account 511.",
+          "Wrong — interest and dividends are finance income in account 515.",
+          null,
+          "Wrong — customer advances are a liability in 131 detail or account 3387."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-009",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["dich-vu-dang-do"],
+      "vi": {
+        "question": "Doanh nghiệp cung cấp dịch vụ tư vấn kéo dài nhiều kỳ, đến cuối năm mới hoàn thành 60% khối lượng công việc theo hợp đồng 1 tỷ đồng. Doanh thu ghi nhận trong năm là:",
+        "options": [
+          "0 đồng, chờ tới khi hoàn thành toàn bộ hợp đồng mới ghi nhận doanh thu một lần",
+          "1 tỷ đồng, ghi nhận toàn bộ giá trị hợp đồng ngay tại thời điểm ký kết hợp đồng",
+          "Tùy doanh nghiệp lựa chọn, miễn là áp dụng nhất quán qua các kỳ kế toán liên tiếp",
+          "600 triệu đồng, tương ứng phần công việc đã hoàn thành theo tỷ lệ 60%"
+        ],
+        "explanation": "Với dịch vụ kéo dài nhiều kỳ, doanh thu ghi nhận theo TỶ LỆ HOÀN THÀNH công việc tại ngày lập báo cáo, nếu kết quả giao dịch được xác định đáng tin cậy. Ở đây: 1 tỷ × 60% = 600 triệu đồng. Chi phí tương ứng của phần công việc đã hoàn thành cũng phải được ghi nhận, theo nguyên tắc phù hợp.",
+        "distractors": [
+          "Sai — chờ đến khi hoàn thành toàn bộ sẽ dồn hết lợi nhuận vào một kỳ, sai nguyên tắc phù hợp.",
+          "Sai — ký hợp đồng chưa cung cấp dịch vụ nên chưa đủ điều kiện ghi nhận doanh thu.",
+          "Sai — đây là quy định của chuẩn mực kế toán, không phải quyền lựa chọn của doanh nghiệp.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A consultancy contract worth VND 1 billion spans several periods and is 60% complete at year end. Revenue recognised for the year is:",
+        "options": [
+          "Nil, waiting until the whole contract is complete to recognise revenue at once",
+          "VND 1 billion, recognising the full contract value when it was signed",
+          "Whatever the company chooses, provided it is applied consistently",
+          "VND 600 million, matching the 60% of work completed"
+        ],
+        "explanation": "For services spanning periods, revenue is recognised by the STAGE OF COMPLETION at the reporting date where the outcome can be measured reliably: 1 billion × 60% = 600 million. The related costs of the completed work must also be recognised, per the matching principle.",
+        "distractors": [
+          "Wrong — deferring everything to completion bunches profit into one period and breaches matching.",
+          "Wrong — signing a contract delivers no service, so recognition criteria are unmet.",
+          "Wrong — this follows from the standards, not company choice.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-010",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["chi-phi-khac"],
+      "vi": {
+        "question": "Khoản nào được ghi vào TK 811 – Chi phí khác?",
+        "options": [
+          "Giá trị còn lại của TSCĐ khi thanh lý và tiền phạt vi phạm hành chính phải nộp",
+          "Chi phí lương và các khoản trích theo lương của nhân viên bộ phận kế toán",
+          "Chi phí lãi vay phải trả cho ngân hàng theo hợp đồng tín dụng trong kỳ",
+          "Giá vốn của số hàng hóa đã được bán ra cho khách hàng trong kỳ kế toán"
+        ],
+        "explanation": "TK 811 – Chi phí khác gồm: giá trị còn lại và chi phí thanh lý nhượng bán TSCĐ, tiền phạt vi phạm hành chính, tiền phạt vi phạm hợp đồng phải trả, các khoản chi bất thường khác. Lưu ý tiền phạt vi phạm hành chính tuy được ghi nhận kế toán nhưng KHÔNG được trừ khi tính thuế TNDN.",
+        "distractors": [
+          null,
+          "Sai — lương nhân viên kế toán là chi phí quản lý doanh nghiệp, ghi vào TK 642.",
+          "Sai — chi phí lãi vay là chi phí tài chính, ghi vào TK 635.",
+          "Sai — giá vốn hàng bán ghi vào TK 632, thuộc hoạt động kinh doanh chính."
+        ]
+      },
+      "en": {
+        "question": "Which item is recorded in account 811 – Other expenses?",
+        "options": [
+          "Net book value of assets on disposal, and administrative fines payable",
+          "Salaries and related contributions for accounting department staff",
+          "Bank loan interest payable under the credit agreement for the period",
+          "The cost of goods sold to customers during the accounting period"
+        ],
+        "explanation": "Account 811 covers net book value and costs of asset disposals, administrative fines, contractual penalties payable, and other unusual costs. Note that administrative fines are recorded in the books but are NOT deductible for CIT.",
+        "distractors": [
+          null,
+          "Wrong — accounting staff pay is an administrative expense in account 642.",
+          "Wrong — interest is a finance cost in account 635.",
+          "Wrong — COGS sits in account 632 within core trading."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-011",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["cut-off"],
+      "vi": {
+        "question": "Ngày 30/12 doanh nghiệp giao hàng cho khách và chuyển giao rủi ro, nhưng đến ngày 05/01 năm sau mới xuất hóa đơn. Doanh thu thuộc kỳ nào?",
+        "options": [
+          "Năm sau, theo đúng ngày ghi trên hóa đơn giá trị gia tăng đã xuất cho khách hàng",
+          "Năm hiện tại, vì rủi ro và lợi ích đã được chuyển giao trong ngày 30/12",
+          "Chia đôi cho cả hai năm để phản ánh việc giao dịch kéo dài qua hai kỳ kế toán",
+          "Năm sau, và đồng thời doanh nghiệp không phải điều chỉnh gì cho báo cáo năm hiện tại"
+        ],
+        "explanation": "Về mặt KẾ TOÁN, doanh thu ghi nhận theo thời điểm chuyển giao rủi ro và lợi ích, tức năm hiện tại — đây gọi là vấn đề cut-off. Về mặt THUẾ, việc xuất hóa đơn muộn là vi phạm quy định về thời điểm lập hóa đơn theo Nghị định 70/2025 và có thể bị xử phạt. Hai hệ quy chiếu khác nhau, cần xử lý cả hai.",
+        "distractors": [
+          "Sai — ngày hóa đơn không quyết định kỳ ghi nhận doanh thu về mặt kế toán.",
+          null,
+          "Sai — không có cơ sở nào cho việc chia đôi doanh thu của một giao dịch đã hoàn thành.",
+          "Sai — vẫn phải ghi nhận doanh thu vào năm hiện tại và xử lý vấn đề hóa đơn xuất muộn."
+        ]
+      },
+      "en": {
+        "question": "Goods are delivered and risks transferred on 30 December, but the invoice is issued on 5 January. Which period does the revenue belong to?",
+        "options": [
+          "Next year, following the date shown on the VAT invoice issued to the customer",
+          "The current year, because risks and rewards transferred on 30 December",
+          "Split across both years, reflecting a transaction spanning two periods",
+          "Next year, with no adjustment needed to the current year’s statements"
+        ],
+        "explanation": "For ACCOUNTING, revenue follows the transfer of risks and rewards — the current year. This is the cut-off issue. For TAX, issuing the invoice late breaches the invoice timing rules of Decree 70/2025 and may attract a penalty. Two different frameworks, both requiring attention.",
+        "distractors": [
+          "Wrong — the invoice date does not determine the accounting period for revenue.",
+          null,
+          "Wrong — there is no basis for splitting a completed transaction.",
+          "Wrong — revenue must be recognised this year and the late invoice addressed."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B5-012",
+      "topic": "b5-doanh-thu-chi-phi",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["chi-phi-trich-truoc"],
+      "vi": {
+        "question": "Đến 31/12, doanh nghiệp đã sử dụng dịch vụ tư vấn trị giá 80 triệu đồng nhưng chưa nhận được hóa đơn của nhà cung cấp. Xử lý kế toán đúng là:",
+        "options": [
+          "Không ghi nhận gì vì chưa có hóa đơn, đợi năm sau nhận hóa đơn mới hạch toán",
+          "Ghi nhận vào TK 242 – Chi phí trả trước rồi phân bổ dần vào các kỳ tiếp theo",
+          "Trích trước 80 triệu vào chi phí năm nay, ghi Nợ TK 642 / Có TK 335",
+          "Ghi vào TK 331 – Phải trả người bán mà không ghi nhận chi phí trong kỳ hiện tại"
+        ],
+        "explanation": "Theo cơ sở dồn tích và nguyên tắc phù hợp, chi phí đã phát sinh trong năm phải được ghi nhận trong năm đó dù chưa có hóa đơn. Trích trước: Nợ TK 642 / Có TK 335 – Chi phí phải trả. Năm sau khi nhận hóa đơn thì ghi Nợ TK 335 / Có TK 331 rồi thanh toán. Bỏ qua bút toán này sẽ làm lợi nhuận năm nay bị thổi phồng.",
+        "distractors": [
+          "Sai — chờ hóa đơn mới ghi nhận là áp dụng cơ sở tiền mặt, vi phạm cơ sở dồn tích.",
+          "Sai — TK 242 dùng cho khoản đã TRẢ TIỀN trước, còn đây là đã dùng dịch vụ nhưng chưa trả.",
+          null,
+          "Sai — nếu chỉ ghi vào TK 331 mà không ghi chi phí thì bút toán không cân và thiếu chi phí."
+        ]
+      },
+      "en": {
+        "question": "At 31 December a company has used consultancy services worth VND 80 million but has not received the supplier’s invoice. The correct treatment is:",
+        "options": [
+          "Record nothing, waiting for the invoice next year",
+          "Record it in account 242 – Prepaid expenses and amortise it over future periods",
+          "Accrue 80 million into this year’s expenses: Dr 642 / Cr 335",
+          "Record it in account 331 – Trade payables without recognising any expense this period"
+        ],
+        "explanation": "Under the accrual basis and matching principle, a cost incurred this year must be recognised this year even without an invoice. Accrue it: Dr 642 / Cr 335 – Accrued expenses. Next year, on receipt of the invoice: Dr 335 / Cr 331, then settle. Omitting this entry inflates this year’s profit.",
+        "distractors": [
+          "Wrong — waiting for the invoice is cash-basis accounting and breaches the accrual basis.",
+          "Wrong — account 242 is for amounts PAID in advance; here the service is used but unpaid.",
+          null,
+          "Wrong — posting only to 331 without an expense leaves the entry unbalanced and the cost unrecorded."
+        ]
+      }
+    }
+  ]
+}

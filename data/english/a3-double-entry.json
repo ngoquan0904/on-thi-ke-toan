@@ -1,0 +1,590 @@
+{
+  "topic": "a3-double-entry",
+  "questions": [
+    {
+      "id": "ENG-A3-001",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["debit-credit"],
+      "vi": {
+        "question": "Trong ghi sổ kép, một khoản tăng tài sản được ghi vào bên nào?",
+        "options": [
+          "Credit side",
+          "Debit side",
+          "Either side, depending on the company policy",
+          "Neither side; assets are not part of double entry"
+        ],
+        "explanation": "Tài sản tăng thì ghi Nợ (debit), giảm thì ghi Có (credit). Quy tắc gốc: debit làm tăng assets và expenses; credit làm tăng liabilities, equity và income. Trong tiếng Việt, debit = ghi Nợ, credit = ghi Có — lưu ý “Nợ” ở đây không có nghĩa là mắc nợ.",
+        "distractors": [
+          "Sai — ghi Có làm giảm tài sản, không phải tăng.",
+          null,
+          "Sai — đây là quy tắc kế toán bắt buộc, không phải lựa chọn chính sách.",
+          "Sai — tài sản là một trong năm nhóm tài khoản chính của ghi sổ kép."
+        ]
+      },
+      "en": {
+        "question": "In double-entry bookkeeping, an increase in an asset is recorded on which side?",
+        "options": [
+          "Credit side",
+          "Debit side",
+          "Either side, depending on the company policy",
+          "Neither side; assets are not part of double entry"
+        ],
+        "explanation": "Assets increase with a debit and decrease with a credit. The core rule: debits increase assets and expenses; credits increase liabilities, equity and income. In Vietnamese, debit = “ghi Nợ” and credit = “ghi Có”; note that “Nợ” here does not mean being in debt.",
+        "distractors": [
+          "Wrong — a credit decreases an asset.",
+          null,
+          "Wrong — this is a fixed rule, not a policy choice.",
+          "Wrong — assets are one of the five main account categories."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-002",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["journal"],
+      "vi": {
+        "question": "“Journal entry” trong tiếng Việt là gì?",
+        "options": [
+          "Sổ cái",
+          "Bảng cân đối số phát sinh",
+          "Chứng từ gốc",
+          "Bút toán (định khoản)"
+        ],
+        "explanation": "Journal entry = bút toán, tức một cặp ghi Nợ – ghi Có phản ánh một nghiệp vụ. Bộ từ vựng cần thuộc: journal = sổ nhật ký, ledger = sổ cái, trial balance = bảng cân đối số phát sinh, source document = chứng từ gốc, posting = việc chuyển số liệu từ nhật ký vào sổ cái.",
+        "distractors": [
+          "Sai — sổ cái là ledger hoặc general ledger.",
+          "Sai — bảng cân đối số phát sinh là trial balance.",
+          "Sai — chứng từ gốc là source document.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What is a “journal entry” in Vietnamese?",
+        "options": [
+          "Sổ cái",
+          "Bảng cân đối số phát sinh",
+          "Chứng từ gốc",
+          "Bút toán (định khoản)"
+        ],
+        "explanation": "A journal entry is a “bút toán” — one matched debit and credit recording a transaction. Learn the set: journal = sổ nhật ký, ledger = sổ cái, trial balance = bảng cân đối số phát sinh, source document = chứng từ gốc, posting = transferring from journal to ledger.",
+        "distractors": [
+          "Wrong — “sổ cái” is the ledger.",
+          "Wrong — “bảng cân đối số phát sinh” is the trial balance.",
+          "Wrong — “chứng từ gốc” is a source document.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-003",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["trial-balance"],
+      "vi": {
+        "question": "Mục đích chính của “trial balance” là gì?",
+        "options": [
+          "To check that total debits equal total credits before preparing the financial statements",
+          "To calculate the tax payable for the period",
+          "To record every transaction in strict date order as it occurs throughout the accounting period",
+          "To list all suppliers and their contact details"
+        ],
+        "explanation": "Trial balance (bảng cân đối số phát sinh) liệt kê số dư của tất cả tài khoản để kiểm tra tổng Nợ bằng tổng Có trước khi lập báo cáo tài chính. Lưu ý điểm yếu: trial balance cân KHÔNG chứng minh sổ sách đúng — bút toán ghi nhầm tài khoản, ghi trùng, hoặc bỏ sót hoàn toàn vẫn để trial balance cân.",
+        "distractors": [
+          null,
+          "Sai — tính thuế phải nộp là công việc của tờ khai thuế, không phải trial balance.",
+          "Sai — ghi theo trình tự thời gian là chức năng của sổ nhật ký (journal).",
+          "Sai — danh sách nhà cung cấp là sổ chi tiết công nợ, không phải trial balance."
+        ]
+      },
+      "en": {
+        "question": "What is the main purpose of a trial balance?",
+        "options": [
+          "To check that total debits equal total credits before preparing the financial statements",
+          "To calculate the tax payable for the period",
+          "To record every transaction in strict date order as it occurs throughout the accounting period",
+          "To list all suppliers and their contact details"
+        ],
+        "explanation": "A trial balance lists the balances of all accounts to confirm total debits equal total credits before the statements are drawn up. Its weakness: a balanced trial balance does not prove the books are right — errors of principle, duplicated entries and complete omissions all leave it balanced.",
+        "distractors": [
+          null,
+          "Wrong — calculating tax payable belongs to the tax return.",
+          "Wrong — recording in date order is the journal’s function.",
+          "Wrong — a supplier listing is the payables subledger."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-004",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["accrual", "deferral"],
+      "vi": {
+        "question": "Công ty trả trước tiền thuê văn phòng 12 tháng. Bút toán ban đầu ghi nhận khoản này là gì?",
+        "options": [
+          "An accrued expense (liability)",
+          "Revenue for the year",
+          "A prepayment (asset)",
+          "An immediate expense in full"
+        ],
+        "explanation": "Prepayment (chi phí trả trước) là tài sản: doanh nghiệp đã trả tiền và có quyền nhận dịch vụ trong tương lai. Hằng tháng phân bổ dần vào chi phí. Ghi nhớ cặp đối nhau: prepayment = trả trước, là TÀI SẢN; accrual = phải trả, là NỢ PHẢI TRẢ.",
+        "distractors": [
+          "Sai — accrued expense là chi phí đã phát sinh nhưng CHƯA trả; ở đây đã trả tiền rồi.",
+          "Sai — đây là chi phí của bên trả tiền, không phải doanh thu.",
+          null,
+          "Sai — ghi hết vào chi phí ngay sẽ vi phạm nguyên tắc phù hợp (matching)."
+        ]
+      },
+      "en": {
+        "question": "A company pays 12 months of office rent in advance. How is the payment initially recorded?",
+        "options": [
+          "An accrued expense (liability)",
+          "Revenue for the year",
+          "A prepayment (asset)",
+          "An immediate expense in full"
+        ],
+        "explanation": "A prepayment is an asset: the company has paid and holds the right to receive future service. It is released to expense month by month. Remember the mirrored pair: prepayment = paid in advance, an ASSET; accrual = incurred not yet paid, a LIABILITY.",
+        "distractors": [
+          "Wrong — an accrued expense is incurred but NOT yet paid; here the cash has gone out.",
+          "Wrong — this is a cost to the payer, not revenue.",
+          null,
+          "Wrong — expensing it all at once would breach the matching concept."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-005",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["reconciliation"],
+      "vi": {
+        "question": "“Bank reconciliation” là công việc gì?",
+        "options": [
+          "Transferring money between two bank accounts",
+          "Comparing the cash book balance with the bank statement and explaining any differences",
+          "Closing a bank account at year end",
+          "Negotiating better interest rates with the bank"
+        ],
+        "explanation": "Bank reconciliation (đối chiếu ngân hàng) so sánh số dư trên sổ kế toán tiền gửi với sao kê ngân hàng và giải thích chênh lệch. Các nguyên nhân điển hình: outstanding cheques (séc đã phát hành chưa xuất trình), deposits in transit (tiền gửi đang chuyển), bank charges (phí ngân hàng chưa ghi sổ).",
+        "distractors": [
+          "Sai — chuyển tiền giữa hai tài khoản là bank transfer.",
+          null,
+          "Sai — đóng tài khoản ngân hàng là closing an account.",
+          "Sai — đàm phán lãi suất không phải công việc kế toán ghi sổ."
+        ]
+      },
+      "en": {
+        "question": "What does a bank reconciliation involve?",
+        "options": [
+          "Transferring money between two bank accounts",
+          "Comparing the cash book balance with the bank statement and explaining any differences",
+          "Closing a bank account at year end",
+          "Negotiating better interest rates with the bank"
+        ],
+        "explanation": "A bank reconciliation compares the cash book balance to the bank statement and explains every difference. Typical reconciling items: outstanding cheques, deposits in transit, and bank charges not yet recorded in the books.",
+        "distractors": [
+          "Wrong — moving money between accounts is a bank transfer.",
+          null,
+          "Wrong — that is simply closing an account.",
+          "Wrong — negotiating rates is not a bookkeeping task."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-006",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["ledger"],
+      "vi": {
+        "question": "“Posting” trong quy trình ghi sổ nghĩa là gì?",
+        "options": [
+          "Sending an invoice to a customer by post",
+          "Approving a payment before it is made",
+          "Filing supporting documents in date order",
+          "Transferring entries from the journal to the ledger accounts"
+        ],
+        "explanation": "Posting là chuyển số liệu từ sổ nhật ký sang các tài khoản trên sổ cái. Quy trình chuẩn: source document → journal entry → posting to ledger → trial balance → financial statements. Đừng nhầm “posting” với việc gửi thư qua bưu điện.",
+        "distractors": [
+          "Sai — gửi hóa đơn qua bưu điện là “mailing an invoice”.",
+          "Sai — phê duyệt thanh toán là approval, một bước kiểm soát khác.",
+          "Sai — lưu trữ chứng từ là filing.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does “posting” mean in the bookkeeping process?",
+        "options": [
+          "Sending an invoice to a customer by post",
+          "Approving a payment before it is made",
+          "Filing supporting documents in date order",
+          "Transferring entries from the journal to the ledger accounts"
+        ],
+        "explanation": "Posting is transferring entries from the journal into the ledger accounts. The standard chain runs: source document → journal entry → posting to ledger → trial balance → financial statements. Do not read “posting” as sending mail.",
+        "distractors": [
+          "Wrong — that would be mailing an invoice.",
+          "Wrong — approving a payment is a separate control step.",
+          "Wrong — that is filing.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-007",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["provision"],
+      "vi": {
+        "question": "“Provision” trong kế toán nghĩa là gì?",
+        "options": [
+          "A liability of uncertain timing or amount",
+          "A cash reserve held at the bank",
+          "An amount already invoiced by a supplier",
+          "A discount granted to a customer"
+        ],
+        "explanation": "Provision (dự phòng) là khoản nợ phải trả chưa chắc chắn về thời điểm hoặc số tiền — ví dụ dự phòng bảo hành sản phẩm, dự phòng tái cơ cấu. Khác với accrual: accrual đã khá chắc chắn về số tiền, chỉ chưa có hóa đơn; provision còn phải ước tính. Xem IAS 37.",
+        "distractors": [
+          null,
+          "Sai — provision không phải tiền để riêng ở ngân hàng, đó là số dư kế toán.",
+          "Sai — khoản đã có hóa đơn của nhà cung cấp là trade payable, không phải provision.",
+          "Sai — chiết khấu cho khách hàng là discount."
+        ]
+      },
+      "en": {
+        "question": "What is a “provision” in accounting?",
+        "options": [
+          "A liability of uncertain timing or amount",
+          "A cash reserve held at the bank",
+          "An amount already invoiced by a supplier",
+          "A discount granted to a customer"
+        ],
+        "explanation": "A provision is a liability of uncertain timing or amount — a warranty or restructuring provision, for example. It differs from an accrual: an accrual is reasonably certain in amount and only lacks an invoice, whereas a provision must be estimated. See IAS 37.",
+        "distractors": [
+          null,
+          "Wrong — a provision is an accounting balance, not cash set aside.",
+          "Wrong — an invoiced amount is a trade payable.",
+          "Wrong — that describes a discount."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-008",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["write-off"],
+      "vi": {
+        "question": "“To write off a bad debt” nghĩa là gì?",
+        "options": [
+          "To send the customer a reminder letter",
+          "To sell the outstanding debt to an external debt collection agency at a discounted price",
+          "To remove an uncollectible receivable from the books and charge it to expense",
+          "To extend the customer’s payment terms"
+        ],
+        "explanation": "Write off a bad debt (xóa sổ nợ khó đòi) là loại bỏ khoản phải thu không còn khả năng thu hồi khỏi sổ sách và ghi vào chi phí. Bút toán: Debit bad debt expense / Credit trade receivables. Cần phân biệt với allowance for doubtful debts — là ước tính dự phòng, chưa xóa sổ.",
+        "distractors": [
+          "Sai — gửi thư nhắc nợ là dunning hoặc sending a reminder.",
+          "Sai — bán nợ cho công ty thu hồi là debt factoring hoặc debt sale.",
+          null,
+          "Sai — gia hạn thời gian thanh toán là extending payment terms."
+        ]
+      },
+      "en": {
+        "question": "What does “to write off a bad debt” mean?",
+        "options": [
+          "To send the customer a reminder letter",
+          "To sell the outstanding debt to an external debt collection agency at a discounted price",
+          "To remove an uncollectible receivable from the books and charge it to expense",
+          "To extend the customer’s payment terms"
+        ],
+        "explanation": "Writing off a bad debt removes an irrecoverable receivable from the books and charges it to expense: Debit bad debt expense / Credit trade receivables. Distinguish it from an allowance for doubtful debts, which is an estimate and does not remove the balance.",
+        "distractors": [
+          "Wrong — that is dunning or sending a reminder.",
+          "Wrong — that is debt factoring or a debt sale.",
+          null,
+          "Wrong — that is extending payment terms."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-009",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["debit-credit"],
+      "vi": {
+        "question": "Bút toán nào ghi nhận việc bán hàng thu tiền ngay 100 triệu đồng (chưa xét thuế GTGT)?",
+        "options": [
+          "Debit Revenue 100m / Credit Cash 100m",
+          "Debit Cash 100m / Credit Revenue 100m",
+          "Debit Cash 100m / Credit Trade receivables 100m",
+          "Debit Trade receivables 100m / Credit Revenue 100m"
+        ],
+        "explanation": "Bán hàng thu tiền ngay làm tiền tăng (ghi Nợ) và doanh thu tăng (ghi Có): Debit Cash / Credit Revenue. Đáp án D là bán chịu (chưa thu tiền), đáp án C là thu tiền của khoản phải thu đã ghi trước đó — hai tình huống khác hẳn.",
+        "distractors": [
+          "Sai — đảo ngược hoàn toàn; doanh thu tăng phải ghi Có, tiền tăng phải ghi Nợ.",
+          null,
+          "Sai — đây là bút toán thu nợ khách hàng, không phải bán hàng mới.",
+          "Sai — đây là bán chịu, tiền chưa về nên ghi phải thu thay vì tiền."
+        ]
+      },
+      "en": {
+        "question": "Which entry records a cash sale of VND 100 million (ignoring VAT)?",
+        "options": [
+          "Debit Revenue 100m / Credit Cash 100m",
+          "Debit Cash 100m / Credit Revenue 100m",
+          "Debit Cash 100m / Credit Trade receivables 100m",
+          "Debit Trade receivables 100m / Credit Revenue 100m"
+        ],
+        "explanation": "A cash sale increases cash (debit) and increases revenue (credit): Debit Cash / Credit Revenue. Option D is a credit sale, and option C is the later collection of a receivable — quite different situations.",
+        "distractors": [
+          "Wrong — fully reversed; revenue is credited and cash is debited.",
+          null,
+          "Wrong — that records collection of an existing receivable, not a new sale.",
+          "Wrong — that is a credit sale, where no cash has been received."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-010",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["general-ledger"],
+      "vi": {
+        "question": "“General ledger” (GL) là gì?",
+        "options": [
+          "The complete set of accounts that supports the financial statements",
+          "A list of unpaid customer invoices",
+          "The record of physical stock counts",
+          "The company’s bank statement"
+        ],
+        "explanation": "General ledger (sổ cái tổng hợp) chứa toàn bộ tài khoản của doanh nghiệp và là nguồn để lập báo cáo tài chính. Các sổ chi tiết (subsidiary ledgers) như sổ chi tiết công nợ phải thu, phải trả phải khớp với tài khoản tổng hợp tương ứng trên GL — gọi là control account reconciliation.",
+        "distractors": [
+          null,
+          "Sai — danh sách hóa đơn chưa thu là accounts receivable ageing hoặc AR subledger.",
+          "Sai — ghi chép kiểm kê hiện vật là stock count sheet.",
+          "Sai — sao kê ngân hàng là bank statement, do ngân hàng phát hành."
+        ]
+      },
+      "en": {
+        "question": "What is the general ledger (GL)?",
+        "options": [
+          "The complete set of accounts that supports the financial statements",
+          "A list of unpaid customer invoices",
+          "The record of physical stock counts",
+          "The company’s bank statement"
+        ],
+        "explanation": "The general ledger holds every account of the entity and is the source for the financial statements. Subsidiary ledgers — receivables and payables, for example — must agree with the matching control account in the GL, which is what a control account reconciliation checks.",
+        "distractors": [
+          null,
+          "Wrong — that is the AR ageing or receivables subledger.",
+          "Wrong — that is a stock count sheet.",
+          "Wrong — a bank statement is issued by the bank."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-011",
+      "topic": "a3-double-entry",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": ["errors"],
+      "vi": {
+        "question": "Loại sai sót nào KHÔNG làm cho trial balance mất cân đối?",
+        "options": [
+          "Posting a debit of 500 but a credit of 5,000",
+          "Recording only the debit side of a transaction",
+          "Adding up a ledger account incorrectly",
+          "Debiting the wrong expense account for the correct amount"
+        ],
+        "explanation": "Ghi Nợ nhầm tài khoản chi phí nhưng đúng số tiền vẫn giữ tổng Nợ bằng tổng Có, nên trial balance vẫn cân — đây gọi là error of commission hoặc error of principle. Đó là lý do trial balance cân không đồng nghĩa sổ sách đúng, và vì sao vẫn cần đối chiếu sổ chi tiết và soát xét.",
+        "distractors": [
+          "Sai — số tiền hai bên khác nhau chắc chắn làm lệch cân đối.",
+          "Sai — ghi thiếu một vế làm mất cân đối ngay.",
+          "Sai — cộng sai số dư một tài khoản làm tổng hai bên lệch nhau.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which type of error will NOT cause the trial balance to disagree?",
+        "options": [
+          "Posting a debit of 500 but a credit of 5,000",
+          "Recording only the debit side of a transaction",
+          "Adding up a ledger account incorrectly",
+          "Debiting the wrong expense account for the correct amount"
+        ],
+        "explanation": "Debiting the wrong expense account for the right amount keeps total debits equal to total credits, so the trial balance still balances — an error of commission or of principle. This is why a balanced trial balance does not prove correctness, and why subledger reconciliations and review still matter.",
+        "distractors": [
+          "Wrong — unequal amounts break the balance immediately.",
+          "Wrong — a one-sided entry breaks the balance.",
+          "Wrong — a casting error makes the two totals differ.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-012",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["closing-entries"],
+      "vi": {
+        "question": "“Closing entries” cuối kỳ có tác dụng gì?",
+        "options": [
+          "They close the company’s bank accounts",
+          "They lock the accounting software so no one can log in",
+          "They transfer income and expense balances to retained earnings, resetting them to zero",
+          "They write off all outstanding customer receivables still remaining at the reporting date"
+        ],
+        "explanation": "Closing entries (bút toán kết chuyển cuối kỳ) chuyển số dư các tài khoản doanh thu và chi phí sang lợi nhuận chưa phân phối, đưa các tài khoản này về 0 để bắt đầu kỳ mới. Trong hệ thống tài khoản Việt Nam, đây là các bút toán kết chuyển qua TK 911 rồi sang TK 421.",
+        "distractors": [
+          "Sai — không liên quan tới việc đóng tài khoản ngân hàng.",
+          "Sai — khóa sổ phần mềm là period lock, một thao tác kiểm soát khác.",
+          null,
+          "Sai — xóa sổ nợ phải thu là write-off, chỉ làm với khoản không thu hồi được."
+        ]
+      },
+      "en": {
+        "question": "What do closing entries do at the end of a period?",
+        "options": [
+          "They close the company’s bank accounts",
+          "They lock the accounting software so no one can log in",
+          "They transfer income and expense balances to retained earnings, resetting them to zero",
+          "They write off all outstanding customer receivables still remaining at the reporting date"
+        ],
+        "explanation": "Closing entries move income and expense balances into retained earnings, resetting those accounts to zero for the new period. In the Vietnamese chart of accounts these are the transfers through Account 911 and then to Account 421.",
+        "distractors": [
+          "Wrong — nothing to do with bank accounts.",
+          "Wrong — locking the software is a period lock, a different control.",
+          null,
+          "Wrong — writing off receivables applies only to irrecoverable balances."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-013",
+      "topic": "a3-double-entry",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["opening-balance"],
+      "vi": {
+        "question": "“Opening balance” và “closing balance” lần lượt tương ứng với thuật ngữ tiếng Việt nào?",
+        "options": [
+          "Số phát sinh Nợ và số phát sinh Có",
+          "Số dư đầu kỳ và số dư cuối kỳ",
+          "Doanh thu và chi phí",
+          "Tài sản và nguồn vốn"
+        ],
+        "explanation": "Opening balance = số dư đầu kỳ, closing balance = số dư cuối kỳ. Bộ từ vựng đi kèm rất hay dùng khi đối chiếu: opening balance + movements in the period = closing balance. Số phát sinh trong kỳ tiếng Anh là movements hoặc transactions during the period.",
+        "distractors": [
+          "Sai — số phát sinh Nợ/Có là debit/credit movements.",
+          null,
+          "Sai — doanh thu và chi phí là revenue and expenses.",
+          "Sai — tài sản và nguồn vốn là assets and sources of funds."
+        ]
+      },
+      "en": {
+        "question": "Which Vietnamese terms correspond to “opening balance” and “closing balance”?",
+        "options": [
+          "Số phát sinh Nợ và số phát sinh Có",
+          "Số dư đầu kỳ và số dư cuối kỳ",
+          "Doanh thu và chi phí",
+          "Tài sản và nguồn vốn"
+        ],
+        "explanation": "Opening balance = “số dư đầu kỳ”, closing balance = “số dư cuối kỳ”. The formula you will use constantly in reconciliations: opening balance + movements in the period = closing balance.",
+        "distractors": [
+          "Wrong — those are debit and credit movements.",
+          null,
+          "Wrong — those mean revenue and expenses.",
+          "Wrong — those mean assets and sources of funds."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-014",
+      "topic": "a3-double-entry",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["suspense-account"],
+      "vi": {
+        "question": "“Suspense account” được dùng khi nào?",
+        "options": [
+          "As a temporary holding account for an entry whose correct treatment is not yet known",
+          "As a permanent account for long-term investments",
+          "As the account where dividends are recorded",
+          "As a savings account for employee bonuses"
+        ],
+        "explanation": "Suspense account (tài khoản chờ xử lý) là nơi tạm giữ những khoản chưa xác định được cách hạch toán đúng, hoặc để cân trial balance khi phát hiện chênh lệch chưa rõ nguyên nhân. Nguyên tắc: phải được làm sạch về 0 trước khi khóa sổ — số dư suspense tồn tại lâu là dấu hiệu kiểm soát yếu.",
+        "distractors": [
+          null,
+          "Sai — đầu tư dài hạn có tài khoản riêng, không dùng suspense.",
+          "Sai — cổ tức được ghi vào tài khoản phân phối lợi nhuận.",
+          "Sai — thưởng nhân viên nằm trong chi phí nhân công và quỹ khen thưởng."
+        ]
+      },
+      "en": {
+        "question": "When is a suspense account used?",
+        "options": [
+          "As a temporary holding account for an entry whose correct treatment is not yet known",
+          "As a permanent account for long-term investments",
+          "As the account where dividends are recorded",
+          "As a savings account for employee bonuses"
+        ],
+        "explanation": "A suspense account temporarily holds items whose correct treatment is not yet determined, or balances the trial balance while an unexplained difference is investigated. Rule of thumb: it must be cleared to zero before closing — a lingering suspense balance signals weak control.",
+        "distractors": [
+          null,
+          "Wrong — long-term investments have their own accounts.",
+          "Wrong — dividends go to profit distribution accounts.",
+          "Wrong — bonuses sit in staff costs and reward funds."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A3-015",
+      "topic": "a3-double-entry",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["debit-credit", "analysis"],
+      "vi": {
+        "question": "Tài khoản “Accumulated depreciation” có bản chất số dư như thế nào?",
+        "options": [
+          "A liability with a credit balance, settled in cash when the asset is disposed of",
+          "An expense with a debit balance that is closed to profit or loss each period",
+          "A contra-asset with a credit balance, presented as a deduction from the asset",
+          "An equity account with a debit balance that reduces distributable reserves"
+        ],
+        "explanation": "Accumulated depreciation (hao mòn lũy kế, TK 214) là contra-asset account: bản thân nó có số dư bên Có nhưng được trình bày như một khoản giảm trừ của tài sản, không phải nợ phải trả. Nguyên giá trừ hao mòn lũy kế cho ra giá trị còn lại (net book value). Đừng nhầm với depreciation expense — đó là chi phí của riêng kỳ.",
+        "distractors": [
+          "Sai — nó không phải nghĩa vụ phải trả cho bất kỳ ai nên không phải liability.",
+          "Sai — chi phí khấu hao của kỳ mới là expense; hao mòn lũy kế là số lũy kế trên bảng cân đối.",
+          null,
+          "Sai — không thuộc vốn chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "What is the nature of the “accumulated depreciation” account?",
+        "options": [
+          "A liability with a credit balance, settled in cash when the asset is disposed of",
+          "An expense with a debit balance that is closed to profit or loss each period",
+          "A contra-asset with a credit balance, presented as a deduction from the asset",
+          "An equity account with a debit balance that reduces distributable reserves"
+        ],
+        "explanation": "Accumulated depreciation (Account 214) is a contra-asset: it carries a credit balance but is presented as a deduction from the related asset, not as a liability. Cost less accumulated depreciation gives net book value. Do not confuse it with depreciation expense, which is the charge for a single period.",
+        "distractors": [
+          "Wrong — it is owed to nobody, so it is not a liability.",
+          "Wrong — the period charge is the expense; accumulated depreciation is a balance sheet total.",
+          null,
+          "Wrong — it is not part of equity."
+        ]
+      }
+    }
+  ]
+}

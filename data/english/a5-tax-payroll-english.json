@@ -1,0 +1,473 @@
+{
+  "topic": "a5-tax-payroll-english",
+  "questions": [
+    {
+      "id": "ENG-A5-001",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["vat"],
+      "vi": {
+        "question": "“Output VAT” và “input VAT” lần lượt tương ứng với thuật ngữ tiếng Việt nào?",
+        "options": [
+          "Thuế GTGT đầu vào và thuế GTGT đầu ra",
+          "Thuế GTGT đầu ra và thuế GTGT đầu vào",
+          "Thuế xuất khẩu và thuế nhập khẩu",
+          "Thuế nộp thừa và thuế nộp thiếu"
+        ],
+        "explanation": "Output VAT = thuế GTGT đầu ra (thu của khách hàng khi bán hàng); input VAT = thuế GTGT đầu vào (trả cho nhà cung cấp khi mua hàng). Số phải nộp = output VAT − input VAT được khấu trừ. Mẹo nhớ: output là hàng đi RA khỏi doanh nghiệp, input là hàng đi VÀO.",
+        "distractors": [
+          "Sai — hai vế bị đảo ngược.",
+          null,
+          "Sai — thuế xuất nhập khẩu là export duty và import duty.",
+          "Sai — nộp thừa/thiếu là overpayment và underpayment."
+        ]
+      },
+      "en": {
+        "question": "Which Vietnamese terms match “output VAT” and “input VAT” respectively?",
+        "options": [
+          "Thuế GTGT đầu vào và thuế GTGT đầu ra",
+          "Thuế GTGT đầu ra và thuế GTGT đầu vào",
+          "Thuế xuất khẩu và thuế nhập khẩu",
+          "Thuế nộp thừa và thuế nộp thiếu"
+        ],
+        "explanation": "Output VAT is charged to customers on sales; input VAT is paid to suppliers on purchases. VAT payable = output VAT − deductible input VAT. Memory hook: output goes OUT of the business, input comes IN.",
+        "distractors": [
+          "Wrong — the two are swapped.",
+          null,
+          "Wrong — those are export and import duties.",
+          "Wrong — those are overpayment and underpayment."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-002",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["deductible"],
+      "vi": {
+        "question": "Một khoản chi phí “non-deductible” nghĩa là gì?",
+        "options": [
+          "It cannot be paid in cash",
+          "It is not recorded in the accounting books",
+          "It must be paid by the employee, not the company",
+          "It cannot be subtracted from taxable income when calculating corporate income tax"
+        ],
+        "explanation": "Non-deductible expense (chi phí không được trừ) vẫn được ghi nhận bình thường trong sổ kế toán, nhưng không được trừ khi tính thu nhập chịu thuế TNDN. Ví dụ điển hình: tiền phạt vi phạm hành chính, chi không có hóa đơn chứng từ hợp lệ. Đây là điểm khác biệt giữa lợi nhuận kế toán và thu nhập tính thuế.",
+        "distractors": [
+          "Sai — không liên quan tới phương thức thanh toán bằng tiền mặt hay chuyển khoản.",
+          "Sai — chi phí không được trừ vẫn phải ghi vào sổ kế toán đầy đủ.",
+          "Sai — không liên quan tới việc ai là người chi trả.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does a “non-deductible” expense mean?",
+        "options": [
+          "It cannot be paid in cash",
+          "It is not recorded in the accounting books",
+          "It must be paid by the employee, not the company",
+          "It cannot be subtracted from taxable income when calculating corporate income tax"
+        ],
+        "explanation": "A non-deductible expense is still recorded normally in the books but cannot be deducted in computing taxable profit. Classic examples: administrative fines and costs lacking valid supporting documents. This is where accounting profit and taxable income diverge.",
+        "distractors": [
+          "Wrong — it has nothing to do with the payment method.",
+          "Wrong — non-deductible costs are still fully recorded in the books.",
+          "Wrong — it does not depend on who pays.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-003",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["withholding-tax"],
+      "vi": {
+        "question": "“Withholding tax” hoạt động như thế nào?",
+        "options": [
+          "The payer deducts tax from a payment and remits it to the tax authority on the recipient’s behalf",
+          "The recipient pays the tax directly to the authority and later claims the amount back from the payer",
+          "The tax is postponed until the end of the financial year",
+          "The tax is waived for foreign contractors"
+        ],
+        "explanation": "Withholding tax (thuế khấu trừ tại nguồn) là cơ chế bên chi trả giữ lại một phần tiền thanh toán và nộp thay cho bên nhận. Ở Việt Nam thường gặp: khấu trừ 10% thuế TNCN với thu nhập vãng lai từ 2 triệu đồng/lần, và thuế nhà thầu nước ngoài (foreign contractor tax).",
+        "distractors": [
+          null,
+          "Sai — bản chất của cơ chế này là bên chi trả nộp thay, không phải bên nhận tự nộp rồi đòi lại.",
+          "Sai — thuế được nộp ngay tại thời điểm chi trả, không hoãn tới cuối năm.",
+          "Sai — nhà thầu nước ngoài không được miễn; ngược lại còn có sắc thuế nhà thầu riêng."
+        ]
+      },
+      "en": {
+        "question": "How does withholding tax work?",
+        "options": [
+          "The payer deducts tax from a payment and remits it to the tax authority on the recipient’s behalf",
+          "The recipient pays the tax directly to the authority and later claims the amount back from the payer",
+          "The tax is postponed until the end of the financial year",
+          "The tax is waived for foreign contractors"
+        ],
+        "explanation": "Withholding tax means the payer retains part of the payment and remits it for the recipient. Common Vietnamese cases: 10% PIT withheld on casual income of VND 2 million or more per payment, and foreign contractor tax.",
+        "distractors": [
+          null,
+          "Wrong — the mechanism is that the payer remits, not the recipient reclaiming.",
+          "Wrong — the tax is paid at the time of payment, not deferred to year end.",
+          "Wrong — foreign contractors are not exempt; there is a dedicated contractor tax."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-004",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["gross-net"],
+      "vi": {
+        "question": "“Gross salary” và “net salary” khác nhau ở điểm nào?",
+        "options": [
+          "Gross salary is paid monthly; net salary is paid annually",
+          "Gross salary applies to managers; net salary applies to staff",
+          "Gross salary is before deductions; net salary is the amount actually received after tax and insurance",
+          "They are two names for the same amount"
+        ],
+        "explanation": "Gross salary (lương gộp) là mức lương trước khi trừ thuế TNCN và các khoản bảo hiểm bắt buộc. Net salary (lương thực nhận, hay “take-home pay”) là số tiền người lao động thực sự nhận về. Trong hợp đồng lao động phải ghi rõ là gross hay net vì nghĩa vụ thuế khác nhau đáng kể.",
+        "distractors": [
+          "Sai — không liên quan tới tần suất chi trả.",
+          "Sai — không liên quan tới chức danh hay cấp bậc.",
+          null,
+          "Sai — hai con số này luôn khác nhau khi có phát sinh thuế và bảo hiểm."
+        ]
+      },
+      "en": {
+        "question": "What is the difference between gross salary and net salary?",
+        "options": [
+          "Gross salary is paid monthly; net salary is paid annually",
+          "Gross salary applies to managers; net salary applies to staff",
+          "Gross salary is before deductions; net salary is the amount actually received after tax and insurance",
+          "They are two names for the same amount"
+        ],
+        "explanation": "Gross salary is the figure before personal income tax and compulsory insurance; net salary (take-home pay) is what the employee actually receives. Employment contracts must state which basis applies, because the tax cost differs materially.",
+        "distractors": [
+          "Wrong — payment frequency is irrelevant.",
+          "Wrong — job level is irrelevant.",
+          null,
+          "Wrong — the two differ whenever tax and insurance apply."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-005",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["gross-up"],
+      "vi": {
+        "question": "Trong bảng lương, “to gross up” một khoản lương net nghĩa là gì?",
+        "options": [
+          "To increase everyone’s salary by the same percentage",
+          "To calculate the gross amount that produces an agreed net amount after tax and insurance",
+          "To pay the salary in a foreign currency",
+          "To combine salary and bonus into one payment"
+        ],
+        "explanation": "Gross up (quy đổi lương net sang gross) là tính ngược ra mức lương gộp sao cho sau khi trừ thuế TNCN và bảo hiểm, người lao động nhận đúng số net đã cam kết. Rất phổ biến ở công ty nước ngoài khi hợp đồng ghi lương net — kế toán phải tự tính phần thuế mà công ty gánh.",
+        "distractors": [
+          "Sai — tăng lương đồng loạt là a general pay rise hoặc across-the-board increase.",
+          null,
+          "Sai — trả lương bằng ngoại tệ là paying in foreign currency.",
+          "Sai — gộp lương và thưởng là combining salary and bonus."
+        ]
+      },
+      "en": {
+        "question": "In payroll, what does it mean “to gross up” a net salary?",
+        "options": [
+          "To increase everyone’s salary by the same percentage",
+          "To calculate the gross amount that produces an agreed net amount after tax and insurance",
+          "To pay the salary in a foreign currency",
+          "To combine salary and bonus into one payment"
+        ],
+        "explanation": "Grossing up works backwards from an agreed net figure to the gross salary that, after PIT and insurance, leaves exactly that net. It is common in foreign-invested companies with net-based contracts, where the employer effectively bears the tax.",
+        "distractors": [
+          "Wrong — that is an across-the-board pay rise.",
+          null,
+          "Wrong — that is simply paying in foreign currency.",
+          "Wrong — that is combining salary and bonus."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-006",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["tax-finalisation"],
+      "vi": {
+        "question": "“Tax finalisation” trong bối cảnh thuế Việt Nam nghĩa là gì?",
+        "options": [
+          "Paying tax in advance at the start of the year",
+          "Closing the company’s tax code permanently",
+          "Negotiating a reduced tax rate with the authority based on the company’s investment commitments",
+          "Preparing the annual return that reconciles tax provisionally paid with tax actually due"
+        ],
+        "explanation": "Tax finalisation (quyết toán thuế) là việc lập tờ khai quyết toán cuối năm, đối chiếu số thuế đã tạm nộp trong năm với số thuế thực tế phải nộp, để xác định phần nộp thêm hoặc nộp thừa. Áp dụng cho cả thuế TNDN và thuế TNCN.",
+        "distractors": [
+          "Sai — nộp trước là provisional payment hoặc tạm nộp.",
+          "Sai — đóng mã số thuế là tax code closure hoặc deregistration.",
+          "Sai — không tồn tại cơ chế đàm phán thuế suất với cơ quan thuế.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does “tax finalisation” mean in the Vietnamese tax context?",
+        "options": [
+          "Paying tax in advance at the start of the year",
+          "Closing the company’s tax code permanently",
+          "Negotiating a reduced tax rate with the authority based on the company’s investment commitments",
+          "Preparing the annual return that reconciles tax provisionally paid with tax actually due"
+        ],
+        "explanation": "Tax finalisation (“quyết toán thuế”) is the year-end return reconciling provisional payments against the tax actually due, producing either an additional payment or an overpayment. It applies to both CIT and PIT.",
+        "distractors": [
+          "Wrong — that is provisional payment.",
+          "Wrong — that is tax code deregistration.",
+          "Wrong — tax rates are not negotiable with the authority.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-007",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["pit"],
+      "vi": {
+        "question": "Viết tắt “PIT” và “CIT” trong tiếng Anh kế toán Việt Nam là gì?",
+        "options": [
+          "Personal Income Tax and Corporate Income Tax",
+          "Provisional Income Tax and Capital Income Tax",
+          "Payroll Insurance Tax and Company Insurance Tax",
+          "Partial Income Tax and Consolidated Income Tax"
+        ],
+        "explanation": "PIT = Personal Income Tax (thuế thu nhập cá nhân), CIT = Corporate Income Tax (thuế thu nhập doanh nghiệp). Cùng với VAT (Value Added Tax — thuế giá trị gia tăng), đây là ba sắc thuế được nhắc tới nhiều nhất trong công việc kế toán dịch vụ.",
+        "distractors": [
+          null,
+          "Sai — không có sắc thuế nào tên như vậy trong hệ thống thuế Việt Nam.",
+          "Sai — bảo hiểm không phải là thuế và không dùng hai chữ viết tắt này.",
+          "Sai — đây không phải cách viết tắt chuẩn."
+        ]
+      },
+      "en": {
+        "question": "What do the abbreviations “PIT” and “CIT” stand for in Vietnamese accounting English?",
+        "options": [
+          "Personal Income Tax and Corporate Income Tax",
+          "Provisional Income Tax and Capital Income Tax",
+          "Payroll Insurance Tax and Company Insurance Tax",
+          "Partial Income Tax and Consolidated Income Tax"
+        ],
+        "explanation": "PIT is Personal Income Tax and CIT is Corporate Income Tax. Together with VAT (Value Added Tax) these are the three taxes you will discuss most often in outsourced accounting work.",
+        "distractors": [
+          null,
+          "Wrong — no such taxes exist in the Vietnamese system.",
+          "Wrong — insurance is not a tax and does not use these abbreviations.",
+          "Wrong — these are not standard abbreviations."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-008",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["payroll"],
+      "vi": {
+        "question": "“Payroll” bao gồm những nội dung nào?",
+        "options": [
+          "Only the transfer of salaries to employees’ bank accounts",
+          "Only the calculation of personal income tax",
+          "The whole process of calculating pay, deductions, insurance and tax, and paying employees",
+          "The list of company shareholders, their shareholdings and the dividends declared to each of them"
+        ],
+        "explanation": "Payroll (tiền lương và các khoản trích theo lương) là toàn bộ quy trình: tính lương, các khoản phụ cấp, các khoản khấu trừ, bảo hiểm bắt buộc, thuế TNCN và chi trả cho người lao động. Trong công ty dịch vụ, payroll thường là một dịch vụ riêng bên cạnh bookkeeping.",
+        "distractors": [
+          "Sai — chuyển khoản chỉ là bước cuối cùng của cả quy trình.",
+          "Sai — tính thuế TNCN chỉ là một phần trong payroll.",
+          null,
+          "Sai — danh sách cổ đông và cổ tức thuộc quản trị doanh nghiệp, không phải payroll."
+        ]
+      },
+      "en": {
+        "question": "What does “payroll” cover?",
+        "options": [
+          "Only the transfer of salaries to employees’ bank accounts",
+          "Only the calculation of personal income tax",
+          "The whole process of calculating pay, deductions, insurance and tax, and paying employees",
+          "The list of company shareholders, their shareholdings and the dividends declared to each of them"
+        ],
+        "explanation": "Payroll covers the entire process: computing pay and allowances, deductions, compulsory insurance and PIT, then paying employees. In an outsourcing firm, payroll is usually a distinct service line alongside bookkeeping.",
+        "distractors": [
+          "Wrong — the bank transfer is only the final step.",
+          "Wrong — PIT calculation is only one part of payroll.",
+          null,
+          "Wrong — shareholder registers and dividends belong to corporate secretarial work."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-009",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["social-insurance"],
+      "vi": {
+        "question": "“Compulsory social insurance contributions” trong tiếng Việt là gì?",
+        "options": [
+          "Bảo hiểm nhân thọ tự nguyện",
+          "Các khoản đóng bảo hiểm xã hội bắt buộc",
+          "Phí công đoàn tự nguyện của người lao động",
+          "Khoản đầu tư vào quỹ hưu trí tư nhân"
+        ],
+        "explanation": "Compulsory social insurance contributions = các khoản đóng bảo hiểm xã hội bắt buộc. Bộ ba thường đi cùng nhau khi làm việc với head office: social insurance (BHXH), health insurance (BHYT), unemployment insurance (BHTN); ngoài ra còn trade union fee (kinh phí công đoàn).",
+        "distractors": [
+          "Sai — bảo hiểm nhân thọ tự nguyện là voluntary life insurance.",
+          null,
+          "Sai — kinh phí công đoàn là trade union fee và do doanh nghiệp đóng bắt buộc.",
+          "Sai — quỹ hưu trí tư nhân là private pension fund, mang tính tự nguyện."
+        ]
+      },
+      "en": {
+        "question": "What is the Vietnamese term for “compulsory social insurance contributions”?",
+        "options": [
+          "Bảo hiểm nhân thọ tự nguyện",
+          "Các khoản đóng bảo hiểm xã hội bắt buộc",
+          "Phí công đoàn tự nguyện của người lao động",
+          "Khoản đầu tư vào quỹ hưu trí tư nhân"
+        ],
+        "explanation": "These are the “các khoản đóng bảo hiểm xã hội bắt buộc”. The trio you will quote to head office: social insurance (BHXH), health insurance (BHYT) and unemployment insurance (BHTN), plus the trade union fee (KPCĐ).",
+        "distractors": [
+          "Wrong — that is voluntary life insurance.",
+          null,
+          "Wrong — the trade union fee is compulsory for the employer.",
+          "Wrong — a private pension fund is voluntary."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-010",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["vat-refund"],
+      "vi": {
+        "question": "“VAT refund” khác với “VAT credit” như thế nào?",
+        "options": [
+          "They are exactly the same thing",
+          "A refund reduces next month’s tax; a credit returns cash to the company",
+          "A refund applies only to exporting enterprises, while a credit applies only to importing enterprises",
+          "A credit offsets input VAT against output VAT; a refund returns cash from the tax authority"
+        ],
+        "explanation": "VAT credit (khấu trừ thuế GTGT) là bù trừ thuế đầu vào với thuế đầu ra trong kỳ. VAT refund (hoàn thuế GTGT) là cơ quan thuế trả lại tiền khi có số đầu vào chưa khấu trừ hết đủ điều kiện hoàn. Đây là hai khái niệm hoàn toàn khác nhau và rất hay bị nhầm.",
+        "distractors": [
+          "Sai — hai khái niệm khác nhau về bản chất và thủ tục.",
+          "Sai — hai vế bị đảo ngược.",
+          "Sai — không phải phân biệt theo đối tượng xuất khẩu hay nhập khẩu.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How does a “VAT refund” differ from a “VAT credit”?",
+        "options": [
+          "They are exactly the same thing",
+          "A refund reduces next month’s tax; a credit returns cash to the company",
+          "A refund applies only to exporting enterprises, while a credit applies only to importing enterprises",
+          "A credit offsets input VAT against output VAT; a refund returns cash from the tax authority"
+        ],
+        "explanation": "A VAT credit offsets input VAT against output VAT within the period. A VAT refund is cash paid back by the tax authority when unrelieved input VAT meets the refund conditions. Two quite different concepts that are frequently mixed up.",
+        "distractors": [
+          "Wrong — they differ in substance and in procedure.",
+          "Wrong — the two descriptions are swapped.",
+          "Wrong — the distinction is not exporter versus importer.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-011",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["dependant-relief"],
+      "vi": {
+        "question": "“Dependant relief” trong thuế thu nhập cá nhân nghĩa là gì?",
+        "options": [
+          "A bonus paid to employees with children",
+          "Free healthcare provided by the employer",
+          "A deduction from taxable income for each qualifying dependant",
+          "A government subsidy paid directly to families"
+        ],
+        "explanation": "Dependant relief = giảm trừ gia cảnh cho người phụ thuộc, làm giảm thu nhập tính thuế TNCN. Từ kỳ tính thuế 2026, mức giảm trừ là 6,2 triệu đồng/tháng cho mỗi người phụ thuộc và 15,5 triệu đồng/tháng cho bản thân người nộp thuế, theo Nghị quyết 110/2025/UBTVQH15.",
+        "distractors": [
+          "Sai — đây không phải khoản thưởng do doanh nghiệp chi trả.",
+          "Sai — chăm sóc y tế miễn phí là phúc lợi, không phải cơ chế giảm trừ thuế.",
+          null,
+          "Sai — không phải trợ cấp từ ngân sách trả cho gia đình."
+        ]
+      },
+      "en": {
+        "question": "What does “dependant relief” mean in personal income tax?",
+        "options": [
+          "A bonus paid to employees with children",
+          "Free healthcare provided by the employer",
+          "A deduction from taxable income for each qualifying dependant",
+          "A government subsidy paid directly to families"
+        ],
+        "explanation": "Dependant relief is a deduction from taxable income for each qualifying dependant. From tax year 2026 the relief is VND 6.2 million per dependant per month and VND 15.5 million per month for the taxpayer, under Resolution 110/2025/UBTVQH15.",
+        "distractors": [
+          "Wrong — it is not an employer bonus.",
+          "Wrong — free healthcare is a benefit, not a tax deduction mechanism.",
+          null,
+          "Wrong — it is not a state subsidy paid to families."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A5-012",
+      "topic": "a5-tax-payroll-english",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": ["tax-base"],
+      "vi": {
+        "question": "Trong câu “The tax base for CIT is accounting profit adjusted for non-deductible items”, cụm “tax base” nghĩa là gì?",
+        "options": [
+          "The amount on which the tax is calculated",
+          "The office where tax returns are submitted",
+          "The minimum tax that must always be paid",
+          "The tax rate applied to income"
+        ],
+        "explanation": "Tax base (cơ sở tính thuế) là giá trị làm căn cứ để nhân với thuế suất ra số thuế phải nộp. Với thuế TNDN, cơ sở tính thuế là thu nhập tính thuế — lợi nhuận kế toán đã điều chỉnh các khoản chi không được trừ và thu nhập được miễn. Đừng nhầm tax base với tax rate (thuế suất).",
+        "distractors": [
+          null,
+          "Sai — nơi nộp tờ khai là tax office hoặc tax authority.",
+          "Sai — mức thuế tối thiểu là minimum tax, khái niệm khác.",
+          "Sai — thuế suất là tax rate; tax base là số bị nhân với thuế suất."
+        ]
+      },
+      "en": {
+        "question": "In the sentence “The tax base for CIT is accounting profit adjusted for non-deductible items”, what does “tax base” mean?",
+        "options": [
+          "The amount on which the tax is calculated",
+          "The office where tax returns are submitted",
+          "The minimum tax that must always be paid",
+          "The tax rate applied to income"
+        ],
+        "explanation": "The tax base is the amount multiplied by the tax rate to give the tax due. For CIT it is taxable income — accounting profit adjusted for non-deductible expenses and exempt income. Do not confuse tax base with tax rate.",
+        "distractors": [
+          null,
+          "Wrong — that is the tax office or tax authority.",
+          "Wrong — that would be a minimum tax, a different concept.",
+          "Wrong — the rate is the multiplier; the base is what it multiplies."
+        ]
+      }
+    }
+  ]
+}

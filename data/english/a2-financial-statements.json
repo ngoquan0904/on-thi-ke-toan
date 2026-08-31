@@ -1,0 +1,590 @@
+{
+  "topic": "a2-financial-statements",
+  "questions": [
+    {
+      "id": "ENG-A2-001",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["balance-sheet"],
+      "vi": {
+        "question": "Báo cáo tài chính nào trình bày tình hình tài chính của doanh nghiệp tại MỘT THỜI ĐIỂM nhất định?",
+        "options": [
+          "The income statement",
+          "The statement of cash flows",
+          "The balance sheet (statement of financial position)",
+          "The statement of changes in equity"
+        ],
+        "explanation": "Balance sheet — theo IAS 1 và Thông tư 99/2025 gọi là statement of financial position (Báo cáo tình hình tài chính) — là ảnh chụp tại một thời điểm (as at a date). Các báo cáo còn lại phản ánh biến động trong một khoảng thời gian (for the period).",
+        "distractors": [
+          "Sai — income statement phản ánh kết quả trong một kỳ, không phải một thời điểm.",
+          "Sai — statement of cash flows phản ánh dòng tiền trong một kỳ.",
+          null,
+          "Sai — statement of changes in equity phản ánh biến động vốn chủ trong một kỳ."
+        ]
+      },
+      "en": {
+        "question": "Which financial statement shows the entity’s position at a SINGLE POINT IN TIME?",
+        "options": [
+          "The income statement",
+          "The statement of cash flows",
+          "The balance sheet (statement of financial position)",
+          "The statement of changes in equity"
+        ],
+        "explanation": "The balance sheet — called the statement of financial position under IAS 1 and now under Circular 99/2025 — is a snapshot “as at” a date. The other statements cover movements “for the period”.",
+        "distractors": [
+          "Wrong — the income statement covers a period, not a point in time.",
+          "Wrong — the cash flow statement covers a period.",
+          null,
+          "Wrong — the statement of changes in equity covers a period."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-002",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["gross-profit"],
+      "vi": {
+        "question": "“Gross profit” được tính như thế nào?",
+        "options": [
+          "Revenue − Cost of goods sold",
+          "Revenue − All operating expenses",
+          "Operating profit − Interest and tax",
+          "Revenue − Cost of goods sold − Tax"
+        ],
+        "explanation": "Gross profit (lợi nhuận gộp) = Revenue − Cost of goods sold (doanh thu trừ giá vốn hàng bán). Đây là mức lợi nhuận trước khi trừ chi phí bán hàng và chi phí quản lý. Trong tiếng Việt tương ứng với chỉ tiêu “Lợi nhuận gộp về bán hàng và cung cấp dịch vụ”.",
+        "distractors": [
+          null,
+          "Sai — trừ toàn bộ chi phí hoạt động cho ra operating profit, không phải gross profit.",
+          "Sai — đây là công thức tính profit before tax rồi net profit.",
+          "Sai — thuế chỉ được trừ ở bước cuối để ra net profit."
+        ]
+      },
+      "en": {
+        "question": "How is gross profit calculated?",
+        "options": [
+          "Revenue − Cost of goods sold",
+          "Revenue − All operating expenses",
+          "Operating profit − Interest and tax",
+          "Revenue − Cost of goods sold − Tax"
+        ],
+        "explanation": "Gross profit = Revenue − Cost of goods sold. It is profit before selling and administrative expenses. In Vietnamese statements this is “Lợi nhuận gộp về bán hàng và cung cấp dịch vụ”.",
+        "distractors": [
+          null,
+          "Wrong — deducting all operating expenses gives operating profit.",
+          "Wrong — that describes the path to profit before tax and then net profit.",
+          "Wrong — tax is deducted only at the final step to reach net profit."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-003",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["current-assets"],
+      "vi": {
+        "question": "Khoản mục nào sau đây được phân loại là “non-current asset”?",
+        "options": [
+          "Cash and cash equivalents",
+          "Property, plant and equipment",
+          "Trade receivables due in 60 days",
+          "Inventory held for resale"
+        ],
+        "explanation": "Property, plant and equipment (nhà xưởng, máy móc thiết bị — TSCĐ hữu hình) được sử dụng nhiều năm nên là non-current asset (tài sản dài hạn). Tiêu chí phân loại current: dự kiến thu hồi hoặc sử dụng trong vòng 12 tháng hoặc trong một chu kỳ kinh doanh bình thường.",
+        "distractors": [
+          "Sai — tiền và tương đương tiền là tài sản ngắn hạn có tính thanh khoản cao nhất.",
+          null,
+          "Sai — phải thu đến hạn trong 60 ngày là tài sản ngắn hạn.",
+          "Sai — hàng tồn kho để bán là tài sản ngắn hạn."
+        ]
+      },
+      "en": {
+        "question": "Which of the following is classified as a non-current asset?",
+        "options": [
+          "Cash and cash equivalents",
+          "Property, plant and equipment",
+          "Trade receivables due in 60 days",
+          "Inventory held for resale"
+        ],
+        "explanation": "Property, plant and equipment is used over many years, so it is a non-current asset. The current/non-current test is whether the item is expected to be realised or consumed within 12 months or one normal operating cycle.",
+        "distractors": [
+          "Wrong — cash is the most liquid current asset.",
+          null,
+          "Wrong — receivables due within 60 days are current.",
+          "Wrong — inventory held for resale is current."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-004",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["ebitda"],
+      "vi": {
+        "question": "EBITDA là viết tắt của cụm nào?",
+        "options": [
+          "Earnings Before Interest, Tax, Dividends and Amortisation",
+          "Earnings Before Income Tax, Depreciation and Assets",
+          "Earnings Before Investment, Trade, Debt and Assets",
+          "Earnings Before Interest, Tax, Depreciation and Amortisation"
+        ],
+        "explanation": "EBITDA = Earnings Before Interest, Tax, Depreciation and Amortisation — lợi nhuận trước lãi vay, thuế, khấu hao TSCĐ hữu hình (depreciation) và khấu hao TSCĐ vô hình (amortisation). Chỉ tiêu này ước lượng dòng tiền từ hoạt động kinh doanh, loại bỏ ảnh hưởng của cơ cấu vốn và chính sách khấu hao.",
+        "distractors": [
+          "Sai — chữ D là depreciation, không phải dividends.",
+          "Sai — chữ A là amortisation, không phải assets.",
+          "Sai — hoàn toàn không đúng với các thành phần thực tế của EBITDA.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does EBITDA stand for?",
+        "options": [
+          "Earnings Before Interest, Tax, Dividends and Amortisation",
+          "Earnings Before Income Tax, Depreciation and Assets",
+          "Earnings Before Investment, Trade, Debt and Assets",
+          "Earnings Before Interest, Tax, Depreciation and Amortisation"
+        ],
+        "explanation": "EBITDA is Earnings Before Interest, Tax, Depreciation and Amortisation. It approximates operating cash generation by stripping out financing structure and depreciation policy.",
+        "distractors": [
+          "Wrong — the D is depreciation, not dividends.",
+          "Wrong — the A is amortisation, not assets.",
+          "Wrong — none of these match the actual components.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-005",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["cash-flow"],
+      "vi": {
+        "question": "Báo cáo lưu chuyển tiền tệ chia dòng tiền thành ba nhóm hoạt động nào?",
+        "options": [
+          "Operating, investing and financing",
+          "Current, non-current and contingent",
+          "Direct, indirect and residual",
+          "Trading, capital and reserve"
+        ],
+        "explanation": "Statement of cash flows chia thành: operating activities (hoạt động kinh doanh), investing activities (hoạt động đầu tư) và financing activities (hoạt động tài chính). Lưu ý phân biệt với direct/indirect method — đó là hai PHƯƠNG PHÁP trình bày phần operating, không phải ba nhóm hoạt động.",
+        "distractors": [
+          null,
+          "Sai — đây là cách phân loại tài sản và nợ trên bảng cân đối, không phải dòng tiền.",
+          "Sai — direct và indirect là hai phương pháp lập phần hoạt động kinh doanh.",
+          "Sai — không phải cách phân loại chuẩn của báo cáo lưu chuyển tiền tệ."
+        ]
+      },
+      "en": {
+        "question": "The statement of cash flows classifies cash flows into which three categories?",
+        "options": [
+          "Operating, investing and financing",
+          "Current, non-current and contingent",
+          "Direct, indirect and residual",
+          "Trading, capital and reserve"
+        ],
+        "explanation": "Cash flows are classified as operating, investing and financing activities. Do not confuse this with the direct and indirect methods, which are two ways of presenting the operating section only.",
+        "distractors": [
+          null,
+          "Wrong — that is how balance sheet items are classified, not cash flows.",
+          "Wrong — direct and indirect are presentation methods for the operating section.",
+          "Wrong — this is not a standard cash flow classification."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-006",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["retained-earnings"],
+      "vi": {
+        "question": "“Retained earnings” là gì?",
+        "options": [
+          "Profit of the current year only",
+          "Cash set aside in a separate bank account",
+          "Cumulative profits not yet distributed to owners",
+          "Amounts owed to the company by customers"
+        ],
+        "explanation": "Retained earnings (lợi nhuận sau thuế chưa phân phối) là lợi nhuận lũy kế qua các năm chưa chia cho chủ sở hữu, nằm trong phần equity. Bẫy phổ biến: nghĩ retained earnings là tiền mặt — không phải, đó là số dư kế toán, doanh nghiệp có thể có retained earnings lớn nhưng vẫn thiếu tiền.",
+        "distractors": [
+          "Sai — retained earnings là lũy kế nhiều năm, không chỉ năm hiện tại.",
+          "Sai — đây không phải một khoản tiền được để riêng; retained earnings không phải tiền mặt.",
+          null,
+          "Sai — đó là trade receivables."
+        ]
+      },
+      "en": {
+        "question": "What are retained earnings?",
+        "options": [
+          "Profit of the current year only",
+          "Cash set aside in a separate bank account",
+          "Cumulative profits not yet distributed to owners",
+          "Amounts owed to the company by customers"
+        ],
+        "explanation": "Retained earnings are accumulated profits from all past periods that have not been distributed to owners; they sit within equity. Common trap: retained earnings are not cash — a company can have large retained earnings and still be short of money.",
+        "distractors": [
+          "Wrong — retained earnings accumulate across years, not just the current one.",
+          "Wrong — it is not a pot of cash; retained earnings are an accounting balance.",
+          null,
+          "Wrong — that describes trade receivables."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-007",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["working-capital"],
+      "vi": {
+        "question": "Working capital được tính bằng công thức nào?",
+        "options": [
+          "Total assets − Total liabilities",
+          "Current assets − Current liabilities",
+          "Equity + Non-current liabilities",
+          "Cash + Inventory"
+        ],
+        "explanation": "Working capital (vốn lưu động) = Current assets − Current liabilities. Chỉ tiêu này đo khả năng đáp ứng nghĩa vụ ngắn hạn. Working capital âm là dấu hiệu cảnh báo về thanh khoản. Đừng nhầm với net assets = Total assets − Total liabilities.",
+        "distractors": [
+          "Sai — đó là net assets, tương đương với equity.",
+          null,
+          "Sai — đó là capital employed, không phải working capital.",
+          "Sai — chỉ là hai thành phần của tài sản ngắn hạn, thiếu nợ ngắn hạn."
+        ]
+      },
+      "en": {
+        "question": "How is working capital calculated?",
+        "options": [
+          "Total assets − Total liabilities",
+          "Current assets − Current liabilities",
+          "Equity + Non-current liabilities",
+          "Cash + Inventory"
+        ],
+        "explanation": "Working capital = Current assets − Current liabilities. It measures the ability to meet short-term obligations; negative working capital is a liquidity warning sign. Do not confuse it with net assets (total assets less total liabilities).",
+        "distractors": [
+          "Wrong — that is net assets, which equals equity.",
+          null,
+          "Wrong — that is capital employed.",
+          "Wrong — those are only two components of current assets, with no liabilities deducted."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-008",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["income-statement"],
+      "vi": {
+        "question": "Tên gọi khác của “income statement” là gì?",
+        "options": [
+          "Statement of financial position",
+          "Statement of cash flows",
+          "Trial balance",
+          "Profit and loss account"
+        ],
+        "explanation": "Income statement còn gọi là profit and loss account (viết tắt P&L) hoặc statement of profit or loss — tương ứng “Báo cáo kết quả hoạt động kinh doanh” trong tiếng Việt. Trong công việc hằng ngày người ta hay nói gọn là “the P&L”.",
+        "distractors": [
+          "Sai — đó là tên chuẩn của bảng cân đối kế toán.",
+          "Sai — đó là báo cáo lưu chuyển tiền tệ.",
+          "Sai — trial balance (bảng cân đối số phát sinh) là công cụ nội bộ, không phải báo cáo tài chính.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What is another name for the income statement?",
+        "options": [
+          "Statement of financial position",
+          "Statement of cash flows",
+          "Trial balance",
+          "Profit and loss account"
+        ],
+        "explanation": "The income statement is also called the profit and loss account (the “P&L”) or statement of profit or loss — “Báo cáo kết quả hoạt động kinh doanh” in Vietnamese. In day-to-day work people simply say “the P&L”.",
+        "distractors": [
+          "Wrong — that is the formal name of the balance sheet.",
+          "Wrong — that is the cash flow statement.",
+          "Wrong — a trial balance is an internal working tool, not a financial statement.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-009",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["accrued-expenses"],
+      "vi": {
+        "question": "Khoản mục “accrued expenses” xuất hiện ở đâu trên báo cáo tài chính?",
+        "options": [
+          "As a current liability on the balance sheet",
+          "As a current asset on the balance sheet",
+          "As revenue in the income statement",
+          "As equity in the balance sheet"
+        ],
+        "explanation": "Accrued expenses (chi phí phải trả) là chi phí đã phát sinh nhưng chưa được lập hóa đơn hoặc chưa thanh toán tại ngày khóa sổ, ví dụ tiền điện tháng 12 trả tháng 1. Đó là nghĩa vụ hiện tại nên trình bày ở phần current liabilities. Đừng nhầm với prepaid expenses (chi phí trả trước) là tài sản.",
+        "distractors": [
+          null,
+          "Sai — accrued expenses là nợ phải trả; prepaid expenses mới là tài sản.",
+          "Sai — đây là khoản chi phí, không phải doanh thu.",
+          "Sai — không liên quan tới vốn chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "Where do accrued expenses appear in the financial statements?",
+        "options": [
+          "As a current liability on the balance sheet",
+          "As a current asset on the balance sheet",
+          "As revenue in the income statement",
+          "As equity in the balance sheet"
+        ],
+        "explanation": "Accrued expenses are costs already incurred but not yet invoiced or paid at the reporting date — December electricity paid in January, for example. They are present obligations, so they sit in current liabilities. Do not confuse them with prepaid expenses, which are assets.",
+        "distractors": [
+          null,
+          "Wrong — accruals are liabilities; prepayments are the asset side.",
+          "Wrong — this is a cost, not revenue.",
+          "Wrong — it has nothing to do with equity."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-010",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["cogs"],
+      "vi": {
+        "question": "“Cost of goods sold” (COGS) tương ứng với chỉ tiêu tiếng Việt nào?",
+        "options": [
+          "Chi phí quản lý doanh nghiệp",
+          "Giá vốn hàng bán",
+          "Chi phí bán hàng",
+          "Chi phí tài chính"
+        ],
+        "explanation": "Cost of goods sold = giá vốn hàng bán, là giá gốc của hàng hóa hoặc dịch vụ đã bán trong kỳ (TK 632 trong hệ thống tài khoản Việt Nam). Ghi nhớ nhóm ba chi phí dễ nhầm: COGS = giá vốn (632), selling expenses = chi phí bán hàng (641), administrative expenses = chi phí quản lý doanh nghiệp (642).",
+        "distractors": [
+          "Sai — chi phí quản lý doanh nghiệp là administrative expenses.",
+          null,
+          "Sai — chi phí bán hàng là selling expenses hoặc distribution costs.",
+          "Sai — chi phí tài chính là finance costs."
+        ]
+      },
+      "en": {
+        "question": "Which Vietnamese line item corresponds to “cost of goods sold” (COGS)?",
+        "options": [
+          "Chi phí quản lý doanh nghiệp",
+          "Giá vốn hàng bán",
+          "Chi phí bán hàng",
+          "Chi phí tài chính"
+        ],
+        "explanation": "COGS is “giá vốn hàng bán” — the cost of goods or services sold in the period (Account 632 in the Vietnamese chart). Learn the trio that gets confused: COGS = 632, selling expenses = 641, administrative expenses = 642.",
+        "distractors": [
+          "Wrong — that is administrative expenses.",
+          null,
+          "Wrong — that is selling expenses or distribution costs.",
+          "Wrong — that is finance costs."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-011",
+      "topic": "a2-financial-statements",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["cash-flow", "indirect-method"],
+      "vi": {
+        "question": "Khi lập báo cáo lưu chuyển tiền tệ theo phương pháp gián tiếp, khoản khấu hao được xử lý thế nào?",
+        "options": [
+          "Deducted from profit because it reduces cash",
+          "Ignored because it is not a real cost",
+          "Added back to profit because it is a non-cash expense",
+          "Shown as an investing outflow"
+        ],
+        "explanation": "Phương pháp gián tiếp bắt đầu từ lợi nhuận rồi điều chỉnh các khoản phi tiền tệ. Khấu hao đã làm giảm lợi nhuận nhưng KHÔNG làm giảm tiền, nên phải cộng ngược lại (add back). Tương tự với dự phòng và lỗ do thanh lý tài sản.",
+        "distractors": [
+          "Sai — khấu hao không làm giảm tiền, nên không trừ tiếp.",
+          "Sai — khấu hao là chi phí thật, chỉ là chi phí phi tiền tệ.",
+          null,
+          "Sai — dòng tiền đầu tư là khoản chi mua sắm tài sản, không phải khấu hao."
+        ]
+      },
+      "en": {
+        "question": "Under the indirect method of preparing the cash flow statement, how is depreciation treated?",
+        "options": [
+          "Deducted from profit because it reduces cash",
+          "Ignored because it is not a real cost",
+          "Added back to profit because it is a non-cash expense",
+          "Shown as an investing outflow"
+        ],
+        "explanation": "The indirect method starts from profit and adjusts for non-cash items. Depreciation reduced profit but did not reduce cash, so it is added back. The same applies to provisions and losses on disposal.",
+        "distractors": [
+          "Wrong — depreciation does not consume cash, so it is not deducted again.",
+          "Wrong — depreciation is a genuine cost; it is simply non-cash.",
+          null,
+          "Wrong — investing outflows are asset purchases, not depreciation."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-012",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["equity-statement"],
+      "vi": {
+        "question": "Statement of changes in equity trình bày nội dung nào sau đây?",
+        "options": [
+          "The movement in bank balances during the year",
+          "The ageing of trade receivables",
+          "The reconciliation between profit and taxable income",
+          "Share issues, dividends and profit for the year affecting owners’ funds"
+        ],
+        "explanation": "Statement of changes in equity (báo cáo thay đổi vốn chủ sở hữu) đối chiếu số dư đầu kỳ và cuối kỳ của vốn chủ, thể hiện các biến động: phát hành thêm cổ phần, chia cổ tức, lợi nhuận trong kỳ, các khoản ghi thẳng vào vốn chủ.",
+        "distractors": [
+          "Sai — biến động số dư ngân hàng thuộc báo cáo lưu chuyển tiền tệ.",
+          "Sai — bảng tuổi nợ là báo cáo quản trị nội bộ, không phải báo cáo tài chính.",
+          "Sai — đối chiếu lợi nhuận kế toán và thu nhập chịu thuế nằm trong tờ khai quyết toán thuế.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does the statement of changes in equity present?",
+        "options": [
+          "The movement in bank balances during the year",
+          "The ageing of trade receivables",
+          "The reconciliation between profit and taxable income",
+          "Share issues, dividends and profit for the year affecting owners’ funds"
+        ],
+        "explanation": "The statement of changes in equity reconciles opening and closing equity, showing share issues, dividends, profit for the period and items taken directly to equity.",
+        "distractors": [
+          "Wrong — bank movements belong in the cash flow statement.",
+          "Wrong — an ageing report is internal management information.",
+          "Wrong — the profit-to-taxable-income reconciliation sits in the tax return.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-013",
+      "topic": "a2-financial-statements",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["notes"],
+      "vi": {
+        "question": "“Notes to the financial statements” có vai trò gì?",
+        "options": [
+          "They explain accounting policies and provide detail behind the headline figures",
+          "They record the daily transactions of the business",
+          "They replace the balance sheet for small companies",
+          "They are optional internal memos for management"
+        ],
+        "explanation": "Notes to the financial statements (thuyết minh báo cáo tài chính) là một bộ phận BẮT BUỘC của báo cáo tài chính, giải thích chính sách kế toán áp dụng, xét đoán và ước tính, và chi tiết các khoản mục. Thông tư 99/2025 mở rộng đáng kể yêu cầu thuyết minh so với Thông tư 200.",
+        "distractors": [
+          null,
+          "Sai — giao dịch hằng ngày được ghi vào sổ nhật ký và sổ cái.",
+          "Sai — thuyết minh bổ sung cho các báo cáo khác chứ không thay thế báo cáo nào.",
+          "Sai — thuyết minh là phần bắt buộc, không phải ghi chú nội bộ tùy chọn."
+        ]
+      },
+      "en": {
+        "question": "What is the role of the notes to the financial statements?",
+        "options": [
+          "They explain accounting policies and provide detail behind the headline figures",
+          "They record the daily transactions of the business",
+          "They replace the balance sheet for small companies",
+          "They are optional internal memos for management"
+        ],
+        "explanation": "The notes are a mandatory part of the financial statements. They set out the accounting policies applied, judgements and estimates, and the detail behind each caption. Circular 99/2025 significantly expands the disclosure requirements compared with Circular 200.",
+        "distractors": [
+          null,
+          "Wrong — daily transactions go into journals and ledgers.",
+          "Wrong — the notes supplement the other statements; they replace none.",
+          "Wrong — the notes are mandatory, not optional internal memos."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-014",
+      "topic": "a2-financial-statements",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["operating-profit"],
+      "vi": {
+        "question": "Khoản mục nào KHÔNG được tính vào “operating profit”?",
+        "options": [
+          "Selling and distribution expenses",
+          "Administrative expenses",
+          "Interest expense on a bank loan",
+          "Cost of goods sold"
+        ],
+        "explanation": "Operating profit là lợi nhuận từ hoạt động kinh doanh chính, tính sau khi trừ COGS, chi phí bán hàng và chi phí quản lý — nhưng TRƯỚC lãi vay và thuế. Interest expense (chi phí lãi vay) là chi phí tài chính, nằm dưới dòng operating profit.",
+        "distractors": [
+          "Sai — chi phí bán hàng là một phần của chi phí hoạt động.",
+          "Sai — chi phí quản lý là một phần của chi phí hoạt động.",
+          null,
+          "Sai — giá vốn hàng bán được trừ ngay từ bước đầu tiên."
+        ]
+      },
+      "en": {
+        "question": "Which item is NOT included in operating profit?",
+        "options": [
+          "Selling and distribution expenses",
+          "Administrative expenses",
+          "Interest expense on a bank loan",
+          "Cost of goods sold"
+        ],
+        "explanation": "Operating profit is profit from core trading after COGS, selling and administrative expenses, but before interest and tax. Interest expense is a finance cost and sits below the operating profit line.",
+        "distractors": [
+          "Wrong — selling costs are part of operating expenses.",
+          "Wrong — administrative costs are part of operating expenses.",
+          null,
+          "Wrong — COGS is deducted at the very first step."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A2-015",
+      "topic": "a2-financial-statements",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["circular-99", "terminology"],
+      "vi": {
+        "question": "Theo Thông tư 99/2025/TT-BTC hiệu lực từ 01/01/2026, “Bảng cân đối kế toán” được đổi tên thành gì?",
+        "options": [
+          "Báo cáo kết quả hoạt động kinh doanh (Income statement)",
+          "Báo cáo tình hình tài chính (Statement of financial position)",
+          "Báo cáo lưu chuyển tiền tệ (Statement of cash flows)",
+          "Bảng cân đối số phát sinh (Trial balance)"
+        ],
+        "explanation": "Thông tư 99/2025 đổi tên “Bảng cân đối kế toán” thành “Báo cáo tình hình tài chính”, đúng với thuật ngữ statement of financial position của IAS 1. Đây là một trong những thay đổi thuật ngữ dễ bị hỏi nhất trong năm 2026 vì tài liệu cũ vẫn dùng tên cũ.",
+        "distractors": [
+          "Sai — đó là báo cáo kết quả kinh doanh, một báo cáo hoàn toàn khác.",
+          null,
+          "Sai — báo cáo lưu chuyển tiền tệ giữ nguyên tên gọi.",
+          "Sai — bảng cân đối số phát sinh là công cụ nội bộ, không phải báo cáo tài chính."
+        ]
+      },
+      "en": {
+        "question": "Under Circular 99/2025/TT-BTC effective 1 January 2026, the “Bảng cân đối kế toán” was renamed to:",
+        "options": [
+          "Báo cáo kết quả hoạt động kinh doanh (Income statement)",
+          "Báo cáo tình hình tài chính (Statement of financial position)",
+          "Báo cáo lưu chuyển tiền tệ (Statement of cash flows)",
+          "Bảng cân đối số phát sinh (Trial balance)"
+        ],
+        "explanation": "Circular 99/2025 renames the balance sheet as the “Báo cáo tình hình tài chính”, aligning with the IAS 1 term statement of financial position. This is one of the most examinable terminology changes of 2026, because older material still uses the old name.",
+        "distractors": [
+          "Wrong — that is the income statement, an entirely different report.",
+          null,
+          "Wrong — the cash flow statement keeps its name.",
+          "Wrong — a trial balance is an internal tool, not a financial statement."
+        ]
+      }
+    }
+  ]
+}

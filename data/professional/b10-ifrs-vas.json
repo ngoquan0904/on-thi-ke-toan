@@ -1,0 +1,1003 @@
+{
+  "topic": "b10-ifrs-vas",
+  "questions": [
+    {
+      "id": "PRO-B10-001",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "IAS 1 – Presentation of Financial Statements",
+      "tags": ["ias-1"],
+      "vi": {
+        "question": "Theo IAS 1, một bộ báo cáo tài chính đầy đủ (complete set of financial statements) gồm bao nhiêu báo cáo chính?",
+        "options": [
+          "Ba báo cáo, gồm bảng cân đối, báo cáo lãi lỗ và báo cáo lưu chuyển tiền tệ trong kỳ",
+          "Bốn báo cáo, không bao gồm phần thuyết minh vì thuyết minh chỉ là tài liệu bổ sung",
+          "Năm phần: statement of financial position, statement of profit or loss and OCI, statement of changes in equity, statement of cash flows và notes",
+          "Hai báo cáo bắt buộc là bảng cân đối kế toán và báo cáo kết quả hoạt động kinh doanh"
+        ],
+        "explanation": "IAS 1 yêu cầu bộ báo cáo đầy đủ gồm: statement of financial position, statement of profit or loss and other comprehensive income, statement of changes in equity, statement of cash flows, và notes (thuyết minh, gồm cả tóm tắt chính sách kế toán quan trọng). Notes là phần BẮT BUỘC, không phải tài liệu tùy chọn.",
+        "distractors": [
+          "Sai — thiếu báo cáo thay đổi vốn chủ sở hữu và phần thuyết minh bắt buộc.",
+          "Sai — thuyết minh là một bộ phận bắt buộc của bộ báo cáo tài chính, không thể loại bỏ.",
+          null,
+          "Sai — bộ báo cáo đầy đủ theo IAS 1 gồm năm phần chứ không phải hai."
+        ]
+      },
+      "en": {
+        "question": "Under IAS 1, how many components make up a complete set of financial statements?",
+        "options": [
+          "Three: balance sheet, profit or loss and cash flow statement",
+          "Four, excluding the notes since they are only supplementary",
+          "Five, the fifth being the notes to the financial statements",
+          "Two mandatory statements: the balance sheet and the income statement"
+        ],
+        "explanation": "IAS 1 requires a complete set comprising the statement of financial position, the statement of profit or loss and other comprehensive income, the statement of changes in equity, the statement of cash flows, and the notes (including a summary of significant accounting policies). The notes are MANDATORY.",
+        "distractors": [
+          "Wrong — the statement of changes in equity and the notes are missing.",
+          "Wrong — the notes are a mandatory component.",
+          null,
+          "Wrong — a complete set under IAS 1 has five components, not two."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-002",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "IAS 2 – Inventories",
+      "tags": ["ias-2"],
+      "vi": {
+        "question": "Theo IAS 2, hàng tồn kho được ghi nhận theo giá trị nào?",
+        "options": [
+          "Giá thấp hơn giữa cost và net realisable value (NRV)",
+          "Luôn theo giá gốc (cost), không bao giờ được điều chỉnh giảm xuống mức thấp hơn",
+          "Luôn theo giá trị hợp lý (fair value) tại thời điểm lập báo cáo tài chính cuối kỳ",
+          "Theo giá bán ước tính trên thị trường mà không cần trừ chi phí bán ước tính"
+        ],
+        "explanation": "IAS 2 yêu cầu ghi nhận hàng tồn kho theo giá thấp hơn giữa cost (giá gốc) và net realisable value. NRV = estimated selling price − estimated costs to complete − estimated costs to sell. Nguyên tắc này giống VAS 02, và cả hai chuẩn mực đều CẤM phương pháp LIFO.",
+        "distractors": [
+          null,
+          "Sai — khi NRV thấp hơn giá gốc thì bắt buộc phải ghi giảm (write-down) xuống mức NRV.",
+          "Sai — hàng tồn kho không được ghi theo fair value; đó là cách xử lý của một số tài sản khác.",
+          "Sai — NRV phải trừ chi phí hoàn thành và chi phí bán ước tính khỏi giá bán ước tính."
+        ]
+      },
+      "en": {
+        "question": "Under IAS 2, at what value is inventory measured?",
+        "options": [
+          "At the lower of cost and net realisable value (NRV)",
+          "Always at cost, never written down below it",
+          "Always at fair value at the reporting date",
+          "At estimated market selling price without deducting selling costs"
+        ],
+        "explanation": "IAS 2 requires inventories at the lower of cost and net realisable value, where NRV = estimated selling price − estimated costs to complete − estimated costs to sell. This matches VAS 02, and both standards prohibit LIFO.",
+        "distractors": [
+          null,
+          "Wrong — where NRV is below cost, a write-down is required.",
+          "Wrong — inventories are not measured at fair value.",
+          "Wrong — NRV deducts costs to complete and to sell."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-003",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "IAS 16 – Property, Plant and Equipment; VAS 03",
+      "tags": ["ias-16", "khac-biet-vas"],
+      "vi": {
+        "question": "Khác biệt lớn nhất giữa IAS 16 và VAS 03 về tài sản cố định hữu hình là gì?",
+        "options": [
+          "IAS 16 không cho phép trích khấu hao tài sản cố định, còn VAS 03 thì bắt buộc phải trích",
+          "VAS 03 cho phép vốn hóa chi phí đào tạo nhân viên, còn IAS 16 thì hoàn toàn không",
+          "IAS 16 áp dụng cho tài sản vô hình, còn VAS 03 chỉ áp dụng cho tài sản hữu hình",
+          "IAS 16 cho phép chọn revaluation model, còn VAS 03 chỉ cho phép ghi theo giá gốc"
+        ],
+        "explanation": "IAS 16 cho phép doanh nghiệp chọn giữa cost model và revaluation model (đánh giá lại theo giá trị hợp lý, phần tăng ghi vào OCI và revaluation surplus). VAS 03 chỉ cho phép cost model, không được đánh giá lại tăng. IAS 16 cũng yêu cầu component depreciation — khấu hao riêng theo từng bộ phận cấu thành có thời gian sử dụng khác nhau.",
+        "distractors": [
+          "Sai — cả hai chuẩn mực đều yêu cầu trích khấu hao tài sản cố định hữu hình.",
+          "Sai — cả hai chuẩn mực đều không cho phép vốn hóa chi phí đào tạo nhân viên.",
+          "Sai — tài sản vô hình thuộc phạm vi IAS 38, không phải IAS 16.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What is the main difference between IAS 16 and VAS 03 on tangible fixed assets?",
+        "options": [
+          "IAS 16 prohibits depreciation while VAS 03 requires it",
+          "VAS 03 allows staff training and start-up costs to be capitalised as assets, while IAS 16 does not",
+          "IAS 16 covers intangible assets while VAS 03 covers only tangible ones",
+          "IAS 16 permits the revaluation model, while VAS 03 allows only historical cost"
+        ],
+        "explanation": "IAS 16 lets entities choose between the cost model and the revaluation model (fair value, with increases taken to OCI and a revaluation surplus). VAS 03 permits only the cost model with no upward revaluation. IAS 16 also requires component depreciation for parts with different useful lives.",
+        "distractors": [
+          "Wrong — both standards require depreciation.",
+          "Wrong — neither standard permits capitalising training costs.",
+          "Wrong — intangibles fall under IAS 38.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-004",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "IFRS 15 – Revenue from Contracts with Customers",
+      "tags": ["ifrs-15"],
+      "vi": {
+        "question": "Mô hình ghi nhận doanh thu của IFRS 15 gồm mấy bước và bước cuối cùng là gì?",
+        "options": [
+          "3 bước, bước cuối là xác định giá giao dịch của hợp đồng đã ký với khách hàng",
+          "5 bước, bước cuối là ghi nhận doanh thu khi (hoặc theo mức độ) hoàn thành nghĩa vụ thực hiện",
+          "4 bước, bước cuối là thu tiền từ khách hàng theo đúng điều khoản thanh toán đã thỏa thuận",
+          "7 bước, bước cuối là lập báo cáo đối chiếu doanh thu với số liệu ghi nhận trên sổ kế toán"
+        ],
+        "explanation": "IFRS 15 dùng mô hình 5 bước: ① Identify the contract ② Identify the performance obligations ③ Determine the transaction price ④ Allocate the transaction price to the performance obligations ⑤ Recognise revenue when (or as) each performance obligation is satisfied. Điểm cốt lõi: doanh thu gắn với chuyển giao QUYỀN KIỂM SOÁT, khác VAS 14 vốn dựa trên chuyển giao rủi ro và lợi ích.",
+        "distractors": [
+          "Sai — xác định giá giao dịch mới là bước 3, không phải bước cuối cùng của mô hình.",
+          null,
+          "Sai — thu tiền không phải một bước trong mô hình ghi nhận doanh thu của IFRS 15.",
+          "Sai — mô hình có 5 bước, và lập báo cáo đối chiếu không phải một bước của chuẩn mực."
+        ]
+      },
+      "en": {
+        "question": "How many steps are in the IFRS 15 revenue model, and what is the final step?",
+        "options": [
+          "3 steps, ending with determining the transaction price of the signed contract",
+          "5 steps, ending with recognising revenue when (or as) each performance obligation is satisfied",
+          "4 steps, ending with collecting cash from the customer under the agreed terms",
+          "7 steps, ending with reconciling revenue to the accounting records"
+        ],
+        "explanation": "IFRS 15 applies a five-step model: ① identify the contract ② identify the performance obligations ③ determine the transaction price ④ allocate the price to the obligations ⑤ recognise revenue when (or as) each obligation is satisfied. The core idea is transfer of CONTROL, unlike VAS 14 which turns on risks and rewards.",
+        "distractors": [
+          "Wrong — determining the transaction price is step 3, not the last.",
+          null,
+          "Wrong — collecting cash is not a step in the model.",
+          "Wrong — the model has five steps and includes no reconciliation step."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-005",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "IFRS 16 – Leases",
+      "tags": ["ifrs-16"],
+      "vi": {
+        "question": "Theo IFRS 16, bên đi thuê (lessee) xử lý hợp đồng thuê hoạt động (operating lease) thế nào?",
+        "options": [
+          "Ghi chi phí thuê đường thẳng vào báo cáo lãi lỗ, không ghi nhận gì trên bảng cân đối",
+          "Chỉ thuyết minh trong notes mà không ghi nhận bất kỳ khoản mục nào trên báo cáo",
+          "Ghi nhận right-of-use asset và lease liability trên bảng cân đối, trừ một số miễn trừ",
+          "Ghi nhận toàn bộ giá trị hợp đồng thuê vào chi phí ngay tại thời điểm ký hợp đồng"
+        ],
+        "explanation": "IFRS 16 xóa bỏ phân biệt operating lease và finance lease đối với bên đi thuê: hầu hết hợp đồng thuê đều lên bảng cân đối dưới dạng right-of-use asset và lease liability. Chi phí sau đó tách thành depreciation của ROU asset và interest expense của lease liability. Miễn trừ: thuê ngắn hạn dưới 12 tháng và tài sản giá trị thấp.",
+        "distractors": [
+          "Sai — đây là cách xử lý CŨ theo IAS 17, đã bị IFRS 16 thay thế đối với bên đi thuê.",
+          "Sai — chỉ thuyết minh là không đủ; IFRS 16 yêu cầu ghi nhận trên bảng cân đối.",
+          null,
+          "Sai — không ghi toàn bộ vào chi phí một lần; giá trị được phân bổ qua thời gian thuê."
+        ]
+      },
+      "en": {
+        "question": "Under IFRS 16, how does a lessee account for what was previously an operating lease?",
+        "options": [
+          "Straight-line rent expense in profit or loss, with nothing on the balance sheet",
+          "Disclosure in the notes only, with nothing recognised in the statements",
+          "Recognise a right-of-use asset and a lease liability on the balance sheet, subject to exemptions",
+          "Expense the entire lease value at the date the contract is signed"
+        ],
+        "explanation": "IFRS 16 removes the operating/finance distinction for lessees: most leases come onto the balance sheet as a right-of-use asset and a lease liability. The charge then splits into depreciation of the ROU asset and interest on the liability. Exemptions cover short-term leases under 12 months and low-value assets.",
+        "distractors": [
+          "Wrong — that is the OLD IAS 17 treatment, superseded for lessees.",
+          "Wrong — disclosure alone is insufficient under IFRS 16.",
+          null,
+          "Wrong — the cost is spread over the lease term."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-006",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "IAS 37 – Provisions, Contingent Liabilities and Contingent Assets",
+      "tags": ["ias-37"],
+      "vi": {
+        "question": "Theo IAS 37, contingent liability (nợ tiềm tàng) được xử lý thế nào trên báo cáo tài chính?",
+        "options": [
+          "Ghi nhận đầy đủ như một khoản nợ phải trả thông thường trên bảng cân đối kế toán",
+          "Ghi nhận 50% giá trị ước tính để phản ánh mức độ không chắc chắn của nghĩa vụ đó",
+          "Ghi thẳng vào chi phí trong kỳ hiện tại mà không cần thuyết minh thêm thông tin gì",
+          "Không ghi nhận trên báo cáo, chỉ thuyết minh trong notes trừ khi khả năng phải trả là rất thấp"
+        ],
+        "explanation": "IAS 37 phân biệt ba mức: provision được GHI NHẬN khi có nghĩa vụ hiện tại, khả năng phải chi trả là probable (trên 50%) và ước tính được đáng tin cậy. Contingent liability chỉ THUYẾT MINH, không ghi nhận. Contingent asset chỉ thuyết minh khi khả năng thu được là probable, và không bao giờ được ghi nhận cho tới khi gần như chắc chắn.",
+        "distractors": [
+          "Sai — nợ tiềm tàng chưa đủ điều kiện ghi nhận nên không được đưa lên bảng cân đối.",
+          "Sai — không có cơ chế ghi nhận một nửa giá trị theo mức độ không chắc chắn.",
+          "Sai — ghi thẳng vào chi phí là ghi nhận, trong khi nợ tiềm tàng không được ghi nhận.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Under IAS 37, how is a contingent liability treated in the financial statements?",
+        "options": [
+          "Recognised in full as an ordinary liability on the balance sheet",
+          "Recognised at 50% of the estimate to reflect the uncertainty",
+          "Charged straight to expense in the current period with no disclosure",
+          "Not recognised; disclosed in the notes unless the possibility of outflow is remote"
+        ],
+        "explanation": "IAS 37 distinguishes three levels: a provision is RECOGNISED where a present obligation exists, outflow is probable (over 50%) and the amount is reliably estimable. A contingent liability is only DISCLOSED. A contingent asset is disclosed when inflow is probable and never recognised until virtually certain.",
+        "distractors": [
+          "Wrong — a contingent liability fails the recognition criteria.",
+          "Wrong — there is no half-recognition mechanism.",
+          "Wrong — charging to expense would be recognition, which is not permitted.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-007",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "advanced",
+      "answer": 0,
+      "ref": "IAS 36 – Impairment of Assets",
+      "tags": ["ias-36"],
+      "vi": {
+        "question": "Theo IAS 36, recoverable amount của một tài sản được xác định thế nào?",
+        "options": [
+          "Là giá trị CAO HƠN giữa fair value less costs of disposal và value in use",
+          "Là giá trị THẤP HƠN giữa fair value less costs of disposal và value in use của tài sản",
+          "Luôn luôn bằng đúng giá trị thị trường hiện hành của tài sản tại ngày lập báo cáo",
+          "Luôn luôn bằng nguyên giá của tài sản trừ đi số khấu hao lũy kế đã trích tới nay"
+        ],
+        "explanation": "Recoverable amount = MAX (fair value less costs of disposal, value in use). Lỗ suy giảm giá trị (impairment loss) = carrying amount − recoverable amount, ghi nhận khi carrying amount lớn hơn. Lưu ý quan trọng: lỗ suy giảm của goodwill KHÔNG BAO GIỜ được hoàn nhập, trong khi lỗ của các tài sản khác có thể được hoàn nhập nếu điều kiện thay đổi.",
+        "distractors": [
+          null,
+          "Sai — lấy giá trị cao hơn chứ không phải thấp hơn; doanh nghiệp sẽ chọn phương án thu hồi tốt nhất.",
+          "Sai — giá trị thị trường mới chỉ là một phần của fair value less costs of disposal.",
+          "Sai — đó là carrying amount (giá trị ghi sổ), là đại lượng được đem SO SÁNH với recoverable amount."
+        ]
+      },
+      "en": {
+        "question": "Under IAS 36, how is an asset’s recoverable amount determined?",
+        "options": [
+          "The HIGHER of fair value less costs of disposal and value in use",
+          "The LOWER of fair value less costs of disposal and value in use at the reporting date",
+          "Always the asset’s current market value at the reporting date",
+          "Always cost less accumulated depreciation to date"
+        ],
+        "explanation": "Recoverable amount = MAX (fair value less costs of disposal, value in use). An impairment loss = carrying amount − recoverable amount, recognised where carrying amount is higher. Importantly, goodwill impairment is NEVER reversed, while impairments of other assets may be reversed if circumstances change.",
+        "distractors": [
+          null,
+          "Wrong — it is the higher, not the lower; the entity would choose the better recovery route.",
+          "Wrong — market value is only an input to fair value less costs of disposal.",
+          "Wrong — that is carrying amount, the figure compared against recoverable amount."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-008",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "ref": "IFRS 9 – Financial Instruments",
+      "tags": ["ifrs-9", "ecl"],
+      "vi": {
+        "question": "Mô hình expected credit loss (ECL) của IFRS 9 khác mô hình cũ ở điểm cốt lõi nào?",
+        "options": [
+          "ECL chỉ áp dụng cho các khoản cho vay của ngân hàng, không áp dụng cho phải thu thương mại",
+          "ECL ghi nhận tổn thất DỰ KIẾN ngay từ đầu, không đợi tới khi có bằng chứng tổn thất đã phát sinh",
+          "ECL yêu cầu ghi nhận toàn bộ giá trị khoản phải thu vào chi phí ngay tại thời điểm ghi nhận",
+          "ECL chỉ là một phương pháp thuyết minh bổ sung, không ảnh hưởng tới số liệu trên báo cáo"
+        ],
+        "explanation": "Mô hình cũ (incurred loss) chỉ ghi nhận tổn thất khi đã có bằng chứng khách quan về việc tổn thất ĐÃ xảy ra. IFRS 9 chuyển sang expected credit loss: ghi nhận tổn thất DỰ KIẾN ngay từ khi ghi nhận tài sản tài chính, dựa trên thông tin hướng tới tương lai. Với phải thu thương mại thường dùng simplified approach — ghi nhận lifetime ECL ngay.",
+        "distractors": [
+          "Sai — ECL áp dụng cho cả phải thu thương mại, thường theo simplified approach.",
+          null,
+          "Sai — ECL là ước tính phần tổn thất dự kiến, không phải ghi hết giá trị khoản phải thu.",
+          "Sai — ECL ảnh hưởng trực tiếp tới giá trị ghi sổ và chi phí trên báo cáo tài chính."
+        ]
+      },
+      "en": {
+        "question": "What is the core difference between the IFRS 9 expected credit loss model and the previous model?",
+        "options": [
+          "ECL applies only to bank lending, not to trade receivables",
+          "ECL recognises EXPECTED losses from the outset, rather than waiting for evidence that a loss has occurred",
+          "ECL requires the entire receivable to be expensed at initial recognition",
+          "ECL is only an additional disclosure and does not affect reported figures"
+        ],
+        "explanation": "The old incurred loss model recognised losses only once objective evidence showed a loss HAD occurred. IFRS 9 moves to expected credit loss: expected losses are recognised from initial recognition using forward-looking information. Trade receivables typically use the simplified approach, recognising lifetime ECL immediately.",
+        "distractors": [
+          "Wrong — ECL applies to trade receivables too, usually via the simplified approach.",
+          null,
+          "Wrong — ECL estimates expected losses, not the whole receivable.",
+          "Wrong — ECL directly affects carrying amounts and expenses."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-009",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Quyết định 345/QĐ-BTC ngày 16/03/2020 về lộ trình áp dụng IFRS tại Việt Nam",
+      "tags": ["lo-trinh-ifrs", "2026-update"],
+      "vi": {
+        "question": "Theo Quyết định 345/QĐ-BTC, từ năm 2026 IFRS trở thành bắt buộc đối với đối tượng nào?",
+        "options": [
+          "Tất cả doanh nghiệp đang hoạt động tại Việt Nam, không phân biệt quy mô và loại hình",
+          "Toàn bộ doanh nghiệp có vốn đầu tư nước ngoài, cho cả báo cáo riêng và hợp nhất",
+          "Báo cáo tài chính HỢP NHẤT của doanh nghiệp nhà nước lớn, công ty niêm yết, công ty đại chúng lớn chưa niêm yết",
+          "Chỉ các ngân hàng thương mại và công ty bảo hiểm đang hoạt động trên thị trường Việt Nam"
+        ],
+        "explanation": "Quyết định 345/QĐ-BTC chia lộ trình ba giai đoạn: 2020–2021 chuẩn bị, 2022–2025 áp dụng tự nguyện, và từ 2026 bắt buộc với BCTC HỢP NHẤT của doanh nghiệp nhà nước lớn, công ty niêm yết và công ty đại chúng lớn chưa niêm yết. Doanh nghiệp FDI vẫn áp dụng TỰ NGUYỆN cho báo cáo tài chính riêng.",
+        "distractors": [
+          "Sai — không phải mọi doanh nghiệp; phạm vi bắt buộc được giới hạn theo nhóm đối tượng cụ thể.",
+          "Sai — doanh nghiệp FDI vẫn thuộc diện áp dụng tự nguyện cho báo cáo tài chính riêng.",
+          null,
+          "Sai — phạm vi rộng hơn nhóm ngân hàng và bảo hiểm, gồm cả công ty niêm yết và DNNN lớn."
+        ]
+      },
+      "en": {
+        "question": "Under Decision 345/QD-BTC, who must apply IFRS from 2026?",
+        "options": [
+          "All enterprises operating in Vietnam, regardless of size or type",
+          "All foreign-invested enterprises, for both separate and consolidated statements",
+          "CONSOLIDATED statements of large state-owned enterprises, listed companies and large unlisted public companies",
+          "Only commercial banks and insurance companies operating in Vietnam"
+        ],
+        "explanation": "Decision 345/QD-BTC sets three phases: preparation 2020–2021, voluntary application 2022–2025, and mandatory from 2026 for the CONSOLIDATED statements of large SOEs, listed companies and large unlisted public companies. FDI enterprises remain VOLUNTARY for their separate statements.",
+        "distractors": [
+          "Wrong — the mandatory scope is limited to specified groups.",
+          "Wrong — FDI enterprises remain voluntary for separate statements.",
+          null,
+          "Wrong — the scope is broader than banks and insurers."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-010",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["vas-ifrs", "tong-quan"],
+      "vi": {
+        "question": "Điểm khác biệt về CÁCH TIẾP CẬN giữa VAS và IFRS là gì?",
+        "options": [
+          "VAS dựa trên nguyên tắc còn IFRS dựa trên quy tắc chi tiết cứng nhắc do cơ quan quản lý ban hành",
+          "Cả hai đều dựa trên quy tắc chi tiết, chỉ khác nhau về cách trình bày mẫu biểu báo cáo",
+          "VAS được cập nhật thường xuyên hơn IFRS nên phản ánh sát thực tiễn kinh doanh hơn",
+          "VAS thiên về rule-based và giá gốc; IFRS thiên về principle-based và giá trị hợp lý"
+        ],
+        "explanation": "VAS là hệ thống rule-based, thiên về giá gốc (historical cost), gồm 26 chuẩn mực ban hành 2001–2005 và gần như không được cập nhật. IFRS là principle-based, sử dụng nhiều fair value, đòi hỏi xét đoán chuyên môn nhiều hơn, và được cập nhật thường xuyên. Thông tư 99/2025 là bước đưa VAS tiệm cận IFRS.",
+        "distractors": [
+          "Sai — hai vế bị đảo ngược hoàn toàn so với thực tế của hai hệ thống chuẩn mực.",
+          "Sai — khác biệt nằm ở cách tiếp cận và cơ sở đo lường, không chỉ ở mẫu biểu trình bày.",
+          "Sai — IFRS mới là hệ thống được cập nhật thường xuyên, còn VAS gần như không đổi từ 2005.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How do VAS and IFRS differ in APPROACH?",
+        "options": [
+          "VAS is principle-based, while IFRS is a rigid set of detailed rules issued by a national regulator",
+          "Both are rule-based, differing only in presentation formats",
+          "VAS is updated more frequently than IFRS and so tracks business reality better",
+          "VAS is rule-based and cost-oriented; IFRS is principle-based and fair-value oriented"
+        ],
+        "explanation": "VAS is rule-based and historical-cost oriented, comprising 26 standards issued in 2001–2005 and barely updated since. IFRS is principle-based, uses fair value extensively, requires more professional judgement, and is updated regularly. Circular 99/2025 moves VAS closer to IFRS.",
+        "distractors": [
+          "Wrong — the two descriptions are reversed.",
+          "Wrong — the difference lies in approach and measurement basis, not just formats.",
+          "Wrong — IFRS is the frequently updated framework; VAS has barely changed since 2005.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-011",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "IAS 40 – Investment Property; VAS",
+      "tags": ["bat-dong-san-dau-tu", "khac-biet-vas"],
+      "vi": {
+        "question": "Bất động sản đầu tư (investment property) được xử lý khác nhau thế nào giữa VAS và IFRS?",
+        "options": [
+          "VAS chỉ cho ghi theo giá gốc; IAS 40 cho phép chọn cost model hoặc fair value model",
+          "VAS bắt buộc ghi theo fair value, còn IAS 40 chỉ cho phép ghi nhận theo giá gốc ban đầu",
+          "Cả hai chuẩn mực đều bắt buộc áp dụng fair value model cho bất động sản đầu tư",
+          "VAS không có khái niệm bất động sản đầu tư, còn IFRS thì có quy định rất chi tiết"
+        ],
+        "explanation": "IAS 40 cho phép chọn cost model hoặc fair value model cho investment property; nếu chọn fair value thì chênh lệch ghi thẳng vào profit or loss. VAS chỉ cho phép ghi theo giá gốc và trích khấu hao. Đây là một trong những khác biệt trọng yếu nhất khi doanh nghiệp FDI chuyển đổi báo cáo sang IFRS cho công ty mẹ.",
+        "distractors": [
+          null,
+          "Sai — hai vế bị đảo ngược; VAS mới là bên chỉ cho phép ghi theo giá gốc.",
+          "Sai — IAS 40 cho phép LỰA CHỌN chứ không bắt buộc fair value; VAS thì không cho phép.",
+          "Sai — VAS có tài khoản riêng cho bất động sản đầu tư là TK 217."
+        ]
+      },
+      "en": {
+        "question": "How does the treatment of investment property differ between VAS and IFRS?",
+        "options": [
+          "VAS permits cost only; IAS 40 allows a choice between the cost model and the fair value model",
+          "VAS requires fair value, while IAS 40 permits only historical cost",
+          "Both frameworks require the fair value model for investment property",
+          "VAS has no concept of investment property, while IFRS regulates it in detail"
+        ],
+        "explanation": "IAS 40 allows a choice between the cost and fair value models; under fair value, changes go straight to profit or loss. VAS permits only cost with depreciation. This is one of the most material differences when FDI entities convert to IFRS for their parent.",
+        "distractors": [
+          null,
+          "Wrong — the descriptions are reversed; VAS is the cost-only framework.",
+          "Wrong — IAS 40 offers a choice rather than requiring fair value.",
+          "Wrong — VAS has a dedicated account for investment property (217)."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-012",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "IAS 1 – Presentation of Financial Statements",
+      "tags": ["oci"],
+      "vi": {
+        "question": "“Other comprehensive income” (OCI) là gì?",
+        "options": [
+          "Toàn bộ doanh thu phát sinh từ các hoạt động phụ trợ ngoài hoạt động kinh doanh chính",
+          "Các khoản thu nhập và chi phí không được ghi vào profit or loss mà ghi thẳng vào vốn chủ sở hữu",
+          "Phần lợi nhuận còn lại sau khi đã trừ toàn bộ chi phí thuế thu nhập doanh nghiệp phải nộp",
+          "Khoản thu nhập bất thường phát sinh một lần và không lặp lại trong các kỳ kế toán sau"
+        ],
+        "explanation": "OCI gồm các khoản thu nhập và chi phí mà chuẩn mực yêu cầu hoặc cho phép ghi ngoài profit or loss, ví dụ: revaluation surplus của IAS 16, chênh lệch tỷ giá khi chuyển đổi báo cáo của hoạt động nước ngoài, lãi lỗ từ tài sản tài chính FVOCI. Total comprehensive income = profit or loss + OCI.",
+        "distractors": [
+          "Sai — doanh thu từ hoạt động phụ trợ vẫn được ghi vào profit or loss như bình thường.",
+          null,
+          "Sai — đó là net profit after tax, một khái niệm hoàn toàn khác với OCI.",
+          "Sai — tính chất bất thường hay lặp lại không phải tiêu chí phân loại vào OCI."
+        ]
+      },
+      "en": {
+        "question": "What is “other comprehensive income” (OCI)?",
+        "options": [
+          "All revenue from activities ancillary to the main business",
+          "Income and expense items excluded from profit or loss and taken directly to equity",
+          "Profit remaining after deducting corporate income tax expense",
+          "One-off income that does not recur in later periods"
+        ],
+        "explanation": "OCI comprises income and expenses that standards require or permit outside profit or loss — IAS 16 revaluation surplus, translation differences on foreign operations, and gains or losses on FVOCI financial assets. Total comprehensive income = profit or loss + OCI.",
+        "distractors": [
+          "Wrong — ancillary revenue still goes through profit or loss.",
+          null,
+          "Wrong — that is net profit after tax.",
+          "Wrong — recurrence is not the classifying criterion."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-013",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "IAS 2 – Inventories; VAS 02",
+      "tags": ["ias-2", "nrv", "tinh-toan"],
+      "vi": {
+        "question": "Một lô hàng có cost 200.000 USD, estimated selling price 230.000 USD, costs to complete 20.000 USD, costs to sell 25.000 USD. Giá trị ghi sổ theo IAS 2 là:",
+        "options": [
+          "230.000 USD, ghi theo giá bán ước tính của lô hàng trên thị trường hiện tại",
+          "200.000 USD, giữ nguyên theo cost vì hàng vẫn có thể bán được cho khách hàng",
+          "185.000 USD, đồng thời ghi nhận write-down 15.000 USD vào chi phí trong kỳ",
+          "205.000 USD, tính bằng cost cộng thêm phần chênh lệch giữa giá bán và chi phí"
+        ],
+        "explanation": "NRV = 230.000 − 20.000 − 25.000 = 185.000 USD, thấp hơn cost 200.000 USD. Theo nguyên tắc lower of cost and NRV, hàng được ghi ở mức 185.000 USD và ghi nhận write-down 15.000 USD vào cost of sales. Lưu ý NRV phải trừ CẢ costs to complete lẫn costs to sell — bỏ sót một trong hai là lỗi tính toán rất phổ biến.",
+        "distractors": [
+          "Sai — hàng tồn kho không bao giờ được ghi cao hơn cost theo cả IAS 2 lẫn VAS 02.",
+          "Sai — NRV 185.000 đã thấp hơn cost nên bắt buộc phải ghi giảm xuống mức NRV.",
+          null,
+          "Sai — không có công thức nào cộng thêm chênh lệch vào cost để ra giá trị ghi sổ."
+        ]
+      },
+      "en": {
+        "question": "A batch has cost USD 200,000, estimated selling price USD 230,000, costs to complete USD 20,000 and costs to sell USD 25,000. Its IAS 2 carrying amount is:",
+        "options": [
+          "USD 230,000, at the estimated market selling price",
+          "USD 200,000, unchanged at cost since the goods remain saleable",
+          "USD 185,000, with a write-down of USD 15,000 charged to expense",
+          "USD 205,000, cost plus the margin between selling price and costs"
+        ],
+        "explanation": "NRV = 230,000 − 20,000 − 25,000 = 185,000, below the 200,000 cost. Under lower of cost and NRV, the batch is carried at 185,000 with a 15,000 write-down to cost of sales. Note NRV deducts BOTH costs to complete and costs to sell — omitting either is a very common error.",
+        "distractors": [
+          "Wrong — inventory is never carried above cost under IAS 2 or VAS 02.",
+          "Wrong — NRV of 185,000 is below cost, so a write-down is required.",
+          null,
+          "Wrong — no such formula exists."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-014",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "IAS 1 – Presentation of Financial Statements",
+      "tags": ["ias-1", "phan-loai"],
+      "vi": {
+        "question": "Theo IAS 1, một khoản nợ phải trả được phân loại là current liability khi nào?",
+        "options": [
+          "Khi giá trị khoản nợ đó nhỏ hơn 1 tỷ đồng tính theo tỷ giá tại ngày lập báo cáo",
+          "Khi khoản nợ phát sinh từ giao dịch mua bán hàng hóa chứ không phải từ hoạt động vay",
+          "Khi doanh nghiệp có ý định sẽ thanh toán khoản nợ đó sớm trong tương lai gần",
+          "Khi dự kiến thanh toán trong chu kỳ kinh doanh bình thường hoặc trong vòng 12 tháng"
+        ],
+        "explanation": "IAS 1 phân loại là current liability khi thỏa mãn một trong các điều kiện: dự kiến thanh toán trong chu kỳ kinh doanh bình thường; nắm giữ chủ yếu để kinh doanh; phải thanh toán trong vòng 12 tháng sau kỳ báo cáo; hoặc doanh nghiệp không có quyền vô điều kiện hoãn thanh toán quá 12 tháng.",
+        "distractors": [
+          "Sai — giá trị khoản nợ không phải tiêu chí phân loại ngắn hạn hay dài hạn.",
+          "Sai — bản chất giao dịch phát sinh nợ không quyết định việc phân loại theo thời hạn.",
+          "Sai — ý định chủ quan không đủ; phải xét quyền hoãn thanh toán và thời hạn thực tế.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Under IAS 1, when is a liability classified as current?",
+        "options": [
+          "When its value is below VND 1 billion at the reporting date exchange rate",
+          "When it arises from trading transactions rather than borrowing",
+          "When the company intends to settle it soon",
+          "When it is expected to be settled in the normal operating cycle or within 12 months"
+        ],
+        "explanation": "IAS 1 classifies a liability as current if any of these apply: it is expected to be settled in the normal operating cycle; it is held primarily for trading; it is due within 12 months after the reporting period; or the entity has no unconditional right to defer settlement beyond 12 months.",
+        "distractors": [
+          "Wrong — size is not a classification criterion.",
+          "Wrong — the nature of the underlying transaction does not determine maturity classification.",
+          "Wrong — intention alone is insufficient; the right to defer and actual maturity govern.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-015",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "advanced",
+      "answer": 0,
+      "ref": "IFRS 15 – Revenue from Contracts with Customers",
+      "tags": ["ifrs-15", "phan-bo"],
+      "vi": {
+        "question": "Doanh nghiệp bán gói gồm phần mềm (giá bán riêng 800 triệu) và dịch vụ bảo trì 2 năm (giá bán riêng 200 triệu) với tổng giá gói là 900 triệu đồng. Theo IFRS 15, doanh thu phân bổ cho phần mềm là:",
+        "options": [
+          "720 triệu đồng",
+          "900 triệu đồng, ghi nhận toàn bộ ngay khi bàn giao phần mềm cho khách hàng sử dụng",
+          "800 triệu đồng, đúng bằng giá bán riêng lẻ của phần mềm theo bảng giá của công ty",
+          "450 triệu đồng, chia đều tổng giá gói cho hai nghĩa vụ thực hiện trong hợp đồng"
+        ],
+        "explanation": "Bước 4 của IFRS 15 yêu cầu phân bổ transaction price theo TỶ LỆ standalone selling price. Tổng giá bán riêng = 800 + 200 = 1.000 triệu. Phần mềm chiếm 800/1.000 = 80%. Doanh thu phân bổ cho phần mềm = 900 × 80% = 720 triệu đồng; phần bảo trì được 180 triệu, ghi nhận dần trong 2 năm.",
+        "distractors": [
+          null,
+          "Sai — hợp đồng có hai performance obligations riêng biệt nên không được ghi nhận toàn bộ một lần.",
+          "Sai — đây là standalone selling price, chưa phân bổ khoản chiết khấu 100 triệu của cả gói.",
+          "Sai — phân bổ theo tỷ lệ giá bán riêng, không phải chia đều cho số nghĩa vụ thực hiện."
+        ]
+      },
+      "en": {
+        "question": "A bundle comprises software (standalone price VND 800 million) and 2 years of maintenance (standalone price VND 200 million), sold for VND 900 million. Under IFRS 15, revenue allocated to the software is:",
+        "options": [
+          "VND 720 million",
+          "VND 900 million, recognised in full on delivery of the software",
+          "VND 800 million, exactly the software’s standalone selling price",
+          "VND 450 million, splitting the bundle price equally between the two obligations"
+        ],
+        "explanation": "Step 4 of IFRS 15 allocates the transaction price in PROPORTION to standalone selling prices. Total standalone = 800 + 200 = 1,000 million; software is 800/1,000 = 80%. Allocation = 900 × 80% = 720 million; maintenance receives 180 million, recognised over two years.",
+        "distractors": [
+          null,
+          "Wrong — there are two distinct performance obligations, so not all revenue is immediate.",
+          "Wrong — that is the standalone price before allocating the 100 million bundle discount.",
+          "Wrong — allocation follows relative standalone prices, not an equal split."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-016",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 1,
+      "ref": "IAS 7 – Statement of Cash Flows",
+      "tags": ["ias-7"],
+      "vi": {
+        "question": "Theo IAS 7, tiền lãi vay đã trả (interest paid) được phân loại vào nhóm dòng tiền nào?",
+        "options": [
+          "Bắt buộc phải phân loại vào investing activities trong mọi trường hợp phát sinh",
+          "Có thể phân loại vào operating activities hoặc financing activities, áp dụng nhất quán qua các kỳ",
+          "Bắt buộc phải loại trừ hoàn toàn khỏi báo cáo lưu chuyển tiền tệ của doanh nghiệp",
+          "Bắt buộc phân loại vào operating activities, không có lựa chọn nào khác được phép"
+        ],
+        "explanation": "IAS 7 cho phép doanh nghiệp lựa chọn: interest paid có thể xếp vào operating activities (vì ảnh hưởng tới lợi nhuận) hoặc financing activities (vì là chi phí huy động vốn), miễn là áp dụng NHẤT QUÁN qua các kỳ và thuyết minh rõ chính sách đã chọn. Tương tự với interest received và dividends received.",
+        "distractors": [
+          "Sai — lãi vay đã trả không thuộc hoạt động đầu tư theo quy định của IAS 7.",
+          null,
+          "Sai — đây là dòng tiền thực tế phát sinh nên bắt buộc phải trình bày trên báo cáo.",
+          "Sai — IAS 7 cho phép lựa chọn giữa hai nhóm, không bắt buộc một nhóm duy nhất."
+        ]
+      },
+      "en": {
+        "question": "Under IAS 7, how is interest paid classified in the cash flow statement?",
+        "options": [
+          "Always within investing activities",
+          "Either operating or financing activities, applied consistently from period to period",
+          "Excluded from the cash flow statement entirely",
+          "Always within operating activities, with no alternative permitted"
+        ],
+        "explanation": "IAS 7 permits a choice: interest paid may sit in operating activities (it affects profit) or financing activities (it is a cost of raising funds), provided the policy is applied CONSISTENTLY and disclosed. The same choice applies to interest and dividends received.",
+        "distractors": [
+          "Wrong — interest paid is not an investing cash flow under IAS 7.",
+          null,
+          "Wrong — it is a real cash flow and must be presented.",
+          "Wrong — IAS 7 allows a choice between two classifications."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-017",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "IAS 12 – Income Taxes",
+      "tags": ["ias-12", "thue-hoan-lai"],
+      "vi": {
+        "question": "Deferred tax (thuế thu nhập hoãn lại) phát sinh từ nguyên nhân nào?",
+        "options": [
+          "Từ việc doanh nghiệp nộp thuế chậm hơn thời hạn quy định của cơ quan thuế",
+          "Từ việc doanh nghiệp được cơ quan thuế cho phép gia hạn thời gian nộp thuế",
+          "Từ temporary differences giữa carrying amount kế toán và tax base của tài sản, nợ phải trả",
+          "Từ việc thuế suất thuế thu nhập doanh nghiệp thay đổi giữa các năm tài chính"
+        ],
+        "explanation": "Deferred tax phát sinh từ TEMPORARY DIFFERENCES — chênh lệch tạm thời giữa giá trị ghi sổ kế toán và cơ sở tính thuế của tài sản hoặc nợ phải trả, sẽ đảo ngược trong tương lai. Ví dụ điển hình: thời gian khấu hao kế toán khác thời gian khấu hao thuế. Chênh lệch VĨNH VIỄN (như tiền phạt không được trừ) KHÔNG tạo ra deferred tax.",
+        "distractors": [
+          "Sai — nộp thuế chậm phát sinh tiền chậm nộp, không tạo ra thuế hoãn lại.",
+          "Sai — gia hạn nộp thuế chỉ là vấn đề dòng tiền, không phải chênh lệch tạm thời.",
+          null,
+          "Sai — thay đổi thuế suất làm ĐỊNH GIÁ LẠI deferred tax hiện có, nhưng không phải nguyên nhân phát sinh."
+        ]
+      },
+      "en": {
+        "question": "What gives rise to deferred tax?",
+        "options": [
+          "Paying tax later than the statutory deadline",
+          "Obtaining an extension of the tax payment deadline from the authority",
+          "Temporary differences between the accounting carrying amount and the tax base of assets and liabilities",
+          "Changes in the corporate income tax rate between financial years"
+        ],
+        "explanation": "Deferred tax arises from TEMPORARY DIFFERENCES between an item’s carrying amount and its tax base, which reverse in future periods — for example, different accounting and tax depreciation lives. PERMANENT differences, such as non-deductible fines, create no deferred tax.",
+        "distractors": [
+          "Wrong — late payment creates interest, not deferred tax.",
+          "Wrong — an extension is a cash flow matter, not a temporary difference.",
+          null,
+          "Wrong — a rate change REMEASURES existing deferred tax but does not create it."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-018",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 3,
+      "ref": "IFRS 9 – Financial Instruments",
+      "tags": ["ifrs-9", "phan-loai"],
+      "vi": {
+        "question": "IFRS 9 phân loại tài sản tài chính thành mấy nhóm đo lường?",
+        "options": [
+          "Hai nhóm là held to maturity và available for sale theo cách phân loại của chuẩn mực cũ",
+          "Bốn nhóm dựa trên thời hạn nắm giữ tài sản tài chính là dưới 1 năm và trên 1 năm",
+          "Một nhóm duy nhất, toàn bộ tài sản tài chính đều được đo lường theo fair value",
+          "Ba nhóm: amortised cost, fair value through OCI (FVOCI), và fair value through profit or loss (FVTPL)"
+        ],
+        "explanation": "IFRS 9 phân loại tài sản tài chính thành ba nhóm: amortised cost, FVOCI và FVTPL. Việc phân loại dựa trên hai tiêu chí: business model của doanh nghiệp trong việc quản lý tài sản, và đặc điểm dòng tiền hợp đồng (SPPI test — solely payments of principal and interest).",
+        "distractors": [
+          "Sai — held to maturity và available for sale là cách phân loại CŨ theo IAS 39, đã bị thay thế.",
+          "Sai — phân loại dựa trên business model và đặc điểm dòng tiền, không dựa trên thời hạn nắm giữ.",
+          "Sai — không phải mọi tài sản tài chính đều đo lường theo fair value.",
+          null
+        ]
+      },
+      "en": {
+        "question": "How many measurement categories does IFRS 9 use for financial assets?",
+        "options": [
+          "Two: held to maturity and available for sale, as under the previous standard",
+          "Four, based on holding period above and below one year",
+          "One: all financial assets are measured at fair value",
+          "Three: amortised cost, fair value through OCI (FVOCI), and fair value through profit or loss (FVTPL)"
+        ],
+        "explanation": "IFRS 9 uses three categories: amortised cost, FVOCI and FVTPL. Classification rests on two tests: the entity’s business model for managing the asset, and the contractual cash flow characteristics (the SPPI test — solely payments of principal and interest).",
+        "distractors": [
+          "Wrong — held to maturity and available for sale are the OLD IAS 39 categories.",
+          "Wrong — classification rests on business model and cash flows, not holding period.",
+          "Wrong — not all financial assets are measured at fair value.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-019",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "IAS 21 – The Effects of Changes in Foreign Exchange Rates",
+      "tags": ["ias-21", "ty-gia"],
+      "vi": {
+        "question": "Theo IAS 21, khoản mục nào phải được đánh giá lại theo tỷ giá cuối kỳ (closing rate)?",
+        "options": [
+          "Monetary items như tiền, phải thu và phải trả có gốc ngoại tệ",
+          "Toàn bộ khoản mục trên bảng cân đối, không phân biệt tính chất tiền tệ hay phi tiền tệ",
+          "Non-monetary items ghi theo giá gốc như hàng tồn kho và tài sản cố định hữu hình",
+          "Chỉ riêng khoản mục vốn góp của chủ sở hữu được ghi bằng ngoại tệ tại thời điểm góp vốn"
+        ],
+        "explanation": "IAS 21 phân biệt: MONETARY items (tiền, phải thu, phải trả, khoản vay bằng ngoại tệ) phải đánh giá lại theo closing rate tại mỗi kỳ báo cáo, chênh lệch ghi vào profit or loss. NON-MONETARY items ghi theo giá gốc thì giữ nguyên tỷ giá tại ngày giao dịch (historical rate), không đánh giá lại.",
+        "distractors": [
+          null,
+          "Sai — chỉ khoản mục tiền tệ mới phải đánh giá lại, khoản mục phi tiền tệ thì không.",
+          "Sai — hàng tồn kho và TSCĐ là khoản mục phi tiền tệ, giữ theo tỷ giá ngày giao dịch.",
+          "Sai — vốn góp của chủ sở hữu là khoản mục phi tiền tệ, không đánh giá lại theo tỷ giá cuối kỳ."
+        ]
+      },
+      "en": {
+        "question": "Under IAS 21, which items must be retranslated at the closing rate?",
+        "options": [
+          "Monetary items such as cash, receivables and payables denominated in foreign currency",
+          "All balance sheet items, monetary and non-monetary alike",
+          "Non-monetary items carried at cost, such as inventory and tangible fixed assets",
+          "Only owners’ contributed capital denominated in foreign currency at the date of each contribution"
+        ],
+        "explanation": "IAS 21 distinguishes MONETARY items — cash, receivables, payables and foreign currency borrowings — which are retranslated at the closing rate each reporting date with differences to profit or loss. NON-MONETARY items carried at cost stay at the historical transaction rate.",
+        "distractors": [
+          null,
+          "Wrong — only monetary items are retranslated.",
+          "Wrong — inventory and fixed assets are non-monetary and stay at historical rates.",
+          "Wrong — contributed capital is non-monetary and is not retranslated."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-020",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["vas", "danh-muc"],
+      "vi": {
+        "question": "Hệ thống chuẩn mực kế toán Việt Nam (VAS) hiện có bao nhiêu chuẩn mực và được ban hành trong giai đoạn nào?",
+        "options": [
+          "16 chuẩn mực, được ban hành trong giai đoạn từ năm 2010 đến năm 2015 và cập nhật thường xuyên",
+          "26 chuẩn mực, ban hành trong giai đoạn 2001–2005 và gần như không được cập nhật từ đó",
+          "41 chuẩn mực, tương ứng đầy đủ với số lượng chuẩn mực IAS và IFRS hiện đang có hiệu lực",
+          "35 chuẩn mực, được Bộ Tài chính ban hành và cập nhật lại toàn bộ trong năm 2020 vừa qua"
+        ],
+        "explanation": "VAS gồm 26 chuẩn mực ban hành trong giai đoạn 2001–2005 và gần như không được cập nhật kể từ đó — đây là lý do chính khiến khoảng cách với IFRS ngày càng lớn. IFRS hiện có 24 IAS và 17 IFRS đang hiệu lực và được cập nhật liên tục.",
+        "distractors": [
+          "Sai — số lượng và giai đoạn ban hành đều không đúng; VAS không được cập nhật thường xuyên.",
+          null,
+          "Sai — 41 là tổng số chuẩn mực IAS và IFRS, không phải số lượng chuẩn mực VAS.",
+          "Sai — VAS không được ban hành lại toàn bộ trong năm 2020."
+        ]
+      },
+      "en": {
+        "question": "How many Vietnamese Accounting Standards (VAS) exist, and when were they issued?",
+        "options": [
+          "16 standards, issued between 2010 and 2015 and regularly updated",
+          "26 standards, issued between 2001 and 2005 and barely updated since",
+          "41 standards, matching the current number of IAS and IFRS in force",
+          "35 standards, wholly reissued and updated by the Ministry of Finance in 2020"
+        ],
+        "explanation": "VAS comprises 26 standards issued between 2001 and 2005, essentially unchanged since — the main reason the gap with IFRS has widened. IFRS currently comprises 24 IAS and 17 IFRS, continuously updated.",
+        "distractors": [
+          "Wrong — neither the count nor the period is right, and VAS is not regularly updated.",
+          null,
+          "Wrong — 41 is the combined IAS and IFRS count.",
+          "Wrong — VAS was not reissued in 2020."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-021",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "advanced",
+      "answer": 2,
+      "ref": "IAS 36 – Impairment of Assets",
+      "tags": ["ias-36", "goodwill"],
+      "vi": {
+        "question": "Điểm đặc biệt trong xử lý impairment loss của goodwill theo IAS 36 là gì?",
+        "options": [
+          "Goodwill không bao giờ phải kiểm tra suy giảm giá trị vì đây là tài sản vô hình đặc thù",
+          "Goodwill được trích khấu hao đều hằng năm giống như các tài sản cố định hữu hình khác",
+          "Impairment loss của goodwill KHÔNG BAO GIỜ được hoàn nhập, kể cả khi điều kiện cải thiện",
+          "Impairment loss của goodwill được hoàn nhập tự động ngay khi giá trị tài sản phục hồi trở lại"
+        ],
+        "explanation": "Goodwill không được khấu hao mà phải kiểm tra impairment ÍT NHẤT MỖI NĂM MỘT LẦN, bất kể có dấu hiệu suy giảm hay không. Điểm đặc biệt nhất: một khi đã ghi nhận impairment loss cho goodwill thì KHÔNG BAO GIỜ được hoàn nhập, khác với các tài sản khác vốn có thể hoàn nhập khi điều kiện thay đổi.",
+        "distractors": [
+          "Sai — goodwill bắt buộc phải kiểm tra suy giảm giá trị ít nhất mỗi năm một lần.",
+          "Sai — theo IFRS goodwill không được khấu hao mà chỉ kiểm tra suy giảm giá trị định kỳ.",
+          null,
+          "Sai — đây chính là điều IAS 36 nghiêm cấm đối với riêng khoản mục goodwill."
+        ]
+      },
+      "en": {
+        "question": "What is distinctive about goodwill impairment under IAS 36?",
+        "options": [
+          "Goodwill is never tested for impairment because of its special nature",
+          "Goodwill is amortised evenly each year like tangible fixed assets",
+          "A goodwill impairment loss is NEVER reversed, even if conditions improve",
+          "A goodwill impairment loss reverses automatically in a later period once the value recovers"
+        ],
+        "explanation": "Goodwill is not amortised but must be tested for impairment AT LEAST ANNUALLY, regardless of indicators. Most distinctively, once recognised a goodwill impairment loss is NEVER reversed — unlike other assets, whose impairments may reverse when circumstances change.",
+        "distractors": [
+          "Wrong — goodwill must be tested at least annually.",
+          "Wrong — under IFRS goodwill is not amortised.",
+          null,
+          "Wrong — this is precisely what IAS 36 prohibits for goodwill."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-022",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "IAS 37 – Provisions, Contingent Liabilities and Contingent Assets",
+      "tags": ["ias-37", "dieu-kien"],
+      "vi": {
+        "question": "Theo IAS 37, ba điều kiện để ghi nhận một provision là gì?",
+        "options": [
+          "Đã có hóa đơn của nhà cung cấp, đã được giám đốc phê duyệt, và đã được ghi vào sổ kế toán",
+          "Số tiền trên 100 triệu đồng, thời hạn trong vòng 12 tháng, và đã có văn bản thỏa thuận",
+          "Ban giám đốc đã quyết định, kiểm toán viên đã đồng ý, và cơ quan thuế đã chấp thuận",
+          "Có nghĩa vụ hiện tại từ sự kiện quá khứ, khả năng phải chi trả là probable, và ước tính được đáng tin cậy"
+        ],
+        "explanation": "Ba điều kiện phải thỏa mãn ĐỒNG THỜI: có present obligation (pháp lý hoặc suy đoán) phát sinh từ past event; khả năng phải chi trả nguồn lực là probable (thường hiểu là trên 50%); và có thể ước tính được số tiền một cách đáng tin cậy. Thiếu bất kỳ điều kiện nào thì chỉ thuyết minh như contingent liability.",
+        "distractors": [
+          "Sai — có hóa đơn thì đã là khoản phải trả xác định, không còn là provision nữa.",
+          "Sai — không có ngưỡng giá trị hay thời hạn cụ thể nào trong điều kiện ghi nhận provision.",
+          "Sai — ghi nhận kế toán không phụ thuộc vào sự chấp thuận của cơ quan thuế.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Under IAS 37, what are the three conditions for recognising a provision?",
+        "options": [
+          "A supplier invoice exists, the director has approved it, and it has been posted",
+          "The amount exceeds VND 100 million, it falls due within 12 months, and a written agreement exists",
+          "Management has decided, the auditor agrees, and the tax authority has approved",
+          "A present obligation from a past event, a probable outflow, and a reliable estimate"
+        ],
+        "explanation": "All three must be met SIMULTANEOUSLY: a present obligation (legal or constructive) arising from a past event; a probable outflow of resources (generally above 50%); and a reliable estimate of the amount. Failing any one, it is disclosed only as a contingent liability.",
+        "distractors": [
+          "Wrong — once an invoice exists it is a determinate payable, not a provision.",
+          "Wrong — no value or timing thresholds appear in the recognition criteria.",
+          "Wrong — accounting recognition does not depend on tax authority approval.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-023",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "basic",
+      "answer": 0,
+      "ref": "IAS 16 – Property, Plant and Equipment",
+      "tags": ["ias-16", "component"],
+      "vi": {
+        "question": "“Component depreciation” theo IAS 16 nghĩa là gì?",
+        "options": [
+          "Khấu hao riêng từng bộ phận cấu thành có giá trị đáng kể và thời gian sử dụng khác nhau",
+          "Khấu hao toàn bộ tài sản theo một mức duy nhất áp dụng chung cho mọi bộ phận của tài sản",
+          "Chỉ trích khấu hao cho phần tài sản đang thực sự được đưa vào sử dụng trong kỳ báo cáo",
+          "Phân bổ chi phí khấu hao cho các bộ phận phòng ban sử dụng tài sản trong doanh nghiệp"
+        ],
+        "explanation": "IAS 16 yêu cầu khấu hao riêng từng bộ phận cấu thành có giá trị đáng kể so với tổng nguyên giá và có thời gian sử dụng khác nhau. Ví dụ: thân máy bay, động cơ và nội thất khoang khách được khấu hao theo các thời gian khác nhau. VAS 03 không có yêu cầu này — đây là một khác biệt đáng chú ý.",
+        "distractors": [
+          null,
+          "Sai — đây chính là cách làm mà component depreciation muốn thay thế.",
+          "Sai — khấu hao được tính từ khi tài sản sẵn sàng sử dụng, không phụ thuộc mức độ sử dụng thực tế.",
+          "Sai — đó là phân bổ chi phí khấu hao theo bộ phận, một vấn đề của kế toán quản trị."
+        ]
+      },
+      "en": {
+        "question": "What does “component depreciation” mean under IAS 16?",
+        "options": [
+          "Depreciating separately each significant part with a different useful life",
+          "Depreciating the whole asset at a single rate applied to every part",
+          "Depreciating only the portion of the asset actually in use during the period",
+          "Allocating depreciation across the departments that use the asset"
+        ],
+        "explanation": "IAS 16 requires each part with a cost significant relative to the total, and a different useful life, to be depreciated separately — an aircraft’s airframe, engines and cabin interior, for example. VAS 03 has no such requirement, a notable difference.",
+        "distractors": [
+          null,
+          "Wrong — that is precisely the approach component depreciation replaces.",
+          "Wrong — depreciation runs from readiness for use, not actual utilisation.",
+          "Wrong — that is departmental cost allocation, a management accounting matter."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-024",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "advanced",
+      "answer": 1,
+      "ref": "IFRS 16 – Leases",
+      "tags": ["ifrs-16", "anh-huong"],
+      "vi": {
+        "question": "Việc áp dụng IFRS 16 ảnh hưởng thế nào tới các chỉ số tài chính của doanh nghiệp đi thuê nhiều tài sản?",
+        "options": [
+          "Làm giảm tổng tài sản và giảm nợ phải trả, do đó cải thiện đáng kể tỷ lệ nợ trên vốn chủ sở hữu",
+          "Làm tăng tổng tài sản và nợ phải trả, tăng EBITDA nhưng làm xấu tỷ lệ nợ trên vốn chủ sở hữu",
+          "Không ảnh hưởng gì tới các chỉ số tài chính vì tổng chi phí trong suốt thời gian thuê không đổi",
+          "Làm giảm EBITDA vì chi phí thuê được ghi nhận toàn bộ ngay trong năm đầu tiên của hợp đồng"
+        ],
+        "explanation": "IFRS 16 đưa hợp đồng thuê lên bảng cân đối nên tổng tài sản và nợ phải trả đều TĂNG, làm xấu debt-to-equity và gearing ratio. Đồng thời EBITDA TĂNG vì chi phí thuê đường thẳng trước đây nằm trong operating expenses nay tách thành depreciation và interest — cả hai đều nằm dưới dòng EBITDA. Đây là tác động cần lưu ý khi doanh nghiệp có covenant vay vốn.",
+        "distractors": [
+          "Sai — IFRS 16 làm TĂNG cả tài sản lẫn nợ phải trả, không phải giảm.",
+          null,
+          "Sai — tổng chi phí cả đời hợp đồng không đổi nhưng phân bổ theo năm và cách trình bày thay đổi rõ rệt.",
+          "Sai — EBITDA tăng chứ không giảm, và chi phí không được ghi hết vào năm đầu tiên."
+        ]
+      },
+      "en": {
+        "question": "How does adopting IFRS 16 affect the financial ratios of a lease-heavy company?",
+        "options": [
+          "Total assets and liabilities fall, materially improving the debt-to-equity ratio",
+          "Total assets and liabilities rise, EBITDA improves, but debt-to-equity worsens",
+          "No effect, since total cost over the lease term is unchanged",
+          "EBITDA falls, because the whole lease cost is recognised in year one"
+        ],
+        "explanation": "IFRS 16 brings leases onto the balance sheet, so assets and liabilities both RISE, worsening debt-to-equity and gearing. EBITDA also RISES, because the former straight-line operating rent is replaced by depreciation and interest, both below the EBITDA line. This matters where loan covenants are in place.",
+        "distractors": [
+          "Wrong — IFRS 16 increases both assets and liabilities.",
+          null,
+          "Wrong — total lifetime cost is unchanged, but its phasing and presentation change markedly.",
+          "Wrong — EBITDA rises, and costs are not front-loaded into year one."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B10-025",
+      "topic": "b10-ifrs-vas",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Thông tư 202/2014/TT-BTC; IFRS 10 – Consolidated Financial Statements",
+      "tags": ["hop-nhat"],
+      "vi": {
+        "question": "Khi lập báo cáo tài chính hợp nhất, giao dịch nội bộ giữa công ty mẹ và công ty con được xử lý thế nào?",
+        "options": [
+          "Giữ nguyên toàn bộ để phản ánh đầy đủ quy mô hoạt động thực tế của cả tập đoàn",
+          "Chỉ loại trừ phần doanh thu, còn chi phí và lợi nhuận nội bộ vẫn được giữ nguyên trên báo cáo",
+          "Loại trừ hoàn toàn doanh thu, chi phí, công nợ nội bộ và lợi nhuận chưa thực hiện",
+          "Ghi nhận thành một khoản mục riêng biệt gọi là giao dịch nội bộ trên báo cáo hợp nhất"
+        ],
+        "explanation": "Nguyên tắc hợp nhất: tập đoàn được coi là MỘT thực thể kinh tế duy nhất, nên toàn bộ giao dịch nội bộ phải được loại trừ — doanh thu và chi phí nội bộ, công nợ phải thu phải trả nội bộ, và lợi nhuận chưa thực hiện nằm trong hàng tồn kho hoặc tài sản cố định. Nếu không loại trừ, doanh thu và lợi nhuận của tập đoàn sẽ bị thổi phồng.",
+        "distractors": [
+          "Sai — giữ nguyên giao dịch nội bộ sẽ thổi phồng doanh thu và lợi nhuận của cả tập đoàn.",
+          "Sai — phải loại trừ đồng bộ cả doanh thu, chi phí và lợi nhuận chưa thực hiện.",
+          null,
+          "Sai — giao dịch nội bộ bị loại trừ hoàn toàn, không được trình bày thành khoản mục riêng."
+        ]
+      },
+      "en": {
+        "question": "How are intragroup transactions treated when preparing consolidated financial statements?",
+        "options": [
+          "Retained in full in the consolidated statements, to reflect the true scale of group activity",
+          "Only intragroup revenue is eliminated; costs and profits remain",
+          "Fully eliminated: intragroup revenue, expenses, balances and unrealised profit",
+          "Presented as a separate line item called intragroup transactions"
+        ],
+        "explanation": "Consolidation treats the group as a SINGLE economic entity, so all intragroup items are eliminated — revenue and expenses, receivables and payables, and unrealised profit held in inventory or fixed assets. Without elimination, group revenue and profit would be overstated.",
+        "distractors": [
+          "Wrong — retaining them overstates group revenue and profit.",
+          "Wrong — revenue, expenses and unrealised profit must all be eliminated together.",
+          null,
+          "Wrong — intragroup items are eliminated, not presented separately."
+        ]
+      }
+    }
+  ]
+}

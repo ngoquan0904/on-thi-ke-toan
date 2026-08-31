@@ -1,0 +1,473 @@
+{
+  "topic": "a4-ap-ar-invoicing",
+  "questions": [
+    {
+      "id": "ENG-A4-001",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["ap-ar"],
+      "vi": {
+        "question": "“Accounts payable” (AP) và “accounts receivable” (AR) lần lượt là gì?",
+        "options": [
+          "Money the company owes to suppliers; money customers owe to the company",
+          "Money customers owe to the company; money the company owes to suppliers",
+          "Cash paid in advance to suppliers; cash received in advance from customers",
+          "Bank loans taken; bank deposits made"
+        ],
+        "explanation": "Accounts payable = phải trả người bán (nợ của công ty với nhà cung cấp). Accounts receivable = phải thu khách hàng (khách nợ công ty). Mẹo nhớ: “payable” là thứ bạn PHẢI TRẢ đi, “receivable” là thứ bạn SẼ NHẬN về.",
+        "distractors": [
+          null,
+          "Sai — hai vế bị đảo ngược hoàn toàn.",
+          "Sai — trả trước và nhận trước là prepayments và advances from customers.",
+          "Sai — vay ngân hàng và tiền gửi là loans và deposits."
+        ]
+      },
+      "en": {
+        "question": "What are “accounts payable” (AP) and “accounts receivable” (AR)?",
+        "options": [
+          "Money the company owes to suppliers; money customers owe to the company",
+          "Money customers owe to the company; money the company owes to suppliers",
+          "Cash paid in advance to suppliers; cash received in advance from customers",
+          "Bank loans taken; bank deposits made"
+        ],
+        "explanation": "Accounts payable is what the company owes suppliers; accounts receivable is what customers owe the company. Memory hook: “payable” is what you must PAY out, “receivable” is what you will RECEIVE.",
+        "distractors": [
+          null,
+          "Wrong — the two definitions are swapped.",
+          "Wrong — those are prepayments and advances from customers.",
+          "Wrong — those are loans and deposits."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-002",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["payment-terms"],
+      "vi": {
+        "question": "Điều khoản thanh toán “2/10, net 30” có nghĩa là gì?",
+        "options": [
+          "Pay 2% of the invoice within 10 days and the rest within 30 days",
+          "Pay in 2 instalments, 10 days apart, over 30 days",
+          "A 2% discount is available if paid within 10 days; otherwise the full amount is due in 30 days",
+          "Interest of 2% applies after 10 days, and 30% after a month"
+        ],
+        "explanation": "“2/10, net 30” là chiết khấu thanh toán sớm (early settlement discount): giảm 2% nếu trả trong vòng 10 ngày, nếu không thì trả đủ trong 30 ngày. Cách đọc chung: <% chiết khấu>/<số ngày để hưởng>, net <hạn thanh toán đầy đủ>.",
+        "distractors": [
+          "Sai — 2% là mức chiết khấu, không phải phần phải trả trước.",
+          "Sai — đây không phải điều khoản trả góp.",
+          null,
+          "Sai — không có lãi phạt nào được nêu trong ký hiệu này."
+        ]
+      },
+      "en": {
+        "question": "What do the payment terms “2/10, net 30” mean?",
+        "options": [
+          "Pay 2% of the invoice within 10 days and the rest within 30 days",
+          "Pay in 2 instalments, 10 days apart, over 30 days",
+          "A 2% discount is available if paid within 10 days; otherwise the full amount is due in 30 days",
+          "Interest of 2% applies after 10 days, and 30% after a month"
+        ],
+        "explanation": "“2/10, net 30” is an early settlement discount: take 2% off if you pay within 10 days, otherwise pay the full amount within 30 days. Read it as <discount %>/<days to qualify>, net <full due date>.",
+        "distractors": [
+          "Wrong — the 2% is a discount, not an upfront instalment.",
+          "Wrong — these are not instalment terms.",
+          null,
+          "Wrong — the notation states no interest charge."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-003",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["credit-note"],
+      "vi": {
+        "question": "Khi nào doanh nghiệp phát hành một “credit note”?",
+        "options": [
+          "When granting a new credit limit to a customer",
+          "When reducing the amount a customer owes, for example after a return or an overcharge",
+          "When borrowing money from a bank",
+          "When recording a purchase from a supplier"
+        ],
+        "explanation": "Credit note (giấy báo Có, hóa đơn điều chỉnh giảm) làm giảm số tiền khách hàng phải trả — dùng khi hàng bị trả lại, tính thừa hoặc được giảm giá. Ngược lại, debit note làm tăng số phải trả. Ở Việt Nam nội dung tương ứng được xử lý bằng hóa đơn điều chỉnh theo Nghị định 70/2025.",
+        "distractors": [
+          "Sai — cấp hạn mức tín dụng là credit limit, không liên quan tới chứng từ này.",
+          null,
+          "Sai — vay ngân hàng không phát sinh credit note.",
+          "Sai — ghi nhận mua hàng dùng hóa đơn của nhà cung cấp."
+        ]
+      },
+      "en": {
+        "question": "When does a business issue a credit note?",
+        "options": [
+          "When granting a new credit limit to a customer",
+          "When reducing the amount a customer owes, for example after a return or an overcharge",
+          "When borrowing money from a bank",
+          "When recording a purchase from a supplier"
+        ],
+        "explanation": "A credit note reduces what a customer owes — used for returns, overcharges or agreed discounts. A debit note does the opposite. In Vietnam the equivalent is handled through an adjustment invoice under Decree 70/2025.",
+        "distractors": [
+          "Wrong — that is setting a credit limit.",
+          null,
+          "Wrong — borrowing does not generate a credit note.",
+          "Wrong — purchases are recorded from the supplier’s invoice."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-004",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["ageing"],
+      "vi": {
+        "question": "“Ageing report” (hay “aged receivables analysis”) cho biết điều gì?",
+        "options": [
+          "The average age of the company’s fixed assets",
+          "How long each employee has worked for the company",
+          "The remaining useful life of each inventory line item held at the main warehouse",
+          "How long each customer balance has been outstanding, grouped into time bands"
+        ],
+        "explanation": "Ageing report (bảng phân tích tuổi nợ) phân nhóm các khoản phải thu theo số ngày quá hạn: current, 1–30 days, 31–60 days, 61–90 days, over 90 days. Đây là công cụ chính để quản lý thu hồi công nợ và để ước tính dự phòng nợ khó đòi.",
+        "distractors": [
+          "Sai — tuổi tài sản cố định là fixed asset register, không phải ageing report.",
+          "Sai — thâm niên nhân viên là dữ liệu nhân sự.",
+          "Sai — thời hạn sử dụng hàng tồn kho là inventory expiry hoặc shelf life.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What does an ageing report (aged receivables analysis) show?",
+        "options": [
+          "The average age of the company’s fixed assets",
+          "How long each employee has worked for the company",
+          "The remaining useful life of each inventory line item held at the main warehouse",
+          "How long each customer balance has been outstanding, grouped into time bands"
+        ],
+        "explanation": "An ageing report groups receivables by how overdue they are: current, 1–30 days, 31–60, 61–90 and over 90 days. It is the main tool for chasing collections and for estimating the allowance for doubtful debts.",
+        "distractors": [
+          "Wrong — asset ages come from the fixed asset register.",
+          "Wrong — that is HR data.",
+          "Wrong — that is inventory shelf life.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-005",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["remittance-advice"],
+      "vi": {
+        "question": "“Remittance advice” là chứng từ gì?",
+        "options": [
+          "A request asking a customer to pay",
+          "A bank’s confirmation that a loan has been approved",
+          "A notice from a payer listing which invoices a payment covers",
+          "A supplier’s price list for the coming year"
+        ],
+        "explanation": "Remittance advice (giấy báo thanh toán) do bên trả tiền gửi cho bên nhận, liệt kê khoản thanh toán này ứng với những hóa đơn nào. Rất quan trọng với kế toán công nợ: không có nó thì khó cấn trừ (allocate) đúng khoản tiền vào hóa đơn tương ứng.",
+        "distractors": [
+          "Sai — yêu cầu khách trả tiền là payment reminder hoặc dunning letter.",
+          "Sai — xác nhận duyệt khoản vay là loan approval letter.",
+          null,
+          "Sai — bảng giá là price list."
+        ]
+      },
+      "en": {
+        "question": "What is a remittance advice?",
+        "options": [
+          "A request asking a customer to pay",
+          "A bank’s confirmation that a loan has been approved",
+          "A notice from a payer listing which invoices a payment covers",
+          "A supplier’s price list for the coming year"
+        ],
+        "explanation": "A remittance advice is sent by the payer to the payee, listing which invoices a payment settles. It matters greatly in AR work: without one, allocating cash to the right invoices becomes guesswork.",
+        "distractors": [
+          "Wrong — that is a payment reminder or dunning letter.",
+          "Wrong — that is a loan approval letter.",
+          null,
+          "Wrong — that is a price list."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-006",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["bad-debt"],
+      "vi": {
+        "question": "“Allowance for doubtful accounts” (còn gọi là provision for bad debts) là gì?",
+        "options": [
+          "Cash kept aside to pay suppliers",
+          "A penalty charged to late-paying customers",
+          "The total of all invoices issued during the year",
+          "An estimate of receivables that are unlikely to be collected"
+        ],
+        "explanation": "Allowance for doubtful accounts (dự phòng phải thu khó đòi) là ước tính phần công nợ có khả năng không thu hồi được. Đây là contra-asset, trình bày giảm trừ vào phải thu. Khác với write-off: dự phòng là ước tính, chưa xóa khoản nợ khỏi sổ; write-off mới là xóa hẳn.",
+        "distractors": [
+          "Sai — đây không phải khoản tiền để riêng, mà là số ước tính kế toán.",
+          "Sai — phạt chậm trả là late payment interest hoặc penalty.",
+          "Sai — tổng hóa đơn phát hành trong năm là total invoiced sales.",
+          null
+        ]
+      },
+      "en": {
+        "question": "What is the allowance for doubtful accounts (provision for bad debts)?",
+        "options": [
+          "Cash kept aside to pay suppliers",
+          "A penalty charged to late-paying customers",
+          "The total of all invoices issued during the year",
+          "An estimate of receivables that are unlikely to be collected"
+        ],
+        "explanation": "The allowance for doubtful accounts estimates the portion of receivables unlikely to be recovered. It is a contra-asset shown as a deduction from receivables. Unlike a write-off, it is only an estimate — the debt stays on the books.",
+        "distractors": [
+          "Wrong — it is an accounting estimate, not cash set aside.",
+          "Wrong — that is late payment interest or a penalty.",
+          "Wrong — that is total invoiced sales.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-007",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["three-way-match"],
+      "vi": {
+        "question": "Trong quy trình xử lý hóa đơn mua hàng, “three-way match” đối chiếu ba chứng từ nào?",
+        "options": [
+          "Purchase order, goods received note and supplier invoice",
+          "Sales order, delivery note and the customer’s remittance advice for the payment",
+          "Bank statement, cash book and petty cash log",
+          "Contract, tax return and audit report"
+        ],
+        "explanation": "Three-way match (đối chiếu ba chiều) so khớp: đơn đặt hàng (purchase order) — phiếu nhập kho/biên bản giao nhận (goods received note) — hóa đơn nhà cung cấp (supplier invoice). Nếu ba chứng từ khớp nhau về số lượng và giá thì hóa đơn mới được duyệt thanh toán. Đây là kiểm soát nội bộ cốt lõi trong AP.",
+        "distractors": [
+          null,
+          "Sai — đây là chuỗi chứng từ bên bán hàng, không phải quy trình duyệt hóa đơn mua.",
+          "Sai — đó là các đối tượng của bank reconciliation và kiểm quỹ.",
+          "Sai — hợp đồng, tờ khai thuế và báo cáo kiểm toán không tạo thành three-way match."
+        ]
+      },
+      "en": {
+        "question": "In accounts payable processing, a “three-way match” compares which three documents?",
+        "options": [
+          "Purchase order, goods received note and supplier invoice",
+          "Sales order, delivery note and the customer’s remittance advice for the payment",
+          "Bank statement, cash book and petty cash log",
+          "Contract, tax return and audit report"
+        ],
+        "explanation": "A three-way match reconciles the purchase order, the goods received note and the supplier invoice. Only when quantities and prices agree across all three is the invoice released for payment. It is the core internal control in AP.",
+        "distractors": [
+          null,
+          "Wrong — that is the sales-side document chain.",
+          "Wrong — those belong to bank reconciliation and cash counts.",
+          "Wrong — these do not form a three-way match."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-008",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["dunning"],
+      "vi": {
+        "question": "Động từ nào thường dùng để nói về việc đôn đốc khách hàng thanh toán hóa đơn quá hạn?",
+        "options": [
+          "To reconcile an invoice",
+          "To chase an invoice",
+          "To accrue an invoice",
+          "To capitalise an invoice"
+        ],
+        "explanation": "“To chase an invoice” (hoặc chase a payment, chase a customer) là cách nói thông dụng hằng ngày ở công ty nước ngoài, nghĩa là đôn đốc thu hồi công nợ. Từ trang trọng hơn là “to follow up on an overdue invoice”; quy trình chính thức gọi là dunning.",
+        "distractors": [
+          "Sai — reconcile là đối chiếu số liệu, không phải đôn đốc thanh toán.",
+          null,
+          "Sai — accrue là trích trước chi phí.",
+          "Sai — capitalise là vốn hóa chi phí vào giá trị tài sản."
+        ]
+      },
+      "en": {
+        "question": "Which verb is commonly used for pursuing a customer over an overdue invoice?",
+        "options": [
+          "To reconcile an invoice",
+          "To chase an invoice",
+          "To accrue an invoice",
+          "To capitalise an invoice"
+        ],
+        "explanation": "“To chase an invoice” (or chase a payment) is the everyday phrase in international firms for pursuing collection. The more formal wording is “to follow up on an overdue invoice”; the formal process is called dunning.",
+        "distractors": [
+          "Wrong — to reconcile is to agree figures, not to pursue payment.",
+          null,
+          "Wrong — to accrue is to record an expense not yet invoiced.",
+          "Wrong — to capitalise is to add cost to an asset’s value."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-009",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "advanced",
+      "answer": 2,
+      "tags": ["advance-payment"],
+      "vi": {
+        "question": "Khách hàng đặt cọc 200 triệu đồng cho một dịch vụ sẽ cung cấp vào quý sau. Khoản này được ghi nhận thế nào?",
+        "options": [
+          "As revenue immediately, because the cash has already been received into the bank account",
+          "As a trade receivable",
+          "As deferred revenue (a liability) until the service is delivered",
+          "As equity, because it increases the company’s funds"
+        ],
+        "explanation": "Tiền nhận trước của khách hàng là nghĩa vụ phải cung cấp dịch vụ trong tương lai, nên ghi nhận là deferred revenue hoặc unearned revenue (doanh thu chưa thực hiện — TK 3387), là NỢ PHẢI TRẢ. Chỉ khi đã cung cấp dịch vụ mới kết chuyển sang doanh thu. Nhận tiền không đồng nghĩa với có doanh thu.",
+        "distractors": [
+          "Sai — thu tiền không phải điều kiện ghi nhận doanh thu theo cơ sở dồn tích.",
+          "Sai — phải thu là khi khách nợ mình, ở đây ngược lại, mình nợ khách một dịch vụ.",
+          null,
+          "Sai — đây là nghĩa vụ với khách hàng, hoàn toàn không thuộc vốn chủ sở hữu."
+        ]
+      },
+      "en": {
+        "question": "A customer pays a VND 200 million deposit for a service to be delivered next quarter. How is it recorded?",
+        "options": [
+          "As revenue immediately, because the cash has already been received into the bank account",
+          "As a trade receivable",
+          "As deferred revenue (a liability) until the service is delivered",
+          "As equity, because it increases the company’s funds"
+        ],
+        "explanation": "Cash received in advance creates an obligation to deliver, so it is recorded as deferred or unearned revenue (Account 3387) — a liability. It is released to revenue only once the service is performed. Receiving cash is not the same as earning revenue.",
+        "distractors": [
+          "Wrong — cash receipt is not the recognition trigger under the accrual basis.",
+          "Wrong — a receivable arises when the customer owes you; here you owe the customer a service.",
+          null,
+          "Wrong — this is an obligation to a customer, not equity."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-010",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["statement-of-account"],
+      "vi": {
+        "question": "“Statement of account” gửi cho khách hàng có nội dung gì?",
+        "options": [
+          "A summary of all invoices, credit notes and payments, showing the balance owed",
+          "The company’s audited financial statements",
+          "A single invoice for one delivery",
+          "The customer’s bank account details"
+        ],
+        "explanation": "Statement of account (bảng kê công nợ) tổng hợp toàn bộ hóa đơn, giấy báo Có và các khoản đã thanh toán trong kỳ, chốt lại số dư khách hàng còn nợ. Thường gửi hằng tháng và dùng để xác nhận công nợ (balance confirmation) cuối năm.",
+        "distractors": [
+          null,
+          "Sai — báo cáo tài chính đã kiểm toán là financial statements, không gửi cho từng khách hàng.",
+          "Sai — hóa đơn cho một lần giao hàng là invoice.",
+          "Sai — thông tin tài khoản ngân hàng là bank details."
+        ]
+      },
+      "en": {
+        "question": "What does a statement of account sent to a customer contain?",
+        "options": [
+          "A summary of all invoices, credit notes and payments, showing the balance owed",
+          "The company’s audited financial statements",
+          "A single invoice for one delivery",
+          "The customer’s bank account details"
+        ],
+        "explanation": "A statement of account summarises all invoices, credit notes and payments for the period and shows the closing balance owed. It is usually sent monthly and used for year-end balance confirmations.",
+        "distractors": [
+          null,
+          "Wrong — audited financial statements are not sent to individual customers.",
+          "Wrong — a single delivery is covered by an invoice.",
+          "Wrong — those are bank details."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-011",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["overdue"],
+      "vi": {
+        "question": "Một hóa đơn đã quá hạn thanh toán được mô tả bằng từ nào?",
+        "options": [
+          "Outstanding",
+          "Settled",
+          "Void",
+          "Overdue"
+        ],
+        "explanation": "Overdue = đã quá hạn thanh toán. Cần phân biệt rõ bộ từ này trong công việc: outstanding = chưa thanh toán (có thể vẫn còn trong hạn), overdue = đã quá hạn, settled/paid = đã thanh toán, void/cancelled = đã hủy.",
+        "distractors": [
+          "Sai — outstanding chỉ nghĩa là chưa thanh toán, chưa chắc đã quá hạn.",
+          "Sai — settled nghĩa là đã thanh toán xong.",
+          "Sai — void nghĩa là hóa đơn đã bị hủy, không còn hiệu lực.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which word describes an invoice that has passed its due date?",
+        "options": [
+          "Outstanding",
+          "Settled",
+          "Void",
+          "Overdue"
+        ],
+        "explanation": "Overdue means past the due date. Keep the set straight at work: outstanding = unpaid (may still be within terms), overdue = past due, settled/paid = cleared, void/cancelled = no longer valid.",
+        "distractors": [
+          "Wrong — outstanding just means unpaid; it may still be within terms.",
+          "Wrong — settled means already paid.",
+          "Wrong — void means the invoice has been cancelled.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A4-012",
+      "topic": "a4-ap-ar-invoicing",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["offset"],
+      "vi": {
+        "question": "Một đối tác vừa là khách hàng vừa là nhà cung cấp. Việc bù trừ khoản phải thu với khoản phải trả của cùng đối tác này được gọi là gì, và cần lưu ý điều gì?",
+        "options": [
+          "Netting off, and it may always be applied to simplify the presentation of the balance sheet whenever both balances exist",
+          "Offsetting, and it is only permitted when there is a legal right of set-off and an intention to settle net",
+          "Consolidation, and it is required by the accounting standards",
+          "Provisioning, and it must be approved by the tax authority"
+        ],
+        "explanation": "Offsetting (bù trừ công nợ) chỉ được phép khi doanh nghiệp có quyền pháp lý bù trừ (legal right of set-off) VÀ có ý định thanh toán trên cơ sở thuần. Nếu không, IAS 1 yêu cầu trình bày riêng tài sản và nợ phải trả — bù trừ tùy tiện làm sai lệch quy mô công nợ trên báo cáo.",
+        "distractors": [
+          "Sai — không được bù trừ tùy ý; phải thỏa mãn điều kiện pháp lý và ý định thanh toán thuần.",
+          null,
+          "Sai — consolidation là hợp nhất báo cáo của công ty mẹ và công ty con, khái niệm khác hẳn.",
+          "Sai — provisioning là lập dự phòng và không cần cơ quan thuế phê duyệt."
+        ]
+      },
+      "en": {
+        "question": "A counterparty is both a customer and a supplier. What is netting their receivable against their payable called, and what is the key condition?",
+        "options": [
+          "Netting off, and it may always be applied to simplify the presentation of the balance sheet whenever both balances exist",
+          "Offsetting, and it is only permitted when there is a legal right of set-off and an intention to settle net",
+          "Consolidation, and it is required by the accounting standards",
+          "Provisioning, and it must be approved by the tax authority"
+        ],
+        "explanation": "Offsetting is permitted only where the entity has a legal right of set-off AND intends to settle net. Otherwise IAS 1 requires assets and liabilities to be presented separately — arbitrary offsetting understates the true scale of balances.",
+        "distractors": [
+          "Wrong — offsetting is not free of conditions; both tests must be met.",
+          null,
+          "Wrong — consolidation combines parent and subsidiary statements, a different concept.",
+          "Wrong — provisioning is estimating liabilities and needs no tax authority approval."
+        ]
+      }
+    }
+  ]
+}

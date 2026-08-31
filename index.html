@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi" data-lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ôn thi Kế toán — Accounting Exam Prep</title>
+<meta name="description" content="Bộ ôn tập trắc nghiệm song ngữ: 100 câu tiếng Anh kế toán + 200 câu chuyên môn, cập nhật quy định Việt Nam 2026.">
+<meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Ôn thi KT">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📗</text></svg>">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <button class="topbar__back" id="btn-back" hidden aria-label="Quay lại">←</button>
+  <a class="topbar__brand" href="#/">
+    <span class="topbar__mark">📗</span>
+    <span class="topbar__title" data-i18n="appTitle">Ôn thi Kế toán</span>
+  </a>
+  <span class="topbar__spacer"></span>
+  <span class="topbar__crumb" id="crumb"></span>
+</header>
+
+<main id="app" class="app" aria-live="polite">
+  <div class="loading"><span class="spinner"></span></div>
+</main>
+
+<button id="lang-toggle" class="langfab" type="button" aria-label="Chuyển ngôn ngữ / Switch language">
+  <span class="langfab__opt" data-lang-opt="vi">VI</span>
+  <span class="langfab__opt" data-lang-opt="en">EN</span>
+</button>
+
+<script type="module" src="assets/js/main.js"></script>
+</body>
+</html>

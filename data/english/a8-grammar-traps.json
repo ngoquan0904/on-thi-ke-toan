@@ -1,0 +1,395 @@
+{
+  "topic": "a8-grammar-traps",
+  "questions": [
+    {
+      "id": "ENG-A8-001",
+      "topic": "a8-grammar-traps",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["accrue-incur"],
+      "vi": {
+        "question": "Chọn câu dùng đúng “accrue” và “incur”: ",
+        "options": [
+          "The company incurred the cost in June and accrued it at month end.",
+          "The company accrued the cost in June and then incurred it again at month end.",
+          "The company incurred and accrued the cost to the bank.",
+          "The company accrued the cost from the supplier invoice."
+        ],
+        "explanation": "Incur = phát sinh, gánh chịu một khoản chi phí (sự kiện kinh tế xảy ra). Accrue = trích trước, ghi nhận khoản chi phí đã phát sinh nhưng chưa có hóa đơn. Trình tự đúng luôn là: chi phí incurred trước, sau đó kế toán accrue nó khi khóa sổ.",
+        "distractors": [
+          null,
+          "Sai — đảo ngược trình tự; không thể trích trước một khoản chưa phát sinh.",
+          "Sai — hai động từ này không đi với giới từ “to the bank” theo cách này.",
+          "Sai — khi đã có hóa đơn nhà cung cấp thì ghi nhận thẳng, không cần accrue nữa."
+        ]
+      },
+      "en": {
+        "question": "Which sentence uses “accrue” and “incur” correctly?",
+        "options": [
+          "The company incurred the cost in June and accrued it at month end.",
+          "The company accrued the cost in June and then incurred it again at month end.",
+          "The company incurred and accrued the cost to the bank.",
+          "The company accrued the cost from the supplier invoice."
+        ],
+        "explanation": "To incur is to become subject to a cost (the economic event happens). To accrue is to record a cost already incurred but not yet invoiced. The order is always: the cost is incurred first, then accrued at the close.",
+        "distractors": [
+          null,
+          "Wrong — reversed; you cannot accrue something not yet incurred.",
+          "Wrong — neither verb takes “to the bank” in this way.",
+          "Wrong — once the supplier invoice exists you post it directly; no accrual is needed."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-002",
+      "topic": "a8-grammar-traps",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["cost-expense-expenditure"],
+      "vi": {
+        "question": "Trong câu “Capital ______ on new machinery was VND 4 billion this year”, từ nào phù hợp nhất?",
+        "options": [
+          "cost",
+          "expense",
+          "expenditure",
+          "charge"
+        ],
+        "explanation": "Capital expenditure (CapEx — chi tiêu vốn) là cụm cố định chỉ khoản chi mua sắm tài sản dài hạn, đối lập với operating expenditure (OpEx). Phân biệt bộ ba: cost = giá gốc của một vật; expense = chi phí đã ghi vào kết quả kinh doanh; expenditure = khoản chi tiền, có thể được vốn hóa hoặc ghi vào chi phí.",
+        "distractors": [
+          "Sai — không tồn tại cụm “capital cost on” theo nghĩa này; “cost” dùng cho giá của một đối tượng cụ thể.",
+          "Sai — “expense” là chi phí đưa vào P&L, ngược nghĩa với chi tiêu vốn được vốn hóa.",
+          null,
+          "Sai — “charge” là khoản phí hoặc bút toán ghi Nợ, không dùng trong cụm này."
+        ]
+      },
+      "en": {
+        "question": "In “Capital ______ on new machinery was VND 4 billion this year”, which word fits best?",
+        "options": [
+          "cost",
+          "expense",
+          "expenditure",
+          "charge"
+        ],
+        "explanation": "“Capital expenditure” (CapEx) is a fixed collocation for spending on long-term assets, contrasted with operating expenditure (OpEx). Keep the trio apart: cost = what something is worth to acquire; expense = a charge taken to the P&L; expenditure = cash spent, which may be capitalised or expensed.",
+        "distractors": [
+          "Wrong — “capital cost on” is not the idiom; “cost” attaches to a specific item.",
+          "Wrong — an expense goes to the P&L, the opposite of capitalised spending.",
+          null,
+          "Wrong — “charge” means a fee or a debit posting, not this collocation."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-003",
+      "topic": "a8-grammar-traps",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["prepositions"],
+      "vi": {
+        "question": "Chọn giới từ đúng: “The bank charges were charged ______ the administrative expense account.”",
+        "options": [
+          "on",
+          "to",
+          "in",
+          "at"
+        ],
+        "explanation": "Cụm chuẩn là “to charge an amount TO an account” (ghi một khoản vào một tài khoản). Bộ giới từ kế toán cần thuộc: charge to an account, account for a transaction, reconcile to/with a statement, allocate to a cost centre, provide for a liability.",
+        "distractors": [
+          "Sai — “charge on” mang nghĩa khoản phí đánh lên cái gì đó, không phải ghi vào tài khoản.",
+          null,
+          "Sai — “charged in” không phải cụm chuẩn trong ngữ cảnh ghi sổ.",
+          "Sai — “charged at” dùng cho mức giá hoặc tỷ lệ, ví dụ charged at 10%."
+        ]
+      },
+      "en": {
+        "question": "Choose the correct preposition: “The bank charges were charged ______ the administrative expense account.”",
+        "options": [
+          "on",
+          "to",
+          "in",
+          "at"
+        ],
+        "explanation": "The standard collocation is “to charge an amount TO an account”. Learn the accounting preposition set: charge to an account, account for a transaction, reconcile to/with a statement, allocate to a cost centre, provide for a liability.",
+        "distractors": [
+          "Wrong — “a charge on” means a fee levied on something, not a posting.",
+          null,
+          "Wrong — “charged in” is not standard in a posting context.",
+          "Wrong — “charged at” is used for a rate, e.g. charged at 10%."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-004",
+      "topic": "a8-grammar-traps",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["numbers"],
+      "vi": {
+        "question": "Cách viết nào đúng chuẩn quốc tế cho số tiền một tỷ hai trăm năm mươi triệu đồng?",
+        "options": [
+          "VND 1.250.000.000",
+          "VND 1 250 000 000,00",
+          "1,250,000,000 VND đồng",
+          "VND 1,250,000,000"
+        ],
+        "explanation": "Trong tiếng Anh, dấu phẩy là dấu phân cách hàng nghìn và dấu chấm là dấu thập phân — ngược với quy ước tiếng Việt. Mã tiền tệ ISO đặt trước số (VND 1,250,000,000). Đây là lỗi rất hay gặp khi lập báo cáo gửi head office và có thể gây hiểu nhầm tới ba chữ số.",
+        "distractors": [
+          "Sai — dùng dấu chấm phân cách hàng nghìn là quy ước Việt Nam và châu Âu lục địa, không phải tiếng Anh.",
+          "Sai — dùng dấu phẩy làm dấu thập phân là sai trong tiếng Anh.",
+          "Sai — lặp cả “VND” và “đồng” là thừa; đồng thời chỗ đặt mã tiền tệ chưa chuẩn.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which is the correct international format for one billion two hundred and fifty million dong?",
+        "options": [
+          "VND 1.250.000.000",
+          "VND 1 250 000 000,00",
+          "1,250,000,000 VND đồng",
+          "VND 1,250,000,000"
+        ],
+        "explanation": "In English the comma is the thousands separator and the point is the decimal marker — the reverse of the Vietnamese convention. The ISO currency code goes before the figure. This error is common in reports sent to head office and can shift a number by three digits.",
+        "distractors": [
+          "Wrong — points as thousands separators is the Vietnamese and continental European convention.",
+          "Wrong — a comma as the decimal marker is incorrect in English.",
+          "Wrong — “VND” and “đồng” together is redundant, and the code is misplaced.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-005",
+      "topic": "a8-grammar-traps",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["payable-receivable"],
+      "vi": {
+        "question": "Câu nào dùng đúng “payable” và “receivable”?",
+        "options": [
+          "Amounts payable to suppliers rose, while amounts receivable from customers fell.",
+          "Amounts receivable to suppliers rose, while amounts payable from customers fell.",
+          "Amounts payable from suppliers rose, while amounts receivable to customers fell.",
+          "Amounts payable and amounts receivable are both sums owed by the company to third parties."
+        ],
+        "explanation": "Cụm cố định: payable TO (phải trả cho ai) và receivable FROM (phải thu từ ai). Giới từ đi kèm chính là chỗ để kiểm tra bạn có hiểu chiều của dòng tiền hay không — payable là tiền đi ra, receivable là tiền đi vào.",
+        "distractors": [
+          null,
+          "Sai — đảo ngược cả hai từ và cả hai giới từ.",
+          "Sai — sai giới từ ở cả hai vế.",
+          "Sai — receivable là khoản người khác nợ công ty, không phải công ty nợ."
+        ]
+      },
+      "en": {
+        "question": "Which sentence uses “payable” and “receivable” correctly?",
+        "options": [
+          "Amounts payable to suppliers rose, while amounts receivable from customers fell.",
+          "Amounts receivable to suppliers rose, while amounts payable from customers fell.",
+          "Amounts payable from suppliers rose, while amounts receivable to customers fell.",
+          "Amounts payable and amounts receivable are both sums owed by the company to third parties."
+        ],
+        "explanation": "The fixed collocations are payable TO and receivable FROM. The preposition is exactly where a reader checks whether you understand the direction of the cash — payable flows out, receivable flows in.",
+        "distractors": [
+          null,
+          "Wrong — both words and both prepositions are reversed.",
+          "Wrong — both prepositions are wrong.",
+          "Wrong — a receivable is owed to the company, not by it."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-006",
+      "topic": "a8-grammar-traps",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["raise-rise"],
+      "vi": {
+        "question": "Chọn câu đúng: ",
+        "options": [
+          "We will rise an invoice for the additional services.",
+          "Costs raised by 8% compared with last year.",
+          "We will raise an invoice, and we expect costs to rise by 8%.",
+          "We will rise the invoice and costs will raise."
+        ],
+        "explanation": "Raise là ngoại động từ, cần tân ngữ: raise an invoice, raise a query, raise capital. Rise là nội động từ, không có tân ngữ: costs rise, prices rise. Lưu ý “to raise an invoice” là cách nói của người Anh, nghĩa là lập/phát hành hóa đơn — không phải nâng giá hóa đơn.",
+        "distractors": [
+          "Sai — “rise” không thể có tân ngữ; phải là “raise an invoice”.",
+          "Sai — chi phí tự tăng nên phải dùng “rose”, không dùng “raised”.",
+          null,
+          "Sai — dùng sai cả hai động từ, đảo ngược hoàn toàn."
+        ]
+      },
+      "en": {
+        "question": "Which sentence is correct?",
+        "options": [
+          "We will rise an invoice for the additional services.",
+          "Costs raised by 8% compared with last year.",
+          "We will raise an invoice, and we expect costs to rise by 8%.",
+          "We will rise the invoice and costs will raise."
+        ],
+        "explanation": "“Raise” is transitive and needs an object: raise an invoice, raise a query, raise capital. “Rise” is intransitive: costs rise, prices rise. Note that “to raise an invoice” is British usage meaning to issue one, not to increase its value.",
+        "distractors": [
+          "Wrong — “rise” cannot take an object; it must be “raise an invoice”.",
+          "Wrong — costs go up by themselves, so “rose”, not “raised”.",
+          null,
+          "Wrong — both verbs are used the wrong way round."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-007",
+      "topic": "a8-grammar-traps",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["dates"],
+      "vi": {
+        "question": "Ngày “05/09/2026” trong một email từ head office ở Anh và một email từ head office ở Mỹ lần lượt được hiểu là:",
+        "options": [
+          "5 September in both cases",
+          "5 September (UK) and 9 May (US)",
+          "9 May in both cases",
+          "9 May (UK) and 5 September (US)"
+        ],
+        "explanation": "Anh dùng thứ tự ngày/tháng/năm, Mỹ dùng tháng/ngày/năm. Cùng một chuỗi “05/09/2026” cho ra hai ngày khác nhau. Cách an toàn tuyệt đối khi làm việc quốc tế: viết tên tháng bằng chữ — “5 September 2026” hoặc “September 5, 2026”. Đây là lỗi có thể làm lệch hạn nộp báo cáo.",
+        "distractors": [
+          "Sai — cách đọc của Mỹ khác hẳn cách đọc của Anh với cùng chuỗi số.",
+          null,
+          "Sai — cách đọc của Anh cho ra ngày 5 tháng 9.",
+          "Sai — hai vế bị đảo ngược."
+        ]
+      },
+      "en": {
+        "question": "How is “05/09/2026” read in an email from a UK head office and one from a US head office?",
+        "options": [
+          "5 September in both cases",
+          "5 September (UK) and 9 May (US)",
+          "9 May in both cases",
+          "9 May (UK) and 5 September (US)"
+        ],
+        "explanation": "The UK uses day/month/year, the US month/day/year, so the same string means two different dates. The safe habit in international work is to spell the month out — “5 September 2026” or “September 5, 2026”. Getting this wrong can move a filing deadline.",
+        "distractors": [
+          "Wrong — the US reading differs from the UK reading for this string.",
+          null,
+          "Wrong — the UK reading gives 5 September.",
+          "Wrong — the two readings are swapped."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-008",
+      "topic": "a8-grammar-traps",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["plurals"],
+      "vi": {
+        "question": "Câu nào đúng về mặt số ít – số nhiều?",
+        "options": [
+          "The criteria for capitalisation is clearly defined.",
+          "This criterias are set out in the policy.",
+          "The datas support our conclusion.",
+          "The criteria are set out in the policy, and the data support our conclusion."
+        ],
+        "explanation": "Criterion là số ít, criteria là số nhiều. Data về mặt hình thức là số nhiều của datum; trong văn phong trang trọng và học thuật vẫn dùng “data are”. Tuyệt đối không viết “datas” — data không bao giờ thêm s.",
+        "distractors": [
+          "Sai — “criteria” là số nhiều nên phải dùng “are”, không dùng “is”.",
+          "Sai — không tồn tại từ “criterias”; số ít là criterion.",
+          "Sai — không tồn tại từ “datas”.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which sentence is correct in terms of singular and plural?",
+        "options": [
+          "The criteria for capitalisation is clearly defined.",
+          "This criterias are set out in the policy.",
+          "The datas support our conclusion.",
+          "The criteria are set out in the policy, and the data support our conclusion."
+        ],
+        "explanation": "“Criterion” is singular, “criteria” plural. “Data” is formally the plural of datum and takes “are” in formal writing. Never write “datas” — data has no -s form.",
+        "distractors": [
+          "Wrong — “criteria” is plural and takes “are”.",
+          "Wrong — “criterias” does not exist; the singular is criterion.",
+          "Wrong — “datas” does not exist.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-009",
+      "topic": "a8-grammar-traps",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["account-for"],
+      "vi": {
+        "question": "Trong câu “How should we ______ this transaction?”, cụm nào đúng?",
+        "options": [
+          "account of",
+          "account on",
+          "account for",
+          "account with"
+        ],
+        "explanation": "“To account for something” = hạch toán, xử lý kế toán một giao dịch; ngoài ra còn nghĩa là giải thích hoặc chiếm tỷ trọng (“Exports account for 40% of revenue”). Đây là một trong những cụm động từ được dùng nhiều nhất trong email kế toán tiếng Anh.",
+        "distractors": [
+          "Sai — “account of” không phải cụm động từ chuẩn theo nghĩa này.",
+          "Sai — “account on” không tồn tại; dễ nhầm với “count on” nghĩa là trông cậy vào.",
+          null,
+          "Sai — “account with” chỉ dùng theo nghĩa có tài khoản tại một nơi nào đó."
+        ]
+      },
+      "en": {
+        "question": "In “How should we ______ this transaction?”, which phrase is correct?",
+        "options": [
+          "account of",
+          "account on",
+          "account for",
+          "account with"
+        ],
+        "explanation": "“To account for something” means to record or treat it in the accounts; it also means to explain, or to make up a proportion (“Exports account for 40% of revenue”). It is among the most-used phrasal verbs in accounting email.",
+        "distractors": [
+          "Wrong — “account of” is not the standard phrasal verb here.",
+          "Wrong — “account on” does not exist; do not confuse it with “count on”.",
+          null,
+          "Wrong — “account with” only means to hold an account at somewhere."
+        ]
+      }
+    },
+    {
+      "id": "ENG-A8-010",
+      "topic": "a8-grammar-traps",
+      "difficulty": "advanced",
+      "answer": 0,
+      "tags": ["comprise", "reconcile"],
+      "vi": {
+        "question": "Câu nào dùng đúng cả “comprise” và “reconcile”?",
+        "options": [
+          "The balance comprises three items, which we reconcile to the bank statement monthly.",
+          "The balance is comprised of three items, which we reconcile the bank statement monthly.",
+          "The balance comprises of three items, which we reconcile with reconciling monthly.",
+          "The balance consists three items, which we reconcile at the bank statement monthly."
+        ],
+        "explanation": "Comprise đã bao hàm nghĩa “gồm có” nên KHÔNG đi với “of”: viết “comprises three items” hoặc “consists OF three items”, không viết “comprises of”. Reconcile đi với “to” hoặc “with”: reconcile the ledger to the bank statement. Đây là hai lỗi rất hay bị bắt trong bản dịch báo cáo.",
+        "distractors": [
+          null,
+          "Sai — “is comprised of” bị coi là không chuẩn, và “reconcile the bank statement” thiếu giới từ.",
+          "Sai — “comprises of” là lỗi kinh điển, và vế sau lặp từ vô nghĩa.",
+          "Sai — “consists” bắt buộc phải có “of”, và “reconcile at” sai giới từ."
+        ]
+      },
+      "en": {
+        "question": "Which sentence uses both “comprise” and “reconcile” correctly?",
+        "options": [
+          "The balance comprises three items, which we reconcile to the bank statement monthly.",
+          "The balance is comprised of three items, which we reconcile the bank statement monthly.",
+          "The balance comprises of three items, which we reconcile with reconciling monthly.",
+          "The balance consists three items, which we reconcile at the bank statement monthly."
+        ],
+        "explanation": "“Comprise” already means “consist of”, so it takes no “of”: write “comprises three items”, or “consists OF three items”. “Reconcile” takes “to” or “with”: reconcile the ledger to the bank statement. Both errors are frequently flagged in translated reports.",
+        "distractors": [
+          null,
+          "Wrong — “is comprised of” is regarded as non-standard, and “reconcile the bank statement” lacks its preposition.",
+          "Wrong — “comprises of” is the classic error, and the second clause is redundant.",
+          "Wrong — “consists” requires “of”, and “reconcile at” is the wrong preposition."
+        ]
+      }
+    }
+  ]
+}

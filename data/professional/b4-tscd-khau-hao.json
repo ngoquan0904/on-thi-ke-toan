@@ -1,0 +1,480 @@
+{
+  "topic": "b4-tscd-khau-hao",
+  "questions": [
+    {
+      "id": "PRO-B4-001",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "basic",
+      "answer": 2,
+      "ref": "Thông tư 45/2013/TT-BTC về quản lý, sử dụng và trích khấu hao tài sản cố định",
+      "tags": ["tieu-chuan-ghi-nhan"],
+      "vi": {
+        "question": "Tiêu chuẩn ghi nhận tài sản cố định hữu hình theo quy định hiện hành gồm những điều kiện nào?",
+        "options": [
+          "Chỉ cần nguyên giá từ 30 triệu đồng trở lên, không xét đến thời gian sử dụng của tài sản",
+          "Chỉ cần thời gian sử dụng trên 1 năm, không xét đến giá trị nguyên giá của tài sản đó",
+          "Chắc chắn thu được lợi ích kinh tế tương lai, nguyên giá xác định tin cậy, thời gian sử dụng trên 1 năm và nguyên giá từ 30 triệu đồng",
+          "Do doanh nghiệp tự quyết định dựa trên nhu cầu quản lý và đặc thù hoạt động của mình"
+        ],
+        "explanation": "Bốn điều kiện phải thỏa mãn ĐỒNG THỜI: chắc chắn thu được lợi ích kinh tế trong tương lai từ việc sử dụng tài sản; nguyên giá được xác định một cách đáng tin cậy; thời gian sử dụng ước tính trên 1 năm; và nguyên giá từ 30 triệu đồng trở lên. Thiếu bất kỳ điều kiện nào thì ghi nhận là công cụ dụng cụ.",
+        "distractors": [
+          "Sai — thiếu điều kiện về thời gian sử dụng và các điều kiện về lợi ích kinh tế.",
+          "Sai — thiếu điều kiện về ngưỡng nguyên giá 30 triệu đồng theo quy định.",
+          null,
+          "Sai — đây là tiêu chuẩn do pháp luật quy định, doanh nghiệp không được tự đặt ra."
+        ]
+      },
+      "en": {
+        "question": "What are the recognition criteria for a tangible fixed asset under current Vietnamese rules?",
+        "options": [
+          "Cost of VND 30 million or more only, regardless of useful life",
+          "Useful life over one year only, regardless of cost",
+          "Future economic benefits are probable, cost is measured reliably, useful life exceeds one year, and cost is at least VND 30 million",
+          "Whatever the company decides based on its management needs and operations"
+        ],
+        "explanation": "All four conditions must be met SIMULTANEOUSLY: future economic benefits are probable; cost is reliably measurable; estimated useful life exceeds one year; and cost is VND 30 million or more. Failing any one, the item is recorded as tools and supplies.",
+        "distractors": [
+          "Wrong — the useful life and economic benefit conditions are missing.",
+          "Wrong — the VND 30 million cost threshold is missing.",
+          null,
+          "Wrong — these criteria are set by law, not by the company."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-002",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "ref": "Thông tư 45/2013/TT-BTC",
+      "tags": ["nguyen-gia"],
+      "vi": {
+        "question": "Mua một máy sản xuất giá 800 triệu (chưa thuế GTGT), chi phí vận chuyển 20 triệu, chi phí lắp đặt chạy thử 30 triệu, chi phí đào tạo nhân viên vận hành 10 triệu. Nguyên giá TSCĐ là:",
+        "options": [
+          "800 triệu đồng, chỉ gồm giá mua ghi trên hóa đơn của nhà cung cấp máy",
+          "820 triệu đồng, gồm giá mua và chi phí vận chuyển máy về nhà xưởng",
+          "860 triệu đồng, gồm toàn bộ các khoản chi liên quan tới việc mua sắm máy",
+          "850 triệu đồng"
+        ],
+        "explanation": "Nguyên giá = giá mua + các chi phí liên quan trực tiếp để đưa tài sản vào trạng thái sẵn sàng sử dụng = 800 + 20 + 30 = 850 triệu đồng. Chi phí ĐÀO TẠO nhân viên 10 triệu KHÔNG được vốn hóa vì đó là chi phí phát triển nguồn nhân lực, ghi thẳng vào chi phí trong kỳ.",
+        "distractors": [
+          "Sai — thiếu các chi phí liên quan trực tiếp như vận chuyển và lắp đặt chạy thử.",
+          "Sai — thiếu chi phí lắp đặt và chạy thử, vốn là chi phí trực tiếp đưa tài sản vào sử dụng.",
+          "Sai — đã cộng nhầm cả chi phí đào tạo nhân viên, khoản này không được vốn hóa.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A machine is bought for VND 800 million (excluding VAT), with freight 20 million, installation and testing 30 million, and operator training 10 million. The asset’s cost is:",
+        "options": [
+          "VND 800 million, the invoice price only",
+          "VND 820 million, purchase price plus freight",
+          "VND 860 million, all amounts spent in connection with the purchase",
+          "VND 850 million"
+        ],
+        "explanation": "Cost = purchase price + directly attributable costs of bringing the asset to working condition = 800 + 20 + 30 = 850 million. TRAINING of 10 million is NOT capitalised — it develops the workforce, not the asset, and is expensed as incurred.",
+        "distractors": [
+          "Wrong — directly attributable freight and installation are missing.",
+          "Wrong — installation and testing are missing.",
+          "Wrong — training has been wrongly included; it cannot be capitalised.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-003",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Thông tư 45/2013/TT-BTC",
+      "tags": ["khau-hao", "tinh-toan"],
+      "vi": {
+        "question": "TSCĐ nguyên giá 600 triệu đồng, thời gian sử dụng 5 năm, khấu hao đường thẳng, đưa vào sử dụng ngày 01/04/2026. Chi phí khấu hao trích trong năm 2026 là:",
+        "options": [
+          "90 triệu đồng",
+          "120 triệu đồng",
+          "100 triệu đồng",
+          "30 triệu đồng"
+        ],
+        "explanation": "Khấu hao năm = 600 ÷ 5 = 120 triệu đồng, tương đương 10 triệu đồng mỗi tháng. Tài sản đưa vào sử dụng từ 01/04/2026 nên năm 2026 chỉ trích 9 tháng: 10 × 9 = 90 triệu đồng. Nguyên tắc: khấu hao được tính từ ngày tài sản sẵn sàng đưa vào sử dụng, theo số ngày hoặc số tháng thực tế.",
+        "distractors": [
+          null,
+          "Sai — 120 triệu là mức khấu hao của cả năm, chưa tính tài sản mới dùng từ tháng 4.",
+          "Sai — không khớp với cách tính theo tháng sử dụng thực tế của tài sản trong năm.",
+          "Sai — 30 triệu tương ứng chỉ 3 tháng, có thể do nhầm số tháng chưa sử dụng với số tháng đã sử dụng."
+        ]
+      },
+      "en": {
+        "question": "An asset costs VND 600 million with a 5-year life, straight-line, brought into use on 1 April 2026. Depreciation charged in 2026 is:",
+        "options": [
+          "VND 90 million",
+          "VND 120 million",
+          "VND 100 million",
+          "VND 30 million"
+        ],
+        "explanation": "Annual depreciation = 600 ÷ 5 = 120 million, i.e. 10 million per month. In use from 1 April, so 2026 bears 9 months: 10 × 9 = 90 million. Depreciation runs from the date the asset is ready for use, by actual days or months.",
+        "distractors": [
+          null,
+          "Wrong — 120 million is a full year, ignoring the April start.",
+          "Wrong — does not match a months-in-use calculation.",
+          "Wrong — 30 million is 3 months, likely confusing months unused with months used."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-004",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["gia-tri-con-lai"],
+      "vi": {
+        "question": "Giá trị còn lại của tài sản cố định được xác định bằng công thức nào?",
+        "options": [
+          "Nguyên giá cộng với hao mòn lũy kế đã trích tính đến thời điểm xác định giá trị",
+          "Nguyên giá trừ đi hao mòn lũy kế",
+          "Giá thị trường hiện tại của tài sản trừ đi chi phí bán ước tính khi thanh lý tài sản",
+          "Nguyên giá chia cho số năm sử dụng còn lại theo đăng ký ban đầu với cơ quan thuế"
+        ],
+        "explanation": "Giá trị còn lại (net book value) = Nguyên giá − Hao mòn lũy kế. Trên báo cáo tình hình tài chính, TSCĐ được trình bày theo cả ba chỉ tiêu: nguyên giá, hao mòn lũy kế (ghi số âm) và giá trị còn lại. Giá trị còn lại không phản ánh giá thị trường của tài sản.",
+        "distractors": [
+          "Sai — hao mòn lũy kế làm GIẢM giá trị tài sản nên phải trừ đi chứ không cộng vào.",
+          null,
+          "Sai — đây là cách xác định giá trị hợp lý, không phải giá trị còn lại theo sổ sách kế toán.",
+          "Sai — công thức này không có ý nghĩa kế toán; giá trị còn lại không tính bằng phép chia."
+        ]
+      },
+      "en": {
+        "question": "How is the net book value of a fixed asset determined?",
+        "options": [
+          "Cost plus accumulated depreciation to the measurement date",
+          "Cost less accumulated depreciation",
+          "Current market value less estimated costs to sell on disposal",
+          "Cost divided by the remaining registered useful life"
+        ],
+        "explanation": "Net book value = cost − accumulated depreciation. In the statement of financial position, fixed assets are shown by all three figures: cost, accumulated depreciation (as a negative) and net book value. Net book value does not represent market value.",
+        "distractors": [
+          "Wrong — accumulated depreciation REDUCES carrying value, so it is subtracted.",
+          null,
+          "Wrong — that describes fair value, not book value.",
+          "Wrong — the formula has no accounting meaning."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-005",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "ref": "Thông tư 45/2013/TT-BTC",
+      "tags": ["khau-hao-het"],
+      "vi": {
+        "question": "TSCĐ đã khấu hao hết nguyên giá nhưng doanh nghiệp vẫn tiếp tục sử dụng. Xử lý kế toán là:",
+        "options": [
+          "Tiếp tục trích khấu hao thêm cho tới khi tài sản thực sự hỏng và được thanh lý",
+          "Ghi giảm hẳn tài sản khỏi sổ sách kế toán vì giá trị còn lại đã bằng không",
+          "Ngừng trích khấu hao, vẫn theo dõi tài sản trên sổ để quản lý về mặt hiện vật",
+          "Đánh giá lại tăng nguyên giá theo giá thị trường rồi tiếp tục trích khấu hao từ đầu"
+        ],
+        "explanation": "Khi đã khấu hao hết nguyên giá thì NGỪNG trích khấu hao, vì tổng khấu hao không được vượt quá nguyên giá. Tài sản vẫn được theo dõi trên sổ kế toán và sổ tài sản để quản lý hiện vật cho tới khi thanh lý. Nguyên giá và hao mòn lũy kế vẫn giữ nguyên, giá trị còn lại bằng không.",
+        "distractors": [
+          "Sai — tổng số khấu hao đã trích không được vượt quá nguyên giá của tài sản.",
+          "Sai — tài sản vẫn đang sử dụng nên phải tiếp tục theo dõi, chưa được xóa khỏi sổ sách.",
+          null,
+          "Sai — VAS không cho phép đánh giá lại tăng nguyên giá TSCĐ theo giá thị trường."
+        ]
+      },
+      "en": {
+        "question": "A fixed asset is fully depreciated but remains in use. The accounting treatment is:",
+        "options": [
+          "Continue depreciating until the asset actually fails and is disposed of",
+          "Derecognise the asset entirely, since net book value is nil",
+          "Stop depreciating, but keep tracking the asset in the records for physical control",
+          "Revalue the cost upwards to market value and depreciate again from the start"
+        ],
+        "explanation": "Once cost is fully depreciated, depreciation STOPS — total depreciation cannot exceed cost. The asset stays in the accounting and asset registers for physical control until disposal. Cost and accumulated depreciation remain, with nil net book value.",
+        "distractors": [
+          "Wrong — accumulated depreciation cannot exceed cost.",
+          "Wrong — an asset still in use must remain in the records.",
+          null,
+          "Wrong — VAS does not permit upward revaluation of fixed assets."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-006",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["chi-phi-tra-truoc"],
+      "vi": {
+        "question": "Khoản chi nào sau đây được phân bổ qua TK 242 – Chi phí trả trước?",
+        "options": [
+          "Tiền lương phải trả cho người lao động trong tháng phát sinh chi phí đó",
+          "Giá trị hàng hóa mua về nhập kho để bán cho khách hàng trong kỳ tới",
+          "Tiền thuế giá trị gia tăng đầu vào được khấu trừ của các hóa đơn mua hàng",
+          "Chi phí thuê văn phòng trả trước cho 24 tháng, phân bổ dần vào từng kỳ"
+        ],
+        "explanation": "TK 242 dùng phân bổ các khoản chi đã phát sinh nhưng liên quan tới nhiều kỳ kế toán: tiền thuê trả trước, công cụ dụng cụ giá trị lớn xuất dùng nhiều kỳ, chi phí sửa chữa lớn TSCĐ, bảo hiểm trả trước. Nguyên tắc là phân bổ đều theo thời gian được hưởng lợi ích.",
+        "distractors": [
+          "Sai — tiền lương là chi phí của chính tháng phát sinh, không phân bổ nhiều kỳ.",
+          "Sai — hàng hóa mua về nhập kho theo dõi ở TK 156, không qua chi phí trả trước.",
+          "Sai — thuế GTGT được khấu trừ theo dõi ở TK 133, không phải chi phí trả trước.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which of the following is amortised through account 242 – Prepaid expenses?",
+        "options": [
+          "Wages payable to employees for the month in which they arise",
+          "The cost of goods purchased into stock for sale next period",
+          "Deductible input VAT on purchase invoices",
+          "Office rent prepaid for 24 months, released period by period"
+        ],
+        "explanation": "Account 242 spreads costs already incurred that benefit several periods: prepaid rent, high-value tools issued across periods, major repairs, prepaid insurance. It is released evenly over the period of benefit.",
+        "distractors": [
+          "Wrong — wages belong to the month in which they arise.",
+          "Wrong — purchased goods sit in account 156.",
+          "Wrong — deductible input VAT sits in account 133.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-007",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "advanced",
+      "answer": 0,
+      "ref": "Thông tư 45/2013/TT-BTC",
+      "tags": ["nang-cap-sua-chua"],
+      "vi": {
+        "question": "Doanh nghiệp chi 200 triệu đồng nâng cấp một dây chuyền sản xuất, làm tăng công suất thêm 30%. Khoản chi này được xử lý thế nào?",
+        "options": [
+          "Ghi tăng nguyên giá tài sản cố định, khấu hao theo thời gian sử dụng còn lại",
+          "Ghi toàn bộ vào chi phí sản xuất kinh doanh ngay trong kỳ phát sinh khoản chi",
+          "Ghi vào TK 242 và phân bổ đều trong 12 tháng kể từ khi hoàn thành việc nâng cấp",
+          "Ghi thành một tài sản cố định mới hoàn toàn độc lập với dây chuyền sản xuất cũ"
+        ],
+        "explanation": "Chi phí NÂNG CẤP làm tăng lợi ích kinh tế trong tương lai (tăng công suất, kéo dài thời gian sử dụng, cải thiện chất lượng sản phẩm) thì được VỐN HÓA vào nguyên giá tài sản. Ngược lại, chi phí SỬA CHỮA để duy trì trạng thái hoạt động bình thường thì ghi thẳng vào chi phí trong kỳ.",
+        "distractors": [
+          null,
+          "Sai — đây là chi phí nâng cấp làm tăng lợi ích tương lai, không phải sửa chữa duy trì.",
+          "Sai — TK 242 dùng cho chi phí sửa chữa lớn mang tính duy trì, không dùng cho nâng cấp.",
+          "Sai — nâng cấp gắn liền với tài sản hiện có, không tạo ra một tài sản độc lập mới."
+        ]
+      },
+      "en": {
+        "question": "A company spends VND 200 million upgrading a production line, raising capacity by 30%. How is this treated?",
+        "options": [
+          "Capitalised into the asset’s cost and depreciated over the remaining useful life",
+          "Charged in full to operating expenses in the period incurred",
+          "Recorded in account 242 and amortised evenly over 12 months after completion",
+          "Recorded as an entirely new fixed asset, separate from the existing line"
+        ],
+        "explanation": "UPGRADE costs that increase future economic benefits — greater capacity, longer life, better output quality — are CAPITALISED into the asset’s cost. REPAIR costs that merely maintain normal operating condition are expensed as incurred.",
+        "distractors": [
+          null,
+          "Wrong — this is an upgrade increasing future benefits, not maintenance.",
+          "Wrong — account 242 handles major maintenance, not upgrades.",
+          "Wrong — an upgrade attaches to the existing asset."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-008",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["khau-hao-duong-thang"],
+      "vi": {
+        "question": "Phương pháp khấu hao đường thẳng có đặc điểm gì?",
+        "options": [
+          "Mức khấu hao giảm dần qua các năm theo tỷ lệ cố định trên giá trị còn lại của tài sản",
+          "Mức khấu hao bằng nhau ở mọi kỳ trong suốt thời gian sử dụng của tài sản",
+          "Mức khấu hao thay đổi theo sản lượng thực tế mà tài sản tạo ra trong từng kỳ",
+          "Mức khấu hao tăng dần qua các năm để phản ánh chi phí bảo trì ngày càng lớn"
+        ],
+        "explanation": "Khấu hao đường thẳng phân bổ đều nguyên giá theo thời gian: mức khấu hao mỗi kỳ bằng nhau. Công thức: Mức khấu hao năm = Nguyên giá ÷ Thời gian sử dụng. Đây là phương pháp phổ biến nhất tại Việt Nam. Hai phương pháp khác được phép: số dư giảm dần có điều chỉnh, và theo số lượng khối lượng sản phẩm.",
+        "distractors": [
+          "Sai — đây là đặc điểm của phương pháp số dư giảm dần có điều chỉnh.",
+          null,
+          "Sai — đây là đặc điểm của phương pháp khấu hao theo số lượng khối lượng sản phẩm.",
+          "Sai — không có phương pháp khấu hao nào tăng dần theo thời gian trong quy định hiện hành."
+        ]
+      },
+      "en": {
+        "question": "What characterises the straight-line depreciation method?",
+        "options": [
+          "The charge falls each year at a fixed rate applied to the reducing carrying amount",
+          "The charge is the same in every period across the asset’s useful life",
+          "The charge varies with actual output produced by the asset in each period",
+          "The charge rises each year to reflect increasing maintenance costs"
+        ],
+        "explanation": "Straight-line spreads cost evenly over time, giving an identical charge each period: annual depreciation = cost ÷ useful life. It is the most common method in Vietnam. The two other permitted methods are the adjusted reducing balance method and the units-of-production method.",
+        "distractors": [
+          "Wrong — that describes the adjusted reducing balance method.",
+          null,
+          "Wrong — that describes the units-of-production method.",
+          "Wrong — no permitted method increases the charge over time."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-009",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["thanh-ly", "tinh-toan"],
+      "vi": {
+        "question": "Nhượng bán TSCĐ nguyên giá 1 tỷ đồng, hao mòn lũy kế 750 triệu đồng, giá bán 200 triệu đồng (chưa thuế GTGT). Kết quả nhượng bán là:",
+        "options": [
+          "Lãi 200 triệu đồng, bằng đúng toàn bộ số tiền thu được từ việc nhượng bán tài sản",
+          "Lãi 50 triệu đồng, bằng chênh lệch giữa hao mòn lũy kế và giá bán tài sản",
+          "Lỗ 50 triệu đồng",
+          "Lỗ 800 triệu đồng, bằng nguyên giá tài sản trừ đi số tiền thực tế thu được"
+        ],
+        "explanation": "Giá trị còn lại = 1.000 − 750 = 250 triệu đồng. Giá bán 200 triệu thấp hơn giá trị còn lại nên LỖ 50 triệu đồng. Bút toán: xóa sổ tài sản Nợ TK 214: 750, Nợ TK 811: 250 / Có TK 211: 1.000; ghi nhận thu Nợ TK 131 hoặc 112: 200 / Có TK 711: 200. Chênh lệch 711 − 811 = −50 triệu.",
+        "distractors": [
+          "Sai — không thể coi toàn bộ tiền thu được là lãi; phải trừ đi giá trị còn lại của tài sản.",
+          "Sai — phép so sánh sai; phải so giá bán với giá trị còn lại chứ không phải với hao mòn lũy kế.",
+          null,
+          "Sai — so giá bán với nguyên giá là sai; phần đã khấu hao 750 triệu đã được ghi nhận chi phí rồi."
+        ]
+      },
+      "en": {
+        "question": "An asset with cost VND 1 billion and accumulated depreciation 750 million is sold for 200 million (excluding VAT). The result is:",
+        "options": [
+          "A gain of 200 million, being all the proceeds received",
+          "A gain of 50 million, being the difference between accumulated depreciation and the sale price",
+          "A loss of VND 50 million",
+          "A loss of 800 million, being cost less the proceeds received"
+        ],
+        "explanation": "Net book value = 1,000 − 750 = 250 million. Proceeds of 200 million fall short, giving a LOSS of 50 million. Entries: derecognise the asset, Dr 214: 750, Dr 811: 250 / Cr 211: 1,000; record proceeds, Dr 131 or 112: 200 / Cr 711: 200. The 711 less 811 difference is −50 million.",
+        "distractors": [
+          "Wrong — proceeds alone are not the gain; net book value must be deducted.",
+          "Wrong — the comparison must be against net book value, not accumulated depreciation.",
+          null,
+          "Wrong — comparing proceeds with cost ignores the 750 million already expensed as depreciation."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-010",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["tai-san-vo-hinh"],
+      "vi": {
+        "question": "Tài sản cố định vô hình được theo dõi tại tài khoản nào và có ví dụ điển hình là gì?",
+        "options": [
+          "TK 211, ví dụ như nhà xưởng, máy móc thiết bị và phương tiện vận tải của doanh nghiệp",
+          "TK 212, ví dụ như các tài sản mà doanh nghiệp đi thuê theo hình thức thuê tài chính",
+          "TK 217, ví dụ như bất động sản mà doanh nghiệp nắm giữ với mục đích cho thuê",
+          "TK 213, ví dụ như quyền sử dụng đất, bản quyền, phần mềm máy tính, nhãn hiệu"
+        ],
+        "explanation": "TSCĐ vô hình theo dõi tại TK 213: quyền sử dụng đất, quyền phát hành, bản quyền, bằng sáng chế, nhãn hiệu, phần mềm máy tính. Nhóm tài khoản TSCĐ gồm: TK 211 hữu hình, TK 212 thuê tài chính, TK 213 vô hình, TK 215 tài sản sinh học (mới bổ sung theo Thông tư 99/2025), TK 217 bất động sản đầu tư.",
+        "distractors": [
+          "Sai — TK 211 dành cho tài sản cố định hữu hình có hình thái vật chất cụ thể.",
+          "Sai — TK 212 dành cho tài sản cố định thuê tài chính, không phải tài sản vô hình.",
+          "Sai — TK 217 dành cho bất động sản đầu tư nắm giữ để cho thuê hoặc chờ tăng giá.",
+          null
+        ]
+      },
+      "en": {
+        "question": "Which account records intangible fixed assets, and what are typical examples?",
+        "options": [
+          "Account 211, such as buildings, machinery and vehicles",
+          "Account 212, such as assets held under finance leases",
+          "Account 217, such as property held for rental",
+          "Account 213, such as land use rights, copyrights, software and trademarks"
+        ],
+        "explanation": "Intangibles sit in account 213: land use rights, publishing rights, copyrights, patents, trademarks and software. The fixed asset group runs: 211 tangible, 212 finance-leased, 213 intangible, 215 biological (added by Circular 99/2025) and 217 investment property.",
+        "distractors": [
+          "Wrong — 211 is for tangible assets with physical substance.",
+          "Wrong — 212 is for finance-leased assets.",
+          "Wrong — 217 is for investment property held for rental or capital appreciation.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-011",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "ref": "Luật Thuế TNDN 67/2025/QH15; Thông tư 45/2013/TT-BTC",
+      "tags": ["khau-hao-thue"],
+      "vi": {
+        "question": "Khấu hao TSCĐ nào KHÔNG được trừ khi tính thuế thu nhập doanh nghiệp?",
+        "options": [
+          "Khấu hao xe ô tô chở người từ 9 chỗ trở xuống phần nguyên giá vượt 1,6 tỷ đồng",
+          "Khấu hao máy móc thiết bị phục vụ trực tiếp cho hoạt động sản xuất của doanh nghiệp",
+          "Khấu hao nhà xưởng dùng làm kho chứa hàng hóa phục vụ hoạt động kinh doanh",
+          "Khấu hao máy tính và thiết bị văn phòng cấp cho nhân viên sử dụng trong công việc"
+        ],
+        "explanation": "Phần khấu hao tương ứng với nguyên giá vượt 1,6 tỷ đồng của xe ô tô chở người từ 9 chỗ ngồi trở xuống KHÔNG được trừ khi tính thuế TNDN (trừ xe dùng cho kinh doanh vận tải, du lịch, khách sạn). Đây là khoản điều chỉnh tăng thu nhập chịu thuế rất thường gặp khi quyết toán cho khách hàng.",
+        "distractors": [
+          null,
+          "Sai — khấu hao máy móc phục vụ sản xuất kinh doanh là chi phí được trừ hợp lệ.",
+          "Sai — khấu hao nhà xưởng phục vụ hoạt động kinh doanh được trừ bình thường.",
+          "Sai — khấu hao thiết bị văn phòng phục vụ công việc được trừ khi tính thuế TNDN."
+        ]
+      },
+      "en": {
+        "question": "Which depreciation charge is NOT deductible for corporate income tax?",
+        "options": [
+          "Depreciation on passenger cars of 9 seats or fewer, on the cost above VND 1.6 billion",
+          "Depreciation on machinery used directly in production",
+          "Depreciation on a warehouse used to store trading goods",
+          "Depreciation on computers and office equipment issued to staff for work"
+        ],
+        "explanation": "Depreciation attributable to cost above VND 1.6 billion on passenger cars of 9 seats or fewer is NOT deductible for CIT — except for vehicles used in transport, tourism or hotel businesses. This is a very common add-back at client finalisation.",
+        "distractors": [
+          null,
+          "Wrong — depreciation on production machinery is deductible.",
+          "Wrong — depreciation on business premises is deductible.",
+          "Wrong — depreciation on work equipment is deductible."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B4-012",
+      "topic": "b4-tscd-khau-hao",
+      "difficulty": "advanced",
+      "answer": 1,
+      "ref": "Thông tư 45/2013/TT-BTC",
+      "tags": ["thay-doi-uoc-tinh"],
+      "vi": {
+        "question": "Sau 2 năm sử dụng, doanh nghiệp đánh giá lại và rút ngắn thời gian sử dụng còn lại của một TSCĐ. Xử lý kế toán đúng là:",
+        "options": [
+          "Điều chỉnh hồi tố toàn bộ số khấu hao đã trích của 2 năm trước cho đúng thời gian mới",
+          "Phân bổ giá trị còn lại theo thời gian sử dụng còn lại mới, áp dụng từ kỳ hiện tại trở đi",
+          "Ghi ngay toàn bộ giá trị còn lại vào chi phí của kỳ phát hiện cần thay đổi ước tính",
+          "Giữ nguyên mức khấu hao cũ vì thời gian sử dụng đã đăng ký không được phép thay đổi"
+        ],
+        "explanation": "Thay đổi thời gian sử dụng là THAY ĐỔI ƯỚC TÍNH KẾ TOÁN, áp dụng phi hồi tố: lấy giá trị còn lại tại thời điểm thay đổi chia cho thời gian sử dụng còn lại mới. Không điều chỉnh lại số liệu các kỳ trước. Doanh nghiệp phải thuyết minh rõ lý do và ảnh hưởng của việc thay đổi này.",
+        "distractors": [
+          "Sai — thay đổi ước tính kế toán áp dụng phi hồi tố, khác với sửa chữa sai sót kế toán.",
+          null,
+          "Sai — ghi hết vào chi phí một lần là không đúng; tài sản vẫn còn thời gian sử dụng.",
+          "Sai — thời gian sử dụng được phép đánh giá lại khi có căn cứ, trong khung quy định."
+        ]
+      },
+      "en": {
+        "question": "After two years, a company reassesses and shortens an asset’s remaining useful life. The correct treatment is:",
+        "options": [
+          "Restate all depreciation charged over the past two years to the new life",
+          "Spread the current carrying amount over the new remaining life, prospectively from now on",
+          "Charge the whole remaining carrying amount to expense in the period of reassessment",
+          "Keep the original charge, since the registered useful life cannot be changed"
+        ],
+        "explanation": "A change in useful life is a CHANGE IN ACCOUNTING ESTIMATE, applied prospectively: divide the carrying amount at the date of change by the new remaining life. Prior periods are not restated. The reason and effect must be disclosed.",
+        "distractors": [
+          "Wrong — changes in estimate are prospective, unlike error corrections.",
+          null,
+          "Wrong — the asset still has remaining life; it cannot be written off at once.",
+          "Wrong — useful life may be reassessed on proper grounds within the permitted framework."
+        ]
+      }
+    }
+  ]
+}

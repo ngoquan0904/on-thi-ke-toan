@@ -1,0 +1,785 @@
+{
+  "topic": "b11-month-end-close",
+  "questions": [
+    {
+      "id": "PRO-B11-001",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["accruals"],
+      "vi": {
+        "question": "Bút toán accrual (trích trước) được lập trong tình huống nào khi đóng sổ tháng?",
+        "options": [
+          "Khi doanh nghiệp đã thanh toán tiền nhưng chưa nhận được hàng hóa dịch vụ từ nhà cung cấp",
+          "Khi chi phí đã phát sinh trong kỳ nhưng chưa nhận được hóa đơn của nhà cung cấp",
+          "Khi doanh nghiệp muốn giảm bớt lợi nhuận của kỳ hiện tại để tối ưu nghĩa vụ thuế",
+          "Khi hóa đơn đã nhận được và đã được thanh toán đầy đủ ngay trong tháng phát sinh"
+        ],
+        "explanation": "Accrual ghi nhận chi phí ĐÃ PHÁT SINH nhưng chưa có hóa đơn tại thời điểm khóa sổ — điện nước tháng 12 trả tháng 1, phí kiểm toán của năm nay. Bút toán: Dr expense / Cr accrued liabilities (TK 335). Ngược lại, prepayment là đã TRẢ TIỀN nhưng chưa nhận dịch vụ.",
+        "distractors": [
+          "Sai — đó là prepayment (chi phí trả trước), khoản mục đối lập với accrual.",
+          null,
+          "Sai — trích trước phải phản ánh chi phí thực tế đã phát sinh, không phải công cụ điều chỉnh lợi nhuận.",
+          "Sai — nếu đã có hóa đơn và đã thanh toán thì ghi nhận bình thường, không cần trích trước."
+        ]
+      },
+      "en": {
+        "question": "When is an accrual entry made during month-end close?",
+        "options": [
+          "When the company has paid but not yet received the goods or services",
+          "When a cost has been incurred in the period but no supplier invoice has arrived",
+          "When the company wants to reduce current period profit to optimise tax",
+          "When the invoice has been received and paid within the same month"
+        ],
+        "explanation": "An accrual records a cost ALREADY INCURRED but not yet invoiced at the close — December utilities paid in January, or this year’s audit fee. The entry is Dr expense / Cr accrued liabilities (account 335). A prepayment is the mirror image: paid but not yet consumed.",
+        "distractors": [
+          "Wrong — that describes a prepayment, the opposite item.",
+          null,
+          "Wrong — accruals must reflect real incurred costs, not manage profit.",
+          "Wrong — an invoiced and paid item is recorded normally, with no accrual needed."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-002",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["bank-reconciliation"],
+      "vi": {
+        "question": "Trong bank reconciliation, khoản “outstanding cheque” được xử lý thế nào?",
+        "options": [
+          "Cộng vào số dư sổ kế toán của doanh nghiệp để khớp với sao kê của ngân hàng",
+          "Trừ khỏi số dư sổ kế toán của doanh nghiệp vì séc chưa được ngân hàng thanh toán",
+          "Cộng vào số dư trên sao kê ngân hàng vì đây là khoản tiền sẽ về tài khoản",
+          "Trừ khỏi số dư trên sao kê ngân hàng vì séc đã ghi sổ nhưng ngân hàng chưa trả"
+        ],
+        "explanation": "Outstanding cheque (séc đã phát hành nhưng người nhận chưa xuất trình) đã được ghi giảm trong sổ kế toán nhưng ngân hàng chưa trừ tiền. Vì vậy khi đối chiếu phải TRỪ khỏi số dư trên SAO KÊ ngân hàng. Ngược lại, deposit in transit thì CỘNG vào số dư sao kê. Các khoản do ngân hàng ghi mà doanh nghiệp chưa biết (phí ngân hàng, lãi tiền gửi) thì điều chỉnh vào SỔ KẾ TOÁN.",
+        "distractors": [
+          "Sai — sổ kế toán đã ghi giảm khi phát hành séc, không cần điều chỉnh thêm ở vế này.",
+          "Sai — điều chỉnh sai vế; khoản này phải xử lý ở phía sao kê ngân hàng.",
+          "Sai — cộng vào sao kê là cách xử lý của deposit in transit, không phải outstanding cheque.",
+          null
+        ]
+      },
+      "en": {
+        "question": "In a bank reconciliation, how is an outstanding cheque treated?",
+        "options": [
+          "Added to the company’s cash book balance to agree with the bank statement",
+          "Deducted from the company’s cash book balance because the bank has not paid it",
+          "Added to the bank statement balance as money still to arrive",
+          "Deducted from the bank statement balance, as it is recorded in the books but not yet paid by the bank"
+        ],
+        "explanation": "An outstanding cheque has already reduced the cash book but has not yet been presented at the bank, so it is DEDUCTED from the BANK STATEMENT balance. A deposit in transit is ADDED to the statement balance. Items the bank has recorded but the company has not — charges, interest — are adjusted in the CASH BOOK.",
+        "distractors": [
+          "Wrong — the cash book was already reduced when the cheque was issued.",
+          "Wrong — adjusted on the wrong side; this belongs on the bank statement side.",
+          "Wrong — adding to the statement is the treatment for a deposit in transit.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-003",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["control-account"],
+      "vi": {
+        "question": "Số dư trên receivables control account là 850 triệu, tổng số dư các sổ chi tiết khách hàng là 830 triệu. Điều này có nghĩa gì?",
+        "options": [
+          "Có sai sót cần điều tra, vì hai số này bắt buộc phải khớp nhau tuyệt đối",
+          "Là chuyện bình thường, hai số này vốn dĩ không cần phải khớp với nhau",
+          "Doanh nghiệp đang lãi thêm 20 triệu đồng từ hoạt động thu hồi công nợ khách hàng",
+          "Phải lập ngay dự phòng phải thu khó đòi 20 triệu đồng cho phần chênh lệch phát sinh"
+        ],
+        "explanation": "Control account trên sổ cái và tổng các sổ chi tiết PHẢI KHỚP tuyệt đối. Chênh lệch 20 triệu là dấu hiệu có sai sót: bỏ sót một hóa đơn khỏi sổ chi tiết, ghi trùng, ghi nhầm số tiền, hoặc ghi vào sai khách hàng. Phải tìm ra và sửa trước khi khóa sổ — đây là một trong những thủ tục kiểm soát cốt lõi của month-end close.",
+        "distractors": [
+          null,
+          "Sai — hai số này bắt buộc phải khớp; chênh lệch luôn là dấu hiệu của sai sót ghi sổ.",
+          "Sai — chênh lệch đối chiếu không phải lãi; đây là lỗi ghi sổ cần được tìm ra và sửa.",
+          "Sai — chênh lệch do sai sót ghi sổ hoàn toàn khác với vấn đề khả năng thu hồi nợ."
+        ]
+      },
+      "en": {
+        "question": "The receivables control account shows 850 million while the customer subledger totals 830 million. What does this mean?",
+        "options": [
+          "There is an error to investigate; the two must agree exactly",
+          "It is normal, as these two figures need not agree",
+          "The company has gained 20 million from debt collection activity",
+          "A 20 million doubtful debt allowance must be raised for the difference"
+        ],
+        "explanation": "The control account and the subledger total MUST agree exactly. A 20 million difference signals an error: an invoice omitted from the subledger, a duplicate, a wrong amount, or a posting to the wrong customer. It must be found and corrected before closing — a core month-end control.",
+        "distractors": [
+          null,
+          "Wrong — these must agree; a difference always signals a bookkeeping error.",
+          "Wrong — a reconciling difference is not a gain.",
+          "Wrong — a posting error is quite different from a recoverability issue."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-004",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["prepayment"],
+      "vi": {
+        "question": "Doanh nghiệp trả trước bảo hiểm 12 tháng vào tháng 1 với số tiền 60 triệu đồng. Bút toán điều chỉnh cuối tháng 1 là:",
+        "options": [
+          "Dr Prepaid insurance 60 triệu / Cr Cash 60 triệu, ghi nhận toàn bộ khoản đã trả trước",
+          "Dr Insurance expense 60 triệu / Cr Prepaid insurance 60 triệu, phân bổ hết ngay tháng đầu",
+          "Dr Insurance expense 5 triệu / Cr Prepaid insurance 5 triệu",
+          "Không cần bút toán điều chỉnh nào vì tiền đã được thanh toán đầy đủ ngay từ đầu"
+        ],
+        "explanation": "Bút toán ban đầu khi trả tiền: Dr Prepaid insurance 60 / Cr Cash 60. Cuối mỗi tháng phân bổ 60 ÷ 12 = 5 triệu vào chi phí: Dr Insurance expense 5 / Cr Prepaid insurance 5. Sau tháng 1, số dư prepaid còn 55 triệu. Đây là bút toán adjusting entry điển hình trong quy trình đóng sổ tháng.",
+        "distractors": [
+          "Sai — đó là bút toán ban đầu khi thanh toán, không phải bút toán điều chỉnh cuối tháng.",
+          "Sai — phân bổ hết ngay tháng đầu vi phạm nguyên tắc phù hợp; bảo hiểm bao trùm 12 tháng.",
+          null,
+          "Sai — thanh toán tiền và ghi nhận chi phí là hai việc khác nhau theo cơ sở dồn tích."
+        ]
+      },
+      "en": {
+        "question": "A company prepays 12 months of insurance in January for VND 60 million. The adjusting entry at the end of January is:",
+        "options": [
+          "Dr Prepaid insurance 60m / Cr Cash 60m, recording the full prepayment",
+          "Dr Insurance expense 60m / Cr Prepaid insurance 60m, releasing it all in month one",
+          "Dr Insurance expense 5m / Cr Prepaid insurance 5m",
+          "No adjusting entry, since the cash was paid in full at the start"
+        ],
+        "explanation": "The initial payment entry is Dr Prepaid insurance 60 / Cr Cash 60. Each month 60 ÷ 12 = 5 million is released: Dr Insurance expense 5 / Cr Prepaid insurance 5. After January the prepaid balance is 55 million. A classic month-end adjusting entry.",
+        "distractors": [
+          "Wrong — that is the initial payment entry, not the month-end adjustment.",
+          "Wrong — releasing it all in month one breaches matching over a 12-month policy.",
+          null,
+          "Wrong — paying cash and recognising expense are separate under the accrual basis."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-005",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["cut-off"],
+      "vi": {
+        "question": "“Cut-off testing” trong quy trình đóng sổ nhằm mục đích gì?",
+        "options": [
+          "Cắt giảm chi phí hoạt động của doanh nghiệp trong kỳ để cải thiện lợi nhuận báo cáo",
+          "Đảm bảo giao dịch được ghi nhận đúng kỳ kế toán mà giao dịch đó thực sự phát sinh",
+          "Xác định thời điểm chấm dứt hợp đồng lao động với người lao động trong doanh nghiệp",
+          "Ngắt hoàn toàn quyền truy cập của người dùng vào phần mềm kế toán sau khi khóa sổ"
+        ],
+        "explanation": "Cut-off testing kiểm tra các giao dịch quanh thời điểm khóa sổ có được ghi nhận đúng kỳ hay không — hàng giao ngày 31/12 nhưng ghi doanh thu tháng 1, hoặc hàng nhận ngày 02/01 nhưng ghi vào tháng 12. Sai cut-off làm sai lệch lợi nhuận của CẢ HAI kỳ, và là lỗi kiểm toán viên luôn kiểm tra kỹ.",
+        "distractors": [
+          "Sai — đây là hiểu nhầm theo nghĩa đen của từ “cut”; không liên quan tới cắt giảm chi phí.",
+          null,
+          "Sai — chấm dứt hợp đồng lao động là vấn đề nhân sự, không liên quan tới đóng sổ kế toán.",
+          "Sai — khóa quyền truy cập là period lock, một biện pháp kiểm soát khác."
+        ]
+      },
+      "en": {
+        "question": "What is the purpose of cut-off testing during the close?",
+        "options": [
+          "Cutting operating costs in the period to improve reported profit",
+          "Ensuring transactions are recorded in the period in which they actually occurred",
+          "Determining when to terminate employment contracts",
+          "Cutting off user access to the accounting system after the books are closed"
+        ],
+        "explanation": "Cut-off testing checks whether transactions around the period end fall in the right period — goods delivered on 31 December but invoiced in January, or goods received on 2 January but recorded in December. Cut-off errors misstate BOTH periods and are always scrutinised by auditors.",
+        "distractors": [
+          "Wrong — that reads “cut” literally; nothing to do with cost cutting.",
+          null,
+          "Wrong — employment termination is an HR matter.",
+          "Wrong — restricting access is a period lock, a separate control."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-006",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 3,
+      "tags": ["trial-balance"],
+      "vi": {
+        "question": "Sau khi hoàn tất tất cả adjusting entries, bước tiếp theo trong quy trình đóng sổ là gì?",
+        "options": [
+          "Lập ngay tờ khai thuế và nộp cho cơ quan thuế trước khi kiểm tra lại số liệu kế toán",
+          "Xóa toàn bộ số dư của các tài khoản tài sản và nợ phải trả để bắt đầu kỳ kế toán mới",
+          "Chuyển toàn bộ chứng từ gốc sang lưu trữ và ngừng mọi hoạt động ghi sổ kế toán",
+          "Lập adjusted trial balance, đối chiếu cân đối rồi lập báo cáo tài chính từ đó"
+        ],
+        "explanation": "Quy trình chuẩn: unadjusted trial balance → adjusting entries → adjusted trial balance → financial statements → closing entries (kết chuyển doanh thu chi phí) → post-closing trial balance. Adjusted trial balance là cơ sở trực tiếp để lập báo cáo tài chính, nên phải cân và đã phản ánh đủ mọi điều chỉnh.",
+        "distractors": [
+          "Sai — phải hoàn tất số liệu kế toán trước, tờ khai thuế được lập dựa trên số liệu đã chốt.",
+          "Sai — tài khoản tài sản và nợ phải trả mang số dư sang kỳ sau, không bị xóa.",
+          "Sai — lưu trữ chứng từ là công việc hành chính, không phải bước trong quy trình đóng sổ.",
+          null
+        ]
+      },
+      "en": {
+        "question": "After all adjusting entries are posted, what is the next step in the close?",
+        "options": [
+          "File the tax return immediately, before rechecking the accounting figures",
+          "Clear all asset and liability balances to start the new period",
+          "Archive the source documents and stop all bookkeeping activity",
+          "Prepare the adjusted trial balance, confirm it agrees, and draw up the financial statements"
+        ],
+        "explanation": "The standard sequence: unadjusted trial balance → adjusting entries → adjusted trial balance → financial statements → closing entries → post-closing trial balance. The adjusted trial balance is the direct source for the statements, so it must balance and include every adjustment.",
+        "distractors": [
+          "Wrong — the accounts must be finalised first; the return follows the closed figures.",
+          "Wrong — asset and liability balances carry forward.",
+          "Wrong — archiving is administrative, not a close step.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-007",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["suspense-account"],
+      "vi": {
+        "question": "Cuối tháng, tài khoản suspense còn số dư 15 triệu đồng chưa xử lý. Điều này cho thấy gì?",
+        "options": [
+          "Doanh nghiệp có thêm 15 triệu lợi nhuận chưa được ghi nhận vào kết quả kinh doanh",
+          "Đây là khoản dự phòng bắt buộc phải giữ lại theo quy định của chuẩn mực kế toán",
+          "Còn giao dịch chưa xác định được cách hạch toán, phải làm rõ và xử lý trước khi khóa sổ",
+          "Số dư này có thể để lại và tự động kết chuyển sang kỳ kế toán sau mà không cần xử lý"
+        ],
+        "explanation": "Suspense account chỉ là nơi TẠM giữ khoản chưa xác định được cách hạch toán, hoặc để cân trial balance khi có chênh lệch chưa rõ nguyên nhân. Nguyên tắc: phải được làm sạch về 0 trước khi khóa sổ. Số dư suspense tồn tại lâu là dấu hiệu kiểm soát nội bộ yếu và luôn bị kiểm toán viên chất vấn.",
+        "distractors": [
+          "Sai — suspense không phải lợi nhuận; đó là khoản chưa xác định được bản chất.",
+          "Sai — không có chuẩn mực nào yêu cầu giữ lại số dư trên tài khoản suspense.",
+          null,
+          "Sai — để số dư suspense kéo sang kỳ sau là thực hành kế toán kém, cần tránh tuyệt đối."
+        ]
+      },
+      "en": {
+        "question": "At month end the suspense account still holds a VND 15 million balance. What does this indicate?",
+        "options": [
+          "The company has 15 million of unrecognised profit",
+          "It is a mandatory reserve to be retained under the accounting standards",
+          "Transactions remain unclassified and must be resolved before closing",
+          "The balance can be left to roll forward automatically into the next period"
+        ],
+        "explanation": "A suspense account only TEMPORARILY holds items whose treatment is undetermined, or balances an unexplained trial balance difference. It must be cleared to zero before closing. A persistent suspense balance signals weak internal control and always draws auditor questions.",
+        "distractors": [
+          "Wrong — a suspense balance is not profit; its nature is simply unknown.",
+          "Wrong — no standard requires retaining a suspense balance.",
+          null,
+          "Wrong — rolling a suspense balance forward is poor practice."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-008",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["depreciation-run"],
+      "vi": {
+        "question": "“Depreciation run” trong quy trình đóng sổ tháng là công việc gì?",
+        "options": [
+          "Chạy tính và hạch toán chi phí khấu hao của toàn bộ tài sản cố định cho tháng đó",
+          "Kiểm kê thực tế toàn bộ tài sản cố định hiện có tại các bộ phận trong doanh nghiệp",
+          "Thanh lý các tài sản cố định đã cũ và hết thời gian sử dụng theo đăng ký ban đầu",
+          "Đánh giá lại giá trị thị trường của toàn bộ tài sản cố định vào cuối mỗi tháng"
+        ],
+        "explanation": "Depreciation run là bước chạy tính khấu hao định kỳ trên phần mềm kế toán và hạch toán vào chi phí của tháng: Dr expense (641, 642, 154) / Cr accumulated depreciation. Đây là một trong các bước bắt buộc của close checklist, cùng với accruals, prepayment release, FX revaluation và reconciliations.",
+        "distractors": [
+          null,
+          "Sai — kiểm kê hiện vật tài sản là physical count, thường thực hiện định kỳ theo năm.",
+          "Sai — thanh lý tài sản là nghiệp vụ riêng, không phải bước thường lệ của đóng sổ tháng.",
+          "Sai — VAS không đánh giá lại TSCĐ theo giá thị trường, càng không làm hằng tháng."
+        ]
+      },
+      "en": {
+        "question": "What is the “depreciation run” in the month-end close?",
+        "options": [
+          "Calculating and posting the month’s depreciation across all fixed assets",
+          "Physically counting all fixed assets held across the company’s departments",
+          "Disposing of old assets that have reached the end of their registered life",
+          "Revaluing all fixed assets to market value at each month end"
+        ],
+        "explanation": "The depreciation run calculates periodic depreciation in the system and posts it: Dr expense (641, 642, 154) / Cr accumulated depreciation. It is a mandatory close checklist step alongside accruals, prepayment releases, FX revaluation and reconciliations.",
+        "distractors": [
+          null,
+          "Wrong — a physical count is a separate, usually annual exercise.",
+          "Wrong — disposals are separate transactions, not a routine close step.",
+          "Wrong — VAS does not revalue fixed assets to market, let alone monthly."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-009",
+      "topic": "b11-month-end-close",
+      "difficulty": "advanced",
+      "answer": 1,
+      "tags": ["intercompany"],
+      "vi": {
+        "question": "Đối chiếu intercompany giữa công ty mẹ và công ty con phát hiện chênh lệch 200 triệu đồng. Nguyên nhân thường gặp NHẤT là gì?",
+        "options": [
+          "Một trong hai bên đã cố tình khai khống doanh thu để đạt chỉ tiêu kinh doanh được giao",
+          "Chênh lệch về thời điểm ghi nhận (timing) hoặc tỷ giá quy đổi khác nhau giữa hai bên",
+          "Cơ quan thuế đã điều chỉnh số liệu của một trong hai bên sau khi thanh tra quyết toán",
+          "Phần mềm kế toán của hai công ty khác nhau nên số liệu không thể nào khớp nhau được"
+        ],
+        "explanation": "Nguyên nhân phổ biến nhất là timing difference (một bên ghi tháng 12, bên kia ghi tháng 1) và chênh lệch tỷ giá khi hai bên dùng đồng tiền báo cáo khác nhau. Các nguyên nhân khác: hàng đang đi đường, khoản phí quản lý chưa được bên nhận ghi nhận, hoặc bút toán bị bỏ sót. Phải làm rõ hết trước khi hợp nhất vì mọi giao dịch nội bộ sẽ bị loại trừ.",
+        "distractors": [
+          "Sai — gian lận là khả năng có thật nhưng hiếm; nguyên nhân thường gặp là kỹ thuật ghi nhận.",
+          null,
+          "Sai — điều chỉnh của cơ quan thuế không phải nguyên nhân phổ biến của lệch intercompany.",
+          "Sai — khác phần mềm không ngăn cản việc đối chiếu; số liệu vẫn phải khớp về bản chất."
+        ]
+      },
+      "en": {
+        "question": "An intercompany reconciliation between parent and subsidiary shows a VND 200 million difference. What is the MOST common cause?",
+        "options": [
+          "One side has deliberately inflated revenue to hit its targets",
+          "Timing differences in recognition, or different exchange rates applied by each side",
+          "The tax authority adjusted one side’s figures after an inspection",
+          "The two companies use different accounting software, so figures can never agree"
+        ],
+        "explanation": "The most common causes are timing differences (one side records in December, the other in January) and exchange rate differences where the entities report in different currencies. Others include goods in transit, unrecorded management fees, and missed entries. All must be resolved before consolidation, since intercompany items are eliminated.",
+        "distractors": [
+          "Wrong — fraud is possible but rare; recognition mechanics dominate.",
+          null,
+          "Wrong — tax adjustments are not a common cause of intercompany differences.",
+          "Wrong — different systems do not prevent agreement in substance."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-010",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["closing-checklist"],
+      "vi": {
+        "question": "Mục đích chính của “month-end close checklist” là gì?",
+        "options": [
+          "Ghi lại danh sách khách hàng cần đôn đốc thanh toán công nợ trong tháng tiếp theo",
+          "Liệt kê toàn bộ nhân sự tham gia vào công tác kế toán của doanh nghiệp trong kỳ",
+          "Đảm bảo mọi bước đóng sổ được thực hiện đầy đủ, đúng thứ tự và có người soát xét",
+          "Thống kê số lượng chứng từ đã được nhập vào phần mềm kế toán trong tháng đóng sổ"
+        ],
+        "explanation": "Close checklist liệt kê từng bước cần làm (accruals, prepayments, depreciation run, FX revaluation, các reconciliation, cut-off review), người thực hiện, người soát xét và thời hạn. Mục đích là không bỏ sót bước nào và có bằng chứng về việc đã soát xét — yếu tố then chốt khi phục vụ nhiều khách hàng cùng lúc.",
+        "distractors": [
+          "Sai — danh sách đôn đốc công nợ là báo cáo AR ageing, một tài liệu hoàn toàn khác.",
+          "Sai — danh sách nhân sự không phải nội dung của một close checklist.",
+          null,
+          "Sai — đếm số chứng từ là thống kê khối lượng công việc, không phải mục đích của checklist."
+        ]
+      },
+      "en": {
+        "question": "What is the main purpose of a month-end close checklist?",
+        "options": [
+          "Listing customers to chase for payment next month",
+          "Listing everyone involved in the company’s accounting work",
+          "Ensuring every close step is completed in order and reviewed by someone",
+          "Counting how many documents were entered into the system during the month"
+        ],
+        "explanation": "A close checklist sets out each step (accruals, prepayments, depreciation run, FX revaluation, reconciliations, cut-off review), who performs it, who reviews it and by when. It prevents omissions and evidences review — essential when serving many clients at once.",
+        "distractors": [
+          "Wrong — that is an AR ageing report.",
+          "Wrong — a staff list is not part of a close checklist.",
+          null,
+          "Wrong — counting documents measures workload, not close completeness."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-011",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 3,
+      "tags": ["errors"],
+      "vi": {
+        "question": "Trial balance không cân, chênh lệch 900.000 đồng. Loại sai sót nào có khả năng cao nhất?",
+        "options": [
+          "Bỏ sót hoàn toàn một nghiệp vụ khỏi sổ kế toán, không ghi cả hai vế Nợ và Có",
+          "Ghi nhầm vào một tài khoản chi phí khác nhưng số tiền vẫn hoàn toàn chính xác",
+          "Ghi trùng cùng một nghiệp vụ hai lần, cả vế Nợ lẫn vế Có đều bị ghi lặp lại",
+          "Sai số do đảo chữ số (transposition error), ví dụ ghi 1.900.000 thành 1.000.000"
+        ],
+        "explanation": "Chênh lệch chia hết cho 9 là dấu hiệu kinh điển của transposition error — đảo hai chữ số liền nhau, ví dụ ghi 54 thành 45. Ở đây 900.000 ÷ 9 = 100.000, đúng dấu hiệu. Ba loại sai sót còn lại đều KHÔNG làm trial balance mất cân, vì tổng Nợ vẫn bằng tổng Có.",
+        "distractors": [
+          "Sai — bỏ sót cả hai vế thì trial balance vẫn cân bình thường.",
+          "Sai — ghi nhầm tài khoản nhưng đúng số tiền vẫn giữ tổng Nợ bằng tổng Có.",
+          "Sai — ghi trùng cả hai vế thì hai bên cùng tăng nên trial balance vẫn cân.",
+          null
+        ]
+      },
+      "en": {
+        "question": "A trial balance is out by VND 900,000. Which error type is most likely?",
+        "options": [
+          "A transaction omitted entirely, with neither debit nor credit recorded",
+          "A posting to the wrong expense account for the correct amount",
+          "A transaction duplicated, with both debit and credit repeated",
+          "A transposition error, such as recording 1,900,000 as 1,000,000"
+        ],
+        "explanation": "A difference divisible by 9 is the classic signature of a transposition error — two adjacent digits swapped. Here 900,000 ÷ 9 = 100,000, fitting the pattern. The other three error types leave the trial balance in agreement, since total debits still equal total credits.",
+        "distractors": [
+          "Wrong — a full omission leaves the trial balance balanced.",
+          "Wrong — a wrong account with the right amount keeps debits equal to credits.",
+          "Wrong — duplicating both sides increases both equally.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-012",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["deferred-revenue"],
+      "vi": {
+        "question": "Khoản “unearned revenue” (deferred revenue) được trình bày ở đâu trên báo cáo tài chính?",
+        "options": [
+          "Là một khoản nợ phải trả trên bảng cân đối kế toán của doanh nghiệp",
+          "Là một khoản doanh thu trên báo cáo kết quả hoạt động kinh doanh trong kỳ",
+          "Là một khoản tài sản ngắn hạn trên bảng cân đối kế toán của doanh nghiệp",
+          "Là một khoản mục thuộc vốn chủ sở hữu vì tiền đã thực sự về tài khoản công ty"
+        ],
+        "explanation": "Unearned revenue là tiền đã nhận nhưng chưa cung cấp hàng hóa dịch vụ, nên là NGHĨA VỤ phải thực hiện trong tương lai — một khoản nợ phải trả (TK 3387 trong hệ thống tài khoản Việt Nam). Khi đã cung cấp dịch vụ thì kết chuyển sang doanh thu: Dr unearned revenue / Cr revenue.",
+        "distractors": [
+          null,
+          "Sai — chỉ được ghi vào doanh thu SAU KHI đã cung cấp hàng hóa dịch vụ cho khách.",
+          "Sai — đây là nghĩa vụ phải trả của doanh nghiệp, không phải tài sản.",
+          "Sai — nhận tiền của khách hàng hoàn toàn khác với việc chủ sở hữu góp vốn."
+        ]
+      },
+      "en": {
+        "question": "Where is unearned (deferred) revenue presented in the financial statements?",
+        "options": [
+          "As a liability on the balance sheet",
+          "As revenue in the income statement for the period",
+          "As a current asset on the balance sheet",
+          "Within equity, since the cash has already been received"
+        ],
+        "explanation": "Unearned revenue is cash received before goods or services are delivered, so it is an OBLIGATION to perform — a liability (account 3387 in the Vietnamese chart). Once delivered, it is released: Dr unearned revenue / Cr revenue.",
+        "distractors": [
+          null,
+          "Wrong — it becomes revenue only AFTER delivery.",
+          "Wrong — it is an obligation of the company, not an asset.",
+          "Wrong — customer cash is not an owner contribution."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-013",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 1,
+      "tags": ["fx-revaluation"],
+      "vi": {
+        "question": "Bước “FX revaluation” cuối kỳ áp dụng cho khoản mục nào?",
+        "options": [
+          "Toàn bộ khoản mục trên bảng cân đối kế toán, không phân biệt loại tài sản hay nguồn vốn",
+          "Các monetary items có gốc ngoại tệ như tiền, phải thu, phải trả và khoản vay",
+          "Chỉ riêng tài khoản tiền gửi ngân hàng bằng ngoại tệ của doanh nghiệp tại các ngân hàng",
+          "Chỉ riêng hàng tồn kho nhập khẩu được thanh toán bằng ngoại tệ trong kỳ báo cáo"
+        ],
+        "explanation": "FX revaluation áp dụng cho các khoản mục TIỀN TỆ có gốc ngoại tệ: tiền mặt và tiền gửi ngoại tệ, phải thu, phải trả, khoản vay bằng ngoại tệ. Đánh giá lại theo tỷ giá cuối kỳ, chênh lệch ghi qua TK 413 rồi kết chuyển vào doanh thu tài chính (515) hoặc chi phí tài chính (635). Khoản mục PHI tiền tệ như hàng tồn kho và TSCĐ giữ nguyên tỷ giá gốc.",
+        "distractors": [
+          "Sai — chỉ khoản mục tiền tệ mới được đánh giá lại, không phải toàn bộ bảng cân đối.",
+          null,
+          "Sai — phạm vi rộng hơn tiền gửi; gồm cả phải thu, phải trả và khoản vay bằng ngoại tệ.",
+          "Sai — hàng tồn kho là khoản mục phi tiền tệ, giữ nguyên tỷ giá tại ngày giao dịch."
+        ]
+      },
+      "en": {
+        "question": "Which items does the period-end FX revaluation apply to?",
+        "options": [
+          "All balance sheet items, whatever their nature",
+          "Monetary items denominated in foreign currency: cash, receivables, payables and borrowings",
+          "Only foreign currency bank accounts held at banks",
+          "Only imported inventory paid for in foreign currency during the period"
+        ],
+        "explanation": "FX revaluation applies to MONETARY items in foreign currency: foreign cash and bank balances, receivables, payables and borrowings. They are retranslated at the closing rate, with differences through account 413 and then to finance income (515) or finance costs (635). NON-monetary items such as inventory and fixed assets stay at historical rates.",
+        "distractors": [
+          "Wrong — only monetary items are retranslated.",
+          null,
+          "Wrong — the scope is wider than bank balances.",
+          "Wrong — inventory is non-monetary and stays at the transaction date rate."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-014",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 2,
+      "tags": ["reconciliation"],
+      "vi": {
+        "question": "Nguyên tắc chung của mọi “reconciliation” trong kế toán là gì?",
+        "options": [
+          "Điều chỉnh số liệu trên sổ kế toán cho khớp với số liệu do bên thứ ba cung cấp",
+          "Chọn lấy con số nào lớn hơn giữa hai nguồn để đảm bảo nguyên tắc thận trọng",
+          "So sánh hai nguồn số liệu độc lập và giải thích được mọi khoản chênh lệch phát sinh",
+          "Ghi nhận phần chênh lệch giữa hai nguồn vào chi phí khác của kỳ kế toán hiện tại"
+        ],
+        "explanation": "Reconciliation là so sánh hai nguồn số liệu độc lập (sổ kế toán và sao kê ngân hàng, sổ cái và sổ chi tiết, sổ của mình và sổ của đối tác) rồi GIẢI THÍCH mọi chênh lệch. Nguyên tắc vàng: không bao giờ ép số liệu cho khớp — mọi chênh lệch phải được truy nguyên nhân và xử lý đúng bản chất.",
+        "distractors": [
+          "Sai — ép số liệu cho khớp là thực hành sai; phải tìm hiểu nguyên nhân chênh lệch trước.",
+          "Sai — không có nguyên tắc nào cho phép chọn con số lớn hơn giữa hai nguồn số liệu.",
+          null,
+          "Sai — đẩy chênh lệch vào chi phí khác là cách che giấu sai sót, không phải cách xử lý đúng."
+        ]
+      },
+      "en": {
+        "question": "What is the general principle behind every reconciliation in accounting?",
+        "options": [
+          "Adjust the books to agree with figures supplied by a third party",
+          "Take whichever figure is higher, to satisfy prudence",
+          "Compare two independent sources and explain every difference",
+          "Post the difference between the two sources to other expenses"
+        ],
+        "explanation": "A reconciliation compares two independent sources — books against bank statement, ledger against subledger, your records against a counterparty’s — and EXPLAINS every difference. The golden rule: never force an agreement; every difference must be traced and resolved on its merits.",
+        "distractors": [
+          "Wrong — forcing agreement is poor practice; causes must be understood first.",
+          "Wrong — no principle permits simply choosing the higher figure.",
+          null,
+          "Wrong — dumping differences into other expenses conceals errors."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-015",
+      "topic": "b11-month-end-close",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": ["accrual-reversal"],
+      "vi": {
+        "question": "Tháng 12 doanh nghiệp trích trước chi phí kiểm toán 100 triệu. Tháng 3 năm sau nhận hóa đơn thực tế 120 triệu. Xử lý phần chênh lệch 20 triệu là:",
+        "options": [
+          "Điều chỉnh hồi tố báo cáo tài chính năm trước để phản ánh đúng con số 120 triệu đồng",
+          "Không ghi nhận phần chênh lệch 20 triệu vì đã có bút toán trích trước từ năm ngoái",
+          "Ghi toàn bộ 120 triệu vào chi phí năm nay và hoàn nhập 100 triệu vào thu nhập khác",
+          "Ghi 20 triệu vào chi phí năm nay, vì đây là thay đổi ước tính chứ không phải sai sót"
+        ],
+        "explanation": "Chênh lệch giữa số trích trước và số hóa đơn thực tế là THAY ĐỔI ƯỚC TÍNH KẾ TOÁN, xử lý phi hồi tố: ghi 20 triệu vào chi phí của năm nhận hóa đơn. Bút toán: Dr accrued liabilities 100, Dr expense 20 / Cr trade payables 120. Chỉ điều chỉnh hồi tố khi đó là SAI SÓT TRỌNG YẾU của kỳ trước, không phải khi ước tính lệch.",
+        "distractors": [
+          "Sai — điều chỉnh hồi tố chỉ dùng cho sai sót trọng yếu, không dùng cho chênh lệch ước tính.",
+          "Sai — phần chênh lệch 20 triệu là chi phí thực tế phát sinh nên bắt buộc phải được ghi nhận.",
+          "Sai — cách này thổi phồng cả chi phí lẫn thu nhập của năm nay, làm sai lệch báo cáo.",
+          null
+        ]
+      },
+      "en": {
+        "question": "In December a company accrues VND 100 million for audit fees. The actual invoice arrives in March for 120 million. How is the 20 million difference handled?",
+        "options": [
+          "Restate the prior year’s statements to show 120 million",
+          "Do not record the 20 million, since an accrual was already made last year",
+          "Charge the full 120 million to this year and release the 100 million to other income",
+          "Charge 20 million to this year’s expenses, as a change in estimate rather than an error"
+        ],
+        "explanation": "The gap between an accrual and the actual invoice is a CHANGE IN ACCOUNTING ESTIMATE, handled prospectively: 20 million is charged in the year the invoice arrives. Entry: Dr accrued liabilities 100, Dr expense 20 / Cr trade payables 120. Restatement applies only to material prior-period ERRORS.",
+        "distractors": [
+          "Wrong — restatement is for material errors, not estimate revisions.",
+          "Wrong — the 20 million is a real cost and must be recorded.",
+          "Wrong — this inflates both expense and income this year.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-016",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 0,
+      "tags": ["bank-reconciliation"],
+      "vi": {
+        "question": "Sao kê ngân hàng ghi một khoản phí dịch vụ 500.000 đồng mà doanh nghiệp chưa ghi sổ. Xử lý đúng là:",
+        "options": [
+          "Ghi bổ sung vào sổ kế toán: Dr bank charges 500.000 / Cr bank 500.000",
+          "Trừ khoản này khỏi số dư trên sao kê ngân hàng khi lập bảng đối chiếu cuối kỳ",
+          "Yêu cầu ngân hàng hoàn lại vì doanh nghiệp chưa từng ghi nhận khoản phí này vào sổ",
+          "Bỏ qua vì số tiền quá nhỏ, không trọng yếu so với quy mô hoạt động của doanh nghiệp"
+        ],
+        "explanation": "Nguyên tắc phân loại trong bank reconciliation: khoản ngân hàng ĐÃ ghi mà doanh nghiệp CHƯA ghi (phí ngân hàng, lãi tiền gửi, séc bị trả lại) thì phải ghi bổ sung vào SỔ KẾ TOÁN. Ngược lại, khoản doanh nghiệp đã ghi mà ngân hàng chưa xử lý (outstanding cheque, deposit in transit) thì điều chỉnh ở phía SAO KÊ.",
+        "distractors": [
+          null,
+          "Sai — điều chỉnh sai vế; ngân hàng đã ghi rồi nên phải điều chỉnh ở sổ kế toán.",
+          "Sai — phí dịch vụ là khoản thu hợp lệ của ngân hàng theo biểu phí đã công bố.",
+          "Sai — mọi khoản chênh lệch đều phải được giải thích và xử lý, không phụ thuộc số tiền lớn nhỏ."
+        ]
+      },
+      "en": {
+        "question": "The bank statement shows a VND 500,000 service charge not yet in the books. The correct treatment is:",
+        "options": [
+          "Post it in the books: Dr bank charges 500,000 / Cr bank 500,000",
+          "Deduct it from the bank statement balance in the reconciliation",
+          "Ask the bank to refund it, since the company never recorded the charge",
+          "Ignore it as immaterial relative to the company’s size"
+        ],
+        "explanation": "The classification rule: items the BANK has recorded but the company has not — charges, interest, returned cheques — are posted in the BOOKS. Items the company has recorded but the bank has not — outstanding cheques, deposits in transit — are adjusted on the STATEMENT side.",
+        "distractors": [
+          null,
+          "Wrong — adjusted on the wrong side; the bank has already recorded it.",
+          "Wrong — a service charge is a legitimate bank fee.",
+          "Wrong — every reconciling item must be explained and cleared regardless of size."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-017",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 1,
+      "tags": ["closing-entries"],
+      "vi": {
+        "question": "Sau khi lập báo cáo tài chính, “closing entries” có tác dụng gì?",
+        "options": [
+          "Đưa số dư của các tài khoản tài sản và nợ phải trả về không để bắt đầu kỳ mới",
+          "Kết chuyển số dư các tài khoản doanh thu và chi phí sang lợi nhuận chưa phân phối",
+          "Khóa quyền truy cập vào phần mềm kế toán, không cho ai chỉnh sửa số liệu đã chốt",
+          "Xóa toàn bộ dữ liệu giao dịch của kỳ đã kết thúc khỏi hệ thống phần mềm kế toán"
+        ],
+        "explanation": "Closing entries kết chuyển số dư của các tài khoản TẠM THỜI (doanh thu, chi phí) sang lợi nhuận chưa phân phối, đưa chúng về 0 để bắt đầu kỳ mới. Trong hệ thống tài khoản Việt Nam là các bút toán kết chuyển qua TK 911 rồi sang TK 421. Tài khoản tài sản, nợ phải trả và vốn chủ sở hữu giữ nguyên số dư mang sang.",
+        "distractors": [
+          "Sai — tài khoản tài sản và nợ phải trả mang số dư sang kỳ sau, không bị đưa về không.",
+          null,
+          "Sai — khóa quyền truy cập là period lock, một biện pháp kiểm soát riêng biệt.",
+          "Sai — dữ liệu giao dịch phải được lưu trữ theo quy định, không bao giờ được xóa."
+        ]
+      },
+      "en": {
+        "question": "After the financial statements are prepared, what do closing entries do?",
+        "options": [
+          "Bring asset and liability balances to zero to start the new period",
+          "Transfer revenue and expense balances into retained earnings",
+          "Lock access to the accounting system so nobody can change closed figures",
+          "Delete the closed period’s transaction data from the system"
+        ],
+        "explanation": "Closing entries transfer the TEMPORARY accounts — revenue and expenses — into retained earnings, resetting them to zero for the new period. In the Vietnamese chart, these run through account 911 and then to 421. Asset, liability and equity balances carry forward.",
+        "distractors": [
+          "Wrong — asset and liability balances carry forward.",
+          null,
+          "Wrong — locking access is a period lock, a separate control.",
+          "Wrong — transaction data must be retained, never deleted."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-018",
+      "topic": "b11-month-end-close",
+      "difficulty": "intermediate",
+      "answer": 2,
+      "tags": ["review"],
+      "vi": {
+        "question": "Vì sao quy trình đóng sổ luôn yêu cầu có bước review của một người thứ hai (four-eyes principle)?",
+        "options": [
+          "Vì quy định pháp luật bắt buộc mọi bút toán phải có hai chữ ký mới được coi là hợp lệ",
+          "Vì cần chia đều khối lượng công việc đóng sổ giữa các thành viên trong nhóm kế toán",
+          "Vì người lập khó tự phát hiện lỗi của chính mình, và người soát xét mang góc nhìn độc lập",
+          "Vì phần mềm kế toán không cho phép một người thực hiện toàn bộ các bước đóng sổ"
+        ],
+        "explanation": "Four-eyes principle (nguyên tắc bốn mắt) là kiểm soát nội bộ cốt lõi: người lập thường khó tự phát hiện lỗi của chính mình do đã quen với cách nghĩ của bản thân, còn người soát xét mang góc nhìn độc lập. Trong công ty dịch vụ kế toán, mọi deliverable gửi cho khách hàng hoặc head office đều bắt buộc qua review trước khi phát hành.",
+        "distractors": [
+          "Sai — đây là biện pháp kiểm soát nội bộ theo thông lệ nghề nghiệp, không phải quy định về chữ ký.",
+          "Sai — mục đích là kiểm soát chất lượng, không phải phân chia khối lượng công việc.",
+          null,
+          "Sai — phần mềm chỉ là công cụ hỗ trợ; nguyên tắc này xuất phát từ yêu cầu kiểm soát."
+        ]
+      },
+      "en": {
+        "question": "Why does the close process always require review by a second person (the four-eyes principle)?",
+        "options": [
+          "Because the law requires two signatures on every journal entry",
+          "Because the close workload must be shared evenly across the team",
+          "Because preparers struggle to spot their own errors, while a reviewer brings an independent view",
+          "Because accounting software prevents one person completing all close steps"
+        ],
+        "explanation": "The four-eyes principle is a core internal control: preparers rarely catch their own errors, having settled into one way of seeing the work, whereas a reviewer brings fresh, independent judgement. In an outsourcing firm, every deliverable to a client or head office is reviewed before release.",
+        "distractors": [
+          "Wrong — this is professional control practice, not a signature rule.",
+          "Wrong — the purpose is quality control, not workload sharing.",
+          null,
+          "Wrong — software is only a tool; the principle stems from control needs."
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-019",
+      "topic": "b11-month-end-close",
+      "difficulty": "advanced",
+      "answer": 3,
+      "tags": ["variance-analysis"],
+      "vi": {
+        "question": "Khi soát xét số liệu tháng, chi phí điện tăng gấp 3 lần so với tháng trước. Bước xử lý đúng trong quy trình đóng sổ là:",
+        "options": [
+          "Điều chỉnh giảm chi phí xuống mức tương đương tháng trước cho hợp lý và nhất quán",
+          "Ghi nhận bình thường vì đã có hóa đơn hợp lệ của nhà cung cấp điện lực kèm theo",
+          "Chuyển phần chênh lệch vượt trội sang chi phí trả trước rồi phân bổ dần cho các tháng sau",
+          "Điều tra nguyên nhân trước khi chốt sổ, vì đây có thể là ghi trùng, sai kỳ hoặc sai tài khoản"
+        ],
+        "explanation": "Variance analysis (phân tích biến động) là bước bắt buộc trong close: so sánh với kỳ trước và với dự toán, rồi điều tra mọi biến động bất thường. Chi phí tăng gấp 3 lần có thể do ghi trùng hóa đơn, ghi nhầm kỳ (dồn hai tháng vào một), hoặc ghi sai tài khoản. Có hóa đơn KHÔNG đồng nghĩa với việc hạch toán đã đúng.",
+        "distractors": [
+          "Sai — điều chỉnh số liệu cho “đẹp” mà không có căn cứ là hành vi sai lệch báo cáo.",
+          "Sai — có hóa đơn không đảm bảo bút toán đúng kỳ, đúng tài khoản và không bị ghi trùng.",
+          "Sai — không được tùy tiện chuyển chi phí sang kỳ sau để làm mượt số liệu giữa các tháng.",
+          null
+        ]
+      },
+      "en": {
+        "question": "During the monthly review, electricity costs are three times the prior month. The correct close step is:",
+        "options": [
+          "Reduce the charge to last month’s level for reasonableness and consistency",
+          "Record it as is, since a valid supplier invoice supports it",
+          "Move the excess to prepaid expenses and spread it over later months",
+          "Investigate the cause before closing, as it may be a duplicate, wrong period or wrong account"
+        ],
+        "explanation": "Variance analysis is a mandatory close step: compare against prior period and budget, then investigate every unusual movement. A threefold increase may be a duplicated invoice, two months booked into one, or a misposting. Having an invoice does NOT mean the entry is correct.",
+        "distractors": [
+          "Wrong — adjusting figures to look reasonable without basis misstates the accounts.",
+          "Wrong — an invoice does not guarantee the right period, account, or absence of duplication.",
+          "Wrong — costs cannot be shifted to later periods to smooth results.",
+          null
+        ]
+      }
+    },
+    {
+      "id": "PRO-B11-020",
+      "topic": "b11-month-end-close",
+      "difficulty": "basic",
+      "answer": 0,
+      "tags": ["tie-out"],
+      "vi": {
+        "question": "“Tie-out” trong công việc kế toán nghĩa là gì?",
+        "options": [
+          "Đối chiếu và chứng minh một con số trên báo cáo khớp với nguồn dữ liệu chi tiết bên dưới",
+          "Kết thúc hợp đồng dịch vụ kế toán với một khách hàng sau khi hoàn thành công việc",
+          "Buộc phải chờ số liệu từ bộ phận khác gửi sang trước khi có thể tiếp tục đóng sổ",
+          "Cân đối tổng số dư bên Nợ và bên Có trên bảng cân đối số phát sinh cuối kỳ"
+        ],
+        "explanation": "Tie-out là chứng minh một con số trên báo cáo khớp với nguồn dữ liệu chi tiết bên dưới — ví dụ số dư phải thu trên báo cáo khớp với tổng AR ageing, số dư tiền khớp với sao kê ngân hàng. Trong hồ sơ làm việc, mỗi con số trọng yếu đều cần được tie-out kèm bằng chứng.",
+        "distractors": [
+          null,
+          "Sai — đây là hiểu theo nghĩa đen của cụm từ, không phải thuật ngữ chuyên môn kế toán.",
+          "Sai — chờ dữ liệu từ bộ phận khác là vấn đề tiến độ, không liên quan tới khái niệm tie-out.",
+          "Sai — cân đối tổng Nợ và tổng Có là việc của trial balance, phạm vi hẹp hơn tie-out."
+        ]
+      },
+      "en": {
+        "question": "What does “tie-out” mean in accounting work?",
+        "options": [
+          "Agreeing a reported figure to the underlying detailed source and evidencing it",
+          "Ending an accounting services contract with a client once the work is done",
+          "Waiting for another department’s data before the close can continue",
+          "Balancing total debits and credits in the trial balance"
+        ],
+        "explanation": "A tie-out demonstrates that a reported figure agrees to its underlying detail — the receivables balance to the AR ageing total, the cash balance to the bank statement. In working papers, every material figure needs a tie-out with supporting evidence.",
+        "distractors": [
+          null,
+          "Wrong — that reads the phrase literally rather than as a technical term.",
+          "Wrong — waiting on data is a scheduling issue.",
+          "Wrong — balancing debits and credits is the trial balance, narrower than a tie-out."
+        ]
+      }
+    }
+  ]
+}
