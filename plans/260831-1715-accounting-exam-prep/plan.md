@@ -209,6 +209,7 @@ Quy tắc bất biến: `vi.options.length === en.options.length === 4` · `answ
 - Backend, database, analytics.
 - Thuật toán spaced repetition đầy đủ — thay bằng "ôn lại câu sai", đủ hiệu quả cho một tuần ôn.
 - Trình soạn thảo câu hỏi trên web (sửa trực tiếp JSON là đủ).
+- **Excel / MS Office và vận hành phần mềm kế toán.** JD có dòng requirement tường minh *"Proficient with accounting software and Microsoft Office Suite"*, và bộ đề hiện **0 câu** chạm tới (8 chỗ nhắc "phần mềm kế toán" đều chỉ là đáp án nhiễu). Đã rà lại đối chiếu JD ngày 01/09/2026 và **quyết định giữ nguyên**: kỹ năng Excel thường được kiểm tra bằng bài thực hành trên máy chứ không phải trắc nghiệm, nên ôn qua trắc nghiệm giá trị thấp. Nếu muốn bổ sung về sau thì thêm topic `b13` (~15 câu) chứ không rút từ 300 câu hiện có.
 
 ## 9. Các phase
 
